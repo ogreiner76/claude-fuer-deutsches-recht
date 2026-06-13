@@ -1,3 +1,63 @@
+# v314.0.0 — Welle 4: Megaprompts für alle Plugins + Link-Hygiene
+
+## Megaprompts jetzt für alle 213 Plugins
+
+Die bisher ausgeschlossenen vier Plugins bekommen jetzt ebenfalls Megaprompts über das bestehende Top-N-Tiering in `scripts/generate-megaprompt.py`:
+
+| Plugin | Skills | Megaprompt-Tier | Datei |
+|---|---|---|---|
+| `corporate-kanzlei` | 84 | top-10 | 160 KB |
+| `urteilsbauer-relationsmacher` | 80 | top-10 | 73 KB |
+| `verlagsredaktion` | 104 | top-8 | 27 KB |
+| `zwangsverwaltung-zvg` | 54 | top-15 | 73 KB |
+
+Die `EXCLUDE_PLUGINS`-Liste wurde geleert; alle Plugins durchlaufen nun das normale Tiering (`<= 20 Skills`: alle, `21-60`: top-15, `61-100`: top-10, `> 100`: top-8).
+
+## Neuer Helfer `scripts/inject-megaprompt-section.py`
+
+Idempotenter Injector, der in jede `<plugin>/README.md` einen `<!-- BEGIN megaprompt-und-vorlagen -->`-Block einfügt oder dessen KB-Größe aktualisiert, sofern ein passender Megaprompt unter `testakten/megaprompts/<plugin>.md` existiert. Damit ist die Verlinkung in jedem Plugin-README auf dem aktuellen Stand:
+
+- 4 neue Blöcke (`corporate-kanzlei`, `urteilsbauer-relationsmacher`, `verlagsredaktion`, `zwangsverwaltung-zvg`)
+- 207 Größen-Updates für die bestehenden Blöcke nach neuem Megaprompt-Lauf
+
+## Link-Hygiene in `generate-megaprompt.py`
+
+Skills enthalten häufig relative Markdown-Links zu `references/zitierweise.md` und ähnlichen Repo-Pfaden. Im konkatenierten Megaprompt unter `testakten/megaprompts/<plugin>.md` zeigen diese relativen Pfade ins Leere. Der Generator schreibt sie jetzt zu absoluten GitHub-Blob-URLs um:
+
+- `(../)+rest` mit `>= 3` Up-Levels → `https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/<rest>` (Repo-Root)
+- `(../)+rest` mit `2` Up-Levels → in das Plugin-Verzeichnis
+- `(../)+rest` mit `1` Up-Level → in das Skill-Verzeichnis
+
+Damit funktioniert jeder Megaprompt als Single-File-Drop-In ohne tote Links.
+
+## Vorhandene broken Links in zwei Skills entfernt
+
+Zwei Skills referenzierten nicht existente lokale `references/`-Dateien:
+
+- `vertragsrecht/skills/nda-durchsetzer/SKILL.md`: drei Verweise auf `references/mindeststandards.md` und `references/analyse-vorlage.md` entfernt (das `references/`-Unterverzeichnis dieses Plugins existiert nicht).
+
+Validatoren in der Folge wieder grün.
+
+## Inventur (Stand v314.0.0)
+
+| Kennzahl | Wert |
+|---|---|
+| Plugins | 213 |
+| Skills gesamt | 20.908 |
+| Megaprompts | 213 (alle Plugins) |
+| Testakten mit Rubric | 204 |
+| Eval-Harness | 204/204 All-Pass |
+| `validate-plugin-structure.mjs` | OK |
+| `validate-yaml-frontmatter.py` | 0 Fehler, 0 Warnungen |
+
+## Workflows (Status quo)
+
+Unverändert:
+- `.github/workflows/pages.yml` — Deploy `uebersicht-fachanwaltschaften` auf GitHub Pages
+- `.github/workflows/release-plugin-zips.yml` — Pro Tag/manueller Trigger Plugin-ZIPs an Release
+
+---
+
 # v313.0.0 — Glattzug nach v312 und Release-Synchronisierung
 
 Pflege-Release nach erneutem Kontroll-Loop über den aktuellen `main`-Stand. Der nach `v312.0.0` hinzugekommene Gliederungsstandard in `CLAUDE.md` ist jetzt Teil eines vollständigen Releases mit aktualisierten Versionsständen und frisch geprüfter Repository-Oberfläche.

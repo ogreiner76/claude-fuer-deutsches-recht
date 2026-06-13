@@ -35,7 +35,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -92,7 +92,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -155,7 +155,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -218,7 +218,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -281,7 +281,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -344,7 +344,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -408,7 +408,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -453,7 +453,7 @@ _Führt durch das erste Registerproblem: Wer meldet was an, welche Gesellschaft,
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Handelsregister Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Handelsregister Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -475,7 +475,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -516,7 +516,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.
@@ -580,7 +580,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.

@@ -202,7 +202,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`wandeldarlehen-lebenszyklus.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/wandeldarlehen-lebenszyklus.md) (117 KB)
+- **Direkt-Download**: [`wandeldarlehen-lebenszyklus.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/wandeldarlehen-lebenszyklus.md) (115 KB)
 - Im Repo: [`testakten/megaprompts/wandeldarlehen-lebenszyklus.md`](../testakten/megaprompts/wandeldarlehen-lebenszyklus.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

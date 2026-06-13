@@ -38,7 +38,7 @@ Dieser Einstieg routet **Umweltrecht** vom ersten Sachverhalt zu Rollen, Fristen
 
 - `abfall-anlagen-bimschg` — Abfall Anlagen Bimschg
 - `abfall-circular-economy` — Abfall Circular Economy
-- `anlagen-abschlussprodukt-und-uebergabe` — Anlagen Abschlussprodukt und Uebergabe
+- `anlagen-abschlussprodukt-und-uebergabe` — Anlagen Abschlussprodukt und Übergabe
 - `bimschg-tatbestand-beweis-und-belege` — Bimschg Tatbestand Beweis und Belege
 - `boden-csddd-csrd-sonderfall` — Boden Csddd CSRD Sonderfall
 - `bussgeld-emissionshandel-tehg-uwr` — Bussgeld Emissionshandel Tehg UWR
@@ -76,7 +76,7 @@ _Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Umweltrecht._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Umweltrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Umweltrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Umweltrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Umweltrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,10 +98,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -156,7 +156,7 @@ _Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgun
 1. Ist der Stoff Abfall (§ 3 Abs. 1 KrWG) oder liegt ein Nebenprodukt (§ 4 KrWG) oder Ende der Abfalleigenschaft (§ 5 KrWG) vor?
 2. Wer ist Abfallerzeuger / -besitzer? Liegt gewerbliche Sammlung (§ 17 Abs. 2 Nr. 4 KrWG) vor?
 3. Welche Entsorgungsanlage soll genutzt werden — genehmigt oder nicht?
-4. Besteht Ueberlassungspflicht an oeffentlich-rechtliche Entsorgungstraeger (§ 17 Abs. 1 KrWG)?
+4. Besteht Überlassungspflicht an öffentlich-rechtliche Entsorgungstraeger (§ 17 Abs. 1 KrWG)?
 5. Welche Nachweispflichten (§§ 49 ff. KrWG, NachwV) sind einzuhalten?
 6. Gibt es Transporte — nationale Grenze? (EG-AbfVerbrV, Basler Uebereinkommen)
 
@@ -167,7 +167,7 @@ _Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgun
 - **§ 5 KrWG** — Ende der Abfalleigenschaft (Aufbereitungsverfahren, Guetestandard, kein schutzloser Stoff)
 - **§ 7 KrWG** — Grundpflichten der Kreislaufwirtschaft (Vermeidung > Verwertung > Beseitigung)
 - **§ 14 KrWG** — Verpflichtung zur Getrenntsammlung
-- **§ 17 KrWG** — Ueberlassungspflichten Haushaltsabfaelle / gewerbliche Abfaelle
+- **§ 17 KrWG** — Überlassungspflichten Haushaltsabfaelle / gewerbliche Abfaelle
 - **§ 49 KrWG i.V.m. NachwV** — Nachweispflichten gefaehrliche Abfaelle
 - **§ 62 KrWG** — Anordnungsrecht der Behörde
 - **Art. 6 Richtlinie 2008/98/EG** — Ende der Abfalleigenschaft EU-Recht
@@ -180,9 +180,9 @@ _Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgun
 
 1. **Stoff-Klassifikation**: Ist Stoff Abfall, Nebenprodukt oder nicht-Abfall nach §§ 3-5 KrWG + Europaeischem Abfallverzeichnis (AVV)?
 2. **Entsorgungsweg bestimmen**: Verwertung (§ 8 KrWG — energetisch, werkstofflich, biologisch) oder Beseitigung (§ 15 KrWG)?
-3. **Genehmigung pruefen**: Entsorgungsanlage §§ 4 ff. BImSchG, Planfeststellung (Deponie §§ 35 ff. KrWG)?
+3. **Genehmigung prüfen**: Entsorgungsanlage §§ 4 ff. BImSchG, Planfeststellung (Deponie §§ 35 ff. KrWG)?
 4. **Nachweise**: Gefaehrliche Abfaelle — Begleitschein/Entsorgernachweis (NachwV); elektronisches Nachweisverfahren.
-5. **Ueberlassungspflicht**: § 17 KrWG — Ausnahmen für Eigenkompostierung, gemeinnuetzige Sammlung, gewerbliche Drittbeauftragung.
+5. **Überlassungspflicht**: § 17 KrWG — Ausnahmen für Eigenkompostierung, gemeinnuetzige Sammlung, gewerbliche Drittbeauftragung.
 6. **Grenzueberschreitend**: EG-AbfVerbrV Nr. 1013/2006 — Notifizierungspflicht bei gruenen / orangenen / roten Listen; Basel-Genehmigung bei gefaehrlichen Abfaellen in Drittstaaten.
 7. **Circular-Economy**: EU-Kreislaufwirtschaftspaket — Oekodesign-VO 2024/1781, EU End-of-Waste-Kriterien-VO (Stahl, Kupfer, Papier); CSRD-Berichtspflicht.
 
@@ -317,8 +317,8 @@ Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrig
 
 1. **Anhörungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
 2. **Akteneinsicht beantragen** (§ 49 OWiG): Vollstaendige Akte — Messberichte, Kontrolle-Protokolle, Zeugenaussagen.
-3. **Schuld pruefen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
-4. **Verjaeahrung pruefen**: § 31 OWiG; Unterbrechung durch Anhörung (§ 33 OWiG).
+3. **Schuld prüfen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
+4. **Verjaeahrung prüfen**: § 31 OWiG; Unterbrechung durch Anhörung (§ 33 OWiG).
 5. **Verteidigungsschrift einreichen**: Tatsachen und Recht; Antrag auf Einstellung oder Bussgeld-Reduzierung.
 6. **Einspruch bei Bescheid**: § 67 OWiG — 2 Wochen-Frist ab Bekanntgabe; Einspruch hemmt Rechtskraft.
 7. **Amtsgericht**: Hauptverhandlung § 68 OWiG — Zeugenbefragung, Sachverstaendige; Strafverfahren § 70 KrWG / § 326 StGB separat.
@@ -337,7 +337,7 @@ Anhörungsschreiben erhalten
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -382,13 +382,13 @@ Wir beantragen, das Verfahren einzustellen.
 Anlagen: Betriebsprotokoll, Wartungsnachweise, Vollmacht
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -397,10 +397,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Behörde kann gegen jur. Person Bussgeld festsetzen, wenn GF/Organ Pflicht verletzt.
 - Bussgeld bis 10 Mio. EUR (§ 30 Abs. 2 OWiG) bei Vorsatz; bei Fahrlassigkeit Haelfte.
-- Selbststaendiges Verfahren gegen jur. Person neben Verfahren gegen natuerliche Person moeglich.
+- Selbststaendiges Verfahren gegen jur. Person neben Verfahren gegen natuerliche Person möglich.
 - Verteidigung: Mangelnde Zurechnung der Handlung, fehlende Aufsichtspflichtverletzung § 130 OWiG.
 
-## Fristen im Ueberblick
+## Fristen im Überblick
 
 | Verfahrensschritt | Frist | Grundlage |
 |---|---|---|
@@ -440,14 +440,14 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 1. Welche Beauftragte sind nach Gesetz zu bestellen (ImmSchBeauftragter, Abfallbeauftragter, Gewaesserschutzbeauftragter)?
 2. Besteht bereits ein Compliance-Management-System oder steht erstmalige Einrichtung an?
 3. Wurde ein behordliches Audit oder eine Ueberwachung angekuendigt?
-4. Wie gross ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
-5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Aenderung, CSRD)?
+4. Wie groß ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
+5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Änderung, CSRD)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
 - **§ 53 BImSchG** — Bestellung Immissionsschutzbeauftragter (Pflicht bei Anlagen der 4. BImSchV, § 1 5. BImSchV)
-- **§ 54 BImSchG** — Aufgaben des ISB (Unterrichtung Betreiber, Ueberpruefung Betrieb, Stellungnahme Genehmigungsaenderung)
+- **§ 54 BImSchG** — Aufgaben des ISB (Unterrichtung Betreiber, Überprüfung Betrieb, Stellungnahme Genehmigungsaenderung)
 - **§ 55 BImSchG** — Pflichten des Betreibers gegenueber ISB (Unterrichtungs-, Ausstattungspflicht)
 - **§ 58 BImSchG** — Haftungsfreistellung ISB
 - **§ 59 KrWG** — Bestellung Abfallbeauftragter (Pflicht § 1 AbfBeauftrV)
@@ -462,7 +462,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-### A) Beauftragten-Bestellung pruefen
+### A) Beauftragten-Bestellung prüfen
 
 1. **ISB-Pflicht**: § 53 BImSchG i.V.m. § 1 5. BImSchV — Anlage nach Anlage 1 Nr. 1-10 der 5. BImSchV; Genehmigung nach § 4 BImSchG.
 2. **ABfallbeauftragter**: § 59 KrWG i.V.m. § 1 AbfBeauftrV — Anlagen mit bestimmten Abfallmengen oder Betreiber von Entsorgungsanlagen.
@@ -473,18 +473,18 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 ### B) Schulungsplan erstellen
 
 1. **Bedarfsanalyse**: Welche Rechtsgebiete betreffen Anlagen (BImSchG, KrWG, WHG, TEHG, BNatSchG)?
-2. **Jede Zielgruppe definieren**: Geschaeftsfuehrung (Haftung), ISB/Abfallbeauftragter (Fachkunde), Mitarbeiter (Praxis).
+2. **Jede Zielgruppe definieren**: Geschäftsführung (Haftung), ISB/Abfallbeauftragter (Fachkunde), Mitarbeiter (Praxis).
 3. **Schulungsplan**: Jährliche Pflichtschulung je Beauftragtenrolle; Ad-hoc-Schulung bei Gesetzesaenderung.
 4. **Dokumentation**: Teilnahmelisten, Schulungsunterlagen, Teilnehmerzertifikate (Pflicht für Fachkunde-Erhalt).
 5. **Audit-Vorbereitung**: Interne Revision vor behordlichem Audit; Mangelbeseitigung.
 
 ### C) Jahres-Audit-Checkliste (Kurzform)
 
-| Pruefpunkt | Erfuellt? | Quelle | Bemerkung |
+| Prüfpunkt | Erfuellt? | Quelle | Bemerkung |
 |---|---|---|---|
 | ISB bestellt und fachkundig | JA/NEIN | § 53 BImSchG | Letzte Schulung: [DATUM] |
 | Abfallbeauftragter bestellt | JA/NEIN | § 59 KrWG | Letzte Schulung: [DATUM] |
-| Genehmigungen aktuell | JA/NEIN | § 4 BImSchG | Naechste Pruefung: [DATUM] |
+| Genehmigungen aktuell | JA/NEIN | § 4 BImSchG | Naechste Prüfung: [DATUM] |
 | TEHG-Abgabe geleistet | JA/NEIN | § 8 TEHG | Letzte Abgabe: [DATUM] |
 | Abfallnachweise vollstaendig | JA/NEIN | NachwV | Letzter Bericht: [DATUM] |
 | Emissionsberichte aktuell | JA/NEIN | § 5 TEHG | Letzter Bericht: [DATUM] |
@@ -493,7 +493,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -549,21 +549,21 @@ Trigger: Neue Gesetzgebung (z.B. KrWG-Novelle, TEHG-Aenderung), Bussgeld-Beschei
 Verantwortlich: [NAME COMPLIANCE-OFFICER]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
 ## Vertiefung: CSRD-Berichtspflicht Umwelt-Compliance
 
-- CSRD-Unternehmen (ab 250 MA oder Boersennotierung) muessen Compliance-Systeme im Nachhaltigkeitsbericht (ESRS) offenlegen.
-- ESRS E1 (Klimawandel), E2 (Umweltverschmutzung): Angaben zu Compliance-Massnahmen, Zielen, Messzahlen.
+- CSRD-Unternehmen (ab 250 MA oder Boersennotierung) müssen Compliance-Systeme im Nachhaltigkeitsbericht (ESRS) offenlegen.
+- ESRS E1 (Klimawandel), E2 (Umweltverschmutzung): Angaben zu Compliance-Maßnahmen, Zielen, Messzahlen.
 - Audit durch Wirtschaftspruefer (Reasonable Assurance ab 2028, Limited Assurance ab 2024).
 
 ## Anschluss-Skills
@@ -601,7 +601,7 @@ _Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder weh
 
 - **§ 2 TEHG i.V.m. Anlage 1** — Anwendungsbereich; Taetigkeitsliste (Energieumwandlung, Industrie, Luftverkehr)
 - **§ 4 TEHG** — Genehmigungspflicht Anlagenbetreiber
-- **§ 5 TEHG** — Monitoring-Pflicht (akkreditierter Pruefstelle)
+- **§ 5 TEHG** — Monitoring-Pflicht (akkreditierter Prüfstelle)
 - **§ 7 TEHG** — Jaehrliche Berichtspflicht (verifizierter Emissionsbericht)
 - **§ 8 TEHG** — Abgabepflicht 30. April (Anzahl Berechtigungen entspricht verifizierten Emissionen)
 - **§ 9 TEHG** — Kostenlose Zuteilung (ZuV 2020, Produktbenchmarks)
@@ -615,10 +615,10 @@ _Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder weh
 
 ## Schritt-für-Schritt-Workflow
 
-1. **TEHG-Pflicht pruefen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
-2. **Genehmigungs-/Monitoring-Antrag**: § 4 TEHG-Genehmigung + Monitoring-Plan gemaess MVO/DEHSt.
+1. **TEHG-Pflicht prüfen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
+2. **Genehmigungs-/Monitoring-Antrag**: § 4 TEHG-Genehmigung + Monitoring-Plan gemäß MVO/DEHSt.
 3. **Zuteilungsantrag** (Phase 4: bis 31.05.2019 gestellt; laufende Anpassung bei Kapazitaetsaenderung): ZuV 2020-Benchmarks bestimmen; Baseline-Daten (2014-2018) einreichen.
-4. **Jaehrliches Monitoring**: Emissionen messen/berechnen, von akkreditiertem Pruefstelle verifizieren lassen.
+4. **Jaehrliches Monitoring**: Emissionen messen/berechnen, von akkreditiertem Prüfstelle verifizieren lassen.
 5. **Emissionsbericht 31. Maerz**: DEHSt-Einreichung.
 6. **Abgabe 30. April**: Berechtigungen (EUAs) im EUTL-Konto abbuchen; fehlende Berechtigungen zukaufen (Spot oder Forward).
 7. **Bei Zuteilungsbescheid-Angriff**: Widerspruch DEHSt, Klageverwaltungsgericht Berlin (§ 88 VwGO, auschliessliche Zuständigkeit VG Berlin).
@@ -679,7 +679,7 @@ Anlagen: Produktionsdaten, Pruefstellen-Bericht, Benchmark-Berechnung
 - Abgabe-Pflicht: Berechtigungszertifikate (nEHS-Zertifikate) bis 31. Juli des Folgejahres.
 - DEHSt für nEHS-Registerueberwachung zuständig.
 
-## Fristen-Ueberblick
+## Fristen-Überblick
 
 | Schritt | Frist | Grundlage |
 |---|---|---|
@@ -720,7 +720,7 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 
 1. Welche Anlage (Typ, installierte Leistung, Emissionspotenzial) — Spalte 1 oder 2 der 4. BImSchV?
 2. Formelles (§ 10 BImSchG, mit Oeffentlichkeitsbeteiligung) oder vereinfachtes Verfahren (§ 19 BImSchG)?
-3. Ist eine UVP-Pflicht gemaess UVPG-Anlage 1 ausgeloest?
+3. Ist eine UVP-Pflicht gemäß UVPG-Anlage 1 ausgeloest?
 4. Wer ist Mandant — Betreiber/Investor oder klagender Dritter (Nachbar, Umweltverband)?
 5. Liegt ein Ausgangsbescheid vor oder steht Antrag am Anfang?
 6. Welche Fristen laufen (Widerspruch § 70 VwGO, Klage § 74 VwGO je 1 Monat)?
@@ -733,7 +733,7 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 - **§ 5 Abs. 1 Nr. 2 BImSchG** — Vorsorge-Pflicht Emissionsminimierung
 - **§ 6 BImSchG** — Genehmigungsvoraussetzungen; gebundene Entscheidung
 - **§ 10 BImSchG i.V.m. 9. BImSchV** — Foermliches Verfahren mit Oeffentlichkeitsbeteiligung
-- **§ 16 BImSchG** — Wesentliche Aenderung genehmigungsbeduerftiger Anlagen
+- **§ 16 BImSchG** — Wesentliche Änderung genehmigungsbeduerftiger Anlagen
 - **§ 17 BImSchG** — Nachtraegliche Auflagen
 - **§ 19 BImSchG** — Vereinfachtes Verfahren ohne Oeffentlichkeitsbeteiligung
 - **§ 48 BImSchG i.V.m. TA Luft, TA Laerm** — Verwaltungsvorschriften als antizipierte Sachverstaendigen-Gutachten
@@ -742,13 +742,13 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 
 ## Leitentscheidungen (Stand 05/2026, verifiziert bverwg.de / curia.europa.eu)
 
-- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Pruefung (saP). Quelle: bverwg.de.
+- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Prüfung (saP). Quelle: bverwg.de.
 - **BVerwG 18.07.2019, 7 C 26.17**: UVP-Vorpruefung; Aufhebung nur bei kausalen Verfahrensmaengeln. Quelle: bverwg.de.
 - **BVerwG 28.11.2017, 7 A 17.12**: TA Laerm als antizipiertes Sachverstaendigengutachten — bindet Behörde nicht bei abweichenden Erkenntnissen im Einzelfall. Quelle: bverwg.de.
 - **EuGH 15.10.2009, C-263/08 (Djurgården)**: Beteiligungsrechte und Aarhus-Konvention; Begriff „betroffene Oeffentlichkeit". Quelle: curia.europa.eu.
 - **EuGH 16.04.2015, C-570/13 (Gruber)**: Klagebefugnis Drittbetroffener auch ohne foermliche Beteiligung am Verfahren. Quelle: curia.europa.eu.
 
-Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe ueber bverwg.de bzw. landesrecht-[bundesland].de verifizieren.
+Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe über bverwg.de bzw. landesrecht-[bundesland].de verifizieren.
 
 ## Schritt-für-Schritt-Workflow
 
@@ -761,12 +761,12 @@ Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe uebe
 3. **Antragsunterlagen zusammenstellen**: § 4 9. BImSchV — Erlauterungsbericht, Immissionsprognosen (Schall, Staub, Luft), Lageplaeane, Betriebsbeschreibung, Sicherheitsbericht bei Stoerfallanlage.
 4. **Behörde benennen**: Genehmigungsbehoerde (Landes-Immissionsschutzbeh.), beteiligte Fachbehoerden (Wasserbeh., Naturschutz, Arbeitsschutz).
 5. **Oeffentlichkeitsbeteiligung**: Auslegung 1 Monat; Einwendungsfrist; Eroerterungstermin.
-6. **Bescheid pruefen**: Nebenbestimmungen angreifen wenn unverhaltsnismassig (§ 12 BImSchG).
+6. **Bescheid prüfen**: Nebenbestimmungen angreifen wenn unverhaltsnismassig (§ 12 BImSchG).
 7. **Vollzug sichern**: Nebenbestimmungen erfuellen, Betrieb anzeigen, Emissionsberichte.
 
 ### B) Nachbar-/Dritter-Perspektive: Drittanfechtung
 
-1. **Drittschutz pruefen**: § 5 Abs. 1 Nr. 1 BImSchG (Schutz vor schaedlichen Umwelteinwirkungen), TA-Laerm, TA-Luft-Richtwerte; Eigentumsverletzung benennen.
+1. **Drittschutz prüfen**: § 5 Abs. 1 Nr. 1 BImSchG (Schutz vor schaedlichen Umwelteinwirkungen), TA-Laerm, TA-Luft-Richtwerte; Eigentumsverletzung benennen.
 2. **Klagebefugnis**: Analogie § 42 Abs. 2 VwGO; Betroffenheit in eigenen Rechten.
 3. **Frist**: 1 Monat nach Bekanntgabe Genehmigung (Widerspruch, soweit Widerspruchsverfahren erhalten, ansonsten direkt Klage VG).
 4. **Eilantrag**: § 80a Abs. 3, § 80 Abs. 5 VwGO bei bereits vollziehbarer Genehmigung.
@@ -788,12 +788,12 @@ Liegt ein BImSchG-Bescheid vor?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Widerspruch oder Klage gegen Drittanfechtung BImSchG | Klage-Schriftsatz nach Schema; Template unten |
-| Variante A — Genehmigung noch nicht bestandskraeftig Einwendung moeglich | Einwendung im Verfahren zuerst; Klage erst nach Abschluss |
+| Variante A — Genehmigung noch nicht bestandskraeftig Einwendung möglich | Einwendung im Verfahren zuerst; Klage erst nach Abschluss |
 | Variante B — Mandant will nur bestimmte Auflagen anfechten | Teilanfechtung nur der belastenden Nebenbestimmungen |
 | Variante C — Drittanfechtung Nachbar klagt gegen Genehmigung | Beiladungsantrag stellen; Verteidigung der Genehmigung |
 
@@ -831,13 +831,13 @@ Die Genehmigung verletzt drittschuetzende Normen (§ 5 Abs. 1 Nr. 1 BImSchG):
 Anlagen: Eigentumsnachweis, Schallgutachten-Gegengutachten, Lageplan
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -856,8 +856,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - **TA-Laerm-Anwendung**: Zu optimistische Ausbreitung, fehlende Impulshaltigkeit, Tageszeit-Staffelung fehlt → Gegengutachten beauftragen.
 - **Kumulation**: Andere vorhandene Anlagen als Vorbelastung nicht beruecksichtigt.
-- **Praeventions-Gebot**: Nebenbestimmungen statt Ablehnung — Verhaeltnismaessigkeit pruefen.
-- BVerwG 17.12.2020, 4 C 5.19 — saP-Pruefung Wind (bverwg.de); BVerwG 18.07.2019, 7 C 26.17 — UVP-Vorpruefung (bverwg.de); EuGH C-243/15 / C-664/15 — Aarhus-Klagebefugnis Umweltverband (curia.europa.eu).
+- **Praeventions-Gebot**: Nebenbestimmungen statt Ablehnung — Verhältnismäßigkeit prüfen.
+- BVerwG 17.12.2020, 4 C 5.19 — saP-Prüfung Wind (bverwg.de); BVerwG 18.07.2019, 7 C 26.17 — UVP-Vorpruefung (bverwg.de); EuGH C-243/15 / C-664/15 — Aarhus-Klagebefugnis Umweltverband (curia.europa.eu).
 
 ## Anschluss-Skills
 
@@ -920,7 +920,7 @@ _Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naech
 - **§ 4 UmwRG** — Verfahrensfehler als Aufhebungsgrund
 - **§ 80 Abs. 5 VwGO** — Eilrechtsschutz gegen vollziehbare Genehmigung
 
-## Leitentscheidungen (Ueberblick)
+## Leitentscheidungen (Überblick)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -1360,7 +1360,7 @@ _Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artensch
 
 1. Liegt ein Eingriff in Natur und Landschaft vor (§ 14 BNatSchG)?
 2. Befindet sich das Vorhaben im oder in der Naehe eines FFH-/Vogelschutz-Gebiets?
-3. Koennen besonders/streng geschuetzte Arten betroffen sein (§ 44 BNatSchG)?
+3. Können besonders/streng geschuetzte Arten betroffen sein (§ 44 BNatSchG)?
 4. Ist ein naturschutzrechtlicher Fachbeitrag (saP, FFH-VS) erforderlich?
 5. Wer ist Mandant — Vorhabentraeger oder klagender Umweltverband?
 6. Liegt bestandskraeftige Genehmigung vor oder laeuft Verfahren?
@@ -1388,14 +1388,14 @@ _Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artensch
 
 1. **Screening**: Lage in FFH-/VS-Gebiet oder signifikante Naehe? LANA-Hinweise zur Erheblichkeit.
 2. **saP in Auftrag geben**: Spezieller artenschutzrechtlicher Fachbeitrag; Begehungen Fruehling und Herbst; Zielarten (Feldvogel, Fledermaus, Reptilien) kartieren.
-3. **FFH-Vertraeglichkeitspruefung**: Screening-Stufe (erhebliche Beeintraechtigung moeglich?) → Hauptpruefung (alle Wirkpfade; Mafsnahmen zur Schadensbegrenzung).
+3. **FFH-Vertraeglichkeitspruefung**: Screening-Stufe (erhebliche Beeintraechtigung möglich?) → Hauptpruefung (alle Wirkpfade; Mafsnahmen zur Schadensbegrenzung).
 4. **Ausnahme § 45 BNatSchG beantragen** (wenn Verbotstatbestand nicht vermeidbar): Oeffentliches Interesse, keine Alternativen, Ausgleich durch vorgezogene Ausgleichsmafsnahmen (CEF-Mafsnahmen).
-5. **Eingriffsregelung § 15 BNatSchG**: Gruenplan mit Ausgleichsflaechen; Verhaeltnis Eingriff/Ausgleich 1:1 bis 1:3.
+5. **Eingriffsregelung § 15 BNatSchG**: Gruenplan mit Ausgleichsflaechen; Verhältnis Eingriff/Ausgleich 1:1 bis 1:3.
 6. **Dokumentation**: Bestandteil des Genehmigungsantrags; Aktualisierung bei laenger als 2 Jahre zurueckliegenden Kartierungen.
 
 ### B) Umweltverband: Verbandsklage
 
-1. **Klagebefugnis pruefen**: UmwRG-Anerkennung BUND, NABU, DUH; § 2 UmwRG kein Selbstbetroffenheitserfordernis.
+1. **Klagebefugnis prüfen**: UmwRG-Anerkennung BUND, NABU, DUH; § 2 UmwRG kein Selbstbetroffenheitserfordernis.
 2. **Ruege im Verwaltungsverfahren**: Pflicht zur Beteiligung; Unterlassen fuehrt zu Praeklusion im Klageverfahren (§ 5 UmwRG).
 3. **Angriffspunkte**: Fehlerhafte saP, unzureichende FFH-VS, Artenschutz-Ausnahme nicht gerechtfertigt.
 4. **Eilantrag § 80a VwGO**: Bei vollziehbarer Genehmigung sofort stellen.
@@ -1447,7 +1447,7 @@ vorgelegt und ausgelegt werden.
 
 ## Vertiefung: CEF-Mafsnahmen
 
-- CEF = Continuous Ecological Functionality; muessen vor Eingriff wirksam sein.
+- CEF = Continuous Ecological Functionality; müssen vor Eingriff wirksam sein.
 - Typische CEF: Nisthilfen, alternative Bruthabitate, Amphibien-Leitwaende.
 - Monitoring-Pflicht: Regelmäßige Kontrolle Wirksamkeit; bei Versagen: Anordnung Nachbesserung.
 
@@ -1588,15 +1588,15 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin deckt das gesamte Umweltrecht von der Anlagengenehmigung nach BImSchG ueber den Emissionshandel (TEHG), Abfallrecht und Gewaesserschutz bis hin zu Naturschutz, Artenschutz und Stoerfallanlagen ab. Es begleitet sowohl Zulassungsverfahren als auch behordliche Ueberwachung, Bussgeldverfahren und verwaltungsgerichtliche Streitigkeiten.
+Das Plugin deckt das gesamte Umweltrecht von der Anlagengenehmigung nach BImSchG über den Emissionshandel (TEHG), Abfallrecht und Gewaesserschutz bis hin zu Naturschutz, Artenschutz und Stoerfallanlagen ab. Es begleitet sowohl Zulassungsverfahren als auch behordliche Ueberwachung, Bussgeldverfahren und verwaltungsgerichtliche Streitigkeiten.
 
 Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing-Abwehr, Lieferkettensorgfaltspflichten nach LkSG und CSDDD sowie Klimaklagen und Verbandsklagen nach UmwRG. Zielgruppe sind Anlagenbetreiber, Unternehmensjuristen, Umweltberater und Verwaltungsrechtler.
 
 ## Wann brauchen Sie diese Skill?
 
-- Anlagenbetreiber will BImSchG-Genehmigung beantragen, aendern oder verteidigen, oder Nachbar klagt gegen Anlage.
+- Anlagenbetreiber will BImSchG-Genehmigung beantragen, ändern oder verteidigen, oder Nachbar klagt gegen Anlage.
 - Unternehmen erhalt Bussgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will Gegenvorstellung oder Einspruch einlegen.
-- M&A-Transaktion: Anwalt prueft im Datenraum umweltrechtliche Risiken (Altlasten, Genehmigungsstatus, Abfall).
+- M&A-Transaktion: Anwalt prüft im Datenraum umweltrechtliche Risiken (Altlasten, Genehmigungsstatus, Abfall).
 - ESG-Bericht muss erstellt oder ein Greenwashing-Vorwurf abgewehrt werden.
 - Unternehmen ab 1.000 Mitarbeitern muss LkSG-Sorgfaltspflichten implementieren und dokumentieren.
 
@@ -1605,7 +1605,7 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 - **BImSchG** — Bundes-Immissionsschutzgesetz; regelt Genehmigung und Betrieb emittierender Anlagen.
 - **TEHG** — Treibhausgas-Emissionshandelsgesetz; nationaler Rahmen für EU-Emissionshandel.
 - **Stoerfall-Anlage (Seveso III)** — Anlage mit besonderem Gefahrenpotenzial; gesonderte Pflichten nach 12. BImSchV.
-- **FFH-Vertraeglichkeit** — Pruefung nach der Fauna-Flora-Habitat-Richtlinie (RL 92/43/EWG), ob ein Vorhaben ein Natura-2000-Gebiet erheblich beeintraechtigt.
+- **FFH-Vertraeglichkeit** — Prüfung nach der Fauna-Flora-Habitat-Richtlinie (RL 92/43/EWG), ob ein Vorhaben ein Natura-2000-Gebiet erheblich beeintraechtigt.
 - **CSRD** — Corporate Sustainability Reporting Directive (EU); erweiterte Nachhaltigkeitsberichtspflichten gestaffelt ab 2024.
 - **LkSG** — Lieferkettensorgfaltspflichtengesetz; gilt seit 01.01.2024 für Unternehmen ab 1.000 Mitarbeiter in Deutschland.
 - **UmwRG** — Umwelt-Rechtsbehelfsgesetz; ermoeglicht anerkannten Umweltverbaenden Klagen gegen Zulassungsentscheidungen.
@@ -1625,10 +1625,10 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Anlagenbetreiber, Unternehmen mit Lieferkettenpflichten, Verband oder Nachbar?
+1. Mandantenkonstellation klären: Anlagenbetreiber, Unternehmen mit Lieferkettenpflichten, Verband oder Nachbar?
 2. Phase bestimmen: Genehmigungsantrag, laufender Betrieb, Behördenpruefung, Bussgeld oder Klage?
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Widerspruchs- und Klagefrist gegen Genehmigung oder Bescheid (§§ 68 ff. VwGO).
+4. Eilfristen prüfen: Widerspruchs- und Klagefrist gegen Genehmigung oder Bescheid (§§ 68 ff. VwGO).
 5. Anschluss-Skill bestimmen: z.B. nach Bussgeld ggf. Compliance-Schulung; nach DD ggf. Transaktionsabsicherung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -1655,15 +1655,15 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 - LkSG-Sorgfaltspflichten gelten ab 01.01.2024 auch für Unternehmen ab 1.000 Mitarbeitern; Verstoss loest BAFA-Bussgelder aus.
 - FFH-Vertraeglichkeitspruefung ist eigenstaendiger Schritt vor Planfeststellung; Fehler fuehren regelmaessig zur Aufhebung in der Revision.
 - Emissionshandel hat harte Abgabefristen (30. April des Folgejahres); Versaeumnis loest automatische Strafzahlungen aus.
-- CSRD-Berichte muessen von einem Wirtschaftspruefer oder Umweltgutachter beglaubigt werden; Fehler bei Wesentlichkeitsanalyse sind Haftungsrisiko.
+- CSRD-Berichte müssen von einem Wirtschaftspruefer oder Umweltgutachter beglaubigt werden; Fehler bei Wesentlichkeitsanalyse sind Haftungsrisiko.
 
 ## Typische Fehler
 
-- BImSchG-Genehmigung nicht rechtzeitig geaendert: Wesentliche Aenderungen an genehmigten Anlagen beduerften gesonderter Genehmigung (§ 16 BImSchG); ungenehmigte Aenderung ist illegal.
-- Altlasten in M&A-Transaktionen unterschaetzt: Bodensanierungspflicht geht auf Kaeufer ueber; kein Haftungsausschluss ohne vollstaendige DD.
-- UmwRG-Klagebefugnis uebersehen: Nur anerkannte Umweltverbaende koennen nach § 3 UmwRG klagen; Private beduerften eigener Rechtsverletzung.
-- Greenwashing-Aussagen ohne Substanz: EU Green Claims-Richtlinie (Entwurf) und § 5 UWG erfordern pruefbare Belege für Umweltaussagen.
-- Verfristete LkSG-Risikoberichte: Jaehrliche Dokumentationspflicht mit gesetzlicher Frist; fehlendes Reporting loest BAFA-Massnahmen aus.
+- BImSchG-Genehmigung nicht rechtzeitig geaendert: Wesentliche Änderungen an genehmigten Anlagen beduerften gesonderter Genehmigung (§ 16 BImSchG); ungenehmigte Änderung ist illegal.
+- Altlasten in M&A-Transaktionen unterschaetzt: Bodensanierungspflicht geht auf Kaeufer über; kein Haftungsausschluss ohne vollstaendige DD.
+- UmwRG-Klagebefugnis uebersehen: Nur anerkannte Umweltverbaende können nach § 3 UmwRG klagen; Private beduerften eigener Rechtsverletzung.
+- Greenwashing-Aussagen ohne Substanz: EU Green Claims-Richtlinie (Entwurf) und § 5 UWG erfordern prüfbare Belege für Umweltaussagen.
+- Verfristete LkSG-Risikoberichte: Jaehrliche Dokumentationspflicht mit gesetzlicher Frist; fehlendes Reporting loest BAFA-Maßnahmen aus.
 
 ## Quellen und Aktualitaet
 
@@ -1702,7 +1702,7 @@ _Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will 
 - **§ 3 Abs. 5a BImSchG** — Stoerfall-Definition (unkontrolliertes Ereignis, erhebliche Gefahr)
 - **§ 7 Abs. 1 Nr. 5 BImSchG** — Anforderungen an Anlagen Sicherheitsbericht
 - **§ 16 BImSchV (12. BImSchV)** — Sicherheitsbericht Pflichtinhalt (Gefahrenquellen, Schutz-/Notfallkonzept)
-- **§ 17 BImSchV** — Bericht nach Stoerfall (Untersuchungspflicht, Massnahmen)
+- **§ 17 BImSchV** — Bericht nach Stoerfall (Untersuchungspflicht, Maßnahmen)
 - **§ 19 BImSchV** — Stoerfallanzeige bei Behörde (unverzueglich)
 - **§ 20 BImSchV** — Unterrichtung Oeffentlichkeit (Angaben Anlagen-Website)
 - **Art. 13 Seveso-III-Richtlinie (2012/18/EU)** — Sicherheitsabstaende Raumordnung
@@ -1718,13 +1718,13 @@ _Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will 
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-### A) Praeventive Compliance-Pruefung
+### A) Praeventive Compliance-Prüfung
 
-1. **Stoerfall-Relevanz pruefen**: Mengen gefaehrlicher Stoffe nach Anhang I 12. BImSchV — Spalte 1 oder 2.
+1. **Stoerfall-Relevanz prüfen**: Mengen gefaehrlicher Stoffe nach Anhang I 12. BImSchV — Spalte 1 oder 2.
 2. **Sicherheitskonzept Grundpflichten**: § 8 12. BImSchV — schriftliches Konzept Verhuetung Stoerfaelle.
-3. **Sicherheitsbericht Erweiterte Pflichten**: § 16 12. BImSchV — Inhalt: Stoffe, Anlage, Risiken, Notfallplanung; Prueflauf alle 5 Jahre.
+3. **Sicherheitsbericht Erweiterte Pflichten**: § 16 12. BImSchV — Inhalt: Stoffe, Anlage, Risiken, Notfallplanung; Prüflauf alle 5 Jahre.
 4. **Anzeige/Genehmigung**: § 4 BImSchG, § 9 12. BImSchV — Behörde informieren vor Betriebsbeginn.
-5. **Sicherheitsabstand pruefen**: KAS-18-Leitfaden BG Chemie; Abstand zu schutzbeduerftigen Gebieten ermitteln.
+5. **Sicherheitsabstand prüfen**: KAS-18-Leitfaden BG Chemie; Abstand zu schutzbeduerftigen Gebieten ermitteln.
 6. **Notfallplan**: § 10 12. BImSchV — interner Alarm- und Notfallplan; externe Information an Behörde.
 7. **Unterrichtung Oeffentlichkeit**: § 20 12. BImSchV — Anlage-Website Sicherheitsinformationen.
 
@@ -1732,9 +1732,9 @@ _Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will 
 
 1. **Sofortanzeige**: § 19 12. BImSchV — unverzueglich an Behörde, Feuerwehr, Umweltamt.
 2. **Ursachenuntersuchung**: § 17 12. BImSchV — Bericht innerhalb angemessener Frist.
-3. **Massnahmenumsetzung**: Wiederholungsvermeidung; Dokumentation.
+3. **Maßnahmenumsetzung**: Wiederholungsvermeidung; Dokumentation.
 4. **Bussgeld-Abwehr**: § 62 BImSchG — schuldlose Pflichtverletzung, technisches Versagen ohne Vorwerfbarkeit?
-5. **Kommunikation Behörde**: Kooperationsbereitschaft zeigen; Massnahmenplan vorlegen.
+5. **Kommunikation Behörde**: Kooperationsbereitschaft zeigen; Maßnahmenplan vorlegen.
 
 ### Entscheidungsbaum Stoerfallrelevanz
 
@@ -1751,14 +1751,14 @@ Stoff in Anhang I 12. BImSchV?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Stellungnahme nach Storfallmeldung erstellen | Stellungnahme nach Schema; Template unten |
-| Variante A — Stoeranfall noch laufend keine Stellungnahme moeglich | Krisenkommunikation zuerst; Stellungnahme nach Abschluss |
+| Variante A — Stoeranfall noch laufend keine Stellungnahme möglich | Krisenkommunikation zuerst; Stellungnahme nach Abschluss |
 | Variante B — Stoeranfall ohne Schaden nur formale Meldepflicht | Minimale Meldung; Stellungnahme kurzgefasst |
-| Variante C — Behörde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Massnahmenplan |
+| Variante C — Behörde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Maßnahmenplan |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -1799,13 +1799,13 @@ Wir legen bis zum [DATUM] einen vollstaendigen Untersuchungsbericht vor.
 Anlagen: Lageplan, Stofffliessschema, Messprotokoll
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1818,7 +1818,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Sicherheitsbericht | NEIN | JA | § 16 12. BImSchV |
 | Notfallplan intern | JA | JA | § 10 Abs. 1 |
 | Extern. Notfallplan Behörde | NEIN | JA | § 10 Abs. 2 |
-| Dominoeffekt-Pruefung | NEIN | JA | § 14 12. BImSchV |
+| Dominoeffekt-Prüfung | NEIN | JA | § 14 12. BImSchV |
 | Oeffentlichkeits-Information | NEIN | JA | § 20 12. BImSchV |
 | Sicherheitsabstand | JA | JA | § 50 BImSchG |
 
@@ -1851,7 +1851,7 @@ _M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen
 2. Welche Anlagen/Standorte — BImSchG-Genehmigungen vorhanden?
 3. Altlasten bekannt (§§ 4, 9 BBodSchG) — Bodenuntersuchungen vorgelegt?
 4. TEHG-Pflicht? Emissionshandel-Status?
-5. Produktions-Genehmigungen aktuell oder laeuft Aenderungsverfahren?
+5. Produktions-Genehmigungen aktuell oder laeuft Änderungsverfahren?
 6. Bestehen Behördenanordnungen oder laufende Verwaltungs-/Gerichtsverfahren?
 
 ## Zentrale Normen und Paragrafenkette
@@ -1880,7 +1880,7 @@ _M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen
 
 ### Phase 2: Dokument-Analyse
 
-1. **BImSchG-Genehmigungen**: Inhalt, Nebenbestimmungen, Aenderungs-Historie; laufen aktuelle Verfahren?
+1. **BImSchG-Genehmigungen**: Inhalt, Nebenbestimmungen, Änderungs-Historie; laufen aktuelle Verfahren?
 2. **Altlasten**: Bodenuntersuchungen Phase I (historische Nutzung) und Phase II (Analytik); Sanierungsplan?
 3. **TEHG**: Zuteilungsbescheid, Monitoring-Plan; Abgabe-Geschichte letzter 5 Jahre.
 4. **Wasserrecht**: Einleitgenehmigungen, Entnahmegenehmigungen; ablaufende Genehmigungen?
@@ -1891,7 +1891,7 @@ _M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen
 
 | Kategorie | Red Flag | Orange | Gruen |
 |---|---|---|---|
-| BImSchG-Genehmigung | Fehlt oder wesentlich veraltet | Aenderung laufend | Aktuell und vollstaendig |
+| BImSchG-Genehmigung | Fehlt oder wesentlich veraltet | Änderung laufend | Aktuell und vollstaendig |
 | Altlasten | Aktiver Kontaminationsherd | Historische Untersuchung fehlt | Phase II ohne Befund |
 | TEHG-Abgabe | Rueckstand > 3 Jahre | Einmalige Verspaetung | Vollstaendig |
 | Behördenanordnung | Rechtshaft unanfechtbar | Widerspruch laufend | Keine |
@@ -1938,7 +1938,7 @@ Quellen: [Dokument im Datenraum, Seite/Tab]
 
 - Verursacher > Rechtsnachfolger > Grundstueckseigentuemer > Inhaber tatsaechlicher Gewalt.
 - Bei Share Deal: Erwerber tritt als Gesamtrechtsnachfolger in Haftungsposition des Verkaeufers ein.
-- Gesamtschuldner-Ausgleich § 24 BBodSchG: Sanierungskosten koennen intern aufgeteilt werden.
+- Gesamtschuldner-Ausgleich § 24 BBodSchG: Sanierungskosten können intern aufgeteilt werden.
 - Haftungs-Cap im Kaufvertrag gilt nur zwischen Vertragsparteien, nicht gegenueber Behörde.
 
 ## Anschluss-Skills
@@ -2024,13 +2024,13 @@ Informationsbegehren
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Informationsantrag nach UIG stellen | Antrag nach Schema; Template unten |
 | Variante A — Antrag wurde bereits abgelehnt Widerspruch noetig | Widerspruchstemplate verwenden statt Erstantrag |
-| Variante B — IFG statt UIG anzuwenden Verwaltungsinformation | IFG-Variante; Abgrenzung UIG-IFG klaeren |
+| Variante B — IFG statt UIG anzuwenden Verwaltungsinformation | IFG-Variante; Abgrenzung UIG-IFG klären |
 | Variante C — Information eilig Behörde soll priorisieren | Dringlichkeitsvermerk in Antrag aufnehmen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -2066,13 +2066,13 @@ Gemaess § 4 Abs. 1 UIG bitte ich um Bescheidung binnen eines Monats.
 [NAME], [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -2107,10 +2107,10 @@ Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszu
 ## Vertiefung: Aktive Informationspflicht § 10 UIG
 
 - Behörden sollen Umweltinformationen von allgemeinem Interesse aktiv ins Netz stellen.
-- Emissionsdaten, Genehmigungen, UVP-Berichte grundsaetzlich oeffentlich.
+- Emissionsdaten, Genehmigungen, UVP-Berichte grundsätzlich öffentlich.
 - Verstoss gegen aktive Veroeffentlichungspflicht: Ruege durch UIG-Antrag + Klage.
 
-## Fristen-Ueberblick
+## Fristen-Überblick
 
 | Schritt | Frist | Grundlage |
 |---|---|---|
@@ -2147,7 +2147,7 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widers
 
 ## Triage — klaere Verfahrenskontext
 
-1. Wer ist Klaeger/Antragsteller — Betreiber, Nachbar oder Umweltverband?
+1. Wer ist Kläger/Antragsteller — Betreiber, Nachbar oder Umweltverband?
 2. Liegt Bescheid/Genehmigung vor oder geht es um Normenkontrolle (§ 47 VwGO)?
 3. Ist Verfahren BImSchG-Genehmigung (VG), Planfeststellung (OVG/BVerwG) oder Rechtsetzung?
 4. Besteht Eilbedarf (vollziehbare Genehmigung, bevorstehende Baumafsnahme)?
@@ -2180,12 +2180,12 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widers
 
 ### A) Anfechtungsklage (Dritter gegen Genehmigung)
 
-1. **Klagebefugnis pruefen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
+1. **Klagebefugnis prüfen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Klagefrist**: § 74 Abs. 1 VwGO — 1 Monat ab Bekanntgabe; bei Auslegung § 10 BImSchG: 2 Wochen nach Auslegungsende (§ 10 Abs. 8 BImSchG beachten).
 4. **Eilantrag § 80a**: Sofort wenn Genehmigung vollziehbar und Bauarbeitten drohen.
 5. **Klageschrift**: Klageantrag, Sachverhalt, rechtliche Begruendung mit Leitsaetzen.
-6. **Verbandsklage**: UmwRG-Anerkennung pruefen; § 4 UmwRG Verfahrensfehler als eigenstaendiger Aufhebungsgrund.
+6. **Verbandsklage**: UmwRG-Anerkennung prüfen; § 4 UmwRG Verfahrensfehler als eigenstaendiger Aufhebungsgrund.
 
 ### B) Verpflichtungsklage (Betreiber auf Genehmigung)
 
@@ -2210,14 +2210,14 @@ Liegt ein belastender VA vor?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Klage gegen BImSchG-Genehmigung | Klageschrift nach Schema; Template unten |
-| Variante A — Genehmigung auf Antrag von Mandant Verteidigung noetig | Verteidigungsposition als Beigeladener; Klageschrift ist Klaeger-Template |
+| Variante A — Genehmigung auf Antrag von Mandant Verteidigung noetig | Verteidigungsposition als Beigeladener; Klageschrift ist Kläger-Template |
 | Variante B — Nur bestimmte Auflagen anfechtbar nicht Gesamtgenehmigung | Teilklage; nur Auflagen angreifen |
-| Variante C — Normenkontrolle als staerkerer Angriffspunkt | Normenkontrolle § 47 VwGO pruefen; oft wirkungsvoller als Einzelklage |
+| Variante C — Normenkontrolle als staerkerer Angriffspunkt | Normenkontrolle § 47 VwGO prüfen; oft wirkungsvoller als Einzelklage |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -2267,18 +2267,18 @@ III. Begruendung
 Anlagen: Eigentumsnachweise, Schall-Gegengutachten, Lageplan
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-## Fristen-Ueberblick
+## Fristen-Überblick
 
 | Schritt | Frist | Grundlage |
 |---|---|---|
@@ -2292,8 +2292,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - EuGH hat deutsche Praeklusion § 5 UmwRG für unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
-- Praxis: Gericht prueft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance für Klaeger.
-- Aber: VG prueft Opportunitaet im Einzelfall; konservativere OVG-Linie partiell erhalten.
+- Praxis: Gericht prüft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance für Kläger.
+- Aber: VG prüft Opportunitaet im Einzelfall; konservativere OVG-Linie partiell erhalten.
 
 ## Anschluss-Skills
 

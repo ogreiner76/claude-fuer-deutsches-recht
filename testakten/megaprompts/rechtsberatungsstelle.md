@@ -11,16 +11,16 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `rechtsberatungsstel
 3. **anleiter-pruefwarteschlange** — 'Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an…
 4. **anpassen** — Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte…
 5. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Rechtsberatungsstelle-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken…
-6. **einfache-sprache-briefe** — Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einsch…
-7. **entwurf-einarbeitung-einfache-sprache** — Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspru…
-8. **erzeugung-leitfaden-erstellen-mandanten** — Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag …
-9. **fristen-fristenkontrolle-rdg** — Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisiere…
-10. **kaltstart-interview** — Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester st…
-11. **leitfaden-erstellen** — Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen…
-12. **mandant-aufnahme** — Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und mu…
-13. **mandanten-kommunikations-log** — Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsg…
-14. **mandantenbrief-memo-rbs-beratungshilfe** — Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis de…
-15. **memo** — Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) m…
+6. **entwurf-einarbeitung-einfache-sprache** — Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspru…
+7. **erzeugung-leitfaden-erstellen-mandanten** — Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag …
+8. **fristen-fristenkontrolle-rdg** — Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisiere…
+9. **kaltstart-interview** — Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester st…
+10. **leitfaden-erstellen** — Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen…
+11. **mandant-aufnahme** — Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und mu…
+12. **mandanten-kommunikations-log** — Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsg…
+13. **mandantenbrief-memo-rbs-beratungshilfe** — Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis de…
+14. **memo** — Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) m…
+15. **recherche-start-rechtsberatungsstelle** — Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegri…
 
 ---
 
@@ -38,7 +38,7 @@ Dieser Einstieg routet **Rechtsberatungsstelle** vom ersten Sachverhalt zu Rolle
 
 - `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
 - `anleiter-formular-portal-und-einreichung` — Anleiter Formular Portal und Einreichung
-- `anleiter-pruefwarteschlange` — Anleiter Pruefwarteschlange
+- `anleiter-pruefwarteschlange` — Anleiter Prüfwarteschlange
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router
 - `bono-erstpruefung-und-mandatsziel` — Bono Erstpruefung und Mandatsziel
@@ -76,7 +76,7 @@ _Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Bono Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Rechtsberatungsstelle** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Bono Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Rechtsberatungsstelle** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,10 +98,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -304,7 +304,7 @@ _Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendun
 ## Triage zu Beginn
 1. Welcher Abschnitt des Profils soll angepasst werden: Semesterwechsel, Fachbereich, Prüfungsgates, Anleiter-Kontakt oder Gesetzesaenderung?
 2. Hat sich die Rechtsgrundlage der Beratungsstelle geaendert (z.B. neues RDG, neue Kooperationsvereinbarung)?
-3. Sind neue Studierende aufgenommen worden, die in die CLAUDE.md eingetragen werden muessen?
+3. Sind neue Studierende aufgenommen worden, die in die CLAUDE.md eingetragen werden müssen?
 4. Soll gleichzeitig ein Fachbereichsleitfaden angepasst werden oder nur das Hauptprofil?
 
 ## Aktuelle Rechtsprechung
@@ -312,9 +312,9 @@ _Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendun
 
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungsstruktur muss aktuell und wirksam sein; Semesterwechsel erfordert Profil-Update
-- Art. 30 DSGVO — Verarbeitungsverzeichnis: bei Aenderung des Verarbeitungsumfangs zu aktualisieren
+- Art. 30 DSGVO — Verarbeitungsverzeichnis: bei Änderung des Verarbeitungsumfangs zu aktualisieren
 - §§ 43, 43a BRAO — Berufspflichten des Anleiters: kontinuierliche Aktualitaet der Organisationsunterlagen
-- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen pruefen
+- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen prüfen
 
 ## Häufige Anpassungsszenarien
 
@@ -532,7 +532,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `anleiter-pruefwarteschlange` | Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell "formelle… |
 | `einarbeitung` | Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte… |
-| `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite… |
+| `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite… |
 | `entwurf` | Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6… |
 | `formular-erzeugung` | Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behörde oder Gericht. BeratungsHiG Beratungsschein,… |
 | `fristen` | Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard:… |
@@ -549,9 +549,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt studentische und gemeinnuetzige Rechtsberatungsstellen bei der RDG-konformen Durchfuehrung ihrer Beratungsarbeit. Es bildet den gesamten Lebenszyklus eines Mandats ab: von der Erstaufnahme ueber die rechtliche Analyse und Schriftstueckerstellung bis zur sauberen Semesteruebergabe.
+Das Plugin unterstuetzt studentische und gemeinnuetzige Rechtsberatungsstellen bei der RDG-konformen Durchfuehrung ihrer Beratungsarbeit. Es bildet den gesamten Lebenszyklus eines Mandats ab: von der Erstaufnahme über die rechtliche Analyse und Schriftstueckerstellung bis zur sauberen Semesteruebergabe.
 
-Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Pruefwarteschlange.
+Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Prüfwarteschlange.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -566,10 +566,10 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - **RDG** — Rechtsdienstleistungsgesetz; regelt, wer ausserhalb der Anwaltschaft Rechtsdienstleistungen erbringen darf.
 - **§ 6 RDG** — Erlaubnisnorm für unentgeltliche Rechtsdienstleistungen; Grundlage für studentische Beratungsstellen.
 - **BeratungsHiG** — Beratungshilfegesetz; ermoeglicht einkommensschwachen Personen staatlich gefoerderte Rechtsberatung.
-- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht ueber Studierende fuehrt und Arbeitsergebnisse freigibt.
+- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht über Studierende fuehrt und Arbeitsergebnisse freigibt.
 - **Gutachtenmethode** — Juristische Analyse nach dem Schema Obersatz - Norm/Definition - Subsumtion - Ergebnis.
 - **Interessenkonflikt** — Situation, in der Berater oder Kanzlei bereits die Gegenpartei vertreten; muss vor Mandatsannahme geprueft werden (§ 43a Abs. 4 BRAO entsprechend).
-- **Pruefwarteschlange** — Optionale Aufsichtsstruktur, in der Arbeitsergebnisse auf Anleiter-Freigabe warten, bevor sie den Mandanten oder Gerichten zugehen.
+- **Prüfwarteschlange** — Optionale Aufsichtsstruktur, in der Arbeitsergebnisse auf Anleiter-Freigabe warten, bevor sie den Mandanten oder Gerichten zugehen.
 
 ## Rechtsgrundlagen
 
@@ -585,15 +585,15 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 1. Kaltstart-Interview durchfuehren und Plugin an Hochschule und Rechtsgebiete anpassen.
 2. Neue Studierende einarbeiten (Semester-Start).
-3. Mandanten aufnehmen: Sachverhalt, Fristen, Interessenkonflikt und Beratungsberechtigung pruefen.
+3. Mandanten aufnehmen: Sachverhalt, Fristen, Interessenkonflikt und Beratungsberechtigung prüfen.
 4. Passenden Skill auswaehlen (Memo, Entwurf, Mandantenbrief, einfache Sprache, Formular).
-5. Ergebnis in Pruefwarteschlange stellen; nach Anleiter-Freigabe versenden oder weitergeben.
+5. Ergebnis in Prüfwarteschlange stellen; nach Anleiter-Freigabe versenden oder weitergeben.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `anleiter-pruefwarteschlange` — Supervisoren-Pruefwarteschlange für studentische Arbeitsergebnisse vor Anleiter-Freigabe.
+- `anleiter-pruefwarteschlange` — Supervisoren-Prüfwarteschlange für studentische Arbeitsergebnisse vor Anleiter-Freigabe.
 - `einarbeitung` — Semestereinarbeitung für neue studentische Berater mit RDG-Grundlagen und Toolwalkthrough.
-- `einfache-sprache-briefe` — Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen für Mandanten mit sprachlichen Einschraenkungen.
+- `einfache-sprache-briefe` — Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen für Mandanten mit sprachlichen Einschraenkungen.
 - `entwurf` — Erstentwurf haeufiger Schriftstuecke (Widerspruch, Mietrechtsbrief, Klageschrift im Beratungshilfe-Kontext).
 - `formular-erzeugung` — Formulare und Antragsdokumente für Behörden oder Gerichte erstellen.
 - `fristen` — Fristenmanagement für laufende Mandate mit Warnschwellen und Eskalation.
@@ -605,15 +605,15 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - `recherche-start` — Recherchefahrplan für eine Rechtsfrage mit Normen, Rechtsprechungsbereichen und Suchbegriffen.
 - `rechtsberatungsstelle-anpassen` — Plugin an spezifische Hochschule, Rechtsgebiete und Verfahrensregeln anpassen.
 - `rechtsberatungsstelle-kaltstart-interview` — Erst-Konfiguration des Plugins mit Hochschule, Anleiter und Beratungsregeln.
-- `semester-uebergabe` — Semesterabschluss-Uebergabe laufender Mandate mit Uebergabenotizen und Gesamtuebersicht.
+- `semester-uebergabe` — Semesterabschluss-Übergabe laufender Mandate mit Übergabenotizen und Gesamtuebersicht.
 - `status` — Fallstatuszusammenfassung mandantengerichtet, intern oder gerichts-/behoerdengerichtet erstellen.
 
 ## Worauf besonders achten
 
-- **RDG-Grenze einhalten**: Studierende duerfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
+- **RDG-Grenze einhalten**: Studierende dürfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
 - **Anleiter-Freigabe vor Versand**: Kein Schriftstuck und kein Mandantenbrief verlasst die Beratungsstelle ohne Anleiter-Freigabe.
-- **Fristen besonders beobachten**: Versaeumte Fristen koennen den Mandanten seinen Anspruch kosten; der Fristen-Skill muss regelmaessig abgerufen werden.
-- **Mandatsgeheimnis bei Semesteruebergabe**: Uebergabenotizen duerfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
+- **Fristen besonders beobachten**: Versaeumte Fristen können den Mandanten seinen Anspruch kosten; der Fristen-Skill muss regelmaessig abgerufen werden.
+- **Mandatsgeheimnis bei Semesteruebergabe**: Übergabenotizen dürfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
 - **Dokumentation datenschutzkonform**: Mandantendaten duerften nicht in nicht-genehmigten KI-Systemen verarbeitet werden.
 
 ## Typische Fehler
@@ -621,109 +621,14 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - Interessenkonfliktpruefung vergessen: Zwei Studierende aus derselben Kohorte beraten unwissentlich Parteien desselben Konflikts.
 - Memo als fertige Rechtsberatung weitergeben statt als Analyse-Grundlage für den Anleiter.
 - Fristenliste nicht aktuell halten; Fristaenderungen durch Gericht werden nicht eingetragen.
-- Bei der Semesteruebergabe Mandate ohne Uebergabenotiz an Nachfolgekohorte weitergeben.
-- Einfache-Sprache-Uebersetzung nicht auf Richtigkeit pruefen lassen; Vereinfachungen koennen Rechtsinhalte veraendern.
+- Bei der Semesteruebergabe Mandate ohne Übergabenotiz an Nachfolgekohorte weitergeben.
+- Einfache-Sprache-Übersetzung nicht auf Richtigkeit prüfen lassen; Vereinfachungen können Rechtsinhalte veraendern.
 
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
 - RDG in der ab 2023 gueltigen Fassung
-
----
-
-## Skill: `einfache-sprache-briefe`
-
-_Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Lei..._
-
-# [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-Diese Skill akzeptiert keine Eingaben. Für alle Mandantenbriefe: `/mandantenbrief [typ]` oder `/status mandant`.
-
-## Rechtlicher Rahmen
-
-### Hintergrund der Aufteilung
-
-Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine Serviceleistung. Unverständliche Korrespondenz verletzt die anwaltliche Aufklärungspflicht (§ 43a BRAO, BGH-Rspr.) und kann zur Haftung führen. Die Aufteilung in zwei fokussierte Skills verstärkt diese Pflicht, indem sie die Standards für jeden Typ explizit macht.
-
-### Relevante Normen für die Nachfolge-Skills
-
-- **§ 43a Abs. 4 BRAO** — Sachlichkeitsgebot: Mandantenbriefe müssen sachlich, klar und nicht irreführend sein; gilt auch für studentische Beratungsstellen unter Aufsicht.
-- **§ 11a BRAO** — Zusammenarbeit in studentischen Beratungsstellen: Briefe gehen unter Aufsicht des Supervisors heraus; vor Versand ist die Supervisoren-Freigabe einzuholen.
-- **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Mandantenkorrespondenz ist ein nach außen gehendes Leistungsergebnis und unterliegt der inhaltlichen Supervisoren-Kontrolle.
-- **Art. 13 DSGVO** — Informationspflichten: Falls ein Brief erstmals über die Verarbeitung personenbezogener Daten informiert, müssen DSGVO-Pflichtangaben enthalten sein.
-- **§§ 2, 3 BerHG** — Beratungshilfe: Bei Mandanten mit Beratungshilfe-Schein muss die Korrespondenz den Leistungsrahmen einhalten; keine Erweiterung ohne neuen Schein.
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-**Stattdessen verwenden:**
-
-Für einfache Korrespondenz (Terminbestätigung, Unterlagenbitte, Eingangsbestätigung):
-```
-/mandantenbrief terminbestätigung
-/mandantenbrief unterlagenbitte
-/mandantenbrief eingangsbestätigung
-```
-
-Für inhaltliche Statusmitteilungen:
-```
-/status mandant
-```
-
-Vollständiger Ablauf in den jeweiligen SKILL.md-Dateien:
-
-1. Zielgruppe festlegen (Bildungshintergrund, Sprache, besondere Umstände des Mandanten)
-2. Verständlichkeitsstandards der Klinik anwenden (Klinik-Konfiguration → plain-language-standard)
-3. Kein Fachjargon ohne Erläuterung; kurze Sätze; konkrete Handlungsanweisungen
-4. Supervisoren-Routing nach § 6 Abs. 2 RDG vor Versand
-
-## Beispiel
-
-Statt `/einfache-sprache-briefe`:
-
-```
-/status mandant
-```
-
-Dieser Befehl erstellt ein verständliches Statusschreiben (Zielgruppe: Mandant/-in) nach dem Hauptschulniveau-Standard, ohne Fachjargon, mit konkreten nächsten Schritten: "Was ist passiert / Was passiert als nächstes / Was müssen Sie tun / So erreichen Sie uns."
-
-Oder für Routine-Korrespondenz:
-```
-/mandantenbrief terminbestätigung
-```
-
-Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und Kontaktdaten — ohne juristische Formulierungen.
-
-## Risiken und typische Fehler
-
-- **Verweis auf diese Skill in älteren Materialien:** Semesterskripte und Tutorenmaterialien auf die neuen Skills umschreiben.
-- **Verständlichkeitsstandards als optional behandeln:** Die Pflicht zur verständlichen Mandantenkommunikation ergibt sich aus § 43a BRAO und BGH-Rspr. Sie gilt auch für Studierende in der Beratungsstelle unter Supervisorenaufsicht.
-- **Fachbegriffe ohne Erläuterung:** Begriffe wie "Widerspruchsfrist", "Vollstreckungstitel" oder "Klagefrist" sind für viele Mandanten unverständlich. Immer in Klammern oder mit einfachem Folgesatz erläutern.
-- **Versand ohne Supervisoren-Freigabe:** Kein Mandantenbrief verlässt die Beratungsstelle ohne Freigabe, auch keine kurze Terminbestätigung.
-
-## Quellenpflicht
-
-Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben zu Mandantenbriefen: `skills/status/SKILL.md`, Sektion "Quellenpflicht", und `skills/mandantenbrief/SKILL.md`.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
 
@@ -1130,7 +1035,7 @@ _Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rec
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Rechtsberatungsstelle** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Rechtsberatungsstelle** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -1293,7 +1198,7 @@ Anschließend empfehlen:
 
 ---
 
-<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->
+<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemäß dejure.org-Prüfung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->
 
 ---
 
@@ -1325,7 +1230,7 @@ _Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall St
 ### Build Guide: Anleitungsgeführter Fachbereichsleitfaden
 
 ## Triage zu Beginn
-1. Fuer welchen Fachbereich soll der Leitfaden erstellt werden (Mietrecht, Sozialrecht, Aufenthaltsrecht, Strafrecht)?
+1. Für welchen Fachbereich soll der Leitfaden erstellt werden (Mietrecht, Sozialrecht, Aufenthaltsrecht, Strafrecht)?
 2. Welche Paedagogikhaltung soll der Leitfaden vorgeben: ausfuehren, anleiten oder lehren?
 3. Gibt es einen bestehenden Leitfaden, der ueberarbeitet werden soll, oder wird er neu erstellt?
 4. Welche spezifischen Prüfungsgates und RDG-Grenzen sollen für diesen Fachbereich konfiguriert werden?
@@ -1337,7 +1242,7 @@ _Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall St
 - § 6 Abs. 2 Nr. 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des anleitenden Anwalts: gilt auch für Leitfaden-Inhalte und Mandatsdaten
 - § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende) erfordert vertragliche Absicherung der Verschwiegenheit
-- § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln muessen im Leitfaden für jeden Fachbereich verankert sein
+- § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln müssen im Leitfaden für jeden Fachbereich verankert sein
 
 ## Berufsrechtlicher Rahmen
 
@@ -1802,16 +1707,16 @@ _Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberat
 ### Mandantenbrief in einfacher Sprache
 
 ## Triage zu Beginn
-1. Was soll der Brief mitteilen: Ergebnis einer Pruefung, Verfahrensstand, konkreter naechster Schritt oder Ablehnung?
+1. Was soll der Brief mitteilen: Ergebnis einer Prüfung, Verfahrensstand, konkreter naechster Schritt oder Ablehnung?
 2. Auf welchem Sprachniveau soll der Brief verfasst werden: B1/B2 Standard oder Leichte Sprache A2 bei besonderem Bedarf?
-3. Enthaelt der Brief Angaben ueber Dritte oder interne Bewertungen, die im Mandantenbrief nicht erscheinen duerfen?
+3. Enthaelt der Brief Angaben über Dritte oder interne Bewertungen, die im Mandantenbrief nicht erscheinen dürfen?
 4. Hat der anleitende Volljurist den Briefentwurf bereits freigegeben oder ist das Gate noch ausstehend?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- BORA § 11 — Mitteilungspflicht: Mandant ist ueber wesentliche Verfahrensschritte zu informieren
+- BORA § 11 — Mitteilungspflicht: Mandant ist über wesentliche Verfahrensschritte zu informieren
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studierenden erfordert Anleiterpruefung und -freigabe
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur für Mandanten bestimmte Informationen im Brief
@@ -2093,6 +1998,189 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: KORRIGIERT. Skill hatte falschen Thementext: "Verbraucherrecht: Widerruf nach § 355 BGB". Echtes Thema: Eigenbedarfskündigung; Suizidgefahr des Mieters als Haertegrund (§ 574 BGB); Fortsetzung des Mietverhaeltnisses auf unbestimmte Zeit. Fundstelle korrigiert: NZM 2023 35 Rn. 24 (statt NJW 2023 142 Rn. 20). Quelle: dejure.org/2022,33020.
+-->
+
+---
+
+## Skill: `recherche-start-rechtsberatungsstelle`
+
+_Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, w..._
+
+# Recherchefahrplan: Orientierung, keine Recherche
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- **Rechtsfrage** — so präzise wie möglich formuliert; nicht "Mietrecht", sondern "Kann die Mieterin die Miete mindern, weil die Heizung seit November defekt ist und der Vermieter nicht reagiert hat?"
+- **Rechtsgebiet** (optional, falls nicht aus der Frage erkennbar)
+- **Bisherige Recherche** (optional) — bereits gefundene Normen oder Entscheidungen für Lückenanalyse
+
+## Rechtlicher Rahmen
+
+### Primärquellen-Hierarchie im deutschen Recht
+
+- **Bundesrecht** geht Landesrecht vor (Art. 31 GG).
+- **EU-Recht** hat Vorrang vor nationalem Recht; bei europarechtlichem Bezug (z. B. Verbraucherrecht, Datenschutz, Wettbewerbsrecht) immer auch EU-Rechtsakte und EuGH-Rspr. prüfen.
+- **Gesetzliche Grundlage → Ausführungsverordnung → Verwaltungsvorschrift** — Hierarchie im Verwaltungsrecht.
+- Für studentische Beratungsstellen besonders relevant: **BGB, ZPO, VwVfG, VwGO, AGG, KSchG, BerHG, RDG**.
+
+### Leitentscheidungen zur Recherchemethodik (exemplarisch)
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Ablauf
+
+### Schritt 0: Klinik-Vorlagendokumente zuerst lesen
+
+Bevor der Fahrplan aufgebaut wird: Die eigenen Vorlagendokumente der Klinik lesen. Der Supervisor hat beim Kalt-Start Handbücher, Einreichungsanleitungen, Musterakten und Altgutachten hinterlegt — sie sind fachlich geprüft, spezifisch für die Klinik und schlagen jede Datenbanksuche in den ersten zwanzig Minuten.
+
+1. Klinik-Konfiguration (CLAUDE.md) → `## Vorlagendokumente` lesen. Gibt es Dokumente, deren Zweck oder Dateiname zur Rechtsfrage passt (z. B. "Mietrecht-Einreichungsleitfaden" für eine Mietminderungsfrage)?
+2. Für jeden Treffer: als **Vorlagendokumente zuerst lesen**-Block an den Anfang des Fahrplans stellen. Dokumentnamen angeben, warum relevant, was es abdeckt und wo außerhalb davon noch recherchiert werden muss.
+3. Falls keine Vorlagendokumente zur Frage passen: ausdrücklich benennen ("Keine Klinik-Vorlagendokumente zu dieser Frage — direkt zu den Primärquellen").
+
+### Schritt 1: Frage präzisieren
+
+Was ist die Rechtsfrage? Präzise formulieren. Nicht "Kündigung" — sondern: "Ist die fristlose Kündigung des Arbeitsvertrags vom 15.04.2026 rechtswirksam, obwohl dem Arbeitgeber keine Abmahnung vorausgegangen ist?"
+
+Bei zu breiter Frage mit dem Studierenden eingrenzen: "Das sind drei Rechtsfragen. Welche zuerst?"
+
+### Schritt 2: Fahrplan aufbauen
+
+**Gesetzliche Ausgangspunkte:**
+Wahrscheinlich einschlägige Normen nennen. Ausdrücklich als ungeprüft kennzeichnen.
+
+> **Wahrscheinlich einschlägig** (UNGEPRÜFT — Aktualität und Einschlägigkeit verifizieren):
+> - § 626 BGB — Außerordentliche Kündigung aus wichtigem Grund; Zweiwochenfrist (§ 626 Abs. 2 BGB)
+> - § 314 BGB — Außerordentliche Kündigung von Dauerschuldverhältnissen
+> - §§ 1, 2 KSchG — Soziale Rechtfertigung; Anwendbarkeit prüfen (Betriebsgröße, Beschäftigungsdauer)
+> - `[PRÜFEN: Paragraphennummern gegen aktuelle Fassung verifizieren — Gesetze werden umnummeriert]`
+
+**Rechtsprechungsbereiche:**
+Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studierende selbst.
+
+> **Rspr.-Bereiche:**
+> - BAG-Rspr. zu Abmahnungserfordernis vor fristloser Kündigung — Leitentscheidung des BAG suchen
+> - BAG-Rspr. zum "wichtigen Grund" i. S. d. § 626 BGB — Fallgruppen (Diebstahl, Arbeitsverweigerung, etc.)
+> - Rspr. zum Verhältnismäßigkeitsgrundsatz bei Kündigung ohne vorherige Abmahnung
+> - Rspr. zu den Anforderungen an die Anhörung des Betriebsrats (§ 102 BetrVG) — falls Betriebsrat vorhanden
+
+**Kommentare und Sekundärquellen:**
+
+> **Kommentare (zum Einstieg, nicht als Quelle zitieren):**
+> - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+> - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+> - Praxishandbuch Arbeitsrecht (beck-online) — Einstieg für typische Fallkonstellationen
+
+**Suchbegriffe:**
+
+> **Suchbegriffe für juris / beck-online / dejure:**
+> - juris: `fristlose Kündigung Abmahnung Erfordernis Arbeitnehmer § 626`
+> - beck-online: `außerordentliche Kündigung ohne Abmahnung BAG`
+> - dejure.org: `§ 626 BGB Rechtsprechung — Abmahnungserfordernis`
+> - Ergebnisse verfeinern basierend auf den Treffern — diese sind Einstiegsabfragen
+
+### Schritt 3: Unsicherheiten kennzeichnen
+
+Wenn die Skill unsicher ist, ob eine Quelle einschlägig oder aktuell ist:
+
+> `[UNSICHER: ob § 314 BGB hier neben § 626 BGB anwendbar ist — die Rspr. wird es zeigen]`
+
+Unsicherheit wird benannt, nicht verschwiegen.
+
+**Kein stilles Ergänzen:** Diese Skill liefert Hinweise, keine geprüften Quellen — das ist so gewollt. Falls eine Suchanfrage in einer konfigurierten Datenbank wenige oder keine Treffer ergibt, dies ausdrücklich sagen und aufhören. Lücken nicht durch Modellwissen oder Websuche ohne Rückfrage füllen. Stattdessen: "Die Suche ergab [N] Treffer in [Datenbank]. Die Abdeckung scheint dünn für [Frage/Norm]. Optionen: (1) Suchabfrage erweitern, (2) andere Datenbank probieren, (3) Websuche — Treffer werden als `[Websuche — verifizieren]` markiert und sind vor der Verwendung gegen Primärquellen zu prüfen, oder (4) Lücke dem Supervisor melden. Welche Option bevorzugen Sie?" Der Supervisor entscheidet über weniger verlässliche Quellen.
+
+### Schritt 4: Bestehende Recherche analysieren (wenn vorhanden)
+
+Wenn der Studierende bereits Recherchematerial hochgeladen hat: lesen, was abgedeckt ist, was fehlt.
+
+> **Aus Ihrer bisherigen Recherche:**
+> - Vorhanden: [Zusammenfassung des Abgedeckten]
+> - Lücke: [Was der Fahrplan oben nahelegt, aber noch nicht gefunden wurde]
+> - `[PRÜFEN: Die zitierte Entscheidung [Name] — per Datenbank-Zitieranalyse prüfen, ob sie nicht durch spätere Rspr. eingeschränkt wurde]`
+
+## Vorlagendokumente der Klinik (zuerst lesen)
+
+[Per Schritt 0. Passende Klinikdokumente mit Erläuterung benennen.
+Falls keine passen: "Keine Klinik-Vorlagendokumente zu dieser Frage — direkt zu den Primärquellen."]
+
+## Gesetzliche Ausgangspunkte (UNGEPRÜFT)
+
+[Liste mit PRÜFEN-Flags]
+
+## Rechtsprechungsbereiche
+
+[Bereiche, keine Entscheidungen]
+
+## Kommentare und Sekundärquellen (zum Orientieren, nicht als Quelle)
+
+[Liste]
+
+## Suchbegriffe
+
+**juris:** [Abfragen]
+**beck-online:** [Abfragen]
+**dejure:** [Abfragen]
+
+## Unsicherheitsmarkierungen
+
+[Stellen, an denen der Fahrplan genuinely unsicher ist]
+
+---
+
+## Nächste Schritte
+
+1. Mit einem Kommentar einsteigen, um den Rahmen zu verstehen
+2. Die gesetzlichen Normen suchen — verifizieren, ob die Angaben oben aktuell sind
+3. Suchbegriffe in den Datenbanken starten, Leitentscheidungen finden
+4. Jede Entscheidung per Zitieranalyse (juris: "Rechtsprechung zu diesem Urteil") auf Aktualität prüfen
+5. Zurückgehen und `/memo` nutzen, um die Analyse zu strukturieren, sobald die Normen feststehen
+
+## Was dieser Fahrplan nicht leistet
+
+- **Er liefert keine zitierfähigen Belege.** Jeder Hinweis oben ist zu verifizieren.
+- **Er ersetzt nicht die Recherche.** Sie recherchieren. Der Fahrplan bringt Sie schneller an den Startpunkt.
+- **Er deckt keine Spezialmaterie ab.** Für Nischenrechtsgebiete (z. B. spezifisches Landesrecht, Sondergerichtsbarkeit) ggf. Supervisor fragen.
+
+---
+```
+
+## Beispiel
+
+**Szenario:** Studierende Hofer recherchiert für Mandantin Erdem: Kann sie die Miete mindern, weil die Heizung seit November defekt ist?
+
+Fahrplan enthält:
+- Gesetzliche Ausgangspunkte: `§ 536 BGB (Mietminderung), § 536a BGB (Schadensersatz), § 536c BGB (Anzeigepflicht) [UNGEPRÜFT — verifizieren]`
+- Rspr.-Bereiche: "AG/LG München und Hamburg Rspr. zu Heizungsausfall als erheblicher Mangel; Minderungsquoten-Rspr.; Anzeigepflicht-Rspr."
+- Suchbegriffe: `juris: "§ 536 BGB Heizung Mietminderung erheblicher Mangel"`
+- Unsicherheit: `[UNSICHER: ob Frau Erdems mündliche Anzeige am 05.11.2025 die Formerfordernisse des § 536c BGB erfüllt — Rspr. prüfen]`
+
+## Risiken und typische Fehler
+
+- **Fahrplan-Hinweise als fertige Belege behandeln:** Die häufigste Fehlerquelle. Normen und Rspr.-Bereiche müssen in den Datenbanken nachgeschlagen, auf Aktualität geprüft und korrekt zitiert werden.
+- **Nur eine Datenbank nutzen:** Verschiedene Datenbanken decken unterschiedliche Quellen ab. amtliche/freie Quellen oder lizenzierte Datenbanken ergänzen sich; dejure eignet sich für schnelle Normensuche.
+- **Keine Zitieranalyse:** Eine Entscheidung, die in einer neueren höchstrichterlichen Entscheidung eingeschränkt wurde, kann nicht mehr als Beleg verwendet werden. Zitieranalyse in juris (Rubrik "Rechtsprechung zu diesem Urteil") ist Pflicht.
+- **Lücke schweigend überbrücken:** Wenn eine Suchanfrage wenige Treffer ergibt, nicht durch Modellwissen ergänzen. Den Supervisor informieren und auf eine verlässlichere Quelle warten.
+
+## Quellenpflicht
+
+Jeder im Fahrplan vorgeschlagene Hinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Hinweise; `[Websuche — verifizieren]` für webbasierte Hinweise; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit "verifizieren" tragen höheres Fehlerrisiko und sind zuerst gegen Primärquellen zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+
+<!-- AUDIT 27.05.2026
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
 
 ---

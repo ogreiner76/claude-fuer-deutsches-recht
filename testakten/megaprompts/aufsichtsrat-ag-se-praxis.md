@@ -9,7 +9,7 @@ Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `aufsichtsrat-ag-se
 1. **mutterschutz-elternzeit-nachfolgeplanung** — AG/SE-Aufsichtsrat Praxis: Mutterschutz Elternzeit Pflege 84 Abs 3; konkretisierter Spezialmodul mit Prüfachsen, Red Fla…
 2. **aufsichtsrat-abschlussbericht-playbook** — AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flag…
 3. **aufsichtsrat-ki-einsatz-und-governance** — AG/SE-Aufsichtsrat Praxis: Aufsichtsrat KI Einsatz Und Governance; konkretisierter Spezialmodul mit Prüfachsen, Red Flag…
-4. **einsichts-und-pruefungsrechte-111-aktg** — AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flag…
+4. **einsichts-und-pruefungsrechte-111-aktg** — AG/SE-Aufsichtsrat Praxis: Einsichts Und Prüfungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags…
 5. **mandatsannahme-interessenkonflikt-mar** — AG/SE-Aufsichtsrat Praxis: Mandatsannahme Und Interessenkonflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags…
 6. **aufsichtsrat-kartellrecht-red-ki-einsatz** — AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Kartellrecht Red Flags; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, …
 7. **aufsichtsrat-managerhaftung-regress** — AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Managerhaftung Regress; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, …
@@ -174,9 +174,9 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 
 ## Skill: `einsichts-und-pruefungsrechte-111-aktg`
 
-_AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis._
+_AG/SE-Aufsichtsrat Praxis: Einsichts Und Prüfungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis._
 
-# Einsichts Und Pruefungsrechte 111 Aktg
+# Einsichts Und Prüfungsrechte 111 Aktg
 
 ## Arbeitsweg
 
@@ -186,7 +186,7 @@ _AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisier
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Einsichts Und Pruefungsrechte 111 Aktg
+## Fachkern: Einsichts Und Prüfungsrechte 111 Aktg
 - **Normen-/Quellenanker:** AktG §§ 90, 93, 111, 116, 118 ff., SE-VO/SEAG, DCGK, Geschäftsordnung, Zustimmungsvorbehalte, D&O und Insider-/Ad-hoc-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Überwachung, Beratung, Zustimmung, Bestellung/Abberufung, Interessenkonflikt, Informationsdefizit, Protokoll und persönliche Haftungsvermeidung.
 

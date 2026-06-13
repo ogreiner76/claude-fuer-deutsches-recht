@@ -313,19 +313,9 @@ Automatisch generierte Komplett-Liste aller 226 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`fachanwalt-strafrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-strafrecht.md) (67 KB)
+- **Direkt-Download**: [`fachanwalt-strafrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-strafrecht.md) (66 KB)
 - Im Repo: [`testakten/megaprompts/fachanwalt-strafrecht.md`](../testakten/megaprompts/fachanwalt-strafrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
-
-### Formatvorlagen (Markdown + ODT)
-
-Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
-
-| Vorlage | Markdown | ODT |
-| --- | --- | --- |
-| Akteneinsichtsantrag Paragraf 147 Stpo | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-strafrecht/akteneinsichtsantrag-paragraf-147-stpo.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-strafrecht/akteneinsichtsantrag-paragraf-147-stpo.odt) |
-
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->

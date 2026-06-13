@@ -170,3 +170,17 @@ Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschrei
 | `zulaessigkeit-pruefen` | Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche Zuständigkeit), § 23 GVG (s... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Experimentell: dieses Plugin auch ohne Claude Code
+
+### Megaprompt (alle Kern-Skills in einer Datei)
+
+Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+
+- **Direkt-Download**: [`urteilsbauer-relationsmacher.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/urteilsbauer-relationsmacher.md) (71 KB)
+- Im Repo: [`testakten/megaprompts/urteilsbauer-relationsmacher.md`](../testakten/megaprompts/urteilsbauer-relationsmacher.md)
+
+*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+
+<!-- END megaprompt-und-vorlagen (autogen) -->

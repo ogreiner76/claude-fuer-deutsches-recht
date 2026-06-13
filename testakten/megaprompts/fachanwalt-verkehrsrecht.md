@@ -7,7 +7,7 @@ Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `fachanwalt-verkehrs
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Verkehrsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, …
-2. **mandat-triage-verkehrsrecht** — Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen: Eingangs-Triage Verkehrsrec…
+2. **mandat-triage-verkehrsrecht** — Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen: Eingangs-Triage Verkehrsrech…
 3. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstella…
 4. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
 5. **verk-trunkenheit-drogenfahrt-spezial** — Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Wer…
@@ -87,14 +87,14 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `mandat-triage-verkehrsrecht`
 
-_Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen: Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Sc..._
+_Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen: Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Sc..._
 
-# Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen
+# Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen
 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Verkehrsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Verkehrsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -114,7 +114,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen. Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjährung 3 Jahre § 195 BGB) Versicherungslage Eilbedürftigkeit vorläufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bußgeld-einspruch-prüfen.
+**Fokus:** Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen. Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjährung 3 Jahre § 195 BGB) Versicherungslage Eilbedürftigkeit vorläufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bußgeld-einspruch-prüfen.
 
 ### Mandat-Triage Verkehrsrecht
 
@@ -264,7 +264,7 @@ _Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Ve
 
 - Neue Anfrage aus dem Bereich Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht) (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klaeren, Konflikt- und GwG-Pruefung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
@@ -272,15 +272,15 @@ _Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Ve
 
 Standard-Fragenraster für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht):
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Unfallregulierung, OWi, Punktekonto, MPU, Fahrerlaubnis, KFZ-Versicherung
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Klage Verkehrsunfall, Einspruch OWi-Bussgeldbescheid, Klage KFZ-Versicherung). Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -289,7 +289,7 @@ Standard-Fragenraster für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht):
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -297,14 +297,14 @@ Standard-Streitwerte im Bereich Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafre
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -327,9 +327,9 @@ Drei Weichen am Ende des Erstgespraechs:
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar -> später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 
@@ -365,7 +365,7 @@ Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fac
 
 ### Konstellation C: Interessenkonflikt-Naehe
 
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung:
+Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung:
 
 1. § 43a Abs. 4 BRAO und § 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
 2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
@@ -382,9 +382,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach § 3a RVG.
 - Erfolgshonorar nur in den engen Grenzen § 4a RVG.
-- Vorschuss in Hoehe der voraussichtlichen 1. Instanz.
+- Vorschuss in Höhe der voraussichtlichen 1. Instanz.
 - Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege moeglich sind.
+- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege möglich sind.
 
 ## Mandatsbogen-Muster (Mindestinhalt)
 
@@ -404,7 +404,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ## Aktuelle Rechtsprechung Erstgespraech Verkehrsrecht
 
@@ -472,20 +472,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - (c) Verkehrsstrafrecht (§§ 142, 222, 229, 315 ff., 316 StGB).
  - (d) Verkehrsverwaltungsrecht (FeV-Entziehung, MPU, Wiedererteilung).
  - (e) Versicherungsrecht (Kasko-Ablehnung, Insassenversicherung).
-- **Rolle-Klaerung:** Geschaedigter, Schaediger, Halter, Fahrer, Versicherungsnehmer, Beschuldigter, Antragsteller FE-Wiedererteilung; ggf. mehrere Rollen parallel.
+- **Rolle-Klärung:** Geschaedigter, Schaediger, Halter, Fahrer, Versicherungsnehmer, Beschuldigter, Antragsteller FE-Wiedererteilung; ggf. mehrere Rollen parallel.
 - **Mandatsziel-Hierarchie nach Saeule:**
  - **Zivil:** Schaden vollumfaenglich; Mietwagen / Nutzungsausfall; Wertminderung; Personenschaden Schmerzensgeld § 253 BGB.
  - **OWi:** Fahrverbot abwenden, Punkte vermeiden, Geldbusse reduzieren.
  - **Strafrecht:** Schuldspruch vermeiden, Strafmilderung, Fahrerlaubnis erhalten / wiedererlangen.
  - **Verwaltungsrecht:** MPU-Vorbereitung, Sperrenkürzung, Wiedererteilung.
  - **Versicherung:** Kostenerstattung, Leistungserschwerden, Schadenfreiheitsrabatt.
-- **Sofort-Massnahmen:**
+- **Sofort-Maßnahmen:**
  - Unfallregulierung: Schadenanzeige, SV-Gutachten beauftragen (eigener SV bei klarer Haftung), Werkstatt einleiten.
  - OWi: Akteneinsicht § 49 OWiG; Schweigerecht § 55 OWiG.
  - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorläufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
  - FeV: Anhörungstermin wahrnehmen; ggf. Stellungnahme einreichen.
 - **Frist-Re-Check:** § 195 BGB / § 199 BGB Schaden; § 67 OWiG 2 Wochen; § 410 StPO 2 Wochen; § 314 StPO 1 Woche; § 30 VVG unverzueglich; § 25 IIa StVG 4-Monatsfrist Fahrverbot.
-- **Rechtsschutzversicherungs-Deckungsanfrage** sofort (RS-Versicherer informieren; Wartezeit pruefen).
+- **Rechtsschutzversicherungs-Deckungsanfrage** sofort (RS-Versicherer informieren; Wartezeit prüfen).
 - **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich für alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).
 
 ## Normen und Rechtsprechung
@@ -530,7 +530,7 @@ _Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relati
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024. Pruefraster für Verteidiger.
+**Fokus:** Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024. Prüfraster für Verteidiger.
 
 ### Verk: Trunkenheit Drogenfahrt
 
@@ -543,26 +543,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -587,7 +587,7 @@ _Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / §
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote, Schadenspositionen Wiederbeschaffungswert, Wertminderung, Nutzungsausfall. Pruefraster für Geschaedigtenanwalt.
+**Fokus:** Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote, Schadenspositionen Wiederbeschaffungswert, Wertminderung, Nutzungsausfall. Prüfraster für Geschaedigtenanwalt.
 
 ### Verk: Unfallregulierung-Workflow
 
@@ -600,26 +600,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -644,7 +644,7 @@ _Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmess
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten. Pruefraster und Schriftsatzbausteine.
+**Fokus:** Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten. Prüfraster und Schriftsatzbausteine.
 
 ### Verkehrsrecht: Blitzer-Verfahren
 
@@ -657,26 +657,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -701,7 +701,7 @@ _Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Ha
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff. OWiG. Strategien Verteidigung, Punkterabatt bei Punkteabbau-Seminar. Pruefraster.
+**Fokus:** Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff. OWiG. Strategien Verteidigung, Punkterabatt bei Punkteabbau-Seminar. Prüfraster.
 
 ### Verkehrsrecht: Bussgeldverfahren
 
@@ -714,26 +714,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -771,26 +771,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -815,7 +815,7 @@ _Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung). Pruefraster für Mandantenberatung.
+**Fokus:** Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung). Prüfraster für Mandantenberatung.
 
 ### Verkehrsrecht: Totalschaden
 
@@ -828,26 +828,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

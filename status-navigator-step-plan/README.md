@@ -187,7 +187,7 @@ Automatisch generierte Komplett-Liste aller 35 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`status-navigator-step-plan.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/status-navigator-step-plan.md) (25 KB)
+- **Direkt-Download**: [`status-navigator-step-plan.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/status-navigator-step-plan.md) (24 KB)
 - Im Repo: [`testakten/megaprompts/status-navigator-step-plan.md`](../testakten/megaprompts/status-navigator-step-plan.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

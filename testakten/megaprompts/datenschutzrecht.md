@@ -9,11 +9,11 @@ Dieser Megaprompt enthaelt top-8 von 362 Skills (gekuerzt fuer Chat-Fenster) des
 1. **einstieg-routing** — Einstieg, Triage und Routing für Datenschutzrecht DSGVO/BDSG: ordnet Rolle (Verantwortlicher, Auftragsverarbeiter, Betro…
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Datenschutzrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und …
 3. **dsgvo-erstpruefung-und-mandatsziel** — DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **anpassen** — Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. …
-5. **anwendungsfall-triage** — Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG.…
-6. **art-9-besondere-kategorien** — Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassis…
-7. **aufnahme-statusinformation** — Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten i…
-8. **avv-art-28-dsgvo-grundtatbestand** — Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO. Klaert Rollenzuordnung Verantwortlicher gegen Auftragsverar…
+4. **datenschutz-schadensersatz-art-82-dsgvo** — Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21…
+5. **anpassen** — Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. …
+6. **anwendungsfall-triage** — Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG.…
+7. **art-9-besondere-kategorien** — Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassis…
+8. **aufnahme-statusinformation** — Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten i…
 
 ---
 
@@ -67,7 +67,7 @@ _Einstieg, Schnelltriage und Fallrouting im Datenschutzrecht-Plugin. Fragt Rolle
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -179,7 +179,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `avv-pruefung` | Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit… |
 | `datenpanne-meldung` | Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Prüfraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung… |
 | `datenschutzrecht-anpassen` | Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen… |
-| `datenschutzrecht-kaltstart-interview` | Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschaeftigtendaten. Prüfraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger… |
+| `datenschutzrecht-kaltstart-interview` | Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschäftigtendaten. Prüfraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger… |
 | `datenschutzrecht-mandat-arbeitsbereich` | Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output:… |
 | `drittlandstransfer-pruefung` | Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment… |
 | `us-transfer-tia-dokumentation` | US-Drittlandtransfer mit EU-US Data Privacy Framework, DPF-Listing, Schrems-I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures und Review-Kalender dokumentieren. |
@@ -192,13 +192,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `joint-controller-vereinbarung` | Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel… |
 | `ki-verordnung-compliance` | KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Prüfraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen… |
 | `mandantendaten-ki` | Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Prüfraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg… |
-| `regulierungs-luecken-analyse` | Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten.… |
-| `richtlinien-monitor` | Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten… |
+| `regulierungs-luecken-analyse` | Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Maßnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten.… |
+| `richtlinien-monitor` | Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Änderungsbedarf neue Verarbeitungstätigkeiten… |
 | `verarbeitungsverzeichnis-vvt-generator` | Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen… |
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Rechtsanwaelte und Datenschutzbeauftragte bei der Bearbeitung datenschutzrechtlicher Mandate nach DSGVO und BDSG. Es deckt den vollstaendigen ab: von der ersten Triage ueber Auftragsverarbeitungsvertraege, Datenschutz-Folgenabschaetzungen und Auskunftsersuchen bis zu Datenpannenmeldungen, Drittlandstransfers, US-Transfer-Dokumentation und der laufenden Richtlinienpflege.
+Dieses Plugin unterstuetzt Rechtsanwaelte und Datenschutzbeauftragte bei der Bearbeitung datenschutzrechtlicher Mandate nach DSGVO und BDSG. Es deckt den vollstaendigen ab: von der ersten Triage über Auftragsverarbeitungsvertraege, Datenschutz-Folgenabschaetzungen und Auskunftsersuchen bis zu Datenpannenmeldungen, Drittlandstransfers, US-Transfer-Dokumentation und der laufenden Richtlinienpflege.
 
 Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGVO), Auftragsverarbeiter (Art. 4 Nr. 8 DSGVO) und gemeinsam Verantwortliche (Art. 26 DSGVO), sowie den Einsatz von KI-Tools im Kanzleialltag.
 
@@ -206,19 +206,19 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 
 - Ein Unternehmen erhaelt ein Auskunftsersuchen nach Art. 15 DSGVO und braucht eine rechtskonforme Antwort.
 - Ein Datenschutzbeauftragter muss eine Datenpanne nach Art. 33 DSGVO binnen 72 Stunden an die Aufsichtsbehoerde melden.
-- Eine Kanzlei prueft, ob ein IT-Dienstleister einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO benoetigt.
+- Eine Kanzlei prüft, ob ein IT-Dienstleister einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO benoetigt.
 - Ein Unternehmen will Daten in ein Drittland (USA, Indien) uebertragen und braucht einen Transfer-Impact-Assessment.
 - Eine Aufsichtsbehoerde fragt nach US-Transfer, DPF-Listing, SCC, TIA und Schrems-II-Dokumentation.
-- Eine Behörde oder Kanzlei prueft, ob KI-Werkzeuge datenschutzkonform eingesetzt werden koennen.
+- Eine Behörde oder Kanzlei prüft, ob KI-Werkzeuge datenschutzkonform eingesetzt werden können.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **DSGVO** — Datenschutz-Grundverordnung (EU 2016/679); einheitliches EU-Datenschutzrecht für Verarbeitung personenbezogener Daten.
-- **BDSG** — Bundesdatenschutzgesetz; ergaenzt die DSGVO im deutschen Recht, insbesondere für Beschaeftigtendatenschutz (§ 26 BDSG).
+- **BDSG** — Bundesdatenschutzgesetz; ergaenzt die DSGVO im deutschen Recht, insbesondere für Beschäftigtendatenschutz (§ 26 BDSG).
 - **TDDDG** — Telekommunikation-Digitale-Dienste-Datenschutzgesetz; Nachfolger des TTDSG, regelt Cookies und Online-Tracking.
 - **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; Pflichtvertrag, wenn ein Dritter Daten im Auftrag verarbeitet.
 - **DSFA** — Datenschutz-Folgenabschaetzung (Data Protection Impact Assessment, DPIA) nach Art. 35 DSGVO; Pflicht bei hohem Risiko.
-- **Drittland** — Staat ausserhalb des EWR, in den Datentransfers nur unter bestimmten Voraussetzungen zulaessig sind (Art. 44 ff. DSGVO).
+- **Drittland** — Staat ausserhalb des EWR, in den Datentransfers nur unter bestimmten Voraussetzungen zulässig sind (Art. 44 ff. DSGVO).
 - **VVT** — Verzeichnis der Verarbeitungstaetigkeiten nach Art. 30 DSGVO; Dokumentationspflicht für Verantwortliche und Auftragsverarbeiter.
 - **DSB** — Datenschutzbeauftragter; Pflichtposition nach Art. 37 DSGVO und § 38 BDSG ab bestimmten Schwellenwerten.
 
@@ -234,16 +234,16 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 - Art. 35-36 DSGVO (Datenschutz-Folgenabschaetzung)
 - Art. 37-39 DSGVO (Datenschutzbeauftragter)
 - Art. 44-49 DSGVO (Drittlandstransfer)
-- § 26 BDSG (Beschaeftigtendatenschutz)
+- § 26 BDSG (Beschäftigtendatenschutz)
 - § 38 BDSG (Pflicht zur Bestellung eines DSB)
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Verantwortlicher, Auftragsverarbeiter oder gemeinsam Verantwortlicher?
+1. Mandantenkonstellation klären: Verantwortlicher, Auftragsverarbeiter oder gemeinsam Verantwortlicher?
 2. Sachverhalt einordnen und Bearbeitungsroute bestimmen (Skill `anwendungsfall-triage`).
 3. Mandat strukturieren und Arbeitsbereich abgrenzen (`datenschutzrecht-kaltstart-interview` oder `datenschutzrecht-mandat-arbeitsbereich`).
 4. Passenden Fachskill auswaehlen (z. B. AVV, DSFA, Drittlandstransfer, Datenpanne).
-5. Eilfristen pruefen: Datenpannenmeldung 72-Stunden-Frist, Auskunftspflicht einen Monat ab Ersuchen.
+5. Eilfristen prüfen: Datenpannenmeldung 72-Stunden-Frist, Auskunftspflicht einen Monat ab Ersuchen.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -251,20 +251,20 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 - `datenschutzrecht-kaltstart-interview` — Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen.
 - `datenschutzrecht-mandat-arbeitsbereich` — Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen.
 - `datenschutzrecht-anpassen` — Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen anpassen.
-- `avv-pruefung` — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO pruefen oder erstellen.
+- `avv-pruefung` — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen.
 - `joint-controller-vereinbarung` — Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen, wenn zwei oder mehr Verantwortliche gemeinsam entscheiden.
 - `dsfa-erstellung` — Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchfuehren bei hohem Risiko.
 - `datenpanne-meldung` — Datenpanne nach Art. 33 und 34 DSGVO melden bei Sicherheitsverletzung personenbezogener Daten.
-- `dsgvo-auskunft` — Auskunftsersuchen nach Art. 15 DSGVO pruefen und Bearbeitungsstrategie bestimmen.
+- `dsgvo-auskunft` — Auskunftsersuchen nach Art. 15 DSGVO prüfen und Bearbeitungsstrategie bestimmen.
 - `dsgvo-auskunft-antwort` — DSGVO-Auskunftsantwort an Betroffenen vollstaendig und rechtskonform gestalten.
-- `drittlandstransfer-pruefung` — Datentransfer in Drittlaender ausserhalb EU und EWR auf Zulaessigkeit pruefen.
+- `drittlandstransfer-pruefung` — Datentransfer in Drittlaender ausserhalb EU und EWR auf Zulaessigkeit prüfen.
 - `us-transfer-tia-dokumentation` — US-Transfer mit DPF, SCC/BCR-Ausweichpfad, TIA und ergänzenden Maßnahmen dokumentieren.
 - `standardvertragsklauseln-scc-paket` — SCC-Modulwahl, Annex I-III, Subprozessoren und TOMs behördenfest vorbereiten.
 - `drittlandtransfer-behoerdenpaket-output` — Deckvermerk, Anlagenverzeichnis, Behördenantwort und Maßnahmenplan ausgeben.
-- `dsb-bestellungspflicht-pruefung` — Bestellungspflicht für Datenschutzbeauftragten nach Art. 37 DSGVO und § 38 BDSG pruefen.
+- `dsb-bestellungspflicht-pruefung` — Bestellungspflicht für Datenschutzbeauftragten nach Art. 37 DSGVO und § 38 BDSG prüfen.
 - `verarbeitungsverzeichnis-vvt-generator` — Verzeichnis der Verarbeitungstaetigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren.
-- `ki-verordnung-compliance` — KI-Systeme auf Anforderungen der KI-VO und Datenschutz gemeinsam pruefen.
-- `mandantendaten-ki` — Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei pruefen.
+- `ki-verordnung-compliance` — KI-Systeme auf Anforderungen der KI-VO und Datenschutz gemeinsam prüfen.
+- `mandantendaten-ki` — Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen.
 - `regulierungs-luecken-analyse` — Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen.
 - `richtlinien-monitor` — Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformitaet monitoren.
 
@@ -272,17 +272,17 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 
 - Datenpannenmeldung nach Art. 33 DSGVO hat eine 72-Stunden-Frist ab Kenntnisnahme — keine Verzoegerung durch interne Abstimmungsrunden.
 - Drittlandstransfer ohne Rechtsgrundlage (Angemessenheitsbeschluss oder Standardvertragsklauseln) ist ein bussgeldrelevanter Verstoss.
-- Auftragsverarbeitungsvertraege muessen vor Beginn der Verarbeitung vorliegen — nicht erst nach Vertragsschluss.
-- § 26 BDSG-Beschaeftigtendatenschutz hat engere Grenzen als die DSGVO-Generalklausel — gesondert pruefen.
+- Auftragsverarbeitungsvertraege müssen vor Beginn der Verarbeitung vorliegen — nicht erst nach Vertragsschluss.
+- § 26 BDSG-Beschäftigtendatenschutz hat engere Grenzen als die DSGVO-Generalklausel — gesondert prüfen.
 - Cookies und Tracking unterliegen zusaetzlich dem TDDDG — einwilligungspflichtige Dienste nicht mit Art. 6 Abs. 1 lit. f DSGVO rechtfertigen.
 
 ## Typische Fehler
 
 - Auftragsverarbeitungsvertrag fehlt: Unternehmen gibt Daten an Cloud-Anbieter weiter ohne AVV nach Art. 28 DSGVO.
 - DSFA-Pflicht verkannt: Hochrisiko-Verarbeitung (z. B. Profilbildung, Scoring) wird ohne Folgenabschaetzung gestartet.
-- Auskunftsantwort unvollstaendig: Betroffener erhaelt keine Information ueber Empfaenger oder Speicherdauer.
+- Auskunftsantwort unvollstaendig: Betroffener erhaelt keine Information über Empfaenger oder Speicherdauer.
 - Drittlandstransfer nach Schrems II nicht geprueft: Alte Safe-Harbor- oder Privacy-Shield-Grundlage wird weiter verwendet.
-- DSB-Bestellungspflicht nicht erkannt: Unternehmen beschaeftigt mehr als 20 Personen mit Datenverarbeitung, bestellt aber keinen DSB.
+- DSB-Bestellungspflicht nicht erkannt: Unternehmen beschäftigt mehr als 20 Personen mit Datenverarbeitung, bestellt aber keinen DSB.
 
 ## Quellen und Aktualitaet
 
@@ -342,6 +342,119 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7 Abs. 3) — bei laufender Verarbeitung problematisch (z. B. KI-Modell-Training). Berechtigtes Interesse (lit. f) ist robuster, aber abwägungsanfällig — dokumentierte LIA (Legitimate Interest Assessment) ist Pflicht.
+
+---
+
+## Skill: `datenschutz-schadensersatz-art-82-dsgvo`
+
+_Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss..._
+
+# Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+Sie brauchen den Skill, sobald (a) ein Betroffener Schadensersatz vom Mandanten verlangt oder (b) der Mandant gegen einen Verantwortlichen vorgehen will.
+
+Sieben-Fragen-Diagnose:
+
+1. **Anspruchsteller oder Anspruchsgegner?** Andere Schritte je nach Seite.
+2. **Welcher konkrete Verstoss?** Norm und Sachverhalt — nicht pauschal "DSGVO verletzt".
+3. **Kausalitaet:** Welcher Schaden hat sich aus welchem Verstoss konkret entwickelt? Kausalkette schriftlich.
+4. **Schadensart:** Materiell (Vermögen) und/oder immateriell (Gefuehl, Kontrollverlust, Sorge)? Höhe geschaetzt?
+5. **Beweislast:** Wer muss was beweisen — Verantwortlicher entlastet sich nach Art. 82 III DSGVO, dass er nicht verantwortlich ist; Kläger muss Verstoss und Schaden darlegen.
+6. **Verjährung:** Art. 82 selbst regelt nichts; nach BGH-Rspr. § 195 BGB drei Jahre ab Kenntnis.
+7. **Anspruchskonkurrenz:** UWG, BDSG § 83, deliktische Ansprueche §§ 823 ff. BGB?
+
+## Rechtlicher Rahmen
+
+- **Art. 82 I DSGVO** Jede Person, die einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch gegen den Verantwortlichen oder Auftragsverarbeiter.
+- **Art. 82 II DSGVO** Verantwortlicher haftet für Schaeden aus Verarbeitungen; Auftragsverarbeiter nur bei Pflichtverletzung gegen DSGVO-Auftragsverarbeiterspflichten oder Weisung.
+- **Art. 82 III DSGVO** Entlastung des Verantwortlichen oder Auftragsverarbeiters bei Nachweis, in keinerlei Hinsicht verantwortlich.
+- **Art. 82 IV DSGVO** Gesamtschuld bei mehreren Verantwortlichen.
+- **EuGH C-300/21 Oesterreichische Post** (Urteil 04.05.2023): Kein blosser Verstoss reicht; konkreter Schaden notwendig; keine Erheblichkeitsschwelle.
+- **EuGH C-340/21 Bulgarian Sofia** (Urteil 14.12.2023): Auch blosse Sorge vor Datenmissbrauch kann immaterieller Schaden sein; Verantwortlicher hat TOM-Pflicht und Beweislast für Geeignetheit; Hackerangriff allein entlastet nicht.
+- **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befürchtungen Betroffener können Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu prüfen.
+- **EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH):** Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Höhe nach nationalem Recht, aber unter Beachtung Effektivitaet und Äquivalenz.
+- **EuGH C-456/22 VX/Saale** (Urteil 14.12.2023): Schadensersatz hat kompensatorische und keine Straffunktion; auch geringe Schadenshoehen möglich.
+- **BGH VI ZR 1148/22** (Urteil 18.11.2024): Bei DSGVO-Verstoss zeitnah Kontrollverlust und Folgen darzulegen; pauschale Behauptung reicht nicht.
+- **Art. 79 II DSGVO** Gerichtsstand am Sitz des Verantwortlichen oder gewoehnlichen Aufenthaltsort des Betroffenen.
+- **§ 195 BGB** drei Jahre.
+
+## Mandantenfuehrung Schritt-für-Schritt
+
+### Klägerseite
+
+1. **Zuerst:** Beleg-Akte anlegen — Mailverkehr, Screenshots, Auskunftsersuchen nach Art. 15 DSGVO mit Antwort.
+2. **Als zweites:** Schadensdarstellung konkretisieren — Gefuehlssituation, zeitlicher Verlauf, Folgen (Sorge, Kontrollverlust, Aengste, konkrete Aufwendungen).
+3. **Als drittes:** Klage einreichen — Gerichtsstand Art. 79 II DSGVO, regelmaessig Amtsgericht bis 5.000 EUR.
+
+### Beklagtenseite
+
+1. **Zuerst:** Klageerwiderungsfrist sichern (§ 277 ZPO).
+2. **Als zweites:** Tatbestand prüfen — Verstoss nachweisbar? TOM Art. 32 dokumentiert? Belege für entlastenden Nachweis Art. 82 III?
+3. **Als drittes:** Kausalitaet und Schaden bestreiten — Erhalt von Spam-Mails, Wechselgefuehle ohne konkrete Folge sind nach EuGH C-300/21 nicht ausreichend; aber Sorge kann nach EuGH C-340/21 reichen.
+4. **NICHT vorschnell anerkennen:** Auch nicht "aus Goodwill", da Praezedenz für weitere Verfahren.
+5. **Vergleich erwaegen:** Bei klarer Beweislast lieber Vergleich als Praezedenzurteil.
+
+## Trade-off-Matrix
+
+| Variante | Vorteil | Nachteil |
+|---|---|---|
+| Klage mit hohem Streitwert | Maximale Forderung | Hohe Vorschuesse, Risiko Klageabweisung |
+| Streitwertbegrenzung Amtsgericht | Schnell, kostenarm | Reicht oft nicht für Praezedenz |
+| Vergleich vor Klage | Schnelle Erledigung | Keine Klärung, Wiederholungsrisiko |
+| Vollstaendige Verteidigung | Praezedenz, klare Rechtslage | Reputationsrisiko, Folgeklagen |
+
+## Mustertexte
+
+### Klageschrift (Kerntext)
+
+> Klage wegen Schadensersatzes nach Art. 82 DSGVO
+>
+> Kläger: [Person, Anschrift]
+> Beklagte: [Verantwortlicher, Anschrift]
+> Streitwert: vorlaeufig [Betrag]
+>
+> Antrag: Die Beklagte wird verurteilt, an die Klägerseite [Betrag] nebst Zinsen in Höhe von fuenf Prozentpunkten über dem Basiszinssatz seit Rechtshaengigkeit zu zahlen.
+>
+> Begruendung:
+> I. Sachverhalt (konkret Vorfall, Datum, Datenkategorie).
+> II. Rechtlicher Rahmen (Art. 82 I DSGVO, EuGH C-300/21, EuGH C-340/21).
+> III. Konkrete Pflichtverletzung (DSGVO-Norm).
+> IV. Kausaler Schaden (immateriell mit Sorge, Kontrollverlust; materiell mit konkretem Betrag).
+> V. Höhe (Begruendung der Schaetzung).
+> VI. Gerichtsstand Art. 79 II DSGVO.
+
+### Klageerwiderung — Kernpunkte
+
+> 1. Verstoss bestreiten oder relativieren (welche DSGVO-Norm konkret und Subsumtion).
+> 2. Schaden bestreiten: blosse Sorge ohne Substanz reicht nach BGH VI ZR 1148/22 nicht; konkrete Folgen notwendig.
+> 3. Kausalitaet bestreiten — auch bei TOM-Pflichtverletzung muss Schaden konkret aus Verletzung resultieren.
+> 4. Entlastung Art. 82 III: TOM Art. 32 lagen vor (Anlage), Maßnahmen waren angemessen.
+> 5. Verjährung prüfen (§ 195 BGB).
+> 6. Hilfsweise Minderung der Höhe (EuGH C-456/22: kompensatorisch, nicht praeventiv).
+
+## Typische Fehler
+
+- Pauschale Schadensbehauptung "Kontrollverlust" ohne konkrete Substanz (BGH VI ZR 1148/22).
+- TOM-Pflicht Art. 32 unterschaetzt — Beklagte muss Maßnahmen aktiv belegen.
+- Verschuldensfrage nach EuGH C-741/21 uebersehen.
+- Streitwert zu hoch angesetzt — bei AG-Zuständigkeit Vorbehalt.
+- Verjährung nicht gerueckpruefte (§ 195 BGB drei Jahre ab Kenntnis).
+
+**Was triggert hohe Schadensersatzbetraege?** Art. 9-Daten, Massenvorfall, nachweisbare Kettenfolge (Identitaetsdiebstahl), fehlende Reaktion des Verantwortlichen, kein DSB.
+
+## Quellen Stand 06/2026
+
+- DSGVO Art. 79, 82, 83.
+- BGB § 195, § 199, § 823, § 826.
+- BGH VI ZR 1148/22, Urteil 18.11.2024 (zu pauschalen Behauptungen Kontrollverlust).
+- EuGH C-300/21 Oesterreichische Post, Urteil 04.05.2023.
+- EuGH C-340/21 Bulgarian Sofia, Urteil 14.12.2023.
+- EuGH C-687/21 MediaMarkt, Urteil 25.01.2024.
+- EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH), vor Ausgabe über curia.europa.eu verifizieren.
+- EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
+- Keine Aufsatzfundstellen aus Modellwissen.
 
 ---
 
@@ -491,7 +604,7 @@ _Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. A
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Anwendungsfall Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Anwendungsfall Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -818,7 +931,7 @@ _Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Aufnahme Statusinformation** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Aufnahme Statusinformation** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -887,122 +1000,6 @@ Nächster Schritt: konkret, mit Verantwortlichem und Zeitpunkt.
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 5 DSGVO (Grundsätze der Verarbeitung)
-- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
-- Art. 13, 14 DSGVO (Informationspflichten)
-- Art. 15 DSGVO (Auskunftsrecht)
-- Art. 28 DSGVO (Auftragsverarbeitung)
-- Art. 32 DSGVO (Sicherheit der Verarbeitung)
-- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
-- Art. 82 DSGVO (Schadensersatz)
-- Art. 83 DSGVO (Bußgelder)
-- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
-
-### Leitentscheidungen
-
-- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
-- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
-- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
-- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
-- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
-
-### Anwendung im Skill
-
-- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
-- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
-- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-
----
-
-## Skill: `avv-art-28-dsgvo-grundtatbestand`
-
-_Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO. Klaert Rollenzuordnung Verantwortlicher gegen Auftragsverarbeiter wenn ein Dienstleister personenbezogene Daten im fremden Auftrag verarbeitet. Wann gilt Art. 28 wann Art. 26 wann Funktionsuebertragung. Output: Pruefvermerk zur Rollenzu..._
-
-# Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand
-
-## Zweck / Purpose
-
-Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO unterfaellt und damit ein Auftragsverarbeitungsvertrag (AVV / Data Processing Agreement, DPA) abzuschliessen ist. Purpose (EN): Determine whether a contractual relationship triggers Art. 28 GDPR data processing on behalf of a controller and therefore requires a DPA.
-
-## Wann dieses Modul hilft
-
-- Mandant bezieht einen IT-/Cloud-/SaaS-Dienst und ist unsicher, ob AVV erforderlich ist.
-- Mandant ist Anbieter und prueft, ob er als Auftragsverarbeiter einzustufen ist.
-- Es bestehen Zweifel, ob nicht stattdessen Art. 26 DSGVO (gemeinsame Verantwortlichkeit) oder eine eigenstaendige Verantwortlichkeit (Funktionsuebertragung, separate Verantwortliche) vorliegt.
-- Eine Aufsichtsbehoerde fragt nach Rollenzuordnung im Verarbeitungsverzeichnis (Art. 30 DSGVO).
-
-## Rechtlicher Rahmen
-
-- Art. 4 Nr. 7 DSGVO: Verantwortlicher entscheidet ueber Zwecke und Mittel.
-- Art. 4 Nr. 8 DSGVO: Auftragsverarbeiter verarbeitet im Auftrag des Verantwortlichen.
-- Art. 28 Abs. 1 DSGVO: Auswahl nur solcher Auftragsverarbeiter, die hinreichende Garantien bieten.
-- Art. 28 Abs. 3 DSGVO: AVV in Schriftform oder elektronisch; Mindestinhalte lit. a bis h.
-- Art. 28 Abs. 10 DSGVO: Eigenstaendige Verantwortlichkeit des Auftragsverarbeiters bei Ueberschreiten der Weisungen.
-- Art. 29 DSGVO: Weisungsgebundenheit der Verarbeitung.
-- § 62 BDSG: Spezialnormen für öffentliche Stellen.
-- EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (angenommen 07.07.2021).
-
-## Ablauf / Checkliste
-
-1. **Sachverhalt erfassen.**
- - Welche personenbezogenen Daten werden verarbeitet?
- - Welcher Akteur entscheidet ueber Zweck (Wozu?) und Mittel (Wie?)?
- - Gibt es Weisungsmoeglichkeiten und Weisungsrechte?
- - Welchen wirtschaftlichen Vorteil zieht jeder Akteur aus der Verarbeitung?
-
-2. **Drei-Stufen-Test für Rollenzuordnung.**
-
- | Frage | Indiz für Auftragsverarbeitung | Indiz gegen Auftragsverarbeitung |
- |---|---|---|
- | Wer legt Zweck fest? | Verantwortlicher allein | Dienstleister mitbestimmend |
- | Wer legt wesentliche Mittel fest? | Verantwortlicher | Dienstleister bestimmt Architektur und Datenlogik |
- | Eigene Datennutzung des Dienstleisters? | Nein, nur weisungsgebunden | Ja, für eigene Zwecke (Werbung, KI-Training, Statistik) |
- | Wirtschaftliches Interesse | Verantwortlicher | Dienstleister hat eigenes Interesse an Daten |
- | Berufsbild | Reiner Auftragnehmer | Eigene Rechtsdienstleistung, Berufstraegerstellung |
-
-3. **Negativabgrenzung.**
- - **Funktionsuebertragung:** Bei Berufsgeheimnistraegern (Steuerberater, Rechtsanwaelte, Aerzte), Inkassodienstleistern und Wirtschaftspruefern ist die Rollenzuordnung wegen § 203 StGB und § 43a Abs. 2 BRAO besonders kritisch (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
- - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam ueber Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
- - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten für eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
-
-4. **Rechtsfolge feststellen.**
- - Auftragsverarbeitung bejaht: AVV-Pflicht nach Art. 28 Abs. 3 DSGVO.
- - Keine Verarbeitung im Auftrag, sondern Art. 26 DSGVO: Joint-Controller-Vereinbarung (Querverweis: avv-art-26-joint-controllership-deutsch).
- - Funktionsuebertragung: Eigener Vertragstyp, ggf. Datenuebermittlungsklausel und Geheimhaltungsvereinbarung statt AVV.
-
-5. **Dokumentation.**
- - Im Verarbeitungsverzeichnis Art. 30 DSGVO: Rolle eintragen.
- - AVV als Anlage zum Hauptvertrag oder eigenstaendig.
-
-## Mustertext / Template
-
-Praeambel-Klausel für einen AVV nach Art. 28 DSGVO:
-
-> "Der Auftraggeber (im Folgenden 'Verantwortlicher' im Sinne des Art. 4 Nr. 7 DSGVO) beauftragt den Auftragnehmer (im Folgenden 'Auftragsverarbeiter' im Sinne des Art. 4 Nr. 8 DSGVO) mit der Verarbeitung personenbezogener Daten im Auftrag und nach Weisung des Verantwortlichen. Gegenstand, Dauer, Art und Zweck der Verarbeitung, die Art der personenbezogenen Daten sowie die Kategorien betroffener Personen sind in Anlage 1 abschliessend beschrieben. Der Auftragsverarbeiter verarbeitet die personenbezogenen Daten ausschliesslich auf dokumentierte Weisung des Verantwortlichen, soweit nicht eine Verarbeitungspflicht nach Unionsrecht oder dem Recht der Mitgliedstaaten besteht; in diesem Fall teilt der Auftragsverarbeiter dem Verantwortlichen diese rechtliche Verpflichtung vor der Verarbeitung mit, sofern das betreffende Recht eine solche Mitteilung nicht wegen eines wichtigen öffentlichen Interesses verbietet."
-
-## Typische Drafting-Fehler
-
-- AVV abgeschlossen, obwohl tatsaechlich Art. 26 DSGVO (gemeinsame Verantwortlichkeit) gegeben ist – falsche Rollenzuordnung wird durch AVV nicht geheilt.
-- Pauschalverweis auf "Datenschutz" statt konkreter Mindestinhalte nach Art. 28 Abs. 3 lit. a bis h DSGVO.
-- AVV mit Berufstraegern ohne Beruecksichtigung von § 203 StGB.
-- Vermischung mit allgemeinen Geheimhaltungsklauseln; AVV-Pflichten sind eigenstaendig.
-- AVV erst nach Verarbeitungsbeginn abgeschlossen (Art. 28 Abs. 9 DSGVO Form).
-
-## Quellen Stand 06/2026
-
-- DSGVO Art. 4 Nr. 7, Nr. 8, Art. 28, Art. 29.
-- BDSG § 62.
-- EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021); abrufbar ueber edpb.europa.eu.
-- EuGH C-25/17 (Zeugen Jehovas) – verifiziertes Aktenzeichen; Volltext ueber curia.europa.eu pruefen.
-- EuGH C-210/16 (Wirtschaftsakademie / Fanpages) – Aktenzeichen verifiziert.
-- EuGH C-40/17 (Fashion ID) – Aktenzeichen verifiziert.
-- Verbindlich zur Zitierweise: `../../../references/zitierweise.md`.
-- Kommentar-, Handbuch- und Aufsatzfundstellen nur, wenn der Mandant die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Normen und Rechtsprechung
 

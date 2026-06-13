@@ -32,7 +32,7 @@ _Einstieg, Schnelltriage und Fallrouting für Commercial-Courts-Verfahren in Deu
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Commercial Courts Deutschland** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Commercial Courts Deutschland** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -392,7 +392,7 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 | **termination for cause** | außerordentliche Kündigung | § 314 BGB Dauerschuldverhältnis, wichtiger Grund |
 | **termination for convenience** | ordentliche Kündigung ohne Grund | abhängig vom Vertragstyp; bei Werk-/Dienstvertrag in Schranken (§§ 627, 649 BGB) |
 | **force majeure** | höhere Gewalt | § 275 Abs. 1 BGB Unmöglichkeit; sehr restriktive deutsche Praxis (Pandemie meist nicht) |
-| **gross negligence** | grobe Fahrlässigkeit | § 277 BGB diligentia quam in suis; in AGB Haftungsbeschränkung unwirksam § 309 Nr. 7 BGB |
+| **groß negligence** | grobe Fahrlässigkeit | § 277 BGB diligentia quam in suis; in AGB Haftungsbeschränkung unwirksam § 309 Nr. 7 BGB |
 | **wilful misconduct** | Vorsatz | § 276 Abs. 3 BGB Haftung kann nicht ausgeschlossen werden |
 | **specific performance** | tatsächliche Erfüllung | gesetzlicher Regelfall in Deutschland § 241 Abs. 1 BGB; Käufer kann auf Nacherfüllung bestehen § 439 BGB |
 | **consequential damages** | Folgeschäden | unter BGB ohne Ausschluss erstattbar § 252 BGB; vertragliche Beschränkung üblich |

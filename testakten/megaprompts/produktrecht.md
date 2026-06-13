@@ -11,11 +11,11 @@ Dieser Megaprompt enthaelt top-10 von 65 Skills des Plugins `produktrecht`.
 3. **anpassen** — Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut ausz…
 4. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Produktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wuns…
 5. **ce-kennzeichnung-routenplan** — CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Me…
-6. **dual-use-produktrecht** — Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichte…
-7. **ist-ki-act-marktueberwachung-kommunikation** — Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden w…
-8. **kaltstart-interview** — Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfas…
-9. **launch-pruefung** — Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, ob das Produkt oder Feature produktrechtlich freigegeben…
-10. **mandat-arbeitsbereich** — Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene).…
+6. **ist-ki-act-marktueberwachung-kommunikation** — Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden w…
+7. **kaltstart-interview** — Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfas…
+8. **launch-pruefung** — Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, ob das Produkt oder Feature produktrechtlich freigegeben…
+9. **mandat-arbeitsbereich** — Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene).…
+10. **preisangaben** — Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versand…
 
 ---
 
@@ -71,7 +71,7 @@ _Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Produktrecht
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Produktrechtliche Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Produktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Produktrechtliche Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Produktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -93,10 +93,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -361,7 +361,7 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 
 - **DDG** — Digitale-Dienste-Gesetz; nationales Ausfuehrungsgesetz; §§ 5 und 6 DDG regeln Anbieterkennzeichnungspflicht (Impressum).
 - **PAngV** — Preisangabenverordnung 2022; regelt Gesamtpreise, Grundpreise, Streichpreise und die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen.
-- **UWG** — Gesetz gegen den unlauteren Wettbewerb; Massstab für irrefuehrende Werbeaussagen, vergleichende Werbung und aggressive Geschaeftspraktiken.
+- **UWG** — Gesetz gegen den unlauteren Wettbewerb; Maßstab für irrefuehrende Werbeaussagen, vergleichende Werbung und aggressive Geschäftspraktiken.
 - **ProdSG** — Produktsicherheitsgesetz; regelt Sicherheitsanforderungen und Marktueberaufsicht.
 - **CE-Kennzeichnung** — Konformitaetszeichen für Produkte, die EU-Harmonisierungsrecht entsprechen; Pflicht für viele Produktkategorien.
 - **Health Claims** — Naehrwert- und gesundheitsbezogene Angaben; geregelt in VO (EG) 1924/2006; strenge Zulassungspflicht.
@@ -373,7 +373,7 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 - §§ 5 und 6 DDG — Impressumspflicht.
 - § 18 MStV — Impressumspflicht im Rundfunk- und Medienbereich.
 - PAngV 2022 — Preisangaben; insb. § 11 PAngV (Streichpreise), § 4 PAngV (Grundpreis).
-- UWG §§ 3 bis 7 — Irrefuehrende und aggressive Geschaeftspraktiken.
+- UWG §§ 3 bis 7 — Irrefuehrende und aggressive Geschäftspraktiken.
 - ProdSG, EU-Produktsicherheits-VO 2023/988 — Produktsicherheit und CE-Konformitaet.
 - VO (EG) 1924/2006 — Health Claims.
 - AI Act (EU) 2024/1689 — KI-VO; Risikoklassen für KI-Systeme (relevant für KI-Features).
@@ -392,7 +392,7 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 **Konfiguration und Mandatsverwaltung**
 
 - `produktrecht-kaltstart-interview` — Plugin erstmalig einrichten; Risikokalibrierung, Launch-Framework, Eskalationsmatrix.
-- `produktrecht-anpassen` — Einzelne Elemente des Praxisprofils aendern ohne Kaltstart-Interview.
+- `produktrecht-anpassen` — Einzelne Elemente des Praxisprofils ändern ohne Kaltstart-Interview.
 - `produktrecht-mandat-arbeitsbereich` — Produktmandate anlegen, wechseln, abschliessen.
 
 **Triage und Launch**
@@ -405,23 +405,23 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 
 - `impressum-pflicht` — Impressumspflicht nach §§ 5 und 6 DDG und § 18 MStV; konformer Impressumstext; Abmahnrisiken.
 - `preisangaben` — PAngV 2022: Gesamtpreise, Grundpreise, Streichpreise, 30-Tage-Niedrigstpreisregel.
-- `werbeaussagen-pruefung` — Werbebehauptungen auf UWG-, Health-Claims- und ESG-Risiken pruefen.
+- `werbeaussagen-pruefung` — Werbebehauptungen auf UWG-, Health-Claims- und ESG-Risiken prüfen.
 
 ## Worauf besonders achten
 
-- **Impressumspflicht gilt auch für Social-Media-Profile** — Gewerblich genutzte Profile bei Instagram, LinkedIn oder X muessen vollstaendiges Impressum enthalten oder klar darauf verlinken.
-- **30-Tage-Regel ist keine Empfehlung, sondern Pflicht** — Streichpreise muessen auf dem Niedrigstpreis der letzten 30 Tage vor Reduzierung basieren; Verstaesse sind abmahnbar.
-- **KI-Features benoetigen KI-VO-Check** — Der AI Act gilt für KI-Systeme ab August 2026 in vollem Umfang; Hochrisiko-Systeme und verbotene Praktiken muessen vorab identifiziert werden.
+- **Impressumspflicht gilt auch für Social-Media-Profile** — Gewerblich genutzte Profile bei Instagram, LinkedIn oder X müssen vollstaendiges Impressum enthalten oder klar darauf verlinken.
+- **30-Tage-Regel ist keine Empfehlung, sondern Pflicht** — Streichpreise müssen auf dem Niedrigstpreis der letzten 30 Tage vor Reduzierung basieren; Verstaesse sind abmahnbar.
+- **KI-Features benoetigen KI-VO-Check** — Der AI Act gilt für KI-Systeme ab August 2026 in vollem Umfang; Hochrisiko-Systeme und verbotene Praktiken müssen vorab identifiziert werden.
 - **Health Claims erfordern Zulassung** — Nicht zugelassene Gesundheitsversprechen sind ohne Ausnahme unzulaessig; Positivliste VO 1924/2006 ist abschliessend.
 - **Risikokalibrierung ist Ausgangspunkt** — Ohne konfiguriertes Praxisprofil liefert das Plugin nur generische Ergebnisse; `produktrecht-kaltstart-interview` zuerst ausfuehren.
 
 ## Typische Fehler
 
 - Impressum fehlt oder ist unvollstaendig (keine Rechtsform, kein Vertretungsberechtigter, keine USt-IdNr. bei Pflicht); erhoehtes Abmahnrisiko.
-- Streichpreis-Aktion wird ohne Pruefung des Niedrigstpreises der letzten 30 Tage gestartet; PAngV-Verstoss.
-- Feature mit KI-Komponente wird gelauncht ohne Pruefung, ob es als Hochrisiko-KI-System nach AI Act gilt.
+- Streichpreis-Aktion wird ohne Prüfung des Niedrigstpreises der letzten 30 Tage gestartet; PAngV-Verstoss.
+- Feature mit KI-Komponente wird gelauncht ohne Prüfung, ob es als Hochrisiko-KI-System nach AI Act gilt.
 - Werbeaussage zu Klimaneutralitaet oder Nachhaltigkeit wird nicht mit belastbaren Nachweisen unterlegt; Greenwashing-Abmahnrisiko.
-- Launch-Pruefung wird als Checkliste abgehakt, ohne Risikokalibrierung und Eskalationsschwellen der eigenen Rechtsabteilung.
+- Launch-Prüfung wird als Checkliste abgehakt, ohne Risikokalibrierung und Eskalationsschwellen der eigenen Rechtsabteilung.
 
 ## Quellen und Aktualitaet
 
@@ -482,78 +482,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `dual-use-produktrecht`
-
-_Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht u..._
-
-# Dual-Use im Produktrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Dual-Use im Produktrecht
-- **Normen-/Quellenanker:** EG, VO, AWG, AWV.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -729,7 +677,7 @@ _Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Ris
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Produktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Produktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -1516,6 +1464,142 @@ Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die
 
 <!-- AUDIT 27.05.2026 bundle_040
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+-->
+
+---
+
+## Skill: `preisangaben`
+
+_Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe im Pro..._
+
+# Preisangaben (PAngV 2022)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
+- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+Das Modell benötigt:
+
+- **Art des Angebots**: Online-Shop, stationärer Handel, Werbeanzeige (Online/Print/Social Media)?
+- **Produkt**: Lebensmittel, Kosmetik, Drogerieartikel, Elektronik, Textilien?
+- **Preisstruktur**: Endpreis inkl. MwSt., Grundpreis (Menge/Gewicht), Versandkosten?
+- **Preisreduktion**: Liegt eine Preissenkung vor? Wie wird sie kommuniziert (Streichpreis, Prozentangabe "-30 %", "Sale")?
+- **Referenzpreis**: Was ist der Referenzpreis für die Streichpreisangabe? Seit wann galt er?
+- **30-Tage-Preishistorie**: Was war der niedrigste Preis in den letzten 30 Tagen vor der Preisreduzierung?
+- **Zielgruppe**: Ausschließlich Verbraucher (B2C) oder auch Unternehmer (B2B)?
+
+## Rechtlicher Rahmen
+
+### Primärnormen
+
+- **§ 3 PAngV (Gesamtpreis)**: Gegenüber Verbrauchern ist stets der Gesamtpreis (einschließlich aller Steuern und Abgaben) anzugeben; eindeutig, leicht erkennbar, gut lesbar oder hörbar.
+- **§ 4 PAngV (Grundpreis)**: Bei Erzeugnissen nach Gewicht, Volumen, Länge oder Fläche ist neben dem Gesamtpreis der Grundpreis pro Mengeneinheit anzugeben; gilt für Lebensmittel, Kosmetika, Waschmittel, Tierfutter u.a. Ausnahmen: § 9 PAngV (Kleinunternehmen, Einzelhandel).
+- **§ 6 PAngV (Versandkosten)**: Versandkosten sind klar anzugeben oder darauf hinzuweisen, dass weitere Kosten anfallen, bevor der Verbraucher seine Bestellung abgibt; kein verstecktes Aufschlagen nach Checkout-Einstieg.
+- **§ 11 PAngV (Streichpreis/Preisreduzierung)**: Bei Ankündigung einer Preisermäßigung muss als Referenzpreis der niedrigste Gesamtpreis verwendet werden, den der Händler in den letzten 30 Tagen vor der Preisreduzierung gegenüber Verbrauchern gefordert hat (Umsetzung Art. 6a Preisangaben-RL, eingefügt durch Omnibus-RL 2019/2161).
+- **§ 5a Abs. 2, 4 UWG**: Vorenthalten wesentlicher Preisangaben als unlautere Handlung; Grundlage für Unterlassungsansprüche, Abmahnungen, einstweiligen Rechtsschutz.
+- **§ 19 PAngV (Bußgeld)**: Verstöße gegen PAngV sind Ordnungswidrigkeiten; Bußgeld bis 25.000 EUR.
+
+### Leitentscheidungen
+
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Ablauf
+
+**Schritt 1 – Pflicht zur Gesamtpreisangabe prüfen (§ 3 PAngV)**
+- Richtet sich das Angebot an Verbraucher (§ 13 BGB)?
+- Gesamtpreis inkl. MwSt. und sämtlicher Pflichtabgaben angeben.
+- Keine "ab"-Preise, wenn kein Produkt tatsächlich zu diesem Preis verfügbar ist.
+
+**Schritt 2 – Grundpreispflicht prüfen (§ 4 PAngV)**
+- Produkt nach Gewicht/Volumen/Länge/Fläche? → Grundpreis pro kg/l/m/m² angeben.
+- Ausnahmen: § 9 PAngV (Kleinunternehmen im stationären Handel), Fertigpackungen < 10 g/ml.
+- Grundpreis darf nicht kleiner als Gesamtpreis dargestellt werden; gleich auffällige Platzierung.
+
+**Schritt 3 – Versandkosten (§ 6 PAngV)**
+- Versandkosten separat ausweisen oder auf Versandkostenfreiheit hinweisen.
+- Bei variablen Kosten (nach Lieferort/Gewicht): spätestens vor Kaufabschluss vollständig ausweisen.
+- Keine Aufdeckung zusätzlicher Kosten erst im Checkout-Prozess (irreführend nach § 5a UWG).
+
+**Schritt 4 – Streichpreisangabe und 30-Tage-Regel (§ 11 PAngV)**
+- Liegt eine Preisermäßigung vor (Streichpreis, "-30 %", "Sale", "Angebot")?
+- Ermittlung des Niedrigstpreises der letzten 30 Tage: niedrigster Gesamtpreis (inkl. aller vorherigen Aktionspreise) im 30-Tage-Fenster vor Beginn der aktuellen Preisreduzierung.
+- Dieser Niedrigstpreis = einzig zulässiger Referenzpreis für die Streichpreisdarstellung.
+- Bei rollierenden Aktionen (Preis sinkt schrittweise): Niedrigstpreis entsprechend aktualisieren.
+- Bei neuen Produkten (< 30 Tage am Markt): § 11 PAngV gilt ab ersten Preissenkung; Referenzpreis ist der Einführungspreis.
+
+**Schritt 5 – UWG-Risikobewertung**
+- PAngV ist Marktverhaltensregel i.S.d. § 3a UWG; jeder Verstoß ist per se abmahnfähig.
+- Abmahner: Mitbewerber (§ 8 Abs. 3 Nr. 1 UWG), Verbände (§ 8 Abs. 3 Nr. 2 UWG), Verbraucherzentralen.
+- Streitwerte bei Streichpreisfehlern: regelmäßig 10.000–30.000 EUR.
+- Wiederholungsgefahr nach Abmahnung: strafbewehrte Unterlassungserklärung oder gerichtliche Unterlassung.
+
+**Schritt 6 – Dokumentation**
+- 30-Tage-Preishistorie für alle Produkte mit Aktionen intern dokumentieren und archivieren (Beweislast im UWG-Prozess beim Händler).
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 1-4 PAngV (Preisangaben, Gesamtpreis, Grundpreis) — § 11 PAngV (30-Tage-Niedrigstpreisregel) — §§ 3, 5 UWG (Irreführende Werbung, Preisgestaltung) — Art. 6a RL 98/6/EG i.d.F. Omnibus-RL 2019/2161 (Preisreduzierungen)
+
+## Ausgabeformat
+
+- **Preisauszeichnungs-Checkliste** (Tabelle): § 3 / § 4 / § 6 / § 11 PAngV × Anforderung × Status × Handlungsbedarf.
+- **Streichpreis-Prüfmemo**: Referenzpreisermittlung mit 30-Tage-Analyse, rechtliche Bewertung.
+- **Muster-Preisauszeichnung**: Formatbeispiel für Online-Shop (Gesamtpreis + Grundpreis + Versandkostenhinweis + Streichpreis korrekt).
+
+## Beispiel
+
+**Sachverhalt**: Online-Händler H bewirbt Olivenöl (1 l) mit "UVP 12,99 € jetzt 8,99 €". Der niedrigste Preis der letzten 30 Tage vor der Aktion war 9,49 € (kurze Aktionswoche). H gibt als Streichpreis 12,99 € an.
+
+**Gutachtenstil**:
+
+*Gesamtpreis (§ 3 PAngV)*: 8,99 € inkl. MwSt. korrekt angegeben; Gesamtpreispflicht erfüllt.
+
+*Grundpreis (§ 4 PAngV)*: Olivenöl ist ein Lebensmittel nach Volumen; Grundpreis pro Liter = 8,99 €/l muss neben dem Gesamtpreis angegeben werden. Fehlt im Sachverhalt; Verstoß gegen § 4 PAngV.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+*Rechtsfolge*: Verstoß gegen § 11 PAngV begründet Abmahnrisiko nach § 3a UWG (Sosnitza, in: Ohly/Sosnitza, UWG, 8. Aufl. 2023, PAngV Vorbem. Rn. 18); Bußgeld nach § 19 PAngV bis 25.000 EUR.
+
+## Risiken und typische Fehler
+
+- **UVP als Streichpreis**: UVP des Herstellers ist kein zulässiger Alleinreferenzpreis nach § 11 PAngV; nur zulässig als zusätzliche Information, wenn der 30-Tage-Niedrigstpreis daneben angegeben wird.
+- **Rollierend sinkende Preise**: Bei schrittweise absinkenden Preisen (Black-Friday-Countdown) muss der Referenzpreis täglich angepasst werden – der jeweils niedrigste der letzten 30 Tage.
+- **Grundpreis vergessen**: Häufig bei Haushalts- und Drogerieprodukten; Fehlen des Grundpreises ist eigenständiger PAngV-Verstoß.
+- **Versandkosten im Checkout**: Erst nach Eingabe der Adresse sichtbare Versandkosten verstoßen gegen § 6 PAngV.
+- **B2B-Ausnahme zu schnell**: PAngV gilt nur gegenüber Verbrauchern (§ 1 Abs. 1 PAngV); bei gemischtem B2C/B2B-Shop: PAngV-Anforderungen für alle Produkte, die auch Verbrauchern angeboten werden.
+- **Dokumentationspflicht unterschätzt**: Im UWG-Abmahnverfahren trägt der Händler die Darlegungs- und Beweislast für die Preishistorie; fehlende interne Preisaufzeichnungen sind prozessual riskant.
+
+## Quellenpflicht
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur task_198 (3 Probleme):
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Naehrwertdeklaration/LMIV, nicht PAngV/Streichpreise — kein passender Ersatz.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Preisangabenrechtliche Entscheidungen nur mit Gericht, Datum, Aktenzeichen
+ und freier/amtlicher Quelle in die Ausgabe übernehmen.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ explizites AZ-Zitat vorhanden; AZ existiert (BGH 25.03.2021), betrifft aber
+ Nutzungsentgelt für bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
+ kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
 -->
 
 ---

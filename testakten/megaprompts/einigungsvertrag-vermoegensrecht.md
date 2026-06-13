@@ -27,7 +27,7 @@ _Einigungsvertrag und Vermögensrecht: Kaltstart, Aktenlandkarte, Rollenklärung
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Einigungsvertrag Vermoegensrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Einigungsvertrag Vermögensrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -79,7 +79,7 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 _Einigungsvertrag und Vermögensrecht: Art. 21 und Art. 22 Vermögen trennen. Art. 21 und Art. 22 Vermögen trennen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret di..._
 
-# Art 21 Und Art 22 Vermoegen Trennen
+# Art 21 Und Art 22 Vermögen Trennen
 
 ## Arbeitsbereich
 
@@ -305,7 +305,7 @@ _Einigungsvertrag und Vermögensrecht: Historische Akte quellenkritisch lesen. H
 
 _Einigungsvertrag und Vermögensrecht: Mauergrundstücksgesetz prüfen. Mauergrundstücksgesetz prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägige..._
 
-# Mauergrundstuecksgesetz Pruefen
+# Mauergrundstuecksgesetz Prüfen
 
 ## Arbeitsweg
 
@@ -367,7 +367,7 @@ _Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher Hand. Verglei
 
 _Einigungsvertrag und Vermögensrecht: Parteivermögen prüfen. Parteivermögen prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmer..._
 
-# Parteivermoegen Pruefen
+# Parteivermoegen Prüfen
 
 ## Arbeitsweg
 

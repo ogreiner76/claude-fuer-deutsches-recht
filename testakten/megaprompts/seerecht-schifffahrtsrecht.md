@@ -7,13 +7,13 @@ Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — See- und Schifffahrtsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und ers…
-2. **074-offshore-schiff-arrest-vorbereiten** — Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dingli…
-3. **auslandsflagge-local-insolvenz-reederei** — Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel für Regi…
-4. **bergung-und-wrack** — Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); W…
-5. **bermuda-struktur-seeschiff** — Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzun…
-6. **binnenschiff-arrest-wrackpflicht** — Binnenschiff: Glaeubiger sichert Anspruch an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff durch dinglichen Arrest…
-7. **binnenschiff-closing-planen** — Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff-Kaufs oder einer Finanzierung planen: Ei…
-8. **binnenschiff-hypothek-bestellen** — Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzie…
+2. **auslandsflagge-local-insolvenz-reederei** — Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel für Regi…
+3. **bergung-und-wrack** — Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); W…
+4. **bermuda-struktur-seeschiff** — Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzun…
+5. **binnenschiff-closing-planen** — Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff-Kaufs oder einer Finanzierung planen: Ei…
+6. **binnenschiff-hypothek-bestellen** — Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzie…
+7. **binnenschiff-kaufvertrag-scopen** — Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tank…
+8. **binnenschiff-risiko-memo-schreiben** — Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschif…
 
 ---
 
@@ -25,7 +25,7 @@ _See- und Schifffahrtsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen,
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Seerecht Schifffahrtsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Seerecht Schifffahrtsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -70,121 +70,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ## Quellen- und Qualitätsregel
 
 Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen mit Datum/Aktenzeichen und frei prüfbaren Quellen arbeiten. Literatur, Datenbanken hinter Paywalls und Fundstellen ohne Nutzerquelle nicht behaupten. Wenn Landesrecht, EU-Recht oder ausländisches Recht berührt ist, den Rechtsstand ausdrücklich live prüfen und die Ausgabe als Arbeitsfassung kennzeichnen.
-
----
-
-## Skill: `074-offshore-schiff-arrest-vorbereiten`
-
-_Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantra..._
-
-# Offshore-Schiff – Arrest vorbereiten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-Ein Hypothekengläubiger will ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
-
-## Erste Schritte
-1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentuemer des Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender konkretisieren.
-2. Arrestgrund glaublhaft machen: {vessel} wird Hafen verlassen; Reeder insolvent.
-3. LG am Liegeplatz (ZPO § 919) als zuständiges Gericht bestimmen.
-4. Arrestbeschluss beantragen; ohne Anhörung des Gegners moeglich.
-5. Vollziehung: Eintragung im Register (SchRegO § 67) binnen einem Monat.
-6. Freigabestrategie: LOU des P&I-Clubs oder Barzahlung als Alternative vorbereiten.
-
-## Rechtsrahmen
-- ZPO §§ 916-945 Arrest; ZPO § 929 Vollziehungsfrist; SchRegO § 67; ISAC 1952 Art. 1.
-
-## Prüfraster
-- Ist die Forderung eine Seeforderung nach ISAC 1952 Art. 1?
-- Liegt das Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Hafen und kann es noch abgefangen werden?
-- Ist der Arrestgrund (Fluchtgefahr) konkret dargelegt?
-- Ist die Vollziehungsfrist von 1 Monat realistisch einzuhalten?
-- Besteht Risiko des ZPO § 945-Schadensersatzes bei unberechtigtem Arrest?
-
-## Typische Fallstricke
-- Arrest ohne Registereintragung (SchRegO § 67) ist wirkungslos.
-- LOU des P&I-Clubs beendet Arrest, nicht die Forderung; Klage geht weiter.
-- ZPO § 945-Schadensersatz bei unberechtigtem Arrest kann erheblich sein.
-
-## Vertiefung: Internationale Seearrestpraxis
-International koordinieren sich Gläubiger häufig über die 1952 Brüsseler Seearrest-Konvention (ISAC 1952) und über P&I-Club-Korrespondenten. In der EU gilt ergänzend die EuGVVO 2012 (Brüssel Ia-VO) für Vollstreckung und gegenseitige Anerkennung von Arrestbeschlüssen. In Drittstaaten gelten nationaler Seearrest-Regeln; Koordination mit Local Counsel ist unverzichtbar.
-
-## Seeforderungen nach ISAC 1952 Art. 1
-Zum Arrest berechtigende Seeforderungen umfassen: Schiffsbau- und -reparaturkosten; Schiffsausrüstung; Schifffahrtsabgaben; Frachtzahlungen; Charterzahlungen; Bergungskosten; Schiffsgläubigerrechte; Konnossementsansprüche; Kollisionshaftung; Hypothekenansprüche. Nicht erfasst sind Ansprüche aus reinem Landtransport ohne Seebezug.
-
-## Verteidigungsstrategien des Schiffseigentümers
-- **Letter of Undertaking (LOU)**: P&I-Club stellt ein formelles Versprechen aus das Schiff zu stellen; Arrest wird aufgehoben; Rechtsstreit geht weiter.
-- **Gegenklage nach § 945 ZPO**: bei unberechtigtem Arrest; Schadensersatz für Liegekosten; entgangene Fracht; Reparaturkosten.
-- **Sofortige Sicherheitsleistung**: Zahlung unter Vorbehalt; Bankbürgschaft; Schuldschein.
-
-## Checkliste Arrest-Vorbereitung
-- [ ] Seeforderung nach ISAC 1952 Art. 1 identifiziert und dokumentiert
-- [ ] Schiff im Hafen bestätigt; Liegeplatz ermittelt
-- [ ] Zuständiges Gericht bestimmt (LG am Liegeplatz; ZPO § 919)
-- [ ] Arrestanspruch und Arrestgrund glaubhaft gemacht (Eidesstattliche Versicherung)
-- [ ] Arrestantrag (ZPO § 920) vollständig vorbereitet
-- [ ] Vollziehungsstrategie: Registereintragung (SchRegO § 67) plus physische Bewachung
-- [ ] Freigabe-Optionen identifiziert: LOU des P&I-Clubs; Bankbürgschaft
-- [ ] § 945-Schadensersatzrisiko bewertet
-
-## Relevante Rechtsprechung
-- LG Hamburg; OLG Hamburg zu Seearrest; Anforderungen an Arrestanspruch und -grund.
-- BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO § 945.
-- ITLOS Juno Trader Case No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release; Verhältnismäßigkeit der Sicherheitsleistung.
-
-## Normen im Überblick
-- ZPO § 916: dinglicher Arrest; Voraussetzungen; Arrestanspruch; Arrestgrund.
-- ZPO §§ 917-919: besondere Arrestgründe; örtliche Zuständigkeit (Liegeplatz).
-- ZPO § 920: Arrestantrag; Form; Glaubhaftmachung.
-- ZPO § 929: Vollziehungsfrist 1 Monat; Wirkungsverlust bei Nichtvollziehung.
-- ZPO § 945: Schadensersatz bei unberechtigtem oder wirkungslos gewordenem Arrest.
-- SchRegO § 67: Eintragung von Pfändungs- und Arrestvermerken im Schiffsregister.
-- ISAC 1952 Art. 1-8: Seeforderungen; Arrest an Schwesterschiffen; Verfahren.
-
-## Vertiefung Arrest
-
-### Seeforderungen und ISAC 1952
-Das ISAC 1952 definiert abschließend, für welche Forderungen ein Schiffsarrest zulässig ist (Art. 1). Deutschland ist Vertragsstaat; die meisten EU-Häfen ebenfalls. Im Nicht-Vertragsstaat gilt nationales Recht; die Anforderungen können abweichen.
-
-### Arrest vs. LOU des P&I-Clubs
-In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des P&I-Clubs abgewandt. Die LOU ist ein abstraktes Schuldversprechen des Clubs; sie wird nur ausgestellt, wenn die zugrundeliegende Forderung club-covered ist.
-
-## Normen-Synopse Arrest
-| Norm | Inhalt |
-|------|--------|
-| ZPO § 916 | Dinglicher Arrest |
-| ZPO § 920 | Arrestantrag |
-| ZPO § 929 | Vollziehungsfrist |
-| ZPO § 945 | Schadensersatz |
-| ISAC 1952 Art. 1 | Seeforderungen |
-
-## Quellen
-- ZPO §§ 916-945: https://dejure.org/gesetze/ZPO/916.html
-- SchRegO § 67: https://dejure.org/gesetze/SchRegO/67.html
-- ISAC 1952: https://www.admin.ch/opc/de/classified-compilation/19520172/index.html
-- openjur LG Hamburg Arrest: https://www.openjur.de
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 4 WSG
-- § 267 StGB
-- § 49 EStG
-- § 8b KStG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
@@ -503,121 +388,6 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ---
 
-## Skill: `binnenschiff-arrest-wrackpflicht`
-
-_Binnenschiff: Glaeubiger sichert Anspruch an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein..._
-
-# Binnenschiff – Arrest vorbereiten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-Ein Hypothekengläubiger will ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
-
-## Erste Schritte
-1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentuemer des Binnenmotorgueterschiff; Tanker oder Fahrgastschiff konkretisieren.
-2. Arrestgrund glaublhaft machen: {vessel} wird Hafen verlassen; Reeder insolvent.
-3. LG am Liegeplatz (ZPO § 919) als zuständiges Gericht bestimmen.
-4. Arrestbeschluss beantragen; ohne Anhörung des Gegners moeglich.
-5. Vollziehung: Eintragung im Register (SchRegO § 67) binnen einem Monat.
-6. Freigabestrategie: LOU des P&I-Clubs oder Barzahlung als Alternative vorbereiten.
-
-## Rechtsrahmen
-- ZPO §§ 916-945 Arrest; ZPO § 929 Vollziehungsfrist; SchRegO § 67; ISAC 1952 Art. 1.
-
-## Prüfraster
-- Ist die Forderung eine Seeforderung nach ISAC 1952 Art. 1?
-- Liegt das Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Hafen und kann es noch abgefangen werden?
-- Ist der Arrestgrund (Fluchtgefahr) konkret dargelegt?
-- Ist die Vollziehungsfrist von 1 Monat realistisch einzuhalten?
-- Besteht Risiko des ZPO § 945-Schadensersatzes bei unberechtigtem Arrest?
-
-## Typische Fallstricke
-- Arrest ohne Registereintragung (SchRegO § 67) ist wirkungslos.
-- LOU des P&I-Clubs beendet Arrest, nicht die Forderung; Klage geht weiter.
-- ZPO § 945-Schadensersatz bei unberechtigtem Arrest kann erheblich sein.
-
-## Vertiefung: Internationale Seearrestpraxis
-International koordinieren sich Gläubiger häufig über die 1952 Brüsseler Seearrest-Konvention (ISAC 1952) und über P&I-Club-Korrespondenten. In der EU gilt ergänzend die EuGVVO 2012 (Brüssel Ia-VO) für Vollstreckung und gegenseitige Anerkennung von Arrestbeschlüssen. In Drittstaaten gelten nationaler Seearrest-Regeln; Koordination mit Local Counsel ist unverzichtbar.
-
-## Seeforderungen nach ISAC 1952 Art. 1
-Zum Arrest berechtigende Seeforderungen umfassen: Schiffsbau- und -reparaturkosten; Schiffsausrüstung; Schifffahrtsabgaben; Frachtzahlungen; Charterzahlungen; Bergungskosten; Schiffsgläubigerrechte; Konnossementsansprüche; Kollisionshaftung; Hypothekenansprüche. Nicht erfasst sind Ansprüche aus reinem Landtransport ohne Seebezug.
-
-## Verteidigungsstrategien des Schiffseigentümers
-- **Letter of Undertaking (LOU)**: P&I-Club stellt ein formelles Versprechen aus das Schiff zu stellen; Arrest wird aufgehoben; Rechtsstreit geht weiter.
-- **Gegenklage nach § 945 ZPO**: bei unberechtigtem Arrest; Schadensersatz für Liegekosten; entgangene Fracht; Reparaturkosten.
-- **Sofortige Sicherheitsleistung**: Zahlung unter Vorbehalt; Bankbürgschaft; Schuldschein.
-
-## Checkliste Arrest-Vorbereitung
-- [ ] Seeforderung nach ISAC 1952 Art. 1 identifiziert und dokumentiert
-- [ ] Schiff im Hafen bestätigt; Liegeplatz ermittelt
-- [ ] Zuständiges Gericht bestimmt (LG am Liegeplatz; ZPO § 919)
-- [ ] Arrestanspruch und Arrestgrund glaubhaft gemacht (Eidesstattliche Versicherung)
-- [ ] Arrestantrag (ZPO § 920) vollständig vorbereitet
-- [ ] Vollziehungsstrategie: Registereintragung (SchRegO § 67) plus physische Bewachung
-- [ ] Freigabe-Optionen identifiziert: LOU des P&I-Clubs; Bankbürgschaft
-- [ ] § 945-Schadensersatzrisiko bewertet
-
-## Relevante Rechtsprechung
-- LG Hamburg; OLG Hamburg zu Seearrest; Anforderungen an Arrestanspruch und -grund.
-- BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO § 945.
-- ITLOS Juno Trader Case No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release; Verhältnismäßigkeit der Sicherheitsleistung.
-
-## Normen im Überblick
-- ZPO § 916: dinglicher Arrest; Voraussetzungen; Arrestanspruch; Arrestgrund.
-- ZPO §§ 917-919: besondere Arrestgründe; örtliche Zuständigkeit (Liegeplatz).
-- ZPO § 920: Arrestantrag; Form; Glaubhaftmachung.
-- ZPO § 929: Vollziehungsfrist 1 Monat; Wirkungsverlust bei Nichtvollziehung.
-- ZPO § 945: Schadensersatz bei unberechtigtem oder wirkungslos gewordenem Arrest.
-- SchRegO § 67: Eintragung von Pfändungs- und Arrestvermerken im Schiffsregister.
-- ISAC 1952 Art. 1-8: Seeforderungen; Arrest an Schwesterschiffen; Verfahren.
-
-## Vertiefung Arrest
-
-### Seeforderungen und ISAC 1952
-Das ISAC 1952 definiert abschließend, für welche Forderungen ein Schiffsarrest zulässig ist (Art. 1). Deutschland ist Vertragsstaat; die meisten EU-Häfen ebenfalls. Im Nicht-Vertragsstaat gilt nationales Recht; die Anforderungen können abweichen.
-
-### Arrest vs. LOU des P&I-Clubs
-In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des P&I-Clubs abgewandt. Die LOU ist ein abstraktes Schuldversprechen des Clubs; sie wird nur ausgestellt, wenn die zugrundeliegende Forderung club-covered ist.
-
-## Normen-Synopse Arrest
-| Norm | Inhalt |
-|------|--------|
-| ZPO § 916 | Dinglicher Arrest |
-| ZPO § 920 | Arrestantrag |
-| ZPO § 929 | Vollziehungsfrist |
-| ZPO § 945 | Schadensersatz |
-| ISAC 1952 Art. 1 | Seeforderungen |
-
-## Quellen
-- ZPO §§ 916-945: https://dejure.org/gesetze/ZPO/916.html
-- SchRegO § 67: https://dejure.org/gesetze/SchRegO/67.html
-- ISAC 1952: https://www.admin.ch/opc/de/classified-compilation/19520172/index.html
-- openjur LG Hamburg Arrest: https://www.openjur.de
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 4 WSG
-- § 267 StGB
-- § 49 EStG
-- § 8b KStG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
 ## Skill: `binnenschiff-closing-planen`
 
 _Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schiff..._
@@ -640,7 +410,7 @@ Der Kauf eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff soll abgeschl
 2. Loeschungsbewilligungen (SchRG § 19) beschaffen; zeitlich koordinieren.
 3. Escrow-Konto einrichten: Kaufpreis gegen Loeschungsbestaetigung.
 4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
-5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentuemer ummelden.
+5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentümer ummelden.
 6. Registerauszug nach Closing beschaffen; Closing-Memo erstellen.
 
 ## Rechtsrahmen
@@ -649,7 +419,7 @@ Der Kauf eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff soll abgeschl
 ## Prüfraster
 - Sind alle Loeschungsbewilligungen zeitlich koordiniert?
 - Ist der Escrow-Mechanismus wasserdicht gegen Insolvenz des Verkaeufers?
-- Sind alle Zertifikate für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff auf neuen Eigentuemer vorbereitet?
+- Sind alle Zertifikate für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff auf neuen Eigentümer vorbereitet?
 - Ist der Flaggenwechsel (wenn vorgesehen) vorbereitet?
 - Ist die Vollmacht für den Registerantrag aktuell?
 
@@ -752,10 +522,10 @@ Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Sch
 Eine Bank bestellt eine Hypothek auf ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
-1. Eintragungsfaehigkeit des Binnenmotorgueterschiff; Tanker oder Fahrgastschiffs pruefen; Eintragung im Binnenschiffsregister (AG Duisburg-Ruhrort) bestaetigen.
+1. Eintragungsfaehigkeit des Binnenmotorgueterschiff; Tanker oder Fahrgastschiffs prüfen; Eintragung im Binnenschiffsregister (AG Duisburg-Ruhrort) bestaetigen.
 2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
 3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
-4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
+4. Vertretungsbefugnis des Eigentuemers prüfen; ggf. Handelsregisterauszug.
 5. Eintragungsantrag beim {reg_type}-Gericht stellen; Rangstelle fruehzeitig reservieren.
 6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
 
@@ -830,6 +600,207 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+---
+
+## Skill: `binnenschiff-kaufvertrag-scopen`
+
+_Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetrag..._
+
+# Binnenschiff – Kaufvertrag scopen
+
+## Arbeitsbereich
+
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+Ein Investor kauft ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
+
+## Erste Schritte
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
+2. Lastenuebergang prüfen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
+3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan prüfen.
+4. Zertifikatsstatus klären: Klasse; ISM; MLC; ISPS; Übergabe oder Neuausstellung?
+5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
+6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
+
+## Rechtsrahmen
+- BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. ADN-Gefahrgut Binnenwasserstrassen; RheinSchPersV; CESNI-Standards.
+
+## Prüfraster
+- Sind alle Hypotheken und Lasten vor Eigentumsuebergang abzuloesen?
+- Enthaelt der Kaufvertrag eine umfassende Freistellungsklausel?
+- Sind Zertifikate (Klasse/ISM/MLC) als Closing-Bedingungen definiert?
+- Ist der Gewaehrleistungsausschluss rechtswirksam?
+- Ist Escrow-Mechanismus für simultane Transaktion vorgesehen?
+
+## Typische Fallstricke
+- Kaeufer haftet mit Binnenmotorgueterschiff; Tanker oder Fahrgastschiff für Altschulden bis zur Loeschung.
+- Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
+- Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
+
+## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
+International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.
+
+## Wesentliche Klauseln prüfen
+- **Deposit Clause**: Anzahlung (typisch 10%) als Sicherheit; bei Closing verrechenbar; bei Buyer-Default einbehalten.
+- **Delivery Condition**: clean class; no outstanding class recommendations; free of encumbrances.
+- **Bunker Provision**: aktuelle Bunker werden zum Tagesmarktpreis übernommen; gemessen bei Übergabe.
+- **Vessel Documents**: welche Originalzertifikate werden übergeben; welche müssen neu ausgestellt werden?
+- **Governing Law and Arbitration**: English Law und LMAA-Schiedsverfahren London ist Marktstandard.
+
+## Risiken und Gegenmaßnahmen
+Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassemängelempfehlungen; unbekannte Schiffsgläubigerrechte; laufende PSC-Banning; auslaufende ISM-/MLC-Zertifikate. Gegenmaßnahmen: umfassende Freistellungsklausel; Kaufpreiseinbehalt als Escrow; Closing-Conditions präzise definieren.
+
+## Checkliste Kaufvertrag-Prüfung
+- [ ] Kaufvertrag vollständig vorliegend (Hauptvertrag; Anhänge; Spezifikationen)
+- [ ] Kaufpreis und Zahlungsmodalitäten klar geregelt
+- [ ] Closing-Bedingungen (Delivery Conditions) präzise definiert
+- [ ] Lastenfreistellungsklausel des Verkäufers vollständig
+- [ ] Escrow-Mechanismus für simultane Zahlung und Eigentumsübergang geregelt
+- [ ] Gewährleistung (BGB §§ 433-479) oder Ausschluss (as-is) klar vereinbart
+- [ ] Zertifikate (Klasse; ISM; MLC; ISPS) als Closing-Conditions definiert
+- [ ] Rücktrittsrechte und Vertragsstrafen bei Verzögerung geregelt
+- [ ] Rechtswahl und Gerichtsstand/Schiedsklausel vereinbart
+
+## Relevante Rechtsprechung
+- BGH zur Gewährleistung beim Schiffskauf; arglistiges Verschweigen von Mängeln.
+- BGH zur Wirksamkeit von as-is-Klauseln in Kaufverträgen; Grenzen des Haftungsausschlusses.
+- LG Hamburg zu Closing-Bedingungen bei Schiffskäufen; Auslegung von Saleform-Vertragsklauseln.
+
+## Normen im Überblick
+- BGB § 433: Kaufvertrag; Pflichten des Verkäufers.
+- BGB §§ 434-442: Sachmangel; Rechtsmangel; Haftungsausschluss.
+- BGB §§ 437-441: Mängelrechte des Käufers; Nacherfüllung; Rücktritt; Minderung.
+- SchRG § 2: Eigentumsübergang nur durch Einigung und Eintragung; nicht durch Kaufvertrag allein.
+- SchRG § 19: Löschung der Hypothek durch Löschungsbewilligung des Gläubigers.
+- HGB §§ 480-482: Schiffslieferung im Kontext des Handelsrechts.
+
+## Quellen
+- SchRG § 2: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- BGB §§ 433-479: https://dejure.org/gesetze/BGB/433.html
+- HGB §§ 480 ff.: https://dejure.org/gesetze/HGB/480.html
+- openjur Schiffskaufstreit: https://www.openjur.de
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 WSG
+- § 267 StGB
+- § 49 EStG
+- § 8b KStG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+---
+
+## Skill: `binnenschiff-risiko-memo-schreiben`
+
+_Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 für eing..._
+
+# Binnenschiff – Risiko-Memo schreiben
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Binnenschiff-Flotte vor. Ein Finanzinvestor prüft den Kauf eines Kreditportfolios mit Binnenschiff-Hypotheken. Ein Syndikat benötigt ein gemeinsames Risikodokument für alle Banken.
+
+## Erste Schritte
+1. Binnenschiff-Daten zusammenfassen: IMO-Nummer; Flagge; Alter; Schiffswert; Kreditvaluta.
+2. Hypothekenrang und Konkurrenzrechte darstellen.
+3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
+4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
+5. Zeitkritische Maßnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
+6. Empfehlungsmatrix für Entscheidungstraeger erstellen.
+
+## Rechtsrahmen
+- BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO; InsO §§ 49-51 Absonderung; WSG §§ 1-12 Wrackpflicht; ZPO §§ 864-871 Zwangsversteigerung.
+
+## Prüfraster
+- Ist aktueller Schiffswert für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff dokumentiert?
+- Sind alle Vorrangglaeubigerrechte (gesetzliche Schiffsglaeubigerrechte) bekannt?
+- Ist Wrackbeseitigungs-Versicherungsdeckung bestaetigt?
+- Ist Insolvenzwahrscheinlichkeit des Reeders bewertet?
+- Sind Handlungsoptionen mit Zeitplan und Kosten aufgelistet?
+
+## Typische Fallstricke
+- Schiffswertgutachten für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff veraltet; Marktpreise schwanken stark.
+- Memo ohne Priorisierung zeitkritischer Maßnahmen fuehrt zu Untaetigkeit.
+- Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
+
+## Vertiefung: Struktur des Risiko-Memos
+Ein hochwertiges Risiko-Memo enthält: (1) Zusammenfassung und Handlungsempfehlung (Executive Summary; max. 1 Seite); (2) Schiffsdaten und aktueller Schiffswert (mit Gutachterquelle und -datum); (3) Kreditstatus (Valutastand; Zinsen; Fälligkeiten; Default-Events); (4) Sicherheitenanalyse (Hypothekenrang; Verwertungserlös-Prognose); (5) Gläubigerrangfolge (gesetzliche Vorrechte; Hypotheken; ungesicherte Forderungen); (6) Risikoszenarien (Best Case; Base Case; Worst Case); (7) Maßnahmenplan mit Zeitlinie und Verantwortlichen.
+
+## Schiffswertermittlung
+Schiffswerte werden bestimmt durch: Chartermarkt (aktueller T/C-Äquivalent-Erlös); Vergleichsverkäufe (comparable sales aus Baltic Exchange oder SSY); Gutachten von Shipbrokers (Clarkson; Braemar; Gibson). In der Insolvenz kann ein Notverkauf (forced sale) 10-30% unter dem Schätzwert liegen.
+
+## Eskalationsweg und Zeitkritikalität
+Zeitkritische Maßnahmen müssen sofort eingeleitet werden: Arrest bei Fluchtgefahr (sofort); Versicherungsmeldung (binnen 24 Stunden); P&I-Kündigung verhindern (laufende Prämien beobachten); ISM-DOC-Ablauf prüfen (ohne DOC kein Hafenanlauf). Das Risiko-Memo soll diese Zeitlinie explizit darstellen damit Entscheidungsträger die Prioritäten erkennen.
+
+## Checkliste Risiko-Memo
+- [ ] Schiffsdaten vollständig: IMO-Nummer; Flagge; Alter; BRZ; Schiffstyp; Klasse
+- [ ] Schiffswert: Gutachterquelle; Datum; Methode (Charter-Equivalent; Comparable Sales)
+- [ ] Kreditstatus: Valutastand; Zinsen; letzte Zahlung; Default-Events
+- [ ] Hypothekenrang: alle Gläubiger; Beträge; Rangstellen
+- [ ] Gesetzliche Vorrechte (HGB §§ 596-601): aktuelle Crew-Löhne; Hafengebühren; PSC-Bußgelder
+- [ ] Versicherungsdeckung: P&I-Club-Mitgliedschaft; H&M-Police; MII; Laufzeit
+- [ ] ISM-/MLC-Zertifikatsstatus: Ablaufdaten; bekannte Mängel
+- [ ] Drei Szenarien: Best Case (einvernehmlicher Verkauf); Base Case (Zwangsversteigerung); Worst Case (Insolvenz + Verschrottung)
+- [ ] Maßnahmenplan mit Zeitlinie und Verantwortlichen
+- [ ] Executive Summary: Gesamtrisiko; Handlungsempfehlung; Nächste Schritte
+
+## Relevante Rechtsprechung
+- BGH zur Absonderung des Hypothekengläubigers in der Reederei-Insolvenz; InsO §§ 49-51.
+- BGH zur Insolvenzanfechtung von Hypothekentilgungen in der Krise (InsO §§ 130-133).
+- OLG Hamburg zu Schiffswertgutachten in Verwertungsverfahren; Anforderungen an die Sachverständigenqualifikation.
+
+## Normen im Überblick
+- InsO §§ 49-51: Absonderungsrecht; Hypothekengläubiger befriedigt sich vor der Insolvenzmasse.
+- InsO §§ 80-92: Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters über Schiffe.
+- HGB §§ 611-617: Summenhaftung; Haftungsbeschränkung des Reeders; Limits nach LLMC 1976/1996.
+- ZPO §§ 864-871: Zwangsversteigerung; Mindestgebot; Erlösverteilung.
+- SchRG §§ 59-74: Rangfolge bei der Erlösverteilung nach Zwangsversteigerung.
+
+## Vertiefung Risiko-Memo
+
+### Drei-Szenarien-Analyse
+Ein gutes Risiko-Memo enthält immer drei Szenarien: (1) Best Case: freiwilliger Verkauf zum Marktwert; vollständige Schuldenablösung; (2) Base Case: Zwangsversteigerung mit 15-20% Abschlag; teilweise Restschuld; (3) Worst Case: Insolvenz des Reeders; Schiff liegt fest; Erlös nach Kosten nur Teilbefriedigung.
+
+### Zeitlinie
+Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland typischerweise 3-6 Monate; in anderen Jurisdiktionen kürzer (Singapore: 4-6 Wochen; Panama: 2-3 Monate).
+
+## Normen-Synopse Risiko-Memo
+| Norm | Inhalt |
+|------|--------|
+| HGB § 596 | Gesetzliche Vorrechte |
+| InsO § 49 | Absonderungsrecht |
+| ZPO § 864 | Zwangsversteigerung |
+| SchRG § 59 | Rangfolge |
+
+## Quellen
+- SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
+- InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
+- BSH: https://www.bsh.de
 
 ---
 

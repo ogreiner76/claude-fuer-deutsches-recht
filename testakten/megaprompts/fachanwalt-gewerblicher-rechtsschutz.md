@@ -87,7 +87,7 @@ _Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: 
 1. Liegt eine **Abmahnung, einstweilige Verfuegung oder Fristmitteilung** vor? Wenn ja: Datum feststellen und sofort Kalender-Alarm setzen.
 2. Welches **Schutzrecht** ist betroffen: Marke (MarkenG), Design (DesignG), Patent (PatG), Gebrauchsmuster (GebrMG) oder lauterkeitsrechtlicher Anspruch (UWG)?
 3. Sind **mehrere Parteien** am Sachverhalt beteiligt, für die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
-4. Ist der Mandant eine **juristische Person** → Handelsregister, Transparenzregister, wirtschaftlich Berechtigte pruefen (§§ 10 ff. GwG).
+4. Ist der Mandant eine **juristische Person** → Handelsregister, Transparenzregister, wirtschaftlich Berechtigte prüfen (§§ 10 ff. GwG).
 5. Was ist das **Endziel** des Mandanten in einem Satz?
 
 ## Phasen des Erstgespraechs
@@ -96,15 +96,15 @@ _Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: 
 
 Standard-Fragenraster für Marken-, Patent-, Design- und Wettbewerbsrecht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Marken, Designs, Patente, UWG-Abmahnung, Lizenz, Domain
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben. Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantensystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantensystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis, bei juristischer Person Handelsregister-/Transparenzregisterauszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -113,7 +113,7 @@ Standard-Fragenraster für Marken-, Patent-, Design- und Wettbewerbsrecht:
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, Behörde.
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -121,14 +121,14 @@ Standard-Streitwerte im Bereich Marken-, Patent-, Design- und Wettbewerbsrecht:
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -230,9 +230,9 @@ Schritt 7: E-Mail-Zusammenfassung binnen 48 h
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang.
-- Vollmachtsumfang unklar → spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar → später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich → Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 
@@ -434,7 +434,7 @@ _Dokumentenintake für Fachanwalt Gewerblicher Rechtsschutz: sortiert Registerau
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Gewerblicher Rechtsschutz** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Gewerblicher Rechtsschutz** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -948,14 +948,14 @@ _Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrec
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG pruefen | Vier-Stufen-Test und Kollisionsfelder unten |
+| Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG prüfen | Vier-Stufen-Test und Kollisionsfelder unten |
 | Variante A — nur NDA ohne GeschGehG-Schutzmassnamen | NDA-Schutz schwaecher; GeschGehG nicht automatisch anwendbar |
-| Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz pruefen |
-| Variante C — Softwarecode als Geschaeftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
+| Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz prüfen |
+| Variante C — Softwarecode als Geschäftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -1044,7 +1044,7 @@ GeschGehG, soweit gesetzlich zulässig.
 je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -1128,7 +1128,7 @@ je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 
 Bevor die Schutzstrategie entwickelt wird, klaere:
 1. Liegen "angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
-2. Ist die verletzte Information wirklich ein Geschaeftsgeheimnis oder bereits bekannte Branchen-Praxis?
+2. Ist die verletzte Information wirklich ein Geschäftsgeheimnis oder bereits bekannte Branchen-Praxis?
 3. Kommt § 5 GeschGehG (Whistleblowing-Ausnahme) oder § 36 HinSchG in Betracht?
 4. Ist eine sofortige Sicherungsanordnung nach § 16 GeschGehG (Offenbarungsschutz im Verfahren) erforderlich?
 

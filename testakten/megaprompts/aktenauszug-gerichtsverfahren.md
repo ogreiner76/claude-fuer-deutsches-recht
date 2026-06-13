@@ -9,18 +9,18 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `aktenauszug-gericht
 1. **einstieg-routing** — Einstieg, Triage und Routing für Aktenauszüge zivilgerichtlicher Verfahren: ordnet Rolle (Mandant, Gegenpartei, Gericht)…
 2. **aktenauszug-erstellen** — Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs …
 3. **aktenauszug-strukturpruefung-akzg-bauleiter** — Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprach…
-4. **aktenauszug-verfahrensidentifikation-gericht** — Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Klaeger Beklagte Str…
-5. **anlagenverzeichnis-extrakt** — Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung K…
-6. **anwaltsschriftsatz-stilrichtlinie** — Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklat…
-7. **arbeitsgerichtsverfahren-modus-terminkalender** — Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwo…
-8. **beweismittel-gegenueberstellung** — Anwalt will Beweisangebote aller Parteien uebersichtlich gegenüberstellen: Zeugen Urkunden Sachverständige Parteivernehm…
-9. **einleitungssatz-generator** — Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neu…
-10. **fristen-und-terminkalender** — Anwalt will alle prozessrelevanten Fristen und Termine im Aktenauszug hervorheben: Klagefrist Berufungsfrist Begründungs…
-11. **neutralitaetspruefung** — Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markier…
-12. **rechtsargumente-gegenueberstellung** — Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einre…
-13. **sachverhaltschronologie** — Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen: Vertragsschluss Vorfaelle vorg…
-14. **schwerpunktthemen-identifikation-akten** — Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten …
-15. **sozialgerichtsverfahren-modus** — Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtser…
+4. **anlagenverzeichnis-extrakt** — Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung K…
+5. **arbeitsgerichtsverfahren-modus-terminkalender** — Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwo…
+6. **beweismittel-gegenueberstellung** — Anwalt will Beweisangebote aller Parteien uebersichtlich gegenüberstellen: Zeugen Urkunden Sachverständige Parteivernehm…
+7. **einleitungssatz-generator** — Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neu…
+8. **fristen-und-terminkalender** — Anwalt will alle prozessrelevanten Fristen und Termine im Aktenauszug hervorheben: Klagefrist Berufungsfrist Begründungs…
+9. **rechtsargumente-gegenueberstellung** — Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einre…
+10. **sachverhaltschronologie** — Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen: Vertragsschluss Vorfaelle vorg…
+11. **schwerpunktthemen-identifikation-akten** — Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten …
+12. **sozialgerichtsverfahren-modus** — Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtser…
+13. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Aktenauszug Gerichtsverfahren-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen,…
+14. **strafprozess-modus** — Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschri…
+15. **verfahrenschronologie** — Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeingang Zustellungen Schriftsatzfristen Bewe…
 
 ---
 
@@ -210,14 +210,14 @@ Liegt Akte vor?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — strukturierter Aktenauszug für Gericht | Vollformat nach den sechs Bausteinen unten |
-| Variante A — nur interne Einarbeitung noetig | Kurzform ohne Verfahrenschronologie; Bausteine 1-3 genuegen |
+| Variante A — nur interne Einarbeitung noetig | Kurzform ohne Verfahrenschronologie; Bausteine 1-3 genügen |
 | Variante B — Eilsache; Zeit fehlt für vollstaendigen Auszug | Einleitungssatz + Sachverhaltschronologie priorisieren; Rest nachliefern |
-| Variante C — Parteivertreter hat bereits Zusammenfassung geliefert | Kritische Pruefung und Ergaenzung statt Neuerstellung |
+| Variante C — Parteivertreter hat bereits Zusammenfassung geliefert | Kritische Prüfung und Ergaenzung statt Neuerstellung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -238,7 +238,7 @@ Offene Aufgaben: [LISTE]
 Besonderheiten: [z.B. Beweissicherungsantrag gestellt, SV noch nicht bestellt]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -437,116 +437,6 @@ Adressat: Sachbearbeiter / Kanzleiintern — Tonfall: sachlich-juristisch, präz
 
 ---
 
-## Skill: `aktenauszug-verfahrensidentifikation-gericht`
-
-_Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Klaeger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und Verfahrensart (Klage Eilverfahren Berufung Revision Beschwerde). Normen §§ 253 261 ZPO Klag..._
-
-# Verfahrensidentifikation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren auf Antrag, § 385 Abs. 3 Nebenkläger, ZPO § 299 jederzeit für Parteien, Bearbeitung i.d.R. 2-4 Wochen.
-- Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage — kläre vor Erstellung
-
-1. Liegt die Klageschrift oder der Eröffnungsbeschluss vor? (Aktenzeichen, Parteien)
-2. Sind die Prozessbevollmächtigten beider Seiten aus der Akte ersichtlich?
-3. Wurde der Streitwert festgesetzt (Streitwertbeschluss) oder nur vorläufig angegeben?
-4. Gibt es Streithelfer oder Nebenintervenienten?
-
-## Zentrale Normen
-
-- § 253 Abs. 2 Nr. 1 ZPO — Klageschrift muss Gericht, Parteien und Streitgegenstand bezeichnen
-- § 261 Abs. 1 ZPO — Anhängigkeit mit Einreichung der Klage; Rechtshängigkeit mit Zustellung
-- §§ 3-9 ZPO — Streitwert (Bewertung Klageantrag, Früchte, Zinsen, Kosten)
-- § 63 GKG — Streitwertfestsetzung durch das Gericht; § 68 GKG — Streitwertbeschwerde
-- §§ 66-74 ZPO — Streithelfer / Nebenintervention (Voraussetzungen, Rechte)
-
-## Rechtsprechung zur Verfahrensidentifikation
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zu extrahierende Felder
-
-### Gericht und Spruchkörper
-
-- Gericht (vollständige Bezeichnung, z. B. Landgericht Frankfurt am Main)
-- Kammer oder Senat (z. B. 3. Zivilkammer, 14. Senat)
-- Aktenzeichen (z. B. 3 O 123/23)
-- Instanz (Erste Instanz / Berufung / Revision / Beschwerde / Rechtsbeschwerde)
-
-### Verfahrensart
-
-- Ordentliches Klageverfahren (ZPO)
-- Eilverfahren (einstweilige Verfügung § 935 ff. ZPO / einstweilige Anordnung)
-- Berufungsverfahren (§ 511 ff. ZPO)
-- Revisionsverfahren (§ 542 ff. ZPO)
-- Strafverfahren (StPO)
-- Verwaltungsverfahren (VwGO)
-- Arbeitsgerichtsverfahren (ArbGG)
-- Sozialgerichtsverfahren (SGG)
-- Sonstiges (Beschwerde, PKH, Streitwertbeschwerde)
-
-### Streitwert
-
-- Festgesetzter Streitwert (soweit bekannt)
-- Vorläufiger Streitwert (soweit Antrag gestellt)
-- Gebührenstreitwert (sofern abweichend)
-
-### Parteien
-
-Für jede Partei:
-
-| Feld | Inhalt |
-|---|---|
-| Bezeichnung | Kläger / Beklagter / Berufungskläger / Streithelfer etc. |
-| Name / Firma | Vollständige Bezeichnung |
-| Anschrift | Straße PLZ Ort |
-| Gesetzliche Vertretung | (bei juristischen Personen) |
-| Prozessbevollmächtigter | Kanzlei und Rechtsanwalt |
-| Anschrift Bevollmächtigter | Straße PLZ Ort |
-
-### Streithelfer / Nebenintervenienten
-
-- Benennung der Partei, auf deren Seite der Streithelfer steht
-- Eigene Bevollmächtigung wenn vorhanden
-
-## Output-Vorlage
-
-```
-
-## Verfahrensidentifikation
-
-**Gericht:** Landgericht [Stadt]
-**Kammer:** [X]. Zivilkammer
-**Aktenzeichen:** [AZ]
-**Instanz:** Erste Instanz
-**Verfahrensart:** Ordentliches Klageverfahren (ZPO)
-**Streitwert:** [EUR oder "nicht festgesetzt"]
-
-### Parteien
-
-| Rolle | Partei | Anschrift | Prozessbevollmächtigter |
-|---|---|---|---|
-| Kläger | [Name] | [Adresse] | [Kanzlei / RA] |
-| Beklagter | [Name] | [Adresse] | [Kanzlei / RA] |
-```
-
-## Hinweise
-
-- Fehlende Felder werden als "nicht aus Akte ersichtlich" gekennzeichnet, nicht geschätzt.
-- Bei mehreren Klägern oder Beklagten wird jede Person separat aufgeführt.
-- Streithelfer werden gesondert unter der Hauptparteitabelle gelistet.
-- Keine Bewertung der Parteibezeichnung (z. B. ob Kläger wirklich klagebefugt ist).
-
----
-
----
-
 ## Skill: `anlagenverzeichnis-extrakt`
 
 _Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständ..._
@@ -662,135 +552,6 @@ Anlage ist im Schriftsatz bezeichnet aber fehlt körperlich in Akte?
 
 ---
 
-## Skill: `anwaltsschriftsatz-stilrichtlinie`
-
-_Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln für alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO im Aktenauszug Geri..._
-
-# Anwaltsschriftsatz-Stilrichtlinie
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren auf Antrag, § 385 Abs. 3 Nebenkläger, ZPO § 299 jederzeit für Parteien, Bearbeitung i.d.R. 2-4 Wochen.
-- Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normhintergrund — Schriftsatz-Anforderungen
-
-- § 130 ZPO — Pflichtinhalt anwaltlicher Schriftsätze (Bezeichnung der Partei, Antraege, Tatsachen, Beweismittel)
-- § 131 ZPO — Beizufügende Schriftstücke und Anlagen
-- § 253 Abs. 2 ZPO — Klageschrift: bestimmter Antrag, Sachverhalt, Benennung Gericht
-- § 520 Abs. 3 ZPO — Berufungsbegründung: Bezeichnung der Angriffspunkte, neues Vorbringen
-- § 551 Abs. 3 ZPO — Revisionsbegründung: Angabe der Revisionsgründe
-
-## Rechtsprechung zum Schriftsatzstil und Schriftsatz-Anforderungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Sprache
-
-### Allgemeine Grundsätze
-
-- **Sachlich und präzise:** Jeder Satz transportiert eine Information. Füllphrasen vermeiden.
-- **Juristisch korrekt:** Rechtsbegriffe werden in ihrer gesetzlichen oder gefestigten dogmatischen Bedeutung verwendet.
-- **Neutral:** Keine Wertungen, keine Erfolgsprognosen (→ Skill `neutralitaetspruefung`).
-- **Aktiv bevorzugen:** "Die Klägerin macht geltend" — nicht "Es wird geltend gemacht".
-
-### Verbotene Begriffe
-
-Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assistenzsysteme. Keine Formulierungen wie "basierend auf meiner Analyse" oder "nach meiner Einschätzung". Keine Ich-Form.
-
-### Parteibezeichnungen
-
-- Konsistente Verwendung im gesamten Aktenauszug
-- Zulässig: vollständiger Name, Kurzname, Parteibezeichnung (die Klägerin)
-- Nicht mischen: nicht "Klägerin" in einem Abschnitt und "Frau Müller" im nächsten
-- Abkürzungen (Kl., Bekl.) nur in Tabellen, nicht in Fließtext
-
-### Normen und Paragraphen
-
-- Vollständige Angabe bei erster Nennung: § 634 Nr. 4 i.V.m. § 280 Abs. 1 BGB
-- Abkürzung bei Wiederholung möglich: § 634a Abs. 1 Nr. 1 BGB (Verjährung)
-- Gesetze stets mit Kurzbezeichnung: BGB, ZPO, StPO, VwGO, ArbGG, SGG, KSchG, GKG
-
-## Gliederung
-
-### Überschriften-Hierarchie
-
-```
-### Aktenauszug — [Aktenzeichen] (H1 — nur einmal)
-
-## Verfahrensidentifikation (H2 — Bausteine)
-### Parteien (H3 — Unterabschnitte)
-#### Klägerseite (H4 — bei Bedarf)
-```
-
-### Abschnittstrennungen
-
-Jeder Baustein beginnt auf einer neuen Hierarchieebene. Zwischen Bausteinen eine Leerzeile.
-
-## Tabellen
-
-### Formatierung
-
-- Markdown-Tabellen mit Pipes und Trennzeile
-- Spaltenbreite nicht fixieren (Markdown passt sich an)
-- Spaltenköpfe fett oder als Header-Zeile
-
-### Tabellenstil
-
-| Gut | Nicht gut |
-|---|---|
-| Klägerin / Beklagte als Spaltenköpfe | Kl. / Bekl. |
-| Kurze präzise Zellinhalte | Lange Fließtextabsätze in Zellen |
-| Fundstellen in separater Spalte | Fundstellen ohne Quelle |
-
-## Datumsformat
-
-- Vollständig: TT.MM.JJJJ (z. B. 15.03.2021)
-- Kein ISO-Format (2021-03-15) im Aktenauszug-Body
-- Monats-/Jahresangaben: März 2021 (nicht 03/2021)
-
-## Beträge
-
-- Immer mit EUR-Präfix: EUR 45.000
-- Keine Tausenderpunkte in Zahlen: EUR 45000 oder EUR 45.000 (Punkt als Tausendertrenner ist im Deutschen üblich)
-- Keine Abkürzung T€ oder TEUR im Aktenauszug (ausgeschrieben)
-
-## Aktenzeichen
-
-Format: [Gericht-Kürzel] [Senats-/Kammernummer] [Verfahrensart] [Laufnummer]/[Jahr]
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Markdown-Besonderheiten
-
-- Fettdruck (`**Text**`) für Daten in Chronologien
-- Kursiv (`*Text*`) sparsam — für Gesetzesbegriffe oder Fremdwörter
-- Code-Blöcke (` ``` `) für Musterformulierungen und Vorlagen
-- Fristenboxen hervorheben (Tabelle oder Blockquote mit ⚠️)
-
-## Qualitätscheck Stil
-
-- [ ] Keine wertenden Adjektive ohne Quellenattribution?
-- [ ] Parteibezeichnungen konsistent?
-- [ ] Normen vollständig angegeben?
-- [ ] Datumsformat einheitlich TT.MM.JJJJ?
-- [ ] Beträge mit EUR-Präfix?
-- [ ] Überschriften-Hierarchie korrekt?
-- [ ] Schriftsatz erfüllt Mindestanforderungen §§ 130-131 ZPO?
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-- VII ZR 248/12 (BGH): ersatzlos entfernt (NOT_FOUND auf dejure.org; kein Urteil vom 06.11.2013 nachweisbar)
-- VII ZR 126/02 (BGH): ersatzlos entfernt (WRONG_TOPIC: tatsaechliches Thema ist Werkvertragsrecht/Verputzungsfehler/§ 421 BGB, nicht Prozessrecht; Quelle: https://dejure.org/2003,299)
-- Aktenzeichen-Formatbeispiele sind frei erfunden und duerfen nicht als Rechtsprechungszitate verwendet werden.
-
----
-
 ## Skill: `arbeitsgerichtsverfahren-modus-terminkalender`
 
 _Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leits..._
@@ -870,7 +631,7 @@ Beteiligte: Arbeitgeber / Betriebsrat / Gewerkschaft. Keine Parteien im zivilpro
 - Richter versucht aktiv Vergleich herbeizuführen
 - Bei Einigung im Gütetermin: Prozessvergleich (§ 794 Abs. 1 Nr. 1 ZPO)
 - Im Aktenauszug: Güteterminsdatum und Ergebnis (Einigung / Scheitern) hervorheben
-- Abfindungserwartung Faustformel: 0,5 Bruttomonatsgehaelter pro Beschaeftigungsjahr
+- Abfindungserwartung Faustformel: 0,5 Bruttomonatsgehaelter pro Beschäftigungsjahr
 
 ## Besonderheiten Beschlussverfahren
 
@@ -1187,114 +948,6 @@ Alternativ als Markdown-Tabelle:
 - [ ] Fehlende Zustellungsdaten als "unbekannt" markiert?
 - [ ] Fristen in der Verfahrenschronologie markiert?
 - [ ] Wochenende/Feiertag bei Fristende berücksichtigt (§ 222 ZPO)?
-
----
-
----
-
-## Skill: `neutralitaetspruefung`
-
-_Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherheitsgate vor Weitergabe des Auszugs. Massstab § 286 ZPO freie..._
-
-# Neutralitätsprüfung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren auf Antrag, § 385 Abs. 3 Nebenkläger, ZPO § 299 jederzeit für Parteien, Bearbeitung i.d.R. 2-4 Wochen.
-- Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage — kläre vor der Prüfung
-
-1. Für wen ist der Aktenauszug bestimmt? (internes Arbeitsdokument / Übergabe an Mandant / Gericht)
-2. Hat der Ersteller den Auftrag, die eigene Mandantsseite besonders darzustellen? (dann kein Aktenauszug, sondern Schriftsatz!)
-3. Gibt es Stellen, die bewusst als subjektive Einschätzung des Anwalts markiert sind? (Diese sind zu entfernen oder zu kennzeichnen.)
-
-## Normhintergrund
-
-- § 286 Abs. 1 ZPO — Freie Beweiswürdigung des Gerichts; Aktenauszug darf keine Beweiswürdigungsprognosen enthalten
-- § 138 ZPO — Wahrheitspflicht; auch interne Vermerke müssen den Sachverhalt korrekt abbilden
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot; gilt auch für interne Aktendokumentation
-
-## Rechtsprechung zum Sachlichkeitsgebot und Neutralität
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Verbotene Formulierungstypen
-
-### Erfolgsprognosen (absolut verboten)
-
-| Verboten | Erlaubt |
-|---|---|
-| "Die Klage wird Erfolg haben" | "Die Klage ist anhängig" |
-| "Der Anspruch dürfte begründet sein" | "Die Klägerin macht [Anspruch] geltend" |
-| "Die Verjährungseinrede greift durch" | "Die Beklagte erhebt die Verjährungseinrede" |
-| "Das Gericht wird … erkennen" | "Das Gericht hat … nicht geäußert" |
-| "offensichtlich unbegründet" | "nach Vortrag der Beklagten unbegründet" |
-
-### Wertende Adjektive (zu vermeiden)
-
-- substanzlos, unhaltbar, abwegig, überzeugend, zutreffend, unzutreffend
-- zu Recht, zu Unrecht
-- offensichtlich, eindeutig (ohne Quellenangabe)
-
-### Parteiische Darstellung
-
-- Ausführliche Wiedergabe des Vortrags einer Seite ohne entsprechende Gegenüberstellung der anderen Seite
-- Formulierungen, die implizit eine Seite stärken ("Trotz des klaren Wortlauts des Vertrags …")
-
-## Prüfmethodik
-
-### Schritt 1 — Scan auf verbotene Muster
-
-Folgende Muster systematisch suchen:
-
-- `dürfte`, `wird`, `sollte`, `kann davon ausgegangen werden`
-- `zu Recht`, `zu Unrecht`, `offensichtlich`, `eindeutig`
-- `überzeugt`, `überzeugend`, `substanzlos`, `unhaltbar`
-- `Erfolgsaussichten`, `Erfolg haben`, `scheitern`
-
-### Schritt 2 — Parteibalance prüfen
-
-Jeder Abschnitt des Parteivortrag und der Rechtsargumente muss beide Seiten gleichgewichtig darstellen.
-
-### Schritt 3 — Korrekturen vorschlagen
-
-Für jede beanstandete Formulierung wird eine neutrale Ersatzformulierung vorgeschlagen.
-
-## Ergebnis-Format
-
-```markdown
-
-## Neutralitätsprüfung — Ergebnis
-
-### Beanstandungen
-
-| Stelle | Ursprüngliche Formulierung | Ersatzformulierung |
-|---|---|---|
-| Zusammenfassung Satz 3 | Anspruch dürfte begründet sein | Klägerin macht den Anspruch geltend |
-| Rechtsargument Zeile 4 | offensichtlich verjährt | nach Vortrag der Beklagten verjährt |
-
-### Ergebnis
-
-[BESTANDEN / ÜBERARBEITUNG ERFORDERLICH]
-
-Anzahl Beanstandungen: [Zahl]
-```
-
-## Qualitätscheck — Checkliste
-
-- [ ] Keine Erfolgsprognose enthalten?
-- [ ] Keine wertenden Adjektive ohne Quellenattribution?
-- [ ] Parteivortrag beider Seiten gleichgewichtig dargestellt?
-- [ ] Fristen neutral als Tatsache, nicht als Gefahr formuliert?
-- [ ] Keine implizit parteiische Darstellung?
-
-## Hinweis
-
-Die Neutralitätsprüfung ist kein Korrektorat des Aktenauszugs. Sie prüft ausschließlich auf Wertungen und Prognosen. Sachliche Fehler sind durch Abgleich mit der Akte zu beheben.
 
 ---
 
@@ -1705,6 +1358,449 @@ Das Sozialgericht ermittelt den Sachverhalt von Amts wegen. Beweisangebote der P
 - Leistungsart und Leistungszeitraum im Verfahrensidentifikationsblock aufführen
 - Gutachten (ärztliche / berufskundliche) als eigene Kategorie in Beweismittel-Tabelle
 - Kostenrecht: keine Gerichtskosten für Versicherte (§ 183 SGG)
+
+---
+
+## Skill: `start-chronologie-fristen`
+
+_Einstieg, Schnelltriage und Fallrouting im Aktenauszug Gerichtsverfahren-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill e..._
+
+# Aktenauszug Gerichtsverfahren — Allgemein
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren auf Antrag, § 385 Abs. 3 Nebenkläger, ZPO § 299 jederzeit für Parteien, Bearbeitung i.d.R. 2-4 Wochen.
+- Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Aktenauszug Gerichtsverfahren**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten.
+
+### 0. Stummer Upload — Material ohne Begleittext
+
+Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+
+**Pflicht-Reihenfolge bei stummem Upload:**
+
+1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
+2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
+3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
+4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
+5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
+6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
+
+**Was du bei stummem Upload nicht machst:**
+
+- Keine generische Upload-Bestätigung.
+- Keine vollständige Intake-Liste aus Abschnitt 1.
+- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
+- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
+
+**Antwortformat bei stummem Upload:**
+
+- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
+- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
+- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
+- **Primärer Pfad:** `skill-name` — [warum dieser Arbeitsgang hilft]
+- **Alternativen:** `...`, `...`
+- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Fachmodule in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `aktenauszug-erstellen` | Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie… |
+| `aktenauszug-strukturpruefung` | Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung… |
+| `anlagenverzeichnis-extrakt` | Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen.… |
+| `anwaltsschriftsatz-stilrichtlinie` | Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln… |
+| `arbeitsgerichtsverfahren-modus` | Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1… |
+| `beweismittel-gegenueberstellung` | Anwalt will Beweisangebote aller Parteien uebersichtlich gegenüberstellen: Zeugen Urkunden Sachverständige Parteivernehmung Augenschein. Normen §§ 355-455 ZPO Sachverständigenbeweis Zeugenbeweis. Prüfraster… |
+| `einleitungssatz-generator` | Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Prüfraster Praegnanz… |
+| `fristen-und-terminkalender` | Anwalt will alle prozessrelevanten Fristen und Termine im Aktenauszug hervorheben: Klagefrist Berufungsfrist Begründungsfrist Verkündungstermin Vollziehungsfrist. Normen §§ 222 517 520 548 ZPO. Prüfraster… |
+| `neutralitaetspruefung` | Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale… |
+| `parteivortrag-gegenueberstellung` | Erstellt eine Tabelle mit zwei Spalten (Klägerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen… |
+| `rechtsargumente-gegenueberstellung` | Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjährungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches… |
+| `sachverhaltschronologie` | Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen: Vertragsschluss Vorfaelle vorgerichtliche Korrespondenz Schadensereignisse und Behördenakte. Datum fett vorangestellt knappe… |
+| `schwerpunktthemen-identifikation` | Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster… |
+| `sozialgerichtsverfahren-modus` | Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster… |
+| `strafprozess-modus` | Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359… |
+| `verfahrenschronologie` | Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeingang Zustellungen Schriftsatzfristen Beweisbeschluesse muendliche Verhandlungen Beweisaufnahme Urteile und Rechtsmittel. Kritische Fristen… |
+| `verfahrensidentifikation` | Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Kläger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und… |
+| `verfahrenszusammenfassung-absatz` | Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Prüfraster Vollständigkeit… |
+| `verwaltungsprozess-modus` | Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische… |
+| `zivilprozess-modus` | Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Prüfraster… |
+
+## Worum geht es?
+
+Das Plugin ermoeglicht Anwaelten und Paralegals die schnelle, strukturierte Einarbeitung in deutsche Gerichtsverfahren aller Verfahrensordnungen. Es teilt die Aktenzusammenfassung in sechs klar definierte Bausteine auf: Verfahrensidentifikation mit Stammdaten, praegnanter Einleitungssatz, Zusammenfassungsabsatz, Sachverhaltschronologie, Verfahrenschronologie und tabellarische Gegenueberstellung von Parteivortraegen sowie Beweismitteln und Rechtsargumenten.
+
+Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne Erfolgsprogosen, der als Grundlage für Beratungsgespraeche, Schriftsaetze oder die Vorbereitung muendlicher Verhandlungen dient. Spezifische Modi für ZPO-, ArbGG-, SGG-, VwGO- und StPO-Verfahren decken die verfahrensordnungsrelevanten Besonderheiten ab.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie uebernehmen ein laufendes Mandat und müssen sich ohne vollstaendige Aktenlektuere schnell orientieren.
+- Eine neue Kollegin tritt die Vertretung an und braucht eine neutrale Zusammenfassung des Verfahrensstands.
+- Sie moechten Beweismittel und Rechtsargumente beider Seiten strukturiert gegenueberstellen für die Vorbereitung der muendlichen Verhandlung.
+- Fristen aus Schriftsaetzen, Beschluessen oder Urteilen müssen systematisch hervorgehoben werden.
+- Sie erstellen ein Anlagenverzeichnis für alle Partei-Anlagen aus einer umfangreichen Akte.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Aktenauszug** — Strukturierte Zusammenfassung eines Gerichtsverfahrens aus den vorliegenden Schriftsaetzen und Gerichtsdokumenten.
+- **Verfahrensidentifikation** — Erfassung aller Stammdaten: Gericht, Kammer, Aktenzeichen, Streitwert, Parteien und Prozessbevollmaechtigte.
+- **Sachverhaltschronologie** — Chronologische Bullet-Liste ausserprozessualer Tatsachen ohne Wertung.
+- **Verfahrenschronologie** — Chronologische Auflistung aller prozessualen Schritte mit hervorgehobenen Fristen.
+- **Parteivortrag-Gegenueberstellung** — Zweispaltige Tabelle mit streitigen Sachverhaltsangaben je Partei.
+- **Neutralitaetspruefung** — Sicherheitsgate zur Entfernung unzulaessiger Wertungen und Erfolgsprognosen aus dem Auszug.
+- **Anlagenverzeichnis** — Vollstaendige Liste aller Anlagen (K-, B-, AST-, AG-Verweise) mit Partei und Fundstelle.
+- **Stilrichtlinie** — Verbindliche Sprachregelung für juristisch saubere, neutrale Aktenauszuege.
+
+## Rechtsgrundlagen
+
+- §§ 128-134 ZPO — Muendliche Verhandlung und Schriftsatz
+- §§ 130 131 ZPO — Inhalt und Anlagen des Schriftsatzes
+- §§ 253 261 ZPO — Klageerhebung und Verfahrensstammdaten
+- §§ 222 517 520 ZPO — Fristberechnung, Berufungsfrist, Begruendungsfrist
+- ArbGG §§ 2 54 64 72 — Arbeitsgerichtsverfahren und Rechtsmittel
+- SGG §§ 51 77 86b 143 — Sozialgerichtsverfahren
+- VwGO §§ 40 42 80 113 124 132 — Verwaltungsprozess
+- StPO §§ 200 203 333 359 — Strafprozess und Rechtsmittel
+- § 4 KSchG — Kuendigungsschutzklage: Dreiwochenfrist
+
+## Schritt-für-Schritt: Einstieg ins Plugin
+
+1. Verfahrensordnung und -art bestimmen (ZPO, ArbGG, SGG, VwGO, StPO) und passenden Modus auswaehlen.
+2. Verfahrensidentifikation: alle Stammdaten und Beteiligte erfassen.
+3. Einleitungssatz und Zusammenfassungsabsatz generieren.
+4. Sachverhalts- und Verfahrenschronologie erstellen; Fristen hervorheben.
+5. Parteivortrag, Beweismittel und Rechtsargumente gegenueberstellen; Neutralitaet prüfen.
+
+## Skill-Tour (was gibt es hier?)
+
+- `aktenauszug-erstellen` — Vollstaendigen Aktenauszug in allen sechs Bausteinen aus Gerichtsakte oder Schriftsaetzen erstellen.
+- `aktenauszug-strukturpruefung` — Fertig erstellten Aktenauszug auf Vollstaendigkeit, Fristen-Markierung und Neutralitaet prüfen.
+- `anlagenverzeichnis-extrakt` — Alle Anlagen-Verweise (K-, B-, AST-, AG-) aus der Akte extrahieren und Anlagenverzeichnis erstellen.
+- `anwaltsschriftsatz-stilrichtlinie` — Verbindliche Stilregeln für neutralen, juristisch sauberen Aktenauszug anwenden.
+- `arbeitsgerichtsverfahren-modus` — Aktenauszug für ArbGG-Verfahren mit KSchG-Fristen und ArbGG-Besonderheiten erstellen.
+- `beweismittel-gegenueberstellung` — Beweisangebote aller Parteien (Zeugen, Urkunden, Sachverstaendige) tabellarisch gegenueberstellen.
+- `einleitungssatz-generator` — Praegnanten Einleitungssatz generieren: wer streitet mit wem worueber nach welcher Hauptnorm.
+- `fristen-und-terminkalender` — Prozessuale Fristen und Termine hervorheben und Fristen-Box erstellen.
+- `neutralitaetspruefung` — Aktenauszug auf unzulaessige Wertungen und Erfolgsprognosen prüfen und neutralisieren.
+- `parteivortrag-gegenueberstellung` — Zweispaltige Tabelle streitiger Sachverhaltsangaben Kläger vs. Beklagte erstellen.
+- `rechtsargumente-gegenueberstellung` — Tabellarische Gegenueberstellung der Rechtsargumente beider Parteien mit Normfundstellen.
+- `sachverhaltschronologie` — Chronologische Bullet-Liste ausserprozessualer Tatsachen ohne Wertung erstellen.
+- `schwerpunktthemen-identifikation` — Drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Fundstellen identifizieren.
+- `sozialgerichtsverfahren-modus` — Aktenauszug für SGG-Verfahren mit Vorverfahrens-Prüfung und Leistungsarten erstellen.
+- `strafprozess-modus` — Aktenauszug für StPO-Verfahren mit Anklageschrift, Hauptverhandlung und Rechtsmitteln erstellen.
+- `verfahrenschronologie` — Chronologische Liste aller prozessualen Schritte mit hervorgehobenen kritischen Fristen.
+- `verfahrensidentifikation` — Alle Verfahrensstammdaten strukturiert erfassen: Gericht, Kammer, Aktenzeichen, Parteien.
+- `verfahrenszusammenfassung-absatz` — Acht bis zehn Saetze Hintergrund, Streitstand und anstehende Verfahrenshandlungen.
+- `verwaltungsprozess-modus` — Aktenauszug für VwGO-Verfahren mit Vorverfahren und Widerspruchsbescheid erstellen.
+- `zivilprozess-modus` — Aktenauszug für ZPO-Verfahren mit Berufung, Revision und einstweiliger Verfuegung erstellen.
+
+## Worauf besonders achten
+
+- **Neutralitaet strikt einhalten**: Ein Aktenauszug enthaelt keine Erfolgsprognose und keine Bewertung, welcher Vortrag zutrifft; Verstoss untergraebt die Verwendbarkeit.
+- **Fristen immer optisch hervorheben**: Eine uebersehene Berufungsfrist kann das Mandat kosten; der Fristen-und-Terminkalender-Skill ist Pflichtschritt.
+- **Modus korrekt auswaehlen**: ArbGG, SGG, VwGO und StPO haben eigene Fristen und Besonderheiten, die der jeweilige Modus-Skill abdeckt.
+- **Anlagenverzeichnis vollstaendig fuehren**: Fehlende Anlagen können in der Verhandlung nicht nachgereicht werden ohne Fristrisiko.
+- **Stilrichtlinie für alle Bausteine verbindlich**: Unterschiedliche Sprachstile in verschiedenen Bausteinen zerstoeren die Lesbarkeit des Auszugs.
+
+## Typische Fehler
+
+- Zusammenfassungsabsatz statt vollstaendigem Aktenauszug verwenden: Luecken in Sachverhalt und Beweismitteln bleiben unentdeckt.
+- Parteivortraege ohne Fundstellen aus Schriftsaetzen eintragen: Prüfbarkeit entfaellt.
+- Einleitungssatz mit Erfolgsprognose formulieren; verfaelscht den Charakter des neutralen Auszugs.
+- Verfahrensordnung falsch eingestuft; ZPO-Fristen bei ArbGG-Verfahren angewendet.
+- Neutralitaetspruefung als letzten Schritt weglassen; Wertungen aus frueheren Entwurfsrunden bleiben stehen.
+
+## Quellen und Aktualitaet
+
+- Stand: 05/2026
+- Gesetzesfassungen zum Stand-Datum
+- § 23 Nr. 1 GVG: Wertgrenze AG 10.000 EUR seit 01.01.2026
+
+---
+
+## Skill: `strafprozess-modus`
+
+_Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Prüfraster StPO-spezifische Besonderheiten Verfahrenschronolo..._
+
+# Strafprozess-Modus (StPO)
+
+## Arbeitsbereich
+
+Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Prüfraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren auf Antrag, § 385 Abs. 3 Nebenkläger, ZPO § 299 jederzeit für Parteien, Bearbeitung i.d.R. 2-4 Wochen.
+- Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage — kläre vor Aktivierung des Modus
+
+1. Stadium: Ermittlungsverfahren / Zwischenverfahren / Hauptverhandlung / Rechtsmittelverfahren?
+2. Ist der Mandant Beschuldigter / Angeklagter / Nebenkläger / Zeuge?
+3. Besteht Untersuchungshaft? (Haftverlängerungsbeschlüsse und Haftdauer hervorheben!)
+4. Welche Revisionsrügen sind geplant oder bereits erhoben?
+5. Liegt ein Beweisantrag nach § 244 StPO vor oder ist einer geplant?
+
+## Zentrale Normen (StPO)
+
+- §§ 160-170 StPO — Ermittlungsverfahren (Ermittlungsauftrag der StA, Einstellung, Anklage)
+- § 200 StPO — Inhalt der Anklageschrift (wesentliches Ergebnis der Ermittlungen)
+- §§ 226-275 StPO — Hauptverhandlung (Eröffnung, Vernehmung, Beweisaufnahme, Schluss)
+- § 244 Abs. 2 StPO — Aufklärungspflicht des Gerichts; § 244 Abs. 3-6 StPO — Beweisantragsrecht
+- §§ 333-358 StPO — Revision; § 341 StPO — Revisionsfrist 1 Woche; § 345 — Begründungsfrist 1 Monat
+- §§ 314-332 StPO — Berufung (Landgericht als Berufungsgericht)
+- §§ 112-130 StPO — Untersuchungshaft (Haftgründe, Haftprüfung, Haftverschonung)
+
+## Rechtsprechung (BGH — Leitsätze Strafprozessrecht)
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Typischer Verfahrensablauf
+
+1. Ermittlungsverfahren (Staatsanwaltschaft / Polizei)
+2. Anklageschrift der Staatsanwaltschaft
+3. Zwischenverfahren — Eröffnungsbeschluss (§ 207 StPO)
+4. Terminsladung zur Hauptverhandlung
+5. Hauptverhandlung (§§ 226 ff. StPO)
+6. Urteilsverkündung
+7. Rechtsmittel (Berufung oder Revision)
+
+## Besonderheiten der Strafakte
+
+### Ermittlungsakte
+
+Die Ermittlungsakte umfasst Vernehmungsprotokolle, Observationsberichte, Beschlagnahmeverzeichnisse, Gutachten der Ermittlungsbehörden und sonstige Beweismittel. Sie bildet die Grundlage der Anklage.
+
+**Im Aktenauszug:**
+
+- Umfang der Ermittlungsakte (Bände und Blätter)
+- Wesentliche Ermittlungsschritte (Durchsuchungen, Festnahmen, TKÜ)
+- Sachverständigengutachten der Ermittlungsbehörden
+
+### Anklageschrift
+
+**Zu erfassen:**
+
+- Anklagebehörde und Datum
+- Angeklagte mit vollständigen Personalien
+- Vorgeworfene Taten mit Tatzeit Tatort und Norm
+- Wesentliches Ergebnis der Ermittlungen (§ 200 Abs. 2 StPO)
+
+### Hauptverhandlung
+
+- Termine mit Verhandlungsdauer und wesentlichem Inhalt
+- Beweisanträge der Verteidigung (§ 244 StPO)
+- Ablehnungsbeschlüsse des Gerichts
+- Zeugenaussagen (kurze Zusammenfassung)
+- Sachverständige in der Hauptverhandlung
+
+## Kritische Fristen (StPO)
+
+| Frist | Norm | Dauer |
+|---|---|---|
+| Revisionsfrist | § 341 StPO | 1 Woche ab Urteilsverkündung |
+| Revisionsbegründungsfrist | § 345 StPO | 1 Monat ab Zustellung Urteil |
+| Berufungsfrist | § 314 StPO | 1 Woche ab Urteilsverkündung |
+| Haftprüfungsantrag | § 117 StPO | jederzeit |
+
+**Besondere Hervorhebung:** Die Revisionsfrist von einer Woche ab Urteilsverkündung ist eine der kürzesten Fristen im deutschen Prozessrecht und wird im Aktenauszug besonders prominent hervorgehoben.
+
+## Wiederaufnahme (§§ 359 ff. StPO)
+
+Gesondert darzustellen:
+- Wiederaufnahmegrund (§ 359 Nrn. 1 bis 6 StPO)
+- Neue Tatsachen oder Beweismittel
+- Vorheriger Verfahrensverlauf
+
+## Besonderheiten im Aktenauszug
+
+- Parteibezeichnungen: "Angeklagter", "Staatsanwaltschaft", "Nebenkläger"
+- Keine Schuldvermutung im Aktenauszug
+- Freispruch und Verurteilung neutral darstellen
+- Bei laufender Untersuchungshaft: Haftverlängerungsbeschlüsse und Haftdauer hervorheben
+
+---
+
+## Skill: `verfahrenschronologie`
+
+_Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeingang Zustellungen Schriftsatzfristen Beweisbeschluesse muendliche Verhandlungen Beweisaufnahme Urteile und Rechtsmittel. Kritische Fristen werden optisch hervorgehoben. Fundstellen werden angegeben. Normen §§ 222 517 5..._
+
+# Verfahrenschronologie
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren auf Antrag, § 385 Abs. 3 Nebenkläger, ZPO § 299 jederzeit für Parteien, Bearbeitung i.d.R. 2-4 Wochen.
+- Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage — kläre vor Erstellung
+
+1. Liegt die Zustellungsurkunde der Klageschrift vor? (Fristbeginn für Klageerwiderung)
+2. Wurden alle Urteile zugestellt? (Berufungsfrist läuft ab Zustellung!)
+3. Haben beide Parteien Schriftsätze vorgelegt? Welche?
+4. Sind Vollstreckungsmaßnahmen eingeleitet? (Pfändungsbeschluss, Zwangshypothek)
+
+## Zentrale Normen (Verfahrensrecht)
+
+- § 222 ZPO i.V.m. §§ 187-188 BGB — Fristberechnung im Verfahren
+- §§ 517-520 ZPO — Berufung und Begründung (Fristen: 1 Monat / 2 Monate)
+- §§ 548-551 ZPO — Revision (Fristen: 1 Monat / 2 Monate)
+- § 329 ZPO — Verkündung von Beschlüssen
+- § 310 ZPO — Verkündung des Urteils
+- § 929 Abs. 2 ZPO — Vollziehungsfrist bei einstweiliger Verfügung (1 Monat)
+- §§ 704-945 ZPO — Zwangsvollstreckung
+
+## Rechtsprechung zu Verfahrensfristen und Zustellung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Was gehört hinein
+
+- Klageeingang / Antragseingang beim Gericht
+- Zahlung des Gerichtskostenvorschusses
+- Zustellung der Klageschrift / des Arrestgesuchs
+- Klageerwiderung und alle weiteren Schriftsätze (mit Datum)
+- Richterliche Verfügungen und Hinweisbeschlüsse
+- Beweisbeschlüsse
+- Terminsladungen
+- Mündliche Verhandlungen (mit Ergebnis / Protokollvermerk)
+- Beweisaufnahme (Zeugenvernehmung, Sachverständigengutachten)
+- Eingang von Gutachten
+- Urteile und Beschlüsse (mit Tenor)
+- Rechtsmittelfristen und Einlegung von Rechtsmitteln
+- Vollstreckungsmaßnahmen
+
+## Was nicht hinein gehört
+
+- Außerprozessuale Ereignisse (→ Sachverhaltschronologie)
+- Rechtliche Bewertungen der Schriftsätze
+
+## Formatvorgabe
+
+```
+- **TT.MM.JJJJ** [Kurzbeschreibung des prozessualen Schritts] (Fundstelle: [Blatt])
+- ** TT.MM.JJJJ — FRIST:** [Fristbezeichnung — z. B. Berufungsfrist] (Fundstelle: [Blatt])
+```
+
+## Hervorhebung von Fristen
+
+Jede prozessrelevante Frist wird hervorgehoben und ans Ende der Chronologie als eigener Block wiederholt:
+
+```
+
+## Fristen und Termine (Übersicht)
+
+| Frist / Termin | Datum | Status |
+|---|---|---|
+| Berufungsfrist (§ 517 ZPO) | TT.MM.JJJJ | laeuft |
+| Begründungsfrist (§ 520 ZPO) | TT.MM.JJJJ | laeuft |
+| Nächste mündliche Verhandlung | TT.MM.JJJJ | angesetzt |
+```
+
+## Beispiele
+
+```
+- **08.02.2023** Eingang der Klageschrift beim Landgericht Frankfurt am Main (Bl. 1)
+- **15.02.2023** Anforderung des Gerichtskostenvorschusses (Bl. 5)
+- **22.02.2023** Einzahlung des Gerichtskostenvorschusses durch Klägerin (Bl. 7)
+- **03.03.2023** Zustellung der Klageschrift an Beklagte (Bl. 9)
+- **14.04.2023** Eingang der Klageerwiderung (Bl. 12-45)
+- **20.06.2023** Terminsladung zur mündlichen Verhandlung am 15.09.2023 (Bl. 48)
+- **15.09.2023** Mündliche Verhandlung; Beweisbeschluss über Einholung Sachverständigengutachten (Bl. 60-62)
+- **10.01.2024** Eingang des Sachverständigengutachtens (Bl. 80-140)
+- **05.04.2024** Verkündung des Urteils; Klage abgewiesen (Bl. 200-215)
+- **05.05.2024 — FRIST:** Berufungsfrist gemäß § 517 ZPO (einen Monat ab Zustellung)
+```
+
+## Besonderheiten nach Verfahrensart
+
+**Eilverfahren:** Vollziehungsfrist des § 929 Abs. 2 ZPO besonders hervorheben.
+
+**Strafverfahren:** Eröffnungsbeschluss, Ladungen, Hauptverhandlungstermine, Einlegung von Rechtsmitteln nach § 333 ff. StPO.
+
+**Verwaltungsverfahren:** Widerspruchsverfahren als vorgelagerte Phase einschließen; Klagefrist des § 74 VwGO.
+
+## Qualitätscheck
+
+- [ ] Alle prozessualen Schritte erfasst?
+- [ ] Chronologisch sortiert?
+- [ ] Fristen hervorgehoben?
+- [ ] Fristentabelle vorhanden?
+- [ ] Keine außerprozessualen Ereignisse enthalten?
+- [ ] Zustellungsdaten als Grundlage der Fristberechnung angegeben?
+
+---
 
 ---
 

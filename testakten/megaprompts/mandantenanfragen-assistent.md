@@ -14,13 +14,13 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `mandantenanfragen-a
 6. **einwilligung-hinweis-datenschutz** — Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. …
 7. **erstantwort-generator** — Sekretariat oder Anwalt muss professionelle Erstantwort-E-Mail an potentiellen Mandanten senden. Hauptskill Erstantwort-…
 8. **folgekorrespondenz-vorbereiten-konfliktcheck** — Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name M…
-9. **ma-mandant-manda-erstgespraechsleitfaden** — Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehig…
-10. **mandatsverhaeltnis-hinweis** — Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftun…
-11. **mehrsprachige-antwort-muster-erstantwort-spam** — Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrspra…
-12. **muster-erstantwort** — Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfrast…
-13. **spam-und-massen-anfrage-filter** — Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419…
-14. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Mandantenanfragen Assistent-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, R…
-15. **telefon-konfiguration** — Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfiguratio…
+9. **mandatsverhaeltnis-hinweis** — Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftun…
+10. **mehrsprachige-antwort-muster-erstantwort-spam** — Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrspra…
+11. **muster-erstantwort** — Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfrast…
+12. **spam-und-massen-anfrage-filter** — Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419…
+13. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Mandantenanfragen Assistent-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, R…
+14. **telefon-konfiguration** — Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfiguratio…
+15. **transkriptionsdienst-erklaerung** — Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Er…
 
 ---
 
@@ -76,7 +76,7 @@ _Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Anwaltskanzleien Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Mandantenanfragen Assistent** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Anwaltskanzleien Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Mandantenanfragen Assistent** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -136,7 +136,7 @@ _Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und
 Dieser Skill extrahiert aus einer eingehenden Mandantenanfrage per E-Mail alle relevanten Informationen in strukturierter Form, damit das Sekretariat und die bearbeitende Rechtsanwältin sofort den Überblick haben.
 
 ## Triage zu Beginn
-1. Ueber welchen Kanal ist die Anfrage eingegangen: E-Mail, Webformular, beA, Telefonnotiz, Messenger?
+1. Über welchen Kanal ist die Anfrage eingegangen: E-Mail, Webformular, beA, Telefonnotiz, Messenger?
 2. Gibt es eindeutige Fristen-Signale oder Eile-Marker, die sofortige Weiterleitung erfordern?
 3. Kann die anfragende Person identifiziert werden (Name, E-Mail, Telefon) oder ist die Anfrage anonym?
 4. Ist die Anfrage in deutscher Sprache oder in einer Fremdsprache (Weiterleitung an mehrsprachige-antwort)?
@@ -148,7 +148,7 @@ Dieser Skill extrahiert aus einer eingehenden Mandantenanfrage per E-Mail alle r
 - Art. 6 Abs. 1 lit. b, f DSGVO — Rechtsgrundlage für Verarbeitung von Erstanfrage-Daten
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten aus der Anfrage extrahieren
 - § 43 BRAO — Sorgfaltspflicht: sofortige Bearbeitung und Dokumentation eingehender Anfragen
-- § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: vor Mandatsannahme ueber voraussichtliche Kosten informieren
+- § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: vor Mandatsannahme über voraussichtliche Kosten informieren
 
 ## Extraktionsfelder
 
@@ -276,7 +276,7 @@ Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt
 
 ## Triage zu Beginn
 1. Wie hat sich die anfragende Person angesprochen oder bezeichnet (Titel, Nachname, Vorname, Doppelname)?
-2. Gibt es Unsicherheiten bei Titel, Geschlecht oder Namensbestandteilen, die gekennzeichnet werden muessen?
+2. Gibt es Unsicherheiten bei Titel, Geschlecht oder Namensbestandteilen, die gekennzeichnet werden müssen?
 3. Ist die Anfrage nicht auf Deutsch — andere Anredekonventionen (EN, FR, IT) beachten?
 4. Handelt es sich um eine Erbengemeinschaft, ein Ehepaar oder eine juristische Person mit besonderer Anredeform?
 
@@ -440,7 +440,7 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 - § 4 KSchG — Kuendigungsschutzklage-Frist: 3 Wochen ab Zugang der Kuendigung (Notfrist)
 - § 517 ZPO — Berufungsfrist: 1 Monat ab Urteilszustellung (Notfrist, unverlaengerbar)
 - § 51 BRAO — Haftung: Fristversaeumnis durch mangelnde Dringlichkeits-Erkennung
-- § 233 ZPO — Wiedereinsetzung: nur moeglich wenn Kanzlei keine Fahrlässigkeit trifft
+- § 233 ZPO — Wiedereinsetzung: nur möglich wenn Kanzlei keine Fahrlässigkeit trifft
 
 ## Dringlichkeitsstufen
 
@@ -992,58 +992,6 @@ Konfliktcheck: AUSSTEHEND — vor Terminvergabe durchführen!
 
 ---
 
-## Skill: `ma-mandant-manda-erstgespraechsleitfaden`
-
-_Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin im Mandanten..._
-
-# Mandant mit Betreuung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: BRAO § 44 unverzügliche Annahme/Ablehnung, RVG § 34 Erstberatung max. 190 EUR (Verbraucher), DSGVO Art. 13 Information bei Erhebung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 44, 49b, BORA §§ 2, 11, BGB §§ 145 ff., 280, 627, 675, GwG §§ 10, 11, RVG §§ 1, 4, 34 (Erstberatung), DSGVO Art. 6, 13 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht, Honorarvereinbarung, Mandantendossier, Datenschutzhinweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Mandant mit Betreuung
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
 ## Skill: `mandatsverhaeltnis-hinweis`
 
 _Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fu..._
@@ -1072,7 +1020,7 @@ Formuliert den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 611, 675 BGB — Anwaltsvertrag: kommt durch Angebot und Annahme zustande; konkludente Entstehung moeglich
+- §§ 611, 675 BGB — Anwaltsvertrag: kommt durch Angebot und Annahme zustande; konkludente Entstehung möglich
 - § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: Hinweis auf voraussichtliche Kosten vor Mandatsannahme
 - § 13 BGB — Verbraucher: erhoehtere Informationspflichten und Widerrufsrecht (§§ 355 ff. BGB) bei Fernkommunikation
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch gegenueber potenziellem Mandanten, der noch kein Mandat erteilt hat
@@ -1182,7 +1130,7 @@ Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet d
 1. Welche Sprache wurde in der Anfrage verwendet und welche Sprache soll für die Antwort verwendet werden?
 2. Gibt es landesspezifische Anredekonventionen (EN, FR, IT) die abweichen von deutschen Regeln?
 3. Muss der Datenschutzhinweis (Art. 13 DSGVO) und der Kein-Mandat-Disclaimer ebenfalls in der Fremdsprache formuliert werden?
-4. Ist die Anfrage moeglicherweise automatisch uebersetzt worden (Qualitaet der Sprache pruefen)?
+4. Ist die Anfrage moeglicherweise automatisch übersetzt worden (Qualitaet der Sprache prüfen)?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -1781,10 +1729,10 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Ist die Anfrage eine echte Neuanfrage, eine Folgekommunikation oder Spam?
+1. Mandantenkonstellation klären: Ist die Anfrage eine echte Neuanfrage, eine Folgekommunikation oder Spam?
 2. Phase des Mandats bestimmen: Erstkontakt (kein Mandat), vor Mandatsannahme (Konfliktcheck noetig) oder laufendes Mandat?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: Dringlichkeits-Check auf Signalwoerter (Hauptverhandlung, Kuendigungsfrist, Zwangsvollstreckung).
+4. Eilfristen prüfen: Dringlichkeits-Check auf Signalwoerter (Hauptverhandlung, Kuendigungsfrist, Zwangsvollstreckung).
 5. Anschluss-Skill bestimmen: Nach Erstantwort ggf. Folgekorrespondenz-Vorbereitung und CRM-Eintrag.
 
 ## Skill-Tour (was gibt es hier?)
@@ -1810,13 +1758,13 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 - **Anrede prazise uebernehmen**: Fehler bei akademischen Titeln (Dr., Prof.) oder Doppelnamen sind der haeufigste Grund für unprofessionellen Ersteindruck.
 - **DSGVO-Pflichten beim Transkriptionsservice**: Ohne Einwilligung und Datenschutzhinweis ist die Transkription eines Telefonats nicht rechtsgemaess; die Einwilligung muss für den konkreten Zweck erteilt werden.
 - **Interessenkonflikt-Zeitpunkt**: Der Check muss vor jeder Terminvergabe erfolgen — nicht erst bei Mandatsannahme.
-- **Schweigepflicht gilt nicht ab Erstanfrage**: Sekretariatsmitarbeiter muessen wissen, dass die Verschwiegenheitspflicht erst nach Mandatsbeginn gilt, vorher aber allgemeine Diskretionspflichten bestehen.
+- **Schweigepflicht gilt nicht ab Erstanfrage**: Sekretariatsmitarbeiter müssen wissen, dass die Verschwiegenheitspflicht erst nach Mandatsbeginn gilt, vorher aber allgemeine Diskretionspflichten bestehen.
 
 ## Typische Fehler
 
-- Erstantwort enthaelt bereits inhaltliche Einschaetzungen zum Sachverhalt: Der Anwalt ist dann moeglicherweise beratend taetig ohne Verguetungsanspruch und mit Haftungsrisiko.
+- Erstantwort enthaelt bereits inhaltliche Einschaetzungen zum Sachverhalt: Der Anwalt ist dann moeglicherweise beratend tätig ohne Verguetungsanspruch und mit Haftungsrisiko.
 - Interessenkonflikt-Check wird uebersprungen: Bei spaeterer Entdeckung muss das Mandat niedergelegt werden; Reputations- und Haftungsschaden.
-- DSGVO-Einwilligung für Transkription fehlt: Datenschutzrechtliche Abmahnung oder Busgeld moeglich.
+- DSGVO-Einwilligung für Transkription fehlt: Datenschutzrechtliche Abmahnung oder Busgeld möglich.
 - Spam nicht erkannt: Massen-Anfragen und 419-Scams binden Kanzlei-Ressourcen ohne jeden Nutzen.
 - Mehrsprachige Anfragen auf Deutsch beantwortet: Mandant fuehl sich nicht abgeholt; Kanzlei verliert potenzielle Mandate.
 
@@ -1850,7 +1798,7 @@ Dieser Skill verwaltet die Kanzlei-spezifischen Kontaktdaten — insbesondere Te
 ## Triage zu Beginn
 1. Sind alle Pflicht-Felder in kanzlei.json bereits konfiguriert (Kanzleiname, Telefon, E-Mail, Unterzeichnende-RA)?
 2. Hat sich eine Telefonnummer oder ein Kanzlei-Datum geaendert, das in allen Templates aktualisiert werden muss?
-3. Gibt es mehrere Kanzlei-Standorte mit unterschiedlichen Telefonnummern, die getrennt gepflegt werden muessen?
+3. Gibt es mehrere Kanzlei-Standorte mit unterschiedlichen Telefonnummern, die getrennt gepflegt werden müssen?
 4. Sollen die Konfigurationsdaten verschluesselt gespeichert werden (Datenschutzanforderungen)?
 
 ## Aktuelle Rechtsprechung
@@ -1963,6 +1911,121 @@ Für jeden Standort eine separate `kanzlei-[standort].json` anlegen und beim Abr
 - `erstantwort-generator` — Hauptabnehmer der Konfigurationsdaten
 - `transkriptionsdienst-erklaerung` — benötigt `telefon_transkription`
 - `muster-erstantwort` — Platzhalter werden durch diesen Skill befüllt
+
+---
+
+## Skill: `transkriptionsdienst-erklaerung`
+
+_Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Erstantwort. Prüfraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis für Erstantwort. Abgren..._
+
+# Transkriptionsdienst-Erklärung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: BRAO § 44 unverzügliche Annahme/Ablehnung, RVG § 34 Erstberatung max. 190 EUR (Verbraucher), DSGVO Art. 13 Information bei Erhebung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 44, 49b, BORA §§ 2, 11, BGB §§ 145 ff., 280, 627, 675, GwG §§ 10, 11, RVG §§ 1, 4, 34 (Erstberatung), DSGVO Art. 6, 13 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht, Honorarvereinbarung, Mandantendossier, Datenschutzhinweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+Formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in dem der automatisierte Transkriptionsservice beschrieben wird. Er kommt zum Einsatz, wenn die anfragende Person signalisiert, dass sie ihren Sachverhalt nicht schriftlich schildern kann oder möchte.
+
+## Triage zu Beginn
+1. Liegt ein Ausloeser für den Transkriptionsservice vor (Anfrage kurz/fragmentarisch, Nutzer kann nicht schreiben, expliziter Wunsch)?
+2. Ist ein Auftragsverarbeitungsvertrag nach Art. 28 DSGVO mit dem Transkriptions-Dienstleister vorhanden?
+3. Enthaelt die Sprachaufnahme potenziell besondere Datenkategorien (Gesundheit, Strafrecht — Art. 9 DSGVO)?
+4. Wird die Einwilligung per automatisierter Ansage (Tastendruck) oder schriftlich eingeholt?
+
+## Aktuelle Rechtsprechung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen
+- Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage für Sprachaufnahme vor Mandatsannahme
+- Art. 28 DSGVO — AVV mit Transkriptionsdienstleister: zwingend vor Inbetriebnahme
+- Art. 9 Abs. 2 lit. a DSGVO — Ausdrückliche Einwilligung bei besonderer Datenkategorien (Gesundheit, Strafrecht)
+- Art. 13 DSGVO — Informationspflicht bei Ersterhebung von Sprachdaten: vollstaendige Vorab-Aufklaerung
+
+## Wann wird dieser Skill aktiviert?
+
+Aktivierung wenn einer der folgenden Auslöser erkannt wird:
+
+- Explizit: "Ich kann nicht schreiben", "Ich schreibe lieber nicht", "Ich würde lieber anrufen und erzählen", "kann mich nicht gut schriftlich ausdrücken", "bin nicht so gut mit dem Computer"
+- Implizit: Kurze, fragmentarische Anfrage ohne Sachverhalts-Details trotz offensichtlich komplexem Anliegen
+- Manuell: Die Sekretariatsmitarbeiterin aktiviert den Modus explizit
+
+## Ablauf des Transkriptionsservices
+
+Der Ablauf, der in der Mail erklärt wird:
+
+1. **Anruf:** Die anfragende Person ruft unter der Transkriptions-Telefonnummer an.
+2. **Einwilligungsabfrage:** Zu Beginn des Anrufs wird eine automatisierte Ansage abgespielt, die auf die Verarbeitung der Sprachdaten hinweist. Die anrufende Person muss ihr Einverständnis durch Drücken einer Taste oder durch ein klares mündliches "Ja" bestätigen.
+3. **Wichtig:** Ohne Einverständnis-Bestätigung wird die Aufnahme nicht gestartet. Der Anruf endet, oder die Person wird an das Sekretariat weitergeleitet.
+4. **Schilderung:** Nach bestätigtem Einverständnis schildert die Person ihr Anliegen mündlich.
+5. **Automatische Verschriftung:** Die Sprachaufnahme wird durch einen automatisierten Transkriptionsservice verschriftlicht.
+6. **Übermittlung:** Das Transkript wird der Kanzlei vertraulich übermittelt und dem potenziellen Mandantenvorgang zugeordnet.
+7. **Rückmeldung:** Das Sekretariat meldet sich auf Basis des Transkripts beim Anfragenden zurück.
+
+## Mail-Abschnitt (Standard-Formulierung)
+
+```
+Falls Ihnen eine schriftliche Schilderung schwerfällt, bieten wir einen
+automatisierten Transkriptionsservice an:
+
+Sie rufen unter der folgenden Nummer an und schildern Ihr Anliegen
+mündlich:
+
+ Transkriptionsservice: [TRANSKRIPTIONS-TELEFON]
+
+Ablauf:
+ 1. Automatische Ansage mit Datenschutzhinweis
+ 2. Bestätigung Ihres Einverständnisses (Tastendruck oder mündliches "Ja")
+ — Ohne Bestätigung wird keine Aufnahme gestartet.
+ 3. Freie Schilderung Ihres Anliegens
+ 4. Automatische Verschriftung und vertrauliche Weiterleitung an uns
+
+Bitte beachten Sie: Da zwischen uns noch kein Mandatsverhältnis besteht,
+gilt für die Verarbeitung Ihrer Sprachdaten das ausdrückliche
+Einverständnis nach Art. 6 Abs. 1 lit. a DSGVO als Rechtsgrundlage.
+Sie können dieses Einverständnis jederzeit widerrufen. Einzelheiten
+entnehmen Sie bitte unserem Datenschutzhinweis, den wir Ihnen auf
+Anfrage gerne zusenden.
+```
+
+## Wichtige inhaltliche Anforderungen
+
+### Kein Mandat, kein Vertrauensverhältnis
+
+In diesem Stadium besteht noch kein Anwalts-Mandatsverhältnis. Das bedeutet:
+- Die Schweigepflicht nach § 43a Abs. 2 BRAO gilt noch nicht für das spezifische Anliegen (wohl aber für allgemeine anwaltliche Verschwiegenheit im Rahmen der Berufsausübung).
+- Die Verarbeitung der Sprachdaten bedarf deshalb einer ausdrücklichen Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), nicht einer vertraglichen Notwendigkeit.
+- Der Skill `einwilligung-hinweis-datenschutz` liefert die vollständige DSGVO-Klausel.
+
+### Keine Zusagen zur Mandatsannahme
+
+Die Formulierung des Transkriptionsservice-Abschnitts enthält keine Zusagen, dass die Kanzlei das Mandat annehmen wird. Zulässig: "Wir melden uns auf Basis des Transkripts bei Ihnen." Nicht zulässig: "Wir werden Ihren Fall übernehmen."
+
+### Technisch neutrale Sprache
+
+Keine Nennung von Markennamen, Anbietern oder technischen Details des Transkriptionsservices in der Mandantenmail — diese sind interne Infrastruktur.
+
+## Konfigurierbare Parameter
+
+Aus `kanzlei.json`:
+- `telefon_transkription` — Rufnummer des Transkriptionsservices
+- Optional: Betriebszeiten des Transkriptionsservices, falls abweichend von Kanzleizeiten
+
+## Verweise auf andere Skills
+
+- `einwilligung-hinweis-datenschutz` — vollständige DSGVO-Einwilligung
+- `mandatsverhaeltnis-hinweis` — Disclaimer zum fehlenden Mandat
+- `telefon-konfiguration` — liefert `telefon_transkription`
+- `erstantwort-generator` — bettet diesen Abschnitt in die Antwortmail ein
+
+<!-- AUDIT 27.05.2026
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+-->
 
 ---
 

@@ -7,13 +7,13 @@ Dieser Megaprompt enthaelt top-8 von 199 Skills (gekuerzt fuer Chat-Fenster) des
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Fachmodul-Routing und erste verwertbare rechtsgeschichtliche Ausgabe…
-2. **aufopferung-fortwirkung-bgb-und-polizei** — Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende …
-3. **aufopferung-historische-faelle** — Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill be…
-4. **aufopferung-historische-faelle-pockenimpfung** — Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill be…
-5. **bereicherungsrecht-im-alr-condictiones** — Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebi…
-6. **sklavenrecht-alr-ii-5-196-197** — Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Sk…
-7. **sklavenrecht-rechtsvergleich** — Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet…
-8. **sklavenrecht-rechtsvergleich-somerset-code-noir** — Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet…
+2. **aufopferung-historische-faelle** — Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill be…
+3. **aufopferung-historische-faelle-pockenimpfung** — Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill be…
+4. **bereicherungsrecht-im-alr-condictiones** — Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebi…
+5. **sklavenrecht-rechtsvergleich** — Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet…
+6. **sklavenrecht-rechtsvergleich-somerset-code-noir** — Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet…
+7. **strafprozess-willensmaengel** — Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II.…
+8. **zwitterrecht-alr-ii-1-19-bis-22** — Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Ge…
 
 ---
 
@@ -25,7 +25,7 @@ _PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Fachmodul-Routing und erste
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Preussisches Allgemeines Landrecht Pralr** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Preussisches Allgemeines Landrecht Pralr** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -71,62 +71,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `aufopferung-fortwirkung-bgb-und-polizei`
-
-_Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster im Preußisches Allgemeines Landrecht..._
-
-# Pralr Aufopferung Fortwirkung Bgb Und Polizei
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Heute lebender Aufopferungsanspruch
-
-- Ungeschriebenes Rechtsinstitut auf der Grundlage Einl. §§ 74-75 ALR.
-- BGH staendige Rspr. seit BGHZ 9 Seite 83.
-
-## Spezialgesetze (vorrangig)
-
-- POG / PolG der Länder — Polizeischadensentschaedigung.
-- **SGB XIV (Soziales Entschaedigungsrecht)** — in Kraft seit 01.01.2024. Bündelt das frühere BVG (Bundesversorgungsgesetz), das OEG (Opferentschädigungsgesetz) und die Impfschadensversorgung aus IfSG §§ 60 ff. zu einem einheitlichen sozialen Entschaedigungsrecht. Für Altfaelle / Uebergangsregelungen weiter BVG/OEG/IfSG live verifizieren.
-- StVG §§ 7 ff. — Halterhaftung.
-
-## Subsidiaritaet
-
-- Aufopferungsanspruch tritt zurueck, wenn Spezialgesetz greift.
-- Aufopferung dient als "Auffangtatbestand" für rechtmäßige Eingriffe ohne Spezialgesetz.
-
-## Typische heutige Faelle
-
-- Verletzung eines Unbeteiligten beim polizeilichen Einsatz (Schussschaden Polizeischaden).
-- Vermoegensentzug durch hoheitliche Massnahme.
-- Frueh-Impfungsfaelle vor sozialer Entschaedigung — heute SGB XIV.
-
-## Abgrenzung Art. 14 III GG
-
-- Eigentumsentziehung -> Enteignung mit Art. 14 III GG.
-- Sonstige Eingriffe -> Aufopferung.
-
-## Abgrenzung Art. 34 GG
-
-- Rechtswidriges Verhalten -> Amtshaftung.
-- Rechtmäßiges Verhalten -> Aufopferung.
-
-## Pruefraster
-
-1. Hoheitlicher Eingriff?
-2. Rechtmaessig oder rechtswidrig?
-3. Spezialgesetz greift?
-4. Aufopferung subsidiaer?
-5. Sonderopfer-Schwelle?
-
----
-
 ## Skill: `aufopferung-historische-faelle`
 
 _Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill behandelt die Pockenimpfungspflicht des 19. Jahrhunderts (Reichsimpfgesetz 1874) und die rechtshistorische Linie zur heutigen Impfschadensversorgung nach IfSG. Liefert Quellenmatrix._
@@ -156,9 +100,9 @@ _Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimp
 - Reichsversorgungsgesetz und spaetere Reform.
 - Heute IfSG §§ 60 ff. für Impfschaeden.
 
-## Pruefraster
+## Prüfraster
 
-1. Hoheitliche Massnahme im Allgemeininteresse?
+1. Hoheitliche Maßnahme im Allgemeininteresse?
 2. Sonderbelastung des Einzelnen?
 3. Spezialgesetz greift (IfSG, POG)?
 4. Allgemeiner Aufopferungsanspruch subsidiaer?
@@ -218,9 +162,9 @@ _Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimp
 - Reichsversorgungsgesetz und spaetere Reform.
 - Heute IfSG §§ 60 ff. für Impfschaeden.
 
-## Pruefraster
+## Prüfraster
 
-1. Hoheitliche Massnahme im Allgemeininteresse?
+1. Hoheitliche Maßnahme im Allgemeininteresse?
 2. Sonderbelastung des Einzelnen?
 3. Spezialgesetz greift (IfSG, POG)?
 4. Allgemeiner Aufopferungsanspruch subsidiaer?
@@ -259,7 +203,7 @@ _Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condiction
 - Erwartete Gegenleistung blieb aus.
 
 ### Condictio ob iniustam causam
-- Zuwendung wegen sittenwidrigem Geschaeft.
+- Zuwendung wegen sittenwidrigem Geschäft.
 
 ## Fortwirkung BGB
 
@@ -273,73 +217,12 @@ _Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condiction
 - ALR mehr kasuistisch.
 - BGB-Generalklausel mit Aufgliederung.
 
-## Pruefraster
+## Prüfraster
 
 1. Etwas erlangt?
 2. Auf Kosten eines anderen?
 3. Ohne Rechtsgrund?
 4. Wertersatz oder Herausgabe?
-
----
-
-## Skill: `sklavenrecht-alr-ii-5-196-197`
-
-_Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schluesselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzun..._
-
-# Sklavenrecht im ALR — ALR II 5 §§ 196 ff.
-
-## Norm und Kontext
-
-ALR Zweiter Teil, Fuenfter Titel (Vom Gesinde) enthaelt mehrere Bestimmungen zum Status auslaendischer Sklaven, die nach Preussen gelangen. Sie zaehlen zu den beruehmten Stellen des ALR und werden in der Diskussion um das "free soil"-Prinzip Europas regelmaessig zitiert.
-
-### Schluesselparagraphen (Wortlaut sinngemaess)
-
-- **ALR II 5 § 196**: "Sklaverei soll in den koeniglichen Staaten nicht geduldet werden."
-- **ALR II 5 § 197**: "Sklaven, welche aus auswaertigen Ländern in die koeniglichen Staaten gebracht werden, sind, sobald sie die Grenze ueberschreiten, für frei zu erklaeren."
-- **ALR II 5 § 198 ff.**: ergaenzende Regelungen zu Pflichten der ehemaligen Herrschaft und zum spaeteren Aufenthaltsstatus.
-
-Wortlaut vor konkretem Zitat im Digitalisat (z. B. opinioiuris.de, Universitaetsbibliothek-Digitalisate) live verifizieren — die Paragraphennummerierung weicht zwischen Editionen 1794/1804 leicht ab.
-
-## Rechtsfolge
-
-- Eintritt in das Staatsgebiet **eo ipso** beendet den Sklavenstatus.
-- Der frueher Versklavte wird ab Grenzuebertritt **frei** im Sinne des preussischen Personenrechts.
-- Eigentumsansprueche des frueheren Herrn am Menschen sind in Preussen rechtlich nicht durchsetzbar.
-- Die ehemalige Herrschaft hat allenfalls vertragliche Restansprueche (z. B. ueber Reisekosten Hausrat) — aber keine personenrechtliche Verfuegungsbefugnis.
-
-## Die "1-Jahres-Frist"
-
-In der Diskussion (auch bei juristischen Laien) taucht haeufig die Vorstellung auf, der Sklavenstatus erloesche erst nach **einem Jahr Aufenthalt**. Dies ist im ALR **so nicht niedergelegt** — die Befreiung wirkt nach §§ 196/197 sofort mit Grenzuebertritt.
-
-Moegliche Quellen dieser Vorstellung:
-- **Verwechselung mit dem englischen Common Law**: dort wurde im Somerset-Fall (Court of King's Bench, **22.06.1772**, Lord Mansfield) entschieden, dass Sklaven auf englischem Boden frei seien. Eine ausdrueckliche Jahresfrist gab es dort ebenfalls nicht.
-- **Verwechselung mit dem franzoesischen Code Noir und der "freie Luft"-Klausel** im Edit de juin 1716 (geaendert 1738), wo eine **Drei-Jahres-Frist** für Reisende mit Sklaven aus den Kolonien zentral war, vor deren Ablauf der Sklavenstatus erhalten blieb. Diese Frist wirkte gegenlaeufig zum spaeteren ALR.
-- **Anlage und Aufenthaltsregelung**: Im ALR gab es Bestimmungen zur **gesinderechtlichen Bindung** des frueher Versklavten an die ehemalige Herrschaft als Dienender. Diese gesinderechtliche Bindung war typischerweise auf **ein Jahr** angelegt (Jahresvertrag des Gesindes). Daraus mag der "1-Jahres"-Eindruck stammen — er bezieht sich aber auf die **gesinderechtliche Folgebindung**, nicht auf den Sklavenstatus selbst.
-
-Im Ergebnis: Der Sklavenstatus erlischt im ALR **sofort** mit Grenzuebertritt. Eine etwaige Jahresfrist betrifft nur die gesinderechtliche Anschlussbindung nach altem Dienstrecht.
-
-## Rechtshistorische Bedeutung
-
-Die ALR-Norm wirkte als **rechtspolitische Demonstration** — Preussen als aufgeklaerter Staat im europaeischen Konzert. Sie war zugleich **praktisch begrenzt**: die Zahl der tatsaechlich nach Preussen gelangten Sklaven war gering, und die Regelung wurde im 19. Jahrhundert in einzelnen Faellen tatsaechlich angewendet (z. B. bei mit ihren Herrschaften reisenden Bediensteten aus den Karibik-Kolonien oder den nordamerikanischen Suedstaaten).
-
-Spaetere Akte:
-- **Edikt zur Aufhebung der Erbuntertaenigkeit** (sog. Oktoberedikt vom **09.10.1807**) hob die preussische Gutsuntertaenigkeit auf — innerpreussische "Leibeigenschaft" entfaellt.
-- **Gesetz vom 09.03.1857**: Bestaetigung und Schaerfung des Verbots der Sklaverei.
-
-## Verhaeltnis zu BGB / GG / Voelkerrecht
-
-- **Art. 1 Abs. 1 GG, Art. 2 Abs. 2 GG**: Menschenwuerde und koerperliche Unversehrtheit als heutige Anker.
-- **§ 138 Abs. 1 BGB**: ein Sklaverei-Vertrag ist sittenwidrig und nichtig.
-- **Art. 4 EMRK**: Verbot der Sklaverei.
-- **§ 233 StGB**: Menschenhandel.
-
-## Pruefraster
-
-1. Historische Fragestellung oder lebende Frage?
-2. Quelle: ALR II 5 §§ 196 ff. (Wortlaut im Digitalisat verifizieren).
-3. Sofortwirkung der Befreiung bei Grenzuebertritt klar darstellen.
-4. "1-Jahres-Frist" kritisch einordnen (Verwechslung mit Code Noir oder mit gesinderechtlicher Anschlussbindung).
-5. Heutige Norm (Art. 1 GG, § 138 BGB, § 233 StGB, Art. 4 EMRK).
 
 ---
 
@@ -371,7 +254,7 @@ _Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Fra
 ### Code Noir 1685 (Louis XIV)
 - Kolonialordnung für die franzoesischen Kolonien (Karibik, La Reunion, Louisiana).
 - Sklaverei in den Kolonien gesetzlich geregelt.
-- Im Mutterland Frankreich grundsaetzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
+- Im Mutterland Frankreich grundsätzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
 
 ### Edit du Roi de Juin 1716
 - Erlaubt die zeitweilige Mitnahme von Sklaven aus den Kolonien nach Frankreich zwecks Erziehung in Religion oder Beruf — Sklavenstatus bleibt **für maximal drei Jahre** erhalten.
@@ -405,7 +288,7 @@ _Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Fra
 - ALR steht in **eindeutig befreiender Tradition** zusammen mit England.
 - Frankreich-Modell (Edit 1716) mit Aufschub kennen die deutschen Staaten **nicht**.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Rechtsordnung?
 2. Wann hat der Status geendet?
@@ -481,7 +364,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Code Noir 1685 (Louis XIV)
 - Kolonialordnung für die franzoesischen Kolonien (Karibik, La Reunion, Louisiana).
 - Sklaverei in den Kolonien gesetzlich geregelt.
-- Im Mutterland Frankreich grundsaetzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
+- Im Mutterland Frankreich grundsätzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
 
 ### Edit du Roi de Juin 1716
 - Erlaubt die zeitweilige Mitnahme von Sklaven aus den Kolonien nach Frankreich zwecks Erziehung in Religion oder Beruf — Sklavenstatus bleibt **für maximal drei Jahre** erhalten.
@@ -515,13 +398,131 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - ALR steht in **eindeutig befreiender Tradition** zusammen mit England.
 - Frankreich-Modell (Edit 1716) mit Aufschub kennen die deutschen Staaten **nicht**.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Rechtsordnung?
 2. Wann hat der Status geendet?
 3. Ausnahmeregelungen (Edit 1716)?
 4. Beweisfragen?
 5. Aktuelle voelkerrechtliche Bezuege.
+
+---
+
+## Skill: `strafprozess-willensmaengel`
+
+_Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II. 1740 die Beweismittel Indizienbeweis Folterabbau und die Reform durch die rheinische Strafprozessordnung 1849 mit Schwurgericht. Liefert Quellenmatrix im Preußisches Allgemeine..._
+
+# Pralr Strafprozess Und Inquisition
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StGB` — Keine Strafe ohne Gesetz.
+- `§ 15 StGB` — Vorsatz/Fahrlaessigkeit.
+- `§ 16 Abs. 1 StGB` — Tatbestandsirrtum.
+- `§ 17 StGB` — Verbotsirrtum.
+- `§ 46 Abs. 1 StGB` — Strafzumessung.
+- `§ 152 Abs. 2 StPO` — Legalitaetsprinzip/Anfangsverdacht.
+- `§ 160 Abs. 2 StPO` — Ermittlung auch entlastender Umstaende.
+- `§ 244 Abs. 2 StPO` — Aufklaerungspflicht.
+- `§ 261 StPO` — freie richterliche Beweiswuerdigung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Inquisitionsprinzip
+
+- Untersuchungsrichter ermittelt von Amts wegen.
+- Verteidigung erst spaet im Verfahren.
+- ALR II 20 — Strafverfahren.
+
+## Folter
+
+- Friedrich II. hob die Folter 1740 in Preussen ab (Cabinets-Order).
+- Konkrete Maßnahmen 1754.
+- Restbestimmungen formell erst später.
+
+## Beweismittel
+
+- Gestaendnis als "regina probationum".
+- Zeugenbeweis.
+- Urkunden.
+- Indizienbeweis (in der Praxis weitergehend).
+
+## Reform 1849
+
+- Rheinische Strafprozessordnung mit Schwurgericht.
+- Oeffentlichkeit Muendlichkeit Anklageprinzip.
+- Vorbild für die preussische Strafprozessordnung 1851 und die Reichs-StPO 1877.
+
+## Fortwirkung
+
+- Heutige StPO 1877.
+- Schwurgericht abgeschafft 1924.
+- Schoeffengericht heute.
+
+## Prüfraster
+
+1. Welche Periode?
+2. Welches Verfahrensprinzip?
+3. Welche Beweisregel?
+
+---
+
+## Skill: `zwitterrecht-alr-ii-1-19-bis-22`
+
+_Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Skill behandelt Norm Inhalt rechtshistorische Bedeutung und die..._
+
+# Pralr Zwitterrecht Alr Ii 1 19 Bis 22
+
+## Norm
+
+ALR II 1 §§ 19 bis 22 — die wahrscheinlich beruehmteste Detailregelung des ALR und ein viel zitiertes Kuriosum.
+
+### § 19 ALR II 1
+"Wenn Zwitter geboren werden, so bestimmen die Eltern das Geschlecht, in welchem sie erzogen werden sollen."
+
+### § 20 ALR II 1
+"Jedoch steht solchen Zwittern nach zuruecksgelegtem 18. Jahre die Wahl frei, welchem Geschlechte sie sich beizaehlen wollen."
+
+### § 21 ALR II 1
+"Nach dieser Wahl werden ihre Rechte kuenftig beurteilt."
+
+### § 22 ALR II 1
+"Sind aber Rechte eines Dritten von dem Geschlechte des vermeintlichen Zwitters abhaengig, so kann auf dessen Antrag der Spruch der Sachverstaendigen erfordert werden."
+
+## Rechtshistorische Bedeutung
+
+- Beleg für den kasuistischen Anspruch des ALR — selbst seltenste Konstellationen geregelt.
+- Aufgeklaerter Charakter: Wahlrecht des Volljaehrigen, nicht nur fremdbestimmt durch Eltern oder Aerzte.
+- Sachverstaendigenkompetenz: Aerzte werden im Streit gehoert.
+
+## Aufhebung
+
+- BGB 1900 enthielt keine Sondernorm zum intersexuellen Status.
+- Geschlechtsstatus war jahrzehntelang nur "Mann" oder "Frau" im Personenstand.
+- Erst PStG-Reform 2013: Eintragung Geschlecht "offen lassen" möglich.
+- BVerfG 1 BvR 2019/16 vom 10.10.2017 (sogenannte "Dritte Option") — Recht auf positiven Personenstandseintrag jenseits von "maennlich" und "weiblich".
+- Personenstandsrecht-Reform 22.12.2018 — Eintrag "divers".
+
+## Wiederentdeckung
+
+- In der modernen Diskussion um Intersexualitaet wird ALR-Norm als bemerkenswert frueh anerkennendes Beispiel zitiert.
+- Norm ist humaner und individueller als das BGB-System des Personenstandsrechts vor 2013/2017/2018.
+
+## Prüfraster
+
+1. Geschichtswissenschaft oder lebendes Recht?
+2. Vergleich zu modernem Personenstandsrecht.
+3. § 22 PStG (Eintrag) heute.
 
 ---
 

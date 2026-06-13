@@ -158,7 +158,7 @@ InsO § 304; § 15a InsO als Altlast; Forderungsstruktur. Entscheidend ist immer
 
 ## Skill: `verbraucherinsolvenz-versagungsgruende`
 
-_Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu..._
+_Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu..._
 
 # Verbraucherinsolvenz: Versagungsgruende
 
@@ -171,7 +171,7 @@ _Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz Versagungsgruende
 
@@ -193,7 +193,7 @@ _Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung 
 - Verletzung Aufklaerungspflicht im Antrag.
 
 ### § 290 Abs. 1 Nr. 3 InsO
-- Vermoegensverschiebung in 10 Jahren vor Antrag.
+- Vermögensverschiebung in 10 Jahren vor Antrag.
 
 ### § 290 Abs. 1 Nr. 4 InsO
 - Letzte 10 Jahre eine Restschuldbefreiung erteilt.
@@ -202,16 +202,16 @@ _Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung 
 - Verletzung Erwerbsobliegenheit.
 
 ### § 290 Abs. 1 Nr. 6 InsO
-- Unrichtige oder unvollstaendige Vermoegensaufstellung.
+- Unrichtige oder unvollstaendige Vermögensaufstellung.
 
 ## Verteidigungsstrategien
 
-- Pruefen des Tatbestands.
+- Prüfen des Tatbestands.
 - Verschulden des Schuldners?
 - Geringfuegigkeit (Bagatellgrenze in einzelnen Faellen).
-- Glaeubiger-Stellungnahme einholen.
+- Gläubiger-Stellungnahme einholen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Tatbestand?
 2. Verschulden?
@@ -222,7 +222,7 @@ _Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung 
 
 ## Skill: `verbraucherinsolvenz-treuhaender-rolle`
 
-_Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Verguetung und Koste..._
+_Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermögensaufsicht Verteilung Forderungspruefung Gläubigerinformation. Verguetung und Koste..._
 
 # Verbraucherinsolvenz: Rolle des Treuhaenders
 
@@ -235,7 +235,7 @@ _Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Verguetung und Kostenfragen. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermögensaufsicht Verteilung Forderungspruefung Gläubigerinformation. Vergütung und Kostenfragen. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz Treuhaender Rolle
 
@@ -252,31 +252,31 @@ _Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des 
 
 ## Aufgaben
 
-### Vermoegensaufsicht
+### Vermögensaufsicht
 - Empfang der monatlichen Abfuehrungen.
-- Pruefung auf Erfuellung der Mitwirkungspflichten.
+- Prüfung auf Erfuellung der Mitwirkungspflichten.
 
 ### Forderungspruefung
-- Anmeldung Pruefung.
+- Anmeldung Prüfung.
 - Bestreitung bei zweifelhaften Forderungen.
 
-### Glaeubigerinformation
+### Gläubigerinformation
 - Jahresberichte.
 - Schlussbericht.
 
 ### Verteilung
 - Quotale Verteilung der Massen.
 
-## Verguetung
+## Vergütung
 
 - § 14 InsVV Insolvenzrechtsverguetungsverordnung.
 - Mindestverguetung 100 Euro/Jahr für Treuhaender in Verbraucherinsolvenz.
 
-## Pruefraster
+## Prüfraster
 
 1. Treuhaenderaufgaben sauber abgegrenzt?
 2. Pflichtverletzungen?
-3. Verguetung angemessen?
+3. Vergütung angemessen?
 
 ---
 
@@ -295,7 +295,7 @@ _Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandelt die seit 01
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Glaeubigern. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Gläubigern. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
 
@@ -332,21 +332,21 @@ _Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandelt die seit 01
 ## Versagungsgruende § 290 InsO
 
 - Verurteilung wegen § 283 ff. StGB Bankrottdelikte.
-- Schaedigende Vermoegensverlagerung.
+- Schaedigende Vermögensverlagerung.
 - Verletzung von Aufklaerungspflichten.
 - Verletzung der Erwerbsobliegenheit.
 
-## Nachtraeglich auftauchende Glaeubiger
+## Nachtraeglich auftauchende Gläubiger
 
-- § 301 InsO: Restschuldbefreiung wirkt auch für nicht angemeldete Glaeubiger.
+- § 301 InsO: Restschuldbefreiung wirkt auch für nicht angemeldete Gläubiger.
 - Ausnahme: arglistig verschwiegene Forderungen (§ 302 InsO).
 
-## Pruefraster
+## Prüfraster
 
 1. Verfahrensgang korrekt?
 2. Mitwirkungspflichten erfuellt?
 3. Versagungsgruende ausgeschlossen?
-4. Nachtraegliche Glaeubiger ueberraschen?
+4. Nachtraegliche Gläubiger ueberraschen?
 
 ---
 
@@ -365,7 +365,7 @@ _Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtlich
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolvenzverfahren. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolvenzverfahren. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz Pfaendungsschutzkonto
 
@@ -393,7 +393,7 @@ _Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtlich
 ## Antrag
 
 - Bei der Bank: Umwandlung in P-Konto.
-- Bescheinigung der Beratungsstelle ueber Unterhaltslast.
+- Bescheinigung der Beratungsstelle über Unterhaltslast.
 - Vollstreckungsgericht bei besonderem Bedarf.
 
 ## Wechselwirkung Insolvenzverfahren
@@ -401,7 +401,7 @@ _Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtlich
 - P-Konto-Schutz neben Insolvenzverfahren.
 - Nicht Schuldnerkonto wechseln, sondern bestehendes Konto umwandeln.
 
-## Pruefraster
+## Prüfraster
 
 1. P-Konto eingerichtet?
 2. Grundfreibetrag korrekt?

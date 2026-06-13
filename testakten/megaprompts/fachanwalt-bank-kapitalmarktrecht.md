@@ -72,7 +72,7 @@ _Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst w
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Bank Kapitalmarktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Bank Kapitalmarktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -223,7 +223,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Vertiefung: Rechtsprechung und erweiterte Triage
 
-### Schluessel-Leitsaetze für Triage Bank-/Kapitalmarktrecht (Stand Mai 2026)
+### Schlüssel-Leitsaetze für Triage Bank-/Kapitalmarktrecht (Stand Mai 2026)
 
 Verifizierte Aktenzeichen mit offener Quelle:
 
@@ -252,7 +252,7 @@ Verifizierte Aktenzeichen mit offener Quelle:
 Ist die Verjaebrungsfrist bekannt?
 → NEIN: Datum der Beratung/Schaden + 3 Jahre = § 195 BGB; aber max. 10 Jahre ab Entstehung § 199 Abs. 3 BGB
 → JA und < 6 Monate: Ombudsmann-Antrag zur Hemmung SOFORT; parallel Klageschrift vorbereiten
-→ JA und > 10 Jahre: Verjaebrung eingetreten; Sonderfall Arglist § 199 Abs. 3 Nr. 2 BGB pruefen
+→ JA und > 10 Jahre: Verjaebrung eingetreten; Sonderfall Arglist § 199 Abs. 3 Nr. 2 BGB prüfen
 
 ### Output-Template Triage-Protokoll
 **Adressat:** Intern — Tonfall: schnell, strukturiert
@@ -357,7 +357,7 @@ _Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbe
 
 ## Vertiefung: Rechtsprechung und aktuelle Linien (Stand Mai 2026)
 
-### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
+### Schlüssel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
 
 - **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
 - **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins für Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025
@@ -369,7 +369,7 @@ _Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbe
 - **EuGH C-634/21** v. 7.12.2023 — SCHUFA-Score als automatisierte Entscheidung i.S.v. Art. 22 DSGVO. Quelle: curia.europa.eu
 - **EuGH C-66/19** v. 26.3.2020 (Kreissparkasse Saarlouis) — Kaskadenverweisung in Widerrufsbelehrung unzulässig. Quelle: curia.europa.eu
 
-### Normen-Ueberblick nach Mandatstyp
+### Normen-Überblick nach Mandatstyp
 | Mandat | Zentralnorm |
 |---|---|
 | Widerruf Verbraucherkredit | §§ 491, 495, 355 BGB; EGBGB Art. 247 |
@@ -384,7 +384,7 @@ _Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbe
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen Ueberblick
+### Fristen Überblick
 | Frist | Dauer | Norm |
 |---|---|---|
 | Verjaebrung Beratungsfehler | 3 Jahre ab Kenntnis | §§ 195, 199 Abs. 1 BGB |
@@ -418,7 +418,7 @@ _Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapier
 
 - Neue Anfrage aus dem Bereich Bank-, Kapitalmarkt- und Wertpapierrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klaeren, Konflikt- und GwG-Pruefung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
@@ -426,15 +426,15 @@ _Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapier
 
 Standard-Fragenraster für Bank-, Kapitalmarkt- und Wertpapierrecht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Anlageberatung, Verbraucherdarlehen, Widerruf, Phishing, AGB-Banken, Geldwaesche
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen). Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -443,7 +443,7 @@ Standard-Fragenraster für Bank-, Kapitalmarkt- und Wertpapierrecht:
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -451,14 +451,14 @@ Standard-Streitwerte im Bereich Bank-, Kapitalmarkt- und Wertpapierrecht:
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -481,9 +481,9 @@ Drei Weichen am Ende des Erstgespraechs:
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar -> später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 
@@ -519,7 +519,7 @@ Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fac
 
 ### Konstellation C: Interessenkonflikt-Naehe
 
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung:
+Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung:
 
 1. § 43a Abs. 4 BRAO und § 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
 2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
@@ -536,9 +536,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach § 3a RVG.
 - Erfolgshonorar nur in den engen Grenzen § 4a RVG.
-- Vorschuss in Hoehe der voraussichtlichen 1. Instanz.
+- Vorschuss in Höhe der voraussichtlichen 1. Instanz.
 - Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege moeglich sind.
+- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege möglich sind.
 
 ## Mandatsbogen-Muster (Mindestinhalt)
 
@@ -558,7 +558,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ## Vertiefung: Rechtsprechung und Normen
 
@@ -581,7 +581,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Bevor losgelegt wird, klaere folgende Punkte:
 1. Ist eine Sofortfrist (Widerruf, Klage, Beschwerde) erkennbar? → Datum notieren, Kalender Alarm.
 2. Liegt Verbraucherkredit (§ 491 BGB) oder gewerbliches Mandat vor? → Bestimmt Schutzrechte.
-3. Besteht Identitaetsklaerungspflicht nach GwG (wirtschaftlich Berechtigter, PEP-Pruefung)?
+3. Besteht Identitaetsklaerungspflicht nach GwG (wirtschaftlich Berechtigter, PEP-Prüfung)?
 4. Existiert ein Interessenkonflikt (§ 43a Abs. 4 BRAO)? → Gegner, Sachzusammenhang, frueheres Mandat.
 5. Ist der Streitwert so hoch, dass Prozesskostenrisiko thematisiert werden muss?
 
@@ -626,7 +626,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 KWG` — Bankgeschaefte.
 - `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
 - `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
 - `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
 - `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
 - `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
@@ -722,7 +722,7 @@ _Dokumentenintake für Fachanwalt Bank- und Kapitalmarktrecht: sortiert Darlehen
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Bank Kapitalmarktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Bank Kapitalmarktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -831,7 +831,7 @@ _Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster für Mandant.
+**Fokus:** Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Prüfraster für Mandant.
 
 ### BK: Bankenfehlberatung
 
@@ -844,26 +844,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -887,7 +887,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 KWG` — Bankgeschaefte.
 - `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
 - `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
 - `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
 - `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
 - `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
@@ -905,7 +905,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklaerung, fehlerhafte Angaben, Schaden, Kausalitaet. Klagewege, Kapitalanleger-Musterverfahrensgesetz KapMuG, Insolvenz des Emittenten. Pruefraster.
+**Fokus:** Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklaerung, fehlerhafte Angaben, Schaden, Kausalitaet. Klagewege, Kapitalanleger-Musterverfahrensgesetz KapMuG, Insolvenz des Emittenten. Prüfraster.
 
 ### BK: Prospekthaftung
 
@@ -918,26 +918,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

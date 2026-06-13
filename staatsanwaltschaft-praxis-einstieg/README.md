@@ -206,7 +206,7 @@ Automatisch generierte Komplett-Liste aller 142 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`staatsanwaltschaft-praxis-einstieg.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md) (33 KB)
+- **Direkt-Download**: [`staatsanwaltschaft-praxis-einstieg.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md) (32 KB)
 - Im Repo: [`testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md`](../testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

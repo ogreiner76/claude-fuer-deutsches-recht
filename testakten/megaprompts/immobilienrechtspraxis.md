@@ -37,7 +37,7 @@ Dieser Einstieg routet **Immobilienrechtspraxis** vom ersten Sachverhalt zu Roll
 ## Fachlandkarte dieses Plugins
 
 - `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
-- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Pruefen Asset Management
+- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Prüfen Asset Management
 - `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
 - `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
 - `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation
@@ -76,7 +76,7 @@ _Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel im Immobilienrechtsprax
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Werkzeuge Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Immobilienrechtspraxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Werkzeuge Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Immobilienrechtspraxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,10 +98,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -355,9 +355,9 @@ Objekttabelle und ein einheitliches Risikoschema.
 | §§ 873, 877, 885 BGB | Grundbucheintragung als Entstehungsvoraussetzung dinglicher Rechte |
 | §§ 892, 893 BGB | Oeffentlicher Glaube des Grundbuchs — gutglaeubiger Erwerb |
 | § 883 BGB | Auflassungsvormerkung — schuetzt Eigentuemsverschaffungsanspruch |
-| § 1113 ff. BGB | Hypothek und Grundschuld — Unterschied pruefen |
+| § 1113 ff. BGB | Hypothek und Grundschuld — Unterschied prüfen |
 | § 1192 BGB | Briefgrundschuld — Loeschungsbewilligung + Grundschuldbrief erforderlich |
-| §§ 24 ff. BauGB | Gemeindliches Vorkaufsrecht — Ausnahmen pruefen |
+| §§ 24 ff. BauGB | Gemeindliches Vorkaufsrecht — Ausnahmen prüfen |
 | § 144 BauGB | Sanierungsvermerk — Genehmigungspflicht saemtlicher Verfuegungen |
 | § 2113 BGB | Nacherbenvermerk — eingeschraenkte Verfuegungsbefugnis des Vorerben |
 | GBO | Grundbuchordnung — Verfahren und Eintragungsvoraussetzungen |
@@ -367,13 +367,13 @@ Objekttabelle und ein einheitliches Risikoschema.
 - **BGH 15.04.2021, V ZB 175/20**: Grundbucheintragung — Bewilligung muss bestimmten Inhalt aufweisen; bei Auflassungsvormerkung Konkretisierung des gesicherten Anspruchs erforderlich. Quelle: dejure.org/2021,14528.
 - **BGH 17.09.2021, V ZR 12/21**: WEMoG-Reform; Bauliche Veraenderungen § 20 WEG; Folgen für Grundbucheintragungen bei Sondernutzungsrechten. Quelle: dejure.org/2021,30989.
 - **BGH 25.02.2016, V ZR 244/14**: Loeschungsfaehiges Grundpfandrecht — Voraussetzungen § 1183 BGB. Quelle: dejure.org/2016,5478.
-- **BGH 07.07.2022, V ZB 21/22**: Notarielle Beurkundungsbefugnis ueber Grundstuecksgeschaefte gem. § 311b BGB. Quelle: dejure.org/2022,18504.
+- **BGH 07.07.2022, V ZB 21/22**: Notarielle Beurkundungsbefugnis über Grundstuecksgeschaefte gem. § 311b BGB. Quelle: dejure.org/2022,18504.
 
 Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
 
 ## — Schritt für Schritt
 
-1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel pruefen); bei Portfolio: Grundbuchamts-CSV abrufen
+1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel prüfen); bei Portfolio: Grundbuchamts-CSV abrufen
 2. **Abt. I — Eigentuemerkette** — Luecken im Eigentumsuebergang? Erbfolgenachweis (Erbschein/Erbvertrag) aktuell?
 3. **Abt. II — Lasten und Beschraenkungen** — Vorkaufsrechte, Dienstbarkeiten, Nacherbenvermerk, Sanierungsvermerk?
 4. **Abt. III — Grundpfandrechte** — Brief- oder Buchgrundschuld? Loeschungsbewilligung beschaffbar? Zession geprueft?
@@ -389,7 +389,7 @@ Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifi
 
 ## Grenzen
 
-Der Skill ersetzt nicht die Pruefung durch einen Immobilienjuristen.
+Der Skill ersetzt nicht die Prüfung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.
 
@@ -509,7 +509,7 @@ Dateiname und Inhalt einem Unterordner zu. Auslöser-Regeln aus
  `03_Schriftsätze/`
 
 Pro eingehendem Dokument wird ein Eintrag in `audit.md` gesetzt:
-Zeitpunkt Quelle Empfänger angewandte Pruefskills Ergebnis.
+Zeitpunkt Quelle Empfänger angewandte Prüfskills Ergebnis.
 
 ## Integration mit anderen Skills
 
@@ -780,25 +780,25 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `case-management` | Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Überblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Prüfraster: Fristenliste, offene Anträge, Dokumentenstruktur. Output:… |
-| `grundbuchanalyse` | Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse,… |
+| `grundbuchanalyse` | Grundbuchauszug analysieren: Eigentümer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse,… |
 | `mieteranfragen-bearbeitung` | Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kündigung. Normen: §§ 535 536 556 573 BGB, WEG. Prüfraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output:… |
 | `projekt-arbeitsweise` | Projektmethodik für Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Prüfraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan… |
 | `sachverhaltsermittlung` | Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhältnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Prüfraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog.… |
-| `vertragserstellung-musterbasiert` | Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis.… |
-| `vertragspruefung-playbook` | Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und… |
+| `vertragserstellung-musterbasiert` | Immobilienrechtliche Verträge auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis.… |
+| `vertragspruefung-playbook` | Immobilienrechtliche Verträge nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und… |
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt immobilienrechtliche Rechtsabteilungen bei der taeglich anfallenden Vertragsarbeit, der Grundbuch- und Sachverhaltsanalyse sowie der Verwaltung von Miet- und WEG-Mandaten. Es verbindet musterbasierte Vertragserstellung mit einem strukturierten Pruefungs-Playbook und integriert den gesetzlichen Rahmen aus BGB, WEG, GBO und GrEStG.
+Das Plugin unterstuetzt immobilienrechtliche Rechtsabteilungen bei der taeglich anfallenden Vertragsarbeit, der Grundbuch- und Sachverhaltsanalyse sowie der Verwaltung von Miet- und WEG-Mandaten. Es verbindet musterbasierte Vertragserstellung mit einem strukturierten Prüfungs-Playbook und integriert den gesetzlichen Rahmen aus BGB, WEG, GBO und GrEStG.
 
-Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte mit mehreren Beteiligten und langer Laufzeit koordinieren muessen. Das Plugin setzt auf eine projektartige Arbeitsweise, die Fristen, Dokumente und Beteiligte in einer Gesamtschau haelt.
+Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte mit mehreren Beteiligten und langer Laufzeit koordinieren müssen. Das Plugin setzt auf eine projektartige Arbeitsweise, die Fristen, Dokumente und Beteiligte in einer Gesamtschau haelt.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie starten ein neues Immobilienrechtsmandat und muessen Eigentumsverhaeltnisse, Grundbuchbelastungen und Vertragshistorie systematisch erfassen.
-- Sie wollen einen Kaufvertrag, Mietvertrag oder WEG-Beschluss auf Musterbasis erstellen oder nach einem Playbook auf Risiken pruefen.
+- Sie starten ein neues Immobilienrechtsmandat und müssen Eigentumsverhaeltnisse, Grundbuchbelastungen und Vertragshistorie systematisch erfassen.
+- Sie wollen einen Kaufvertrag, Mietvertrag oder WEG-Beschluss auf Musterbasis erstellen oder nach einem Playbook auf Risiken prüfen.
 - Ein Mieter oder WEG-Eigentumer stellt eine Anfrage zu Instandsetzung, Betriebskosten oder Kuendigung.
-- Sie muessen mehrere Beteiligte, Fristen und Meilensteine in einem komplexen Immobilienprojekt steuern.
+- Sie müssen mehrere Beteiligte, Fristen und Meilensteine in einem komplexen Immobilienprojekt steuern.
 - Sie benoetigen einen Sachverhalts-Ermittlungsbericht als Grundlage für die rechtliche Bewertung.
 
 ## Fachbegriffe (kurz erklaert)
@@ -808,8 +808,8 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 - **WEG** — Wohnungseigentumsgesetz; regelt die Gemeinschaft der Wohnungseigentuemer, Beschlusse und Verwaltung.
 - **Dienstbarkeit** — Beschraenkung des Eigentuemers zugunsten Dritter (z. B. Wegerecht, Niesbrauch) nach §§ 1018 ff. BGB.
 - **GrEStG** — Grunderwerbsteuergesetz; regelt Steuertatbestand beim Eigentumsubergang.
-- **Notarerfordernis** — Formpflicht: Kaufvertraege ueber Grundstuecke beduerften nach § 311b BGB notarieller Beurkundung.
-- **Playbook** — Standardisierter Pruefkatalog der Rechtsabteilung mit Risikoklauseln und Ampelbewertung.
+- **Notarerfordernis** — Formpflicht: Kaufvertraege über Grundstuecke beduerften nach § 311b BGB notarieller Beurkundung.
+- **Playbook** — Standardisierter Prüfkatalog der Rechtsabteilung mit Risikoklauseln und Ampelbewertung.
 - **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; relevant beim KI-Einsatz in der Mandatsbearbeitung.
 
 ## Rechtsgrundlagen
@@ -826,36 +826,36 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren (Kaeufer, Verkaeufer, Vermieter, WEG-Verwalter, Rechtsabteilung).
+1. Mandantenkonstellation klären (Kaeufer, Verkaeufer, Vermieter, WEG-Verwalter, Rechtsabteilung).
 2. Phase des Mandats bestimmen (Sachverhaltsaufnahme, Vertragserstellung, Vertragspruefung, laufende Verwaltung, Streitfall).
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Fristen pruefen (Kaufvertragsfrist, Kuendigungsfristen, GrESt-Zahlungsfristen).
+4. Fristen prüfen (Kaufvertragsfrist, Kuendigungsfristen, GrESt-Zahlungsfristen).
 5. Bei Projekten mit mehreren Beteiligten: Projektplan anlegen und Case Management aktivieren.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `case-management` — Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen und Dokumente im Ueberblick.
-- `grundbuchanalyse` — Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten und Rangverhaeltnisse.
+- `case-management` — Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen und Dokumente im Überblick.
+- `grundbuchanalyse` — Grundbuchauszug analysieren: Eigentümer, Belastungen, Grundschulden, Dienstbarkeiten und Rangverhaeltnisse.
 - `mieteranfragen-bearbeitung` — Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung.
 - `projekt-arbeitsweise` — Projektmethodik für Immobilienrechtsprojekte mit mehreren Beteiligten, Meilensteinen und Dokumentenstruktur.
 - `sachverhaltsermittlung` — Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhaeltnisse, Vertragshistorie, Beweismittel.
-- `vertragserstellung-musterbasiert` — Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss.
-- `vertragspruefung-playbook` — Immobilienrechtliche Vertraege nach standardisiertem Playbook pruefen: Kaufvertrag, Grundschuld, WEG.
+- `vertragserstellung-musterbasiert` — Immobilienrechtliche Verträge auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss.
+- `vertragspruefung-playbook` — Immobilienrechtliche Verträge nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG.
 
 ## Worauf besonders achten
 
-- **Formzwang**: Kaufvertraege ueber Grundstuecke beduerften notarieller Beurkundung (§ 311b BGB); Formmangel fuehrt zu Nichtigkeit des gesamten Vertrages.
-- **Grundbuchstand vor Vertragsschluss pruefen**: Nicht eingetragene Belastungen und Widersprueche koennen Eigentumsuebergang erschweren.
-- **WEG-Beschluesse**: Nicht ordnungsgemaesse Einberufung oder fehlende Mehrheiten fuehren zur Anfechtbarkeit; Fristen nach § 45 WEG beachten.
+- **Formzwang**: Kaufvertraege über Grundstuecke beduerften notarieller Beurkundung (§ 311b BGB); Formmangel fuehrt zu Nichtigkeit des gesamten Vertrages.
+- **Grundbuchstand vor Vertragsschluss prüfen**: Nicht eingetragene Belastungen und Widersprueche können Eigentumsuebergang erschweren.
+- **WEG-Beschlüsse**: Nicht ordnungsgemaesse Einberufung oder fehlende Mehrheiten fuehren zur Anfechtbarkeit; Fristen nach § 45 WEG beachten.
 - **GrEStG-Grunderwerbsteuer**: Zahlungsfrist nach § 15 GrEStG; Unbedenklichkeitsbescheinigung Voraussetzung für Grundbucheintragung.
-- **AVV beim KI-Einsatz**: Mandatsdaten duerfen nur in KI-Systeme eingegeben werden, wenn ein datenschutzkonformer AVV vorliegt.
+- **AVV beim KI-Einsatz**: Mandatsdaten dürfen nur in KI-Systeme eingegeben werden, wenn ein datenschutzkonformer AVV vorliegt.
 
 ## Typische Fehler
 
-- Mustervertrag ohne Anpassung an Sachverhalt verwenden: fehlende Sondervereinbarungen zu Moebeln, Inventar oder Baumangeln fuehren spaeter zu Streit.
-- Grundbuch-Abt. III (Grundschulden) nicht vollstaendig pruefen: ueberraschende Belastungen koernen Kaufpreis und Finanzierung gefaehrden.
+- Mustervertrag ohne Anpassung an Sachverhalt verwenden: fehlende Sondervereinbarungen zu Moebeln, Inventar oder Baumangeln fuehren später zu Streit.
+- Grundbuch-Abt. III (Grundschulden) nicht vollstaendig prüfen: ueberraschende Belastungen koernen Kaufpreis und Finanzierung gefaehrden.
 - Kuendigungsfristen nach § 573c BGB verwechseln mit Kuendigungsgruenden nach § 573 BGB.
-- WEG-Beschluesse ohne Protokollpruefung uebernehmen: Fehler in der Abstimmung sind nicht immer offensichtlich.
+- WEG-Beschlüsse ohne Protokollpruefung uebernehmen: Fehler in der Abstimmung sind nicht immer offensichtlich.
 - Sachverhaltsermittlung und rechtliche Bewertung vermischen: Tatsachen erst vollstaendig erfassen, dann bewerten.
 
 ## Quellen und Aktualitaet
@@ -928,7 +928,7 @@ und gibt das Dokument unverändert zurück mit Hinweis.
  welche Konflikte
 7. Roter Block oben im Dokument: was zwingend manuell zu prüfen ist
 
-## Typische manuelle Pruefpunkte bei Immobilienverträgen
+## Typische manuelle Prüfpunkte bei Immobilienverträgen
 
 - Vorkaufsrechte der Gemeinde §§ 24 ff. BauGB
 - Genehmigung nach § 1365 BGB bei Verfügung über das Vermögen im Ganzen
@@ -1047,9 +1047,9 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 - "Property-Management-Vertrag ist gekommen. Was muss vor Unterschrift
  geändert werden, gemessen an unseren Mindeststandards?"
 
-## Aktuelle Rechtsprechung — Leitsaetze für Playbook-Pruefung (Stand 05/2026, verifiziert dejure.org)
+## Aktuelle Rechtsprechung — Leitsaetze für Playbook-Prüfung (Stand 05/2026, verifiziert dejure.org)
 
-- **BGH 24.06.2020, VIII ZR 219/19** (Schriftform Gewerbemietvertrag § 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkunde hervorgehen; bei Verweis auf Anlagen muessen diese koerperlich mit der Urkunde verbunden oder eindeutig in Bezug genommen sein. Quelle: dejure.org/2020,17128.
+- **BGH 24.06.2020, VIII ZR 219/19** (Schriftform Gewerbemietvertrag § 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkunde hervorgehen; bei Verweis auf Anlagen müssen diese koerperlich mit der Urkunde verbunden oder eindeutig in Bezug genommen sein. Quelle: dejure.org/2020,17128.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel): Landesgesetzliche Mietpreisregelung verfassungswidrig; für Neuvermietung bleiben deshalb die bundesrechtlichen Regeln der §§ 556d ff. BGB und die jeweils wirksame Landesverordnung zur Mietpreisbremse getrennt zu prüfen. Quelle: bundesverfassungsgericht.de.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel-Beschluss): Landesgesetzliche Mietpreisregelung verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de.
 - **BGH 18.03.2020, VIII ZR 64/19** — Maengel bei Wohnraummiete als Mietminderungsgrund. Quelle: dejure.org/2020,4895.
@@ -1067,8 +1067,8 @@ Konkrete weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.d
 ## Integration mit Projekten und Agenten
 
 Der Skill ist so gebaut, dass er in einem Projekt-Ordner mit fixiertem
-Playbook und Vertragstyp laeuft. Ein Agent kann auf eingehende Vertraege
-auf einem Watch-Ordner reagieren und automatisch die Pruefung anstossen.
+Playbook und Vertragstyp laeuft. Ein Agent kann auf eingehende Verträge
+auf einem Watch-Ordner reagieren und automatisch die Prüfung anstossen.
 Siehe Skill `projekt-arbeitsweise`.
 
 ---
@@ -1391,7 +1391,7 @@ _Dokumentenintake für Immobilienrechtspraxis: sortiert Notarvertrag, Grundbucha
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Immobilienrechtspraxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Immobilienrechtspraxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -1410,7 +1410,7 @@ Dieser Dokumenten-Intake für **Immobilienrechtspraxis** ordnet Anlagen, Registe
 ## Fachlandkarte dieses Plugins
 
 - `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
-- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Pruefen Asset Management
+- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Prüfen Asset Management
 - `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
 - `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
 - `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation
@@ -1454,7 +1454,7 @@ Diese Unterlagenprüfung für **Immobilienrechtspraxis** benennt fehlende Dokume
 ## Fachlandkarte dieses Plugins
 
 - `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
-- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Pruefen Asset Management
+- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Prüfen Asset Management
 - `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
 - `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
 - `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation

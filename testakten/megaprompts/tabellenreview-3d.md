@@ -10,9 +10,9 @@ Dieser Megaprompt enthaelt top-10 von 84 Skills des Plugins `tabellenreview-3d`.
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Tabellenreview 3d-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und…
 3. **tabellenreview-erstpruefung-und-mandatsziel** — Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel.
 4. **arbeitsblatt-perspektiven-definieren** — Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview definieren: Forderung, Prüfung, Stellung nach §§ 174 ff. InsO.…
-5. **audit-trail-protokoll** — Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchfüh…
-6. **kreuzblatt-konsistenzpruefung** — Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen:…
-7. **review-durchfuehren** — 3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176…
+5. **kreuzblatt-konsistenzpruefung** — Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen:…
+6. **review-durchfuehren** — 3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176…
+7. **audit-trail-protokoll** — Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchfüh…
 8. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Tabellenreview 3d-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und…
 9. **vorlage-ma-arbeitsblatt-perspektiven-audit** — Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, Akt…
 10. **vorlage-ma-due-diligence** — Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, Akt…
@@ -69,7 +69,7 @@ _Einstieg, Schnelltriage und Fallrouting im Tabellenreview 3d-Plugin. Fragt Roll
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Tabellenreview 3d** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Tabellenreview 3d** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -178,14 +178,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `arbeitsblatt-perspektiven-definieren` | Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview definieren: Forderung, Prüfung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Prüfraster: Forderungsaufstellung, Prüfungsraster,… |
-| `audit-trail-protokoll` | Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Aenderungshistorie, Versionierung. Output:… |
+| `audit-trail-protokoll` | Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Änderungshistorie, Versionierung. Output:… |
 | `belegkette-rueckverfolgung` | Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output:… |
 | `caching-und-teil-rerun` | Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausführen ohne Vollneustart. Normen: technisch. Prüfraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten… |
 | `dokumentstapel-aufnehmen` | Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Prüfraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output:… |
 | `excel-multi-sheet-export` | 3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei… |
 | `kreuzblatt-konsistenzpruefung` | Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege.… |
 | `pdf-bericht-erzeugen` | 3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabellen, Risikoampeln. Normen: §§ 174 ff. InsO. Prüfraster: Vollständigkeit Berichtinhalte, Layout, Signaturfeld. Output: PDF-Bericht 3D-Tabellenreview.… |
-| `prompt-versionierung` | Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output:… |
+| `prompt-versionierung` | Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Änderungsprotokoll, aktive Version. Output:… |
 | `pruefer-uebergabe-paket` | Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: aktueller Stand, offene Positionen. Normen: §§ 174 ff. InsO. Prüfraster: Fortschrittsstand, kritische Punkte, Dokumentation. Output: Übergabedokument für… |
 | `review-durchfuehren` | 3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176 InsO. Prüfraster: Forderungshoehe, Prüfergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung.… |
 | `risikoampel-aggregation` | Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Prüfraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht.… |
@@ -200,32 +200,32 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin strukturiert die Massenpruefung von Vertragsstapeln und Due-Diligence-Unterlagen als dreidimensionalen Wuerfel: Die erste Dimension sind Spaltenprompts, die je einen Pruefpunkt (z. B. Kuendigungsklausel, Laufzeit) abfragen. Die zweite Dimension sind Zeilenprompts, die jedes einzelne Dokument des Stapels repraesentieren. Die dritte Dimension sind Arbeitsblatt-Perspektiven, die denselben Datensatz aus unterschiedlichen fachlichen Blickwinkeln betrachten (Recht, Steuer, Wirtschaft).
+Das Plugin strukturiert die Massenpruefung von Vertragsstapeln und Due-Diligence-Unterlagen als dreidimensionalen Wuerfel: Die erste Dimension sind Spaltenprompts, die je einen Prüfpunkt (z. B. Kuendigungsklausel, Laufzeit) abfragen. Die zweite Dimension sind Zeilenprompts, die jedes einzelne Dokument des Stapels repraesentieren. Die dritte Dimension sind Arbeitsblatt-Perspektiven, die denselben Datensatz aus unterschiedlichen fachlichen Blickwinkeln betrachten (Recht, Steuer, Wirtschaft).
 
 Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enthaelt eine Kreuzblatt-Konsistenzpruefung auf Widersprueche zwischen den Dimensionen, einen lueckenlosen Audit-Trail und eine Belegketten-Dokumentation. Typische Einsaetzgebiete sind M-und-A-Due-Diligence, Immobilien-Portfoliopruefung, Vendor-Onboarding und Arbeitsvertrags-Portfolio-Review.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie muessen 20 oder mehr Vertraege auf dieselben Pruefpunkte hin systematisch analysieren und das Ergebnis auswertbar dokumentieren.
+- Sie müssen 20 oder mehr Verträge auf dieselben Prüfpunkte hin systematisch analysieren und das Ergebnis auswertbar dokumentieren.
 - Eine M-und-A-Due-Diligence erfordert die gleichzeitige Betrachtung von Vertraegen aus rechtlicher, steuerlicher und wirtschaftlicher Perspektive.
-- Ein Lieferant soll ongeboardet werden und Vertrag, Compliance-Status und Leistungsindikatoren muessen dokumentiert werden.
-- Der Pruefer wechselt und das bisher bearbeitete Paket soll mit vollem Kontext und offenem Status uebergeben werden.
+- Ein Lieferant soll ongeboardet werden und Vertrag, Compliance-Status und Leistungsindikatoren müssen dokumentiert werden.
+- Der Prüfer wechselt und das bisher bearbeitete Paket soll mit vollem Kontext und offenem Status uebergeben werden.
 - Zwischenergebnisse sollen gecacht und einzelne Teile ohne Vollneustart erneut ausgefuehrt werden.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Wuerfel** — Metapher für die dreidimensionale Pruefstruktur: Zeilen (Dokumente) x Spalten (Pruefpunkte) x Perspektiven (Blickwinkel).
-- **Spaltenprompt** — Einzelne Frage oder Pruefanweisung, die für jedes Dokument in einer bestimmten Spalte beantwortet wird.
-- **Zeilenprompt** — Dokumentspezifische Pruefanweisung, die das einzelne Dokument als Pruefgegenstand definiert.
+- **Wuerfel** — Metapher für die dreidimensionale Prüfstruktur: Zeilen (Dokumente) x Spalten (Prüfpunkte) x Perspektiven (Blickwinkel).
+- **Spaltenprompt** — Einzelne Frage oder Prüfanweisung, die für jedes Dokument in einer bestimmten Spalte beantwortet wird.
+- **Zeilenprompt** — Dokumentspezifische Prüfanweisung, die das einzelne Dokument als Prüfgegenstand definiert.
 - **Arbeitsblatt-Perspektive** — Fachlicher Blickwinkel (Recht, Steuer, Wirtschaft), der denselben Wuerfel in einem eigenen Excel-Sheet abbildet.
 - **Kreuzblatt-Konsistenzpruefung** — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
-- **Audit-Trail** — Lueckenlose Protokollierung aller Pruefschritte mit Zeitstempel, Pruefer-ID und Aenderungshistorie.
-- **Risikoampel** — Rot-Gelb-Gruen-Bewertung je Pruefposition zur schnellen Risikouebersicht.
+- **Audit-Trail** — Lueckenlose Protokollierung aller Prüfschritte mit Zeitstempel, Prüfer-ID und Änderungshistorie.
+- **Risikoampel** — Rot-Gelb-Gruen-Bewertung je Prüfposition zur schnellen Risikouebersicht.
 - **Belegkette** — Nachverfolgung der Originalbelege hinter jeder Buchung oder Forderung.
 
 ## Rechtsgrundlagen
 
-- §§ 174 ff. InsO — Forderungsanmeldung und -pruefung (Stammreferenz der 3D-Review-Skills)
+- §§ 174 ff. InsO — Forderungsanmeldung und -prüfung (Stammreferenz der 3D-Review-Skills)
 - §§ 238 257 HGB — Buchfuehrungs- und Aufbewahrungspflichten
 - GmbHG AktG HGB InsO — Relevante Normen je nach Vorlagen-Typ
 - BGB §§ 305 ff. — AGB-Kontrolle bei Vertragsstapeln
@@ -234,50 +234,50 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
+1. Kaltstart-Interview: Fallkategorie, Tabellengroesse, Prüfzweck und Exportformat erfassen.
 2. Wuerfelstruktur aufbauen: Spaltenprompts und Zeilenprompts definieren, Perspektiven festlegen.
 3. Dokumentstapel einlesen und Inventar erstellen.
-4. Review durchfuehren: jede Zeile in allen drei Perspektiven pruefen und Risikoampel setzen.
+4. Review durchfuehren: jede Zeile in allen drei Perspektiven prüfen und Risikoampel setzen.
 5. Kreuzblatt-Konsistenzpruefung und Audit-Trail abschliessen; Excel-Export oder PDF-Bericht erzeugen.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `arbeitsblatt-perspektiven-definieren` — Die drei Pruefperspektiven (Recht, Steuer, Wirtschaft) für den 3D-Wuerfel definieren.
-- `audit-trail-protokoll` — Alle Review-Schritte mit Zeitstempel und Pruefer-ID protokollieren.
+- `arbeitsblatt-perspektiven-definieren` — Die drei Prüfperspektiven (Recht, Steuer, Wirtschaft) für den 3D-Wuerfel definieren.
+- `audit-trail-protokoll` — Alle Review-Schritte mit Zeitstempel und Prüfer-ID protokollieren.
 - `belegkette-rueckverfolgung` — Belegkette für Forderungen und Zahlungen zurueckverfolgen.
 - `caching-und-teil-rerun` — Zwischenergebnisse cachen und Teilbereiche ohne Vollneustart erneut ausfuehren.
 - `dokumentstapel-aufnehmen` — Dokumentenstapel (PDFs, Excel, Word) einlesen und Inventar erstellen.
 - `excel-multi-sheet-export` — 3D-Review-Ergebnis als Excel-Datei mit Arbeitsblaettern je Perspektive exportieren.
 - `kreuzblatt-konsistenzpruefung` — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
 - `pdf-bericht-erzeugen` — 3D-Review-Ergebnis als PDF-Bericht mit Zusammenfassung, Tabellen und Risikoampeln erzeugen.
-- `prompt-versionierung` — Prompt-Versionen für den 3D-Review verwalten und aendern.
-- `pruefer-uebergabe-paket` — Uebergabepaket für Prueferwechsel mit aktuellem Stand und offenen Positionen.
-- `review-durchfuehren` — 3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven pruefen.
+- `prompt-versionierung` — Prompt-Versionen für den 3D-Review verwalten und ändern.
+- `pruefer-uebergabe-paket` — Übergabepaket für Prüferwechsel mit aktuellem Stand und offenen Positionen.
+- `review-durchfuehren` — 3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven prüfen.
 - `risikoampel-aggregation` — Risikoampeln für alle geprueften Positionen aggregieren und Gesamtrisiko einschaetzen.
-- `spaltenprompts-definieren` — Spaltenprompts für die drei Pruefperspektiven definieren.
-- `tabellenreview-3d-kaltstart-interview` — Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
+- `spaltenprompts-definieren` — Spaltenprompts für die drei Prüfperspektiven definieren.
+- `tabellenreview-3d-kaltstart-interview` — Kaltstart-Interview: Fallkategorie, Tabellengroesse, Prüfzweck und Exportformat erfassen.
 - `vorlage-arbeitsvertrag-portfolio` — Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-Format.
 - `vorlage-immobilien-portfolio` — Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3D-Format.
 - `vorlage-ma-due-diligence` — Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format.
 - `vorlage-vendor-onboarding-3d` — Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format.
 - `wuerfel-aufbauen` — 3D-Wuerfelstruktur aufbauen: Zeilen, Spalten und Perspektiven verknuepfen.
-- `zeilenprompts-definieren` — Zeilenprompts für einzelne Pruefpositionen im 3D-Review definieren.
+- `zeilenprompts-definieren` — Zeilenprompts für einzelne Prüfpositionen im 3D-Review definieren.
 
 ## Worauf besonders achten
 
-- **Kreuzblatt-Konsistenz vor Export pruefen**: Widersprueche zwischen den Dimensionen koennen die Aussagekraft des Berichts untergraben.
+- **Kreuzblatt-Konsistenz vor Export prüfen**: Widersprueche zwischen den Dimensionen können die Aussagekraft des Berichts untergraben.
 - **Prompt-Versionierung dokumentieren**: Unterschiedliche Prompt-Versionen im selben Review produzieren nicht vergleichbare Ergebnisse.
 - **Audit-Trail von Beginn an fuehren**: Nachtraegliches Erganzen des Protokolls ist fehleranfaellig und im Zweifel nicht beweissicher.
-- **Caching konservativ einsetzen**: Gecachte Ergebnisse werden nicht neu berechnet; Aenderungen im Dokument werden nicht erfasst.
-- **Vorlagen nicht ohne Anpassung verwenden**: Vorlage-Spaltenprompts sind Ausgangspunkte, keine abschliessenden Pruefkataloge.
+- **Caching konservativ einsetzen**: Gecachte Ergebnisse werden nicht neu berechnet; Änderungen im Dokument werden nicht erfasst.
+- **Vorlagen nicht ohne Anpassung verwenden**: Vorlage-Spaltenprompts sind Ausgangspunkte, keine abschliessenden Prüfkataloge.
 
 ## Typische Fehler
 
-- Wuerfelstruktur ohne Kaltstart-Interview aufbauen; Pruefzweck und Exportformat werden spaeter nicht erfuellt.
+- Wuerfelstruktur ohne Kaltstart-Interview aufbauen; Prüfzweck und Exportformat werden später nicht erfuellt.
 - Alle drei Perspektiven mit identischen Prompts besetzen; der Wuerfel verliert seine Informationstiefe.
 - Risikoampel-Schwellenwerte nicht explizit definieren; Ampelbewertungen werden inkonsistent.
-- Prueferwechsel ohne Uebergabepaket; Nachfolger muss von vorne beginnen.
-- Excel-Export ohne Kreuzblatt-Pruefung; Inkonsistenzen werden erst beim Mandanten entdeckt.
+- Prüferwechsel ohne Übergabepaket; Nachfolger muss von vorne beginnen.
+- Excel-Export ohne Kreuzblatt-Prüfung; Inkonsistenzen werden erst beim Mandanten entdeckt.
 
 ## Quellen und Aktualitaet
 
@@ -294,7 +294,7 @@ _Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Tabellenreview Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Tabellenreview 3d** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Tabellenreview Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Tabellenreview 3d** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -344,11 +344,11 @@ _Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview definieren: Forderu
 ## Triage zu Beginn
 
 1. Wie viele Perspektiven sind erforderlich? (Recht / Steuer / Wirtschaft / Datenschutz / IT)
-2. Muss jede Perspektive von einem anderen Pruefer verantwortet werden?
+2. Muss jede Perspektive von einem anderen Prüfer verantwortet werden?
 3. Gibt es GwG-Compliance-Anforderungen? → Separate Compliance-Perspektive (LkSG / GwG / IDW PS 980)
 4. Ist ein M&A-Closing-Datum bekannt? → Fristen der Arbeitsblaetter entsprechend konfigurieren
 
-## Rechtliche Grundlagen für Pruefer-Perspektiven
+## Rechtliche Grundlagen für Prüfer-Perspektiven
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -448,16 +448,115 @@ Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander
 
 ---
 
+## Skill: `kreuzblatt-konsistenzpruefung`
+
+_Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege. Output: Konsistenz-Prüfbericht mit Fehlerliste. Abgrenzung: nicht Risikoampel-Aggreg..._
+
+# /tabellenreview-3d:kreuzblatt-konsistenzprüfung
+
+## Triage zu Beginn
+
+1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
+2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
+3. Wird das Ergebnis in die Mandatsakte aufgenommen?
+4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
+
+## Rechtliche Grundlagen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Methodik
+
+1. **Achsen-Match:** dieselbe Zeile dieselbe Spalte aber unterschiedliches Arbeitsblatt: vergleichen.
+2. **Faktischer Widerspruch:** beide Arbeitsblätter haben das Vertragsdatum extrahiert; das eine sagt 2021-03-15, das andere 2021-03-25. Das ist ein Datenfehler — Prüfer-Flag.
+3. **Perspektivischer Widerspruch:** ein Arbeitsblatt sagt 'wirksam' das andere 'unwirksam'. Wenn beide Arbeitsblätter dieselbe Norm benutzen ist es Datenfehler; wenn unterschiedliche Normen (Recht vs Steuer) ist es legitime Abweichung — als `legitim` markieren.
+4. **Ampel-Inkonsistenz:** dieselbe Zeile in einem Arbeitsblatt rot in einem gelb in einem grün — Konsolidierungsempfehlung an `risikoampel-aggregation`.
+5. **Norm-Bezugs-Widerspruch:** ein Arbeitsblatt verweist auf BGB Paragraph 307, ein anderes auf BGB Paragraph 305c bei derselben Klausel. Beides möglich — Prüfer-Hinweis.
+
+## Konflikt-Klassifikation
+
+- **echter Widerspruch:** beide Antworten beanspruchen dieselbe Tatsache aber unterscheiden sich. Prüfer-Flag rot.
+- **legitime perspektivische Abweichung:** Arbeitsblätter haben unterschiedliche Prüfmassstaebe. Vermerk gelb.
+- **Datenfehler:** OCR-Konfidenz schwach in einem der Arbeitsblätter — Re-Run dieser Zelle.
+- **Klassifikationsfehler:** Dokumenttyp falsch erkannt — Zeile neu klassifizieren.
+
+## Ausgabe
+
+- `widerspruchsbericht.md` mit pro Widerspruch:
+ - Zeile (Dokument)
+ - Spalte (Datenpunkt)
+ - Arbeitsblatt-A und Arbeitsblatt-B mit jeweiliger Antwort
+ - Konflikt-Klassifikation
+ - Empfohlene Aktion (Re-Run / Prüfer / Konsolidierung)
+
+## Beispiele
+
+- **echter Widerspruch:** Kundenvertrag-042. Spalte 'Laufzeit'. Recht: '3 Jahre + 1 Jahr Verlängerung'. Wirtschaft: '4 Jahre Festlaufzeit'. Echter Widerspruch — Wirtschaft hat den Vertrag verkürzt gelesen.
+- **legitime Abweichung:** Lizenzvertrag-018. Spalte 'Haftung'. Recht: 'unwirksam BGB Paragraph 309 Nr 7'. Steuer: 'irrelevant — Pauschalhaftungs-Aufwand absetzbar'. Legitim — unterschiedliche Prüfmassstaebe.
+
+---
+
+## Skill: `review-durchfuehren`
+
+_3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176 InsO. Prüfraster: Forderungshoehe, Prüfergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung. Output: Ausgefuellte 3D-Review-Tabelle. Abgrenzung: nicht Wuerfel-Aufbau (Vorbere..._
+
+# /tabellenreview-3d:review-durchführen
+
+## Triage zu Beginn
+
+1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
+2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
+3. Wird das Ergebnis in die Mandatsakte aufgenommen?
+4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
+
+## Rechtliche Grundlagen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Eingaben
+
+- `wuerfel-schema.yaml`
+- `spaltenprompts.yaml`
+- `zeilenprompts.yaml`
+- `arbeitsblaetter.yaml`
+- `zeilen-inventar.yaml`
+- Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md`
+
+## Ablauf pro Zelle
+
+1. **Prompt zusammenführen:** Arbeitsblatt-Perspektive vor Spaltenprompt vor Zeilenprompt. Konflikte protokollieren.
+2. **Quelldokument öffnen:** Pfad + Hash gegen Inventar abgleichen — falls Hash abweicht: Belegkette unterbrochen Prüfer-Flag setzen.
+3. **Antwort extrahieren:** Antworttyp aus Spaltenprompt-Definition beachten (Freitext / zitat-mit-fundstelle / ja-nein / Datum / Geldbetrag / Aufzählung).
+4. **Belegkette schreiben:** wörtliches Zitat in Anführungszeichen, danach Fundstelle (Datei-ID + Seite + Absatz + ggf. Ziffer).
+5. **Ampel setzen:** anhand `ampel-regel` aus dem Spaltenprompt (rot / gelb / grün).
+6. **Prüfer-Flag setzen wenn:**
+ - OCR-Konfidenz unter 90 Prozent
+ - Antworttyp `zitat-mit-fundstelle` aber kein Zitat extrahierbar
+ - Konflikt zwischen Spalten- und Zeilenprompt
+ - Mehrdeutigkeit (mehrere plausible Antworten im Dokument)
+7. **Querweis aufbauen:** wenn Zellen-Ergebnis auf anderen Vertrag referenziert (`siehe Anlage 7 zu Vertrag X`) als Cross-Ref vermerken.
+8. **Cache prüfen:** bei Quasi-Duplikaten (Ähnlichkeit über 95 Prozent) zur Zelle eines bereits geprüften Dokuments Cache-Treffer vorschlagen — Prüfer entscheidet ob übernommen.
+
+## Reihenfolge
+
+Standard: Arbeitsblatt-außen, Zeile-mittel, Spalte-innen. Optional: Spalte-außen wenn Spaltenprompt aufwaendig (z. B. Volltext-Indexierung) und über den Stapel gemeinsam profitiert.
+
+## Grenzen
+
+Jede Zelle ist ein Hinweis kein Befund. Prüfer-Flags sind die wichtigste Ausgabe — sie sagen wo der menschliche Prüfer hinschauen muss. Untermarkierung ist eine Einbahnstraße; Übermarkierung ist eine Zweiwegtür die ein Anwalt in 30 Sekunden schließt.
+
+---
+
 ## Skill: `audit-trail-protokoll`
 
-_Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Aenderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Prüfung (Zweck: Nachvollziehb..._
+_Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Änderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Prüfung (Zweck: Nachvollziehb..._
 
 # /tabellenreview-3d:audit-trail-protokoll
 
 ## Triage zu Beginn
 
-1. Fuer welches Mandat / Projekt wird der Audit-Trail gefuehrt? (M&A-DD / Immobilien / Vendor)
-2. Wer ist der verantwortliche Pruefer, der jede Abnahme unterschreiben muss?
+1. Für welches Mandat / Projekt wird der Audit-Trail gefuehrt? (M&A-DD / Immobilien / Vendor)
+2. Wer ist der verantwortliche Prüfer, der jede Abnahme unterschreiben muss?
 3. Muss der Audit-Trail gerichtsfest sein? → Append-only-Format (JSONL) waehlen
 4. Gibt es berufsrechtliche Aufbewahrungspflichten? (§ 50 BRAO: 5 Jahre Mandatsakte)
 
@@ -558,105 +657,6 @@ _Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `kreuzblatt-konsistenzpruefung`
-
-_Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege. Output: Konsistenz-Prüfbericht mit Fehlerliste. Abgrenzung: nicht Risikoampel-Aggreg..._
-
-# /tabellenreview-3d:kreuzblatt-konsistenzprüfung
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Methodik
-
-1. **Achsen-Match:** dieselbe Zeile dieselbe Spalte aber unterschiedliches Arbeitsblatt: vergleichen.
-2. **Faktischer Widerspruch:** beide Arbeitsblätter haben das Vertragsdatum extrahiert; das eine sagt 2021-03-15, das andere 2021-03-25. Das ist ein Datenfehler — Prüfer-Flag.
-3. **Perspektivischer Widerspruch:** ein Arbeitsblatt sagt 'wirksam' das andere 'unwirksam'. Wenn beide Arbeitsblätter dieselbe Norm benutzen ist es Datenfehler; wenn unterschiedliche Normen (Recht vs Steuer) ist es legitime Abweichung — als `legitim` markieren.
-4. **Ampel-Inkonsistenz:** dieselbe Zeile in einem Arbeitsblatt rot in einem gelb in einem grün — Konsolidierungsempfehlung an `risikoampel-aggregation`.
-5. **Norm-Bezugs-Widerspruch:** ein Arbeitsblatt verweist auf BGB Paragraph 307, ein anderes auf BGB Paragraph 305c bei derselben Klausel. Beides möglich — Prüfer-Hinweis.
-
-## Konflikt-Klassifikation
-
-- **echter Widerspruch:** beide Antworten beanspruchen dieselbe Tatsache aber unterscheiden sich. Prüfer-Flag rot.
-- **legitime perspektivische Abweichung:** Arbeitsblätter haben unterschiedliche Pruefmassstaebe. Vermerk gelb.
-- **Datenfehler:** OCR-Konfidenz schwach in einem der Arbeitsblätter — Re-Run dieser Zelle.
-- **Klassifikationsfehler:** Dokumenttyp falsch erkannt — Zeile neu klassifizieren.
-
-## Ausgabe
-
-- `widerspruchsbericht.md` mit pro Widerspruch:
- - Zeile (Dokument)
- - Spalte (Datenpunkt)
- - Arbeitsblatt-A und Arbeitsblatt-B mit jeweiliger Antwort
- - Konflikt-Klassifikation
- - Empfohlene Aktion (Re-Run / Prüfer / Konsolidierung)
-
-## Beispiele
-
-- **echter Widerspruch:** Kundenvertrag-042. Spalte 'Laufzeit'. Recht: '3 Jahre + 1 Jahr Verlängerung'. Wirtschaft: '4 Jahre Festlaufzeit'. Echter Widerspruch — Wirtschaft hat den Vertrag verkürzt gelesen.
-- **legitime Abweichung:** Lizenzvertrag-018. Spalte 'Haftung'. Recht: 'unwirksam BGB Paragraph 309 Nr 7'. Steuer: 'irrelevant — Pauschalhaftungs-Aufwand absetzbar'. Legitim — unterschiedliche Pruefmassstaebe.
-
----
-
-## Skill: `review-durchfuehren`
-
-_3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176 InsO. Prüfraster: Forderungshoehe, Prüfergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung. Output: Ausgefuellte 3D-Review-Tabelle. Abgrenzung: nicht Wuerfel-Aufbau (Vorbere..._
-
-# /tabellenreview-3d:review-durchführen
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Eingaben
-
-- `wuerfel-schema.yaml`
-- `spaltenprompts.yaml`
-- `zeilenprompts.yaml`
-- `arbeitsblaetter.yaml`
-- `zeilen-inventar.yaml`
-- Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md`
-
-## Ablauf pro Zelle
-
-1. **Prompt zusammenführen:** Arbeitsblatt-Perspektive vor Spaltenprompt vor Zeilenprompt. Konflikte protokollieren.
-2. **Quelldokument öffnen:** Pfad + Hash gegen Inventar abgleichen — falls Hash abweicht: Belegkette unterbrochen Prüfer-Flag setzen.
-3. **Antwort extrahieren:** Antworttyp aus Spaltenprompt-Definition beachten (Freitext / zitat-mit-fundstelle / ja-nein / Datum / Geldbetrag / Aufzählung).
-4. **Belegkette schreiben:** wörtliches Zitat in Anführungszeichen, danach Fundstelle (Datei-ID + Seite + Absatz + ggf. Ziffer).
-5. **Ampel setzen:** anhand `ampel-regel` aus dem Spaltenprompt (rot / gelb / grün).
-6. **Prüfer-Flag setzen wenn:**
- - OCR-Konfidenz unter 90 Prozent
- - Antworttyp `zitat-mit-fundstelle` aber kein Zitat extrahierbar
- - Konflikt zwischen Spalten- und Zeilenprompt
- - Mehrdeutigkeit (mehrere plausible Antworten im Dokument)
-7. **Querweis aufbauen:** wenn Zellen-Ergebnis auf anderen Vertrag referenziert (`siehe Anlage 7 zu Vertrag X`) als Cross-Ref vermerken.
-8. **Cache prüfen:** bei Quasi-Duplikaten (Ähnlichkeit über 95 Prozent) zur Zelle eines bereits geprüften Dokuments Cache-Treffer vorschlagen — Prüfer entscheidet ob übernommen.
-
-## Reihenfolge
-
-Standard: Arbeitsblatt-außen, Zeile-mittel, Spalte-innen. Optional: Spalte-außen wenn Spaltenprompt aufwaendig (z. B. Volltext-Indexierung) und über den Stapel gemeinsam profitiert.
-
-## Grenzen
-
-Jede Zelle ist ein Hinweis kein Befund. Prüfer-Flags sind die wichtigste Ausgabe — sie sagen wo der menschliche Prüfer hinschauen muss. Untermarkierung ist eine Einbahnstraße; Übermarkierung ist eine Zweiwegtür die ein Anwalt in 30 Sekunden schließt.
 
 ---
 
@@ -771,14 +771,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `arbeitsblatt-perspektiven-definieren` | Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview definieren: Forderung, Prüfung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Prüfraster: Forderungsaufstellung, Prüfungsraster,… |
-| `audit-trail-protokoll` | Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Aenderungshistorie, Versionierung. Output:… |
+| `audit-trail-protokoll` | Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Änderungshistorie, Versionierung. Output:… |
 | `belegkette-rueckverfolgung` | Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output:… |
 | `caching-und-teil-rerun` | Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausführen ohne Vollneustart. Normen: technisch. Prüfraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten… |
 | `dokumentstapel-aufnehmen` | Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Prüfraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output:… |
 | `excel-multi-sheet-export` | 3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei… |
 | `kreuzblatt-konsistenzpruefung` | Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege.… |
 | `pdf-bericht-erzeugen` | 3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabellen, Risikoampeln. Normen: §§ 174 ff. InsO. Prüfraster: Vollständigkeit Berichtinhalte, Layout, Signaturfeld. Output: PDF-Bericht 3D-Tabellenreview.… |
-| `prompt-versionierung` | Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output:… |
+| `prompt-versionierung` | Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Änderungsprotokoll, aktive Version. Output:… |
 | `pruefer-uebergabe-paket` | Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: aktueller Stand, offene Positionen. Normen: §§ 174 ff. InsO. Prüfraster: Fortschrittsstand, kritische Punkte, Dokumentation. Output: Übergabedokument für… |
 | `review-durchfuehren` | 3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176 InsO. Prüfraster: Forderungshoehe, Prüfergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung.… |
 | `risikoampel-aggregation` | Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Prüfraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht.… |
@@ -793,32 +793,32 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin strukturiert die Massenpruefung von Vertragsstapeln und Due-Diligence-Unterlagen als dreidimensionalen Wuerfel: Die erste Dimension sind Spaltenprompts, die je einen Pruefpunkt (z. B. Kuendigungsklausel, Laufzeit) abfragen. Die zweite Dimension sind Zeilenprompts, die jedes einzelne Dokument des Stapels repraesentieren. Die dritte Dimension sind Arbeitsblatt-Perspektiven, die denselben Datensatz aus unterschiedlichen fachlichen Blickwinkeln betrachten (Recht, Steuer, Wirtschaft).
+Das Plugin strukturiert die Massenpruefung von Vertragsstapeln und Due-Diligence-Unterlagen als dreidimensionalen Wuerfel: Die erste Dimension sind Spaltenprompts, die je einen Prüfpunkt (z. B. Kuendigungsklausel, Laufzeit) abfragen. Die zweite Dimension sind Zeilenprompts, die jedes einzelne Dokument des Stapels repraesentieren. Die dritte Dimension sind Arbeitsblatt-Perspektiven, die denselben Datensatz aus unterschiedlichen fachlichen Blickwinkeln betrachten (Recht, Steuer, Wirtschaft).
 
 Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enthaelt eine Kreuzblatt-Konsistenzpruefung auf Widersprueche zwischen den Dimensionen, einen lueckenlosen Audit-Trail und eine Belegketten-Dokumentation. Typische Einsaetzgebiete sind M-und-A-Due-Diligence, Immobilien-Portfoliopruefung, Vendor-Onboarding und Arbeitsvertrags-Portfolio-Review.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie muessen 20 oder mehr Vertraege auf dieselben Pruefpunkte hin systematisch analysieren und das Ergebnis auswertbar dokumentieren.
+- Sie müssen 20 oder mehr Verträge auf dieselben Prüfpunkte hin systematisch analysieren und das Ergebnis auswertbar dokumentieren.
 - Eine M-und-A-Due-Diligence erfordert die gleichzeitige Betrachtung von Vertraegen aus rechtlicher, steuerlicher und wirtschaftlicher Perspektive.
-- Ein Lieferant soll ongeboardet werden und Vertrag, Compliance-Status und Leistungsindikatoren muessen dokumentiert werden.
-- Der Pruefer wechselt und das bisher bearbeitete Paket soll mit vollem Kontext und offenem Status uebergeben werden.
+- Ein Lieferant soll ongeboardet werden und Vertrag, Compliance-Status und Leistungsindikatoren müssen dokumentiert werden.
+- Der Prüfer wechselt und das bisher bearbeitete Paket soll mit vollem Kontext und offenem Status uebergeben werden.
 - Zwischenergebnisse sollen gecacht und einzelne Teile ohne Vollneustart erneut ausgefuehrt werden.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Wuerfel** — Metapher für die dreidimensionale Pruefstruktur: Zeilen (Dokumente) x Spalten (Pruefpunkte) x Perspektiven (Blickwinkel).
-- **Spaltenprompt** — Einzelne Frage oder Pruefanweisung, die für jedes Dokument in einer bestimmten Spalte beantwortet wird.
-- **Zeilenprompt** — Dokumentspezifische Pruefanweisung, die das einzelne Dokument als Pruefgegenstand definiert.
+- **Wuerfel** — Metapher für die dreidimensionale Prüfstruktur: Zeilen (Dokumente) x Spalten (Prüfpunkte) x Perspektiven (Blickwinkel).
+- **Spaltenprompt** — Einzelne Frage oder Prüfanweisung, die für jedes Dokument in einer bestimmten Spalte beantwortet wird.
+- **Zeilenprompt** — Dokumentspezifische Prüfanweisung, die das einzelne Dokument als Prüfgegenstand definiert.
 - **Arbeitsblatt-Perspektive** — Fachlicher Blickwinkel (Recht, Steuer, Wirtschaft), der denselben Wuerfel in einem eigenen Excel-Sheet abbildet.
 - **Kreuzblatt-Konsistenzpruefung** — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
-- **Audit-Trail** — Lueckenlose Protokollierung aller Pruefschritte mit Zeitstempel, Pruefer-ID und Aenderungshistorie.
-- **Risikoampel** — Rot-Gelb-Gruen-Bewertung je Pruefposition zur schnellen Risikouebersicht.
+- **Audit-Trail** — Lueckenlose Protokollierung aller Prüfschritte mit Zeitstempel, Prüfer-ID und Änderungshistorie.
+- **Risikoampel** — Rot-Gelb-Gruen-Bewertung je Prüfposition zur schnellen Risikouebersicht.
 - **Belegkette** — Nachverfolgung der Originalbelege hinter jeder Buchung oder Forderung.
 
 ## Rechtsgrundlagen
 
-- §§ 174 ff. InsO — Forderungsanmeldung und -pruefung (Stammreferenz der 3D-Review-Skills)
+- §§ 174 ff. InsO — Forderungsanmeldung und -prüfung (Stammreferenz der 3D-Review-Skills)
 - §§ 238 257 HGB — Buchfuehrungs- und Aufbewahrungspflichten
 - GmbHG AktG HGB InsO — Relevante Normen je nach Vorlagen-Typ
 - BGB §§ 305 ff. — AGB-Kontrolle bei Vertragsstapeln
@@ -827,50 +827,50 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
+1. Kaltstart-Interview: Fallkategorie, Tabellengroesse, Prüfzweck und Exportformat erfassen.
 2. Wuerfelstruktur aufbauen: Spaltenprompts und Zeilenprompts definieren, Perspektiven festlegen.
 3. Dokumentstapel einlesen und Inventar erstellen.
-4. Review durchfuehren: jede Zeile in allen drei Perspektiven pruefen und Risikoampel setzen.
+4. Review durchfuehren: jede Zeile in allen drei Perspektiven prüfen und Risikoampel setzen.
 5. Kreuzblatt-Konsistenzpruefung und Audit-Trail abschliessen; Excel-Export oder PDF-Bericht erzeugen.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `arbeitsblatt-perspektiven-definieren` — Die drei Pruefperspektiven (Recht, Steuer, Wirtschaft) für den 3D-Wuerfel definieren.
-- `audit-trail-protokoll` — Alle Review-Schritte mit Zeitstempel und Pruefer-ID protokollieren.
+- `arbeitsblatt-perspektiven-definieren` — Die drei Prüfperspektiven (Recht, Steuer, Wirtschaft) für den 3D-Wuerfel definieren.
+- `audit-trail-protokoll` — Alle Review-Schritte mit Zeitstempel und Prüfer-ID protokollieren.
 - `belegkette-rueckverfolgung` — Belegkette für Forderungen und Zahlungen zurueckverfolgen.
 - `caching-und-teil-rerun` — Zwischenergebnisse cachen und Teilbereiche ohne Vollneustart erneut ausfuehren.
 - `dokumentstapel-aufnehmen` — Dokumentenstapel (PDFs, Excel, Word) einlesen und Inventar erstellen.
 - `excel-multi-sheet-export` — 3D-Review-Ergebnis als Excel-Datei mit Arbeitsblaettern je Perspektive exportieren.
 - `kreuzblatt-konsistenzpruefung` — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
 - `pdf-bericht-erzeugen` — 3D-Review-Ergebnis als PDF-Bericht mit Zusammenfassung, Tabellen und Risikoampeln erzeugen.
-- `prompt-versionierung` — Prompt-Versionen für den 3D-Review verwalten und aendern.
-- `pruefer-uebergabe-paket` — Uebergabepaket für Prueferwechsel mit aktuellem Stand und offenen Positionen.
-- `review-durchfuehren` — 3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven pruefen.
+- `prompt-versionierung` — Prompt-Versionen für den 3D-Review verwalten und ändern.
+- `pruefer-uebergabe-paket` — Übergabepaket für Prüferwechsel mit aktuellem Stand und offenen Positionen.
+- `review-durchfuehren` — 3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven prüfen.
 - `risikoampel-aggregation` — Risikoampeln für alle geprueften Positionen aggregieren und Gesamtrisiko einschaetzen.
-- `spaltenprompts-definieren` — Spaltenprompts für die drei Pruefperspektiven definieren.
-- `tabellenreview-3d-kaltstart-interview` — Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
+- `spaltenprompts-definieren` — Spaltenprompts für die drei Prüfperspektiven definieren.
+- `tabellenreview-3d-kaltstart-interview` — Kaltstart-Interview: Fallkategorie, Tabellengroesse, Prüfzweck und Exportformat erfassen.
 - `vorlage-arbeitsvertrag-portfolio` — Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-Format.
 - `vorlage-immobilien-portfolio` — Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3D-Format.
 - `vorlage-ma-due-diligence` — Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format.
 - `vorlage-vendor-onboarding-3d` — Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format.
 - `wuerfel-aufbauen` — 3D-Wuerfelstruktur aufbauen: Zeilen, Spalten und Perspektiven verknuepfen.
-- `zeilenprompts-definieren` — Zeilenprompts für einzelne Pruefpositionen im 3D-Review definieren.
+- `zeilenprompts-definieren` — Zeilenprompts für einzelne Prüfpositionen im 3D-Review definieren.
 
 ## Worauf besonders achten
 
-- **Kreuzblatt-Konsistenz vor Export pruefen**: Widersprueche zwischen den Dimensionen koennen die Aussagekraft des Berichts untergraben.
+- **Kreuzblatt-Konsistenz vor Export prüfen**: Widersprueche zwischen den Dimensionen können die Aussagekraft des Berichts untergraben.
 - **Prompt-Versionierung dokumentieren**: Unterschiedliche Prompt-Versionen im selben Review produzieren nicht vergleichbare Ergebnisse.
 - **Audit-Trail von Beginn an fuehren**: Nachtraegliches Erganzen des Protokolls ist fehleranfaellig und im Zweifel nicht beweissicher.
-- **Caching konservativ einsetzen**: Gecachte Ergebnisse werden nicht neu berechnet; Aenderungen im Dokument werden nicht erfasst.
-- **Vorlagen nicht ohne Anpassung verwenden**: Vorlage-Spaltenprompts sind Ausgangspunkte, keine abschliessenden Pruefkataloge.
+- **Caching konservativ einsetzen**: Gecachte Ergebnisse werden nicht neu berechnet; Änderungen im Dokument werden nicht erfasst.
+- **Vorlagen nicht ohne Anpassung verwenden**: Vorlage-Spaltenprompts sind Ausgangspunkte, keine abschliessenden Prüfkataloge.
 
 ## Typische Fehler
 
-- Wuerfelstruktur ohne Kaltstart-Interview aufbauen; Pruefzweck und Exportformat werden spaeter nicht erfuellt.
+- Wuerfelstruktur ohne Kaltstart-Interview aufbauen; Prüfzweck und Exportformat werden später nicht erfuellt.
 - Alle drei Perspektiven mit identischen Prompts besetzen; der Wuerfel verliert seine Informationstiefe.
 - Risikoampel-Schwellenwerte nicht explizit definieren; Ampelbewertungen werden inkonsistent.
-- Prueferwechsel ohne Uebergabepaket; Nachfolger muss von vorne beginnen.
-- Excel-Export ohne Kreuzblatt-Pruefung; Inkonsistenzen werden erst beim Mandanten entdeckt.
+- Prüferwechsel ohne Übergabepaket; Nachfolger muss von vorne beginnen.
+- Excel-Export ohne Kreuzblatt-Prüfung; Inkonsistenzen werden erst beim Mandanten entdeckt.
 
 ## Quellen und Aktualitaet
 

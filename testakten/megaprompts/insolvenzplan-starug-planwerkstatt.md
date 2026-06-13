@@ -739,7 +739,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und Sta
 ## Triage — Asset-Deal im Plan
 
 Bevor losgelegt wird, klaere:
-1. **Asset-Katalog?** Welche Vermoegenswerte werden uebertragen — Grundstuecke (Auflassung), Marken (DPMA-Umschreibung), Kundendaten (DSGVO)?
+1. **Asset-Katalog?** Welche Vermögenswerte werden uebertragen — Grundstuecke (Auflassung), Marken (DPMA-Umschreibung), Kundendaten (DSGVO)?
 2. **Rechte Dritter?** Pfandrechte, Sicherungsuebereignungen, Eigentumsvorbehalte an Assets?
 3. **DSGVO?** Kundendaten-Uebertragung: Art. 6 Abs. 1 lit. b DSGVO Vertragsuebernahme oder neue Einwilligung?
 4. **Grundbuch?** Grundstuecks-Auflassung nicht aufschiebbar auf Plan-Vollzug; Grundbuchamt einbinden.
@@ -1421,7 +1421,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `ips-anlagenpaket` | Pflichtanlagen für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen… |
 | `ips-asset-deals-im-plan-grundstuecke-marken-kundendaten` | Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch… |
 | `ips-cramdown-obstruktion` | Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen den Plan blockieren. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene… |
-| `ips-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Finanzplanung Vergleichsrechnung Sonderaktiva… |
+| `ips-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Finanzplanung Vergleichsrechnung Sonderaktiva… |
 | `ips-datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS… |
 | `ips-gerichtliche-schritte` | Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Planbestätigung. §§ 231 232 248 InsO §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichung Vorprüfung… |
 | `ips-gestaltender-teil` | Gestaltenden Teil des Insolvenzplans oder StaRUG-Plans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe… |
@@ -1434,7 +1434,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `ips-planbetroffene-auswahl` | Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung dokumentiert begründen. §§ 2 4 StaRUG Gestaltbarkeit Ausnahmen. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer… |
 | `ips-planvollzug-monitoring` | Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants… |
 | `ips-redteam-qualitygate` | Insolvenzplan oder StaRUG-Plan vor Einreichung aus Gegnersicht und Gerichtssicht prüfen. §§ 231 245 251 InsO Versagungsgründe § 64 StaRUG. Prüfraster: Vollständigkeit Bewertungswiderspruch Gruppenmissbrauch fehlende… |
-| `ips-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Massnahmenpakete… |
+| `ips-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Maßnahmenpakete… |
 | `ips-sicherheiten-drittsicherheiten` | Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO §§ 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister… |
 | `ips-stabilisierung-starug` | StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer… |
 | `ips-stakeholder-kommunikation` | Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Gläubigerinfo. Prüfraster: Stakeholdergruppen Sorgen… |
@@ -1446,22 +1446,22 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin ist das spezialisierte Werkzeug für die Erstellung, Pruefung und Begleitung von Insolvenzplaenen nach §§ 217 ff. InsO und Restrukturierungsplaenen nach dem StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz). Es deckt den gesamten Planlebenszyklus ab: vom Kaltstart-Interview und der Verfahrenswahl ueber die Planarchitektur, Vergleichsrechnung und Gruppenbildung bis zur Abstimmung, dem Cramdown-Verfahren und dem Planvollzug.
+Dieses Plugin ist das spezialisierte Werkzeug für die Erstellung, Prüfung und Begleitung von Insolvenzplaenen nach §§ 217 ff. InsO und Restrukturierungsplaenen nach dem StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz). Es deckt den gesamten Planlebenszyklus ab: vom Kaltstart-Interview und der Verfahrenswahl über die Planarchitektur, Vergleichsrechnung und Gruppenbildung bis zur Abstimmung, dem Cramdown-Verfahren und dem Planvollzug.
 
-Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und deren Anwaelte. Es ist kein Rechtsberatungsersatz, sondern ein strukturiertes Pruefwerkzeug für komplexe Sanierungsmandate. Fuer die parallele Bearbeitung einfacherer insolvenzrechtlicher Grundfragen steht das Plugin `insolvenzrecht` zur Verfuegung.
+Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und deren Anwaelte. Es ist kein Rechtsberatungsersatz, sondern ein strukturiertes Prüfwerkzeug für komplexe Sanierungsmandate. Für die parallele Bearbeitung einfacherer insolvenzrechtlicher Grundfragen steht das Plugin `insolvenzrecht` zur Verfuegung.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie stehen am Beginn eines Restrukturierungsmandats und muessen zwischen Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG und aussergerichtlicher Einigung auswaehlen.
-- Sie erstellen oder pruefe den darstellenden und gestaltenden Teil eines Insolvenzplans oder StaRUG-Plans.
-- Sie muessen Gruppen und Klassen nach §§ 222 f. InsO oder §§ 9 f. StaRUG sachgerecht bilden.
-- Sie simulieren Abstimmungsmehrheiten oder pruefen Cramdown-Szenarien nach § 245 InsO oder § 27 StaRUG.
-- Sie begleiten den Planvollzug und muessen Abweichungen von Quoten und Covenants dokumentieren.
+- Sie stehen am Beginn eines Restrukturierungsmandats und müssen zwischen Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG und aussergerichtlicher Einigung auswaehlen.
+- Sie erstellen oder prüfe den darstellenden und gestaltenden Teil eines Insolvenzplans oder StaRUG-Plans.
+- Sie müssen Gruppen und Klassen nach §§ 222 f. InsO oder §§ 9 f. StaRUG sachgerecht bilden.
+- Sie simulieren Abstimmungsmehrheiten oder prüfen Cramdown-Szenarien nach § 245 InsO oder § 27 StaRUG.
+- Sie begleiten den Planvollzug und müssen Abweichungen von Quoten und Covenants dokumentieren.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Insolvenzplan** — Gestaltendes Instrument nach §§ 217 ff. InsO, mit dem Glaeubiger abweichend vom Regelverfahren befriedigt werden; besteht aus darstellendem und gestaltendem Teil plus Anlagen.
-- **StaRUG-Plan** — Restrukturierungsplan nach dem StaRUG; ermoeglicht Eingriffe in Glaeubigerpositionen ausserhalb des Insolvenzverfahrens bei bloss drohender Zahlungsunfaehigkeit.
+- **Insolvenzplan** — Gestaltendes Instrument nach §§ 217 ff. InsO, mit dem Gläubiger abweichend vom Regelverfahren befriedigt werden; besteht aus darstellendem und gestaltendem Teil plus Anlagen.
+- **StaRUG-Plan** — Restrukturierungsplan nach dem StaRUG; ermoeglicht Eingriffe in Gläubigerpositionen ausserhalb des Insolvenzverfahrens bei bloss drohender Zahlungsunfaehigkeit.
 - **Vergleichsrechnung** — Kernbestandteil des Plans; zeigt je Gruppe, dass kein Beteiligter im Plan schlechter steht als ohne Plan (Schlechterstellungsverbot).
 - **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung, die eine ablehnende Gruppe ueberstimmt (§ 245 InsO, § 27 StaRUG); setzt absolute Prioritaet oder angemessene Beteiligung voraus.
 - **Planbetroffene** — Im StaRUG-Verfahren ausdrucklich ausgewaehlte Inhaber gestaltbarer Rechtsverhaeltnisse (§§ 2 ff. StaRUG).
@@ -1485,7 +1485,7 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 2. Verfahrenswahl treffen: Skill `ips-verfahrenswahl` (InsO-Plan, StaRUG, aussergerichtlich).
 3. Planarchitektur aufbauen: `ips-insolvenzplan-architektur` oder `ips-starug-plan-architektur`.
 4. Vergleichsrechnung und Gruppen: `ips-vergleichsrechnung` und `ips-gruppen-klassenbildung`.
-5. Red-Team-Pruefung vor Einreichung: `ips-redteam-qualitygate`.
+5. Red-Team-Prüfung vor Einreichung: `ips-redteam-qualitygate`.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -1510,10 +1510,10 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 
 **Wirtschaftliche Grundlagen**
 
-- `ips-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage erstellen oder pruefen.
+- `ips-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage erstellen oder prüfen.
 - `ips-integrierte-planung` — Integrierte Planrechnung aus GuV, Liquiditaet und Bilanz erstellen.
 - `ips-vergleichsrechnung` — Vergleichsrechnung (Planfall vs. Ohne-Plan-Szenario) je Gruppe erstellen.
-- `ips-steuern-bilanz-folgen` — Steuerliche und bilanzielle Folgen des Plans pruefen.
+- `ips-steuern-bilanz-folgen` — Steuerliche und bilanzielle Folgen des Plans prüfen.
 
 **Sicherheiten und Dritte**
 
@@ -1523,7 +1523,7 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 **Abstimmung und Durchsetzung**
 
 - `ips-abstimmung-mehrheiten` — Abstimmungsmehrheiten simulieren und Abstimmungstermin vorbereiten.
-- `ips-cramdown-obstruktion` — Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung pruefen.
+- `ips-cramdown-obstruktion` — Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen.
 - `ips-minderheitenschutz` — Schlechterstellungsrisiken opponierender Beteiligter analysieren.
 
 **Gerichtliche Schritte und Stabilisierung**
@@ -1533,12 +1533,12 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 
 **Kommunikation und Dokumentation**
 
-- `ips-stakeholder-kommunikation` — Glaeubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
+- `ips-stakeholder-kommunikation` — Gläubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
 - `ips-datenraum-register` — Planbegleitenden Datenraum aufbauen und Dokumentenregister fuehren.
 
 **Qualitaetssicherung und Planvollzug**
 
-- `ips-redteam-qualitygate` — Plan vor Einreichung aus Gegnersicht und Gerichtssicht pruefen.
+- `ips-redteam-qualitygate` — Plan vor Einreichung aus Gegnersicht und Gerichtssicht prüfen.
 - `ips-planvollzug-monitoring` — Planvollzug ueberwachen, Zahlungen kontrollieren und Abweichungen dokumentieren.
 
 **Sanierungsmoderation**
@@ -1547,10 +1547,10 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 
 ## Worauf besonders achten
 
-- **Vergleichsrechnung ist Herzstuck** — Ohne belastbare Vergleichsrechnung wird der Plan nicht bestaetigt; Annahmenregister und Stressszenarien muessen dokumentiert sein.
-- **StaRUG nur bei drohender Zahlungsunfaehigkeit** — § 18 InsO ist Voraussetzung; bei eingetretener Zahlungsunfaehigkeit oder Ueberschuldung ist InsO-Antragspflicht zu pruefen.
+- **Vergleichsrechnung ist Herzstuck** — Ohne belastbare Vergleichsrechnung wird der Plan nicht bestaetigt; Annahmenregister und Stressszenarien müssen dokumentiert sein.
+- **StaRUG nur bei drohender Zahlungsunfaehigkeit** — § 18 InsO ist Voraussetzung; bei eingetretener Zahlungsunfaehigkeit oder Ueberschuldung ist InsO-Antragspflicht zu prüfen.
 - **Cramdown-Risiko fruehzeitig managen** — Ablehnende Klassen fruhzeitig identifizieren und Planmehrwert-Argument oder absolute Prioritaet vorbereiten.
-- **Steuerfolgen nicht unterschaetzen** — Sanierungsgewinn (§ 3a EStG) und Verlustvortragsbeschraenkung (§ 8c KStG) koennen den Planmehrwert aufzehren; Steuerberater fruehzeitig einbinden.
+- **Steuerfolgen nicht unterschaetzen** — Sanierungsgewinn (§ 3a EStG) und Verlustvortragsbeschraenkung (§ 8c KStG) können den Planmehrwert aufzehren; Steuerberater fruehzeitig einbinden.
 - **Artverschiedenheit InsO und StaRUG** — Planbetroffene und Gruppenbildung folgen verschiedenen Logiken; Verwechslungen fuehren zu Versagungsgruenden.
 
 ## Typische Fehler
@@ -1558,8 +1558,8 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - Vergleichsrechnung stuetzt sich auf nicht dokumentierte Annahmen; Gericht verlangt Plausibilitaetsnachweis.
 - Gruppenbildung folgt nicht wirtschaftlichen Interessen, sondern praktischen Erwaegungen; Missbrauchsvorwurf.
 - Anlagenpaket ist unvollstaendig bei Einreichung; Vorpruefungsversagung nach § 231 InsO.
-- Planbetroffene im StaRUG umfassen Arbeitnehmer oder Deliktsglaeubiger, die ausgenommen sein muessen (§ 4 StaRUG).
-- Red-Team-Pruefung wird uebersprungen; Fehler werden erst vom gegnerischen Anwalt oder Gericht erkannt.
+- Planbetroffene im StaRUG umfassen Arbeitnehmer oder Deliktsglaeubiger, die ausgenommen sein müssen (§ 4 StaRUG).
+- Red-Team-Prüfung wird uebersprungen; Fehler werden erst vom gegnerischen Anwalt oder Gericht erkannt.
 
 ## Quellen und Aktualitaet
 

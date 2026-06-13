@@ -9,11 +9,11 @@ Dieser Megaprompt enthaelt top-8 von 246 Skills (gekuerzt fuer Chat-Fenster) des
 1. **einstieg-routing** — Einstieg, Triage und Routing für Legistik-Werkstatt (Gesetzgebung): ordnet Rolle (Ressort, Bundesrat, Bundestag), markie…
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bundesministerien, Bundestag, Fraktionen, Lande…
 3. **legistik-erstpruefung-und-mandatsziel** — Legistik: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **aa-voelkerrecht-und-vertragsgesetzgebung** — Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Ver…
-5. **aenderungs-formular-portal-einreichungslogik** — Aenderungs: Formular, Portal und Einreichungslogik im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende …
-6. **begruendung-allgemein-und-besonders** — Zweiteilige Begründung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder K…
-7. **bmas-arbeitsrecht-und-arbeitsschutz** — Sachbereich Arbeitsrecht und Arbeitsschutz im Geschaeftsbereich BMAS: Normbestand (BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG…
-8. **bmas-arbeitsschutz-und-arbeitssicherheit** — Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; …
+4. **begruendung-allgemein-und-besonders** — Zweiteilige Begründung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder K…
+5. **bundestag-fristen-form-zustaendigkeit** — Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragen…
+6. **dokumente-rendern-docx-pdf** — Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung, des Bundestages, eines Land…
+7. **folgenabschaetzung-erfuellungsaufwand** — Erfuellungsaufwand für Buerger Wirtschaft und Verwaltung ermitteln und darstellen. Anwendungsfall Referentenentwurf soll…
+8. **folgenabschaetzung-nachhaltigkeit** — Weitere Folgen und Nachhaltigkeitsprüfung für Gesetzesentwurf erstellen. Anwendungsfall Referentenentwurf benoetigt Vorb…
 
 ---
 
@@ -38,8 +38,8 @@ Dieser Einstieg routet **Legistik Werkstatt** vom ersten Sachverhalt zu Rollen, 
 - `aa-sanktionsumsetzung-internationale` — AA Sanktionsumsetzung Internationale
 - `aa-sanktionsumsetzung-und-internationale-abkommen` — AA Sanktionsumsetzung und Internationale Abkommen
 - `aa-voelkerrecht-und-vertragsgesetzgebung` — AA Voelkerrecht und Vertragsgesetzgebung
-- `aenderungs-formular-portal-einreichungslogik` — Aenderungs Formular Portal Einreichungslogik
-- `aenderungs-formular-portal-und-einreichung` — Aenderungs Formular Portal und Einreichung
+- `aenderungs-formular-portal-einreichungslogik` — Änderungs Formular Portal Einreichungslogik
+- `aenderungs-formular-portal-und-einreichung` — Änderungs Formular Portal und Einreichung
 - `baut-quellenkarte` — Baut Quellenkarte
 - `begruendung-allgemein-und-besonders` — Begruendung Allgemein und Besonders
 - `anschluss-routing` — Anschluss Routing
@@ -84,7 +84,7 @@ _Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bunde
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Legistik Werkstatt** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Legistik Werkstatt** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -223,16 +223,16 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gesetzesentwurf-kabinett` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss… |
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz nach Art. 70 bis 74 GG prüfen bevor Entwurf aufgesetzt wird. Anwendungsfall Referent oder Verband fragt ob Bund oder Land regelungsbefogt ist. Ausschließliche Bundeskompetenz Art. 71 i.V.m. 73… |
 | `goldplating-vermeiden` | Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den… |
-| `inkrafttreten-uebergangsrecht` | Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht muessen noch ergaenzt werden. Standardformel… |
+| `inkrafttreten-uebergangsrecht` | Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht müssen noch ergaenzt werden. Standardformel… |
 | `legistik-auftragsaufnahme` | Legistischen Auftrag strukturiert aufnehmen: Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Adressaten, Eingriffstiefe, Dringlichkeit, Entwurfstyp und Beteiligte klären. |
-| `lesefassung-konsolidiert` | Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne… |
-| `normenkartierung` | Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten… |
+| `lesefassung-konsolidiert` | Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Änderung aussieht ohne… |
+| `normenkartierung` | Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Änderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten… |
 | `normenkontrollrat-kmu-check` | Vorlage an Nationalen Normenkontrollrat NKR vorbereiten und KMU-Check durchführen. Anwendungsfall Referentenentwurf muss vor Kabinettsbefassung dem NKR vorgelegt werden. Standard-Kostenmodell SKK Buerokratiekosten.… |
 | `normhierarchie-routing` | Richtige Startbahn und Normebene bestimmen: Bundesgesetz, Landesgesetz, Rechtsverordnung, Satzung, Verwaltungsvorschrift, parlamentarischer Antrag oder Entschließungsantrag. |
 | `referentenentwurf-bauen` | Vollständigen Referentenentwurf des Bundes oder Landes aufbauen, wenn ein Bundes- oder Landesministerium den Entwurf steuert. Klärt Bundesland, Ressort, GGO oder Landesvorgaben und HdR-/Landesstil. |
 | `satzungskompetenz-pruefen` | Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprüft… |
 | `schulung-legistik` | Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder… |
-| `synopse-erstellen` | Synopse als Dreispalten-Tabelle bisheriges Recht neues Recht Aenderungsbefehl erstellen. Anwendungsfall Ressortabstimmung Bundestag oder Bundesrat brauchen vergleichende Darstellung um Aenderungen schnell zu erfassen.… |
+| `synopse-erstellen` | Synopse als Dreispalten-Tabelle bisheriges Recht neues Recht Änderungsbefehl erstellen. Anwendungsfall Ressortabstimmung Bundestag oder Bundesrat brauchen vergleichende Darstellung um Änderungen schnell zu erfassen.… |
 | `terminologie-konsistenz` | Terminologie-Konsistenz im legistischen Entwurf prüfen und Begriffstabelle aufbauen. Anwendungsfall Entwurf enthaelt neue Legaldefinitionen oder Referent prüft ob Begriffe konsistent verwendet werden und keine… |
 | `verbaendeanhoerung-ressortabstimmung` | Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten. Anwendungsfall Referentenentwurf ist fertig und muss Verbaenden und Ressorts zugeleitet werden vor Kabinettsbefassung. Anschreiben Liste zu… |
 | `verfassungsmaessigkeit-quercheck` | Querschnittsprüfung Verfassungsmäßigkeit eines Gesetzesentwurfs oder einer Verordnung. Anwendungsfall Entwurf soll vor Ressortabstimmung oder NKR-Vorlage verfassungsrechtlich abgesichert werden oder Verband prüft… |
@@ -244,7 +244,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Die Legistik-Werkstatt ist ein Plugin für Referentinnen und Referenten in Bundesministerien und Landesministerien, für Bundestags- und Landtagsfraktionen, für Oppositionsarbeit, Ausschussarbeit, kommunale und kammerliche Normgeber, Verfassungsrechtlerinnen und Verfassungsrechtler sowie für fachlich zuliefernde Verbände. Sie hilft, Gesetzesentwürfe, Änderungsanträge, Entschließungsanträge, Rechtsverordnungen und Satzungen zu erstellen, zu prüfen und in den jeweils passenden Regierungs- oder Parlamentsprozess einzubringen.
 
-Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsaufnahme ueber den Referentenentwurf, die Ressortabstimmung, Verbandeanhoerungen, die Kabinettsreife, Synopsen und Lesefassungen bis zur XML-Paralleldarstellung. Es enthaelt ausserdem Quercheckmodule für Verfassungsmaessigkeit, Europarechtskonformitaet, Erfuellungsaufwand und Goldplating-Vermeidung.
+Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsaufnahme über den Referentenentwurf, die Ressortabstimmung, Verbandeanhoerungen, die Kabinettsreife, Synopsen und Lesefassungen bis zur XML-Paralleldarstellung. Es enthaelt ausserdem Quercheckmodule für Verfassungsmaessigkeit, Europarechtskonformitaet, Erfuellungsaufwand und Goldplating-Vermeidung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -253,21 +253,21 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Eine Oppositionsfraktion braucht einen formal tragfähigen Antrag, Entschließungsantrag oder Alternativentwurf mit klarer Begründung und Angriffsfestigkeit.
 - Ein Landesministerium oder eine Landtagsfraktion arbeitet in einem bestimmten Bundesland und muss Landesverfassung, Landes-Geschäftsordnung, Landtagsverfahren und Verkündungsregeln sauber mitführen.
 - Eine Normenkontrollrats-Vorlage muss fristgerecht vorbereitet und mit einem KMU-Check versehen werden.
-- Ein Ministerium will einen bestehenden Entwurf auf Verfassungsmaessigkeit und Europarechtskonformitaet pruefen.
+- Ein Ministerium will einen bestehenden Entwurf auf Verfassungsmaessigkeit und Europarechtskonformitaet prüfen.
 - Eine Rechtsverordnung wird entworfen und die Verordnungsermaechtigung nach Art. 80 GG muss geprueft werden.
 - Nach Inkrafttreten soll eine konsolidierte Lesefassung des geaenderten Stammgesetzes erstellt werden.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **HdR** — Handbuch der Rechtsfoermlichkeit; Leitfaden des Bundesjustizministeriums für die Formulierung von Rechtstexten.
-- **GGO** — Gemeinsame Geschaeftsordnung der Bundesministerien; regelt Verfahren und Fristen für die Ressortabstimmung.
-- **NKR** — Nationaler Normenkontrollrat; unabhaengiges Gremium, das Erfuellungsaufwand und buerokratische Belastungen prueft.
+- **GGO** — Gemeinsame Geschäftsordnung der Bundesministerien; regelt Verfahren und Fristen für die Ressortabstimmung.
+- **NKR** — Nationaler Normenkontrollrat; unabhaengiges Gremium, das Erfuellungsaufwand und buerokratische Belastungen prüft.
 - **Gesetzentwurf aus der Mitte** — Parlamentarische Gesetzesinitiative, die nicht von der Bundesregierung oder Landesregierung, sondern aus dem Parlament kommt; im Bund typischerweise durch eine Fraktion oder Abgeordnete in der erforderlichen Stärke.
 - **Formulierungshilfe** — Fachlicher Zuliefertext, häufig aus einem Ministerium, der formal als parlamentarische Vorlage, Änderungsantrag oder Ausschussfassung weiterverwendet werden kann; formaler Initiator und fachlicher Verfasser sind sauber zu trennen.
-- **Goldplating** — Ueberimplementierung von EU-Richtlinien: nationale Zusatzanforderungen ueber das EU-Mindestmass hinaus.
-- **Synopse** — Gegenueberststellung von bisherigem Recht, neuem Recht und Aenderungsbefehl in einer Dreispalten-Tabelle.
+- **Goldplating** — Ueberimplementierung von EU-Richtlinien: nationale Zusatzanforderungen über das EU-Mindestmass hinaus.
+- **Synopse** — Gegenueberststellung von bisherigem Recht, neuem Recht und Änderungsbefehl in einer Dreispalten-Tabelle.
 - **LegalDocML** — Maschinenlesbares XML-Format für deutsche Rechtstexte; Standard des Bundesjustizministeriums.
-- **Normenkartierung** — Systematische Erfassung aller durch ein Vorhaben beruehrten Normen und ihrer Aenderungsbedarfe.
+- **Normenkartierung** — Systematische Erfassung aller durch ein Vorhaben beruehrten Normen und ihrer Änderungsbedarfe.
 - **Kabinettsentwurf** — Abgestimmter Regierungsentwurf, der dem Kabinett zur Beschlussfassung vorgelegt wird.
 
 ## Rechtsgrundlagen
@@ -277,14 +277,14 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Art. 76-78 GG (Gesetzgebungsverfahren im Bund)
 - Geschäftsordnung des Deutschen Bundestages, insbesondere Vorlagen aus der Mitte des Bundestages
 - Landesverfassungen, Geschäftsordnungen der Landesregierungen und Geschäftsordnungen der Landtage
-- GGO (Gemeinsame Geschaeftsordnung der Bundesministerien)
+- GGO (Gemeinsame Geschäftsordnung der Bundesministerien)
 - Art. 288 AEUV (Wirkung von EU-Verordnungen und Richtlinien)
 - Art. 267 AEUV (Vorabentscheidungsverfahren EuGH)
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Startbahn klären: Bundesressort, Bundestag, Landesressort, Landtag oder sonstiger Normgeber.
-2. Legistischen Auftrag aufnehmen und Regelungsziele klaeren (`legistik-auftragsaufnahme`).
+2. Legistischen Auftrag aufnehmen und Regelungsziele klären (`legistik-auftragsaufnahme`).
 3. Normhierarchie und Kompetenzgrundlage bestimmen (`normhierarchie-routing`, `gesetzgebungskompetenz-pruefen`).
 4. Geeigneten Entwurfstyp auswaehlen: Referentenentwurf, Kabinettsentwurf, Gesetzentwurf aus der Mitte, Änderungsantrag, Antrag, Rechtsverordnung oder Satzung.
 5. Quercheck-Module nutzen: Verfassungsmaessigkeit, Europarecht, Goldplating, Erfuellungsaufwand, Rechtsförmlichkeit und parlamentarische Zulässigkeit.
@@ -294,25 +294,25 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 
 - `legistik-auftragsaufnahme` — Legistischen Auftrag strukturiert aufnehmen und in Regelungsziele umwandeln.
 - `normhierarchie-routing` — Richtige Startbahn und Normebene bestimmen: Regierung, Parlament, Gesetz, Verordnung, Satzung oder Antrag.
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz nach Art. 70-74 GG pruefen bevor Entwurf aufgesetzt wird.
-- `satzungskompetenz-pruefen` — Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts pruefen.
-- `verordnungsermaechtigung-art80` — Verordnungsermaechtigung nach Art. 80 Abs. 1 GG pruefen bevor Rechtsverordnung entworfen wird.
+- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz nach Art. 70-74 GG prüfen bevor Entwurf aufgesetzt wird.
+- `satzungskompetenz-pruefen` — Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen.
+- `verordnungsermaechtigung-art80` — Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird.
 - `referentenentwurf-bauen` — Vollstaendigen Referentenentwurf des Bundes oder Landes aufbauen.
 - `gesetzesentwurf-kabinett` — Kabinettsentwurf nach Ressortabstimmung aus dem Referentenentwurf erstellen.
 - `formulierungshilfe-bauen` — Formulierungshilfe, Änderungsantrag, Gesetzentwurf aus der Mitte, Entschließungsantrag oder Antrag für Bundestag und Landtage aufbauen.
 - `begruendung-allgemein-und-besonders` — Zweiteilige Begruendung zu Gesetzesentwurf oder Verordnung (Allgemeiner Teil, Besonderer Teil) verfassen.
 - `verfassungsmaessigkeit-quercheck` — Querschnittspruefung Verfassungsmaessigkeit eines Gesetzesentwurfs oder einer Verordnung.
-- `europarechtskonformitaet` — Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht pruefen.
+- `europarechtskonformitaet` — Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht prüfen.
 - `goldplating-vermeiden` — Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten.
 - `folgenabschaetzung-erfuellungsaufwand` — Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung ermitteln und darstellen.
 - `folgenabschaetzung-nachhaltigkeit` — Weitere Folgen und Nachhaltigkeitspruefung für Gesetzesentwurf erstellen.
 - `normenkontrollrat-kmu-check` — Vorlage an den NKR vorbereiten und KMU-Check durchfuehren.
-- `normenkartierung` — Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen.
-- `terminologie-konsistenz` — Terminologie-Konsistenz im legistischen Entwurf pruefen und Begriffstabelle aufbauen.
+- `normenkartierung` — Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Änderungsmatrix aufbauen.
+- `terminologie-konsistenz` — Terminologie-Konsistenz im legistischen Entwurf prüfen und Begriffstabelle aufbauen.
 - `zirkelschluss-pruefen` — Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren.
 - `inkrafttreten-uebergangsrecht` — Inkrafttretens- und Uebergangsregelungen für Gesetze und Verordnungen formulieren.
 - `verbaendeanhoerung-ressortabstimmung` — Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten.
-- `synopse-erstellen` — Synopse als Dreispalten-Tabelle (bisheriges Recht, neues Recht, Aenderungsbefehl) erstellen.
+- `synopse-erstellen` — Synopse als Dreispalten-Tabelle (bisheriges Recht, neues Recht, Änderungsbefehl) erstellen.
 - `lesefassung-konsolidiert` — Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen.
 - `xml-paralleldarstellung` — Maschinenlesbare Paralleldarstellung in LegalDocML.de oder eNorm-XML erstellen.
 - `dokumente-rendern-docx-pdf` — Legistische Dokumente als DOCX oder PDF im offiziellen HdR-Layout rendern.
@@ -323,9 +323,9 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Kompetenzgrundlage zuerst: Ohne geklarte Gesetzgebungskompetenz nach Art. 70 ff. GG darf kein Entwurf aufgesetzt werden.
 - Startbahn sauber halten: Ministerielle Fachzulieferung, formaler parlamentarischer Initiator und politischer Auftraggeber dürfen nicht vermischt werden.
 - Landesmodus ernst nehmen: Ohne Bundesland keine verlässliche Aussage zu Landesverfassung, Landtagsgeschäftsordnung, Kabinettsverfahren und Verkündung.
-- Goldplating ist politisch und juristisch heikel: Nationale Mehrbelastungen ueber EU-Mindestanforderungen hinaus muessen explizit begruendet werden.
+- Goldplating ist politisch und juristisch heikel: Nationale Mehrbelastungen über EU-Mindestanforderungen hinaus müssen explizit begruendet werden.
 - NKR-Fristen sind verbindlich: Vorlage muss mit vollstaendigen Erfuellungsaufwands-Angaben rechtzeitig erfolgen.
-- Terminologie-Konsistenz ist elementar: Verschiedene Begriffe für dasselbe Konzept koennen zu Auslegungsstreitigkeiten fuehren.
+- Terminologie-Konsistenz ist elementar: Verschiedene Begriffe für dasselbe Konzept können zu Auslegungsstreitigkeiten fuehren.
 - Uebergangsrecht nicht vergessen: Altfallregelungen und Bestandsschutz sichern Rechtsicherheit und vermeiden Verfassungsruegen.
 
 ## Typische Fehler
@@ -334,15 +334,15 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Bundestags- oder Landtagsinitiative ohne klaren formalen Initiator: Der Text ist fachlich brauchbar, aber nicht einreichungsfähig.
 - Landesentwurf nach Bundes-Schablone: Landeszuständigkeiten, Zitierregeln, Verkündungsblatt oder Landtagsformat werden falsch.
 - Verordnungsermaechtigung zu unbestimmt: Art. 80 Abs. 1 GG verlangt Inhalt, Zweck und Ausmass — Blankoermaechtigung ist nichtig.
-- Goldplating unerkannt: Nationale Umsetzung geht ueber die Richtlinienpflichten hinaus, ohne dass dies im Entwurf kenntlich gemacht wird.
+- Goldplating unerkannt: Nationale Umsetzung geht über die Richtlinienpflichten hinaus, ohne dass dies im Entwurf kenntlich gemacht wird.
 - Synopse fehlt: Ressortabstimmung und parlamentarische Beratung werden durch fehlende Gegenueberststellung ernsthaft erschwert.
-- Inkrafttreten ohne Uebergangsrecht: Adressaten koennen sich nicht rechtzeitig auf neue Pflichten einstellen.
+- Inkrafttreten ohne Uebergangsrecht: Adressaten können sich nicht rechtzeitig auf neue Pflichten einstellen.
 
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - GG (Grundgesetz) in der zum Stand-Datum geltenden Fassung
-- GGO (Gemeinsame Geschaeftsordnung der Bundesministerien) in der geltenden Fassung
+- GGO (Gemeinsame Geschäftsordnung der Bundesministerien) in der geltenden Fassung
 - HdR (Handbuch der Rechtsfoermlichkeit) 3. Auflage des Bundesjustizministeriums
 - Geschäftsordnung des Deutschen Bundestages und einschlägige Landtags-Geschäftsordnungen jeweils aktuell prüfen
 
@@ -356,7 +356,7 @@ _Legistik: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Legistik Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Legistik Werkstatt** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Legistik Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Legistik Werkstatt** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -408,113 +408,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Legistik** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `aa-voelkerrecht-und-vertragsgesetzgebung`
-
-_Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.); EU-Bezug (Gemischte Abkommen; ausschliessliche EU-K..._
-
-# Voelkerrecht und Vertragsgesetzgebung (AA)
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-aa`
-- Aufgabenmatrix aus `legw-ressortaufgaben-aa`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.
-
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-Gemischte Abkommen; ausschliessliche EU-Kompetenz; AETR-Doktrin.
-
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Vertragsentwurf in deutschen Rechtsrahmen einpassen; Zustimmungsgesetz nach Art. 59 Abs. 2 GG; Ratifikation; Inkrafttreten; voelkerrechtliche Vorbehalte und Erklaerungen.
-
-Schrittfolge für den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Pruefpunkte
-
-Selbstvollziehbarkeit; Auslegung der Vertraege; Verhaeltnis zu EU-Recht; foerderale Mitwirkung bei Landeskompetenzen.
-
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
-
-## Anschluss an die Legistik-Kette
-
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-aa` -> `legw-ressortaufgaben-aa` -> `legw-aa-voelkerrecht-und-vertragsgesetzgebung` (hier) -> `normhierarchie-routing` und Querprueferei.
-
-## Abgrenzung
-
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-
----
-
-## Skill: `aenderungs-formular-portal-einreichungslogik`
-
-_Aenderungs: Formular, Portal und Einreichungslogik im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..._
-
-# Aenderungs: Formular, Portal und Einreichungslogik
-
-## Normenanker
-
-Arbeitsfokus: **Aenderungs: Formular, Portal und Einreichungslogik**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
-- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
-- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
-- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
-- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
-- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
-- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
-- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
-- `§ 45 GGO` — Beteiligung.
-- `§ 46 GGO` — Rechtsförmlichkeit.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Aenderungs: Formular, Portal und Einreichungslogik
-- **Normen-/Quellenanker:** XML.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aenderungs** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -613,62 +506,15 @@ Markdown-Datei "Begruendung.md".
 
 ---
 
-## Skill: `bmas-arbeitsrecht-und-arbeitsschutz`
+## Skill: `bundestag-fristen-form-zustaendigkeit`
 
-_Sachbereich Arbeitsrecht und Arbeitsschutz im Geschaeftsbereich BMAS: Normbestand (BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.); Akteure (BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Länder.); EU-Bezug (Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-R..._
+_Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..._
 
-# Arbeitsrecht und Arbeitsschutz (BMAS)
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Arbeitsrecht und Arbeitsschutz im Geschaeftsbereich BMAS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-bmas`
-- Aufgabenmatrix aus `legw-ressortaufgaben-bmas`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.
-
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Länder.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.
-
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Tatbestaende des Arbeitsrechts; Kuendigungsschutz; Befristungsrecht; Arbeitszeit; Mindestlohn; Mitbestimmung.
-
-Schrittfolge für den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Pruefpunkte
-
-Tarifautonomie; Befristungsketten; Plattformarbeit; EU-Mindeststandards.
-
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+# Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Normenanker
 
-Arbeitsfokus: **Arbeitsrecht und Arbeitsschutz (BMAS)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 5 Abs. 1 DSGVO` — Datenschutzgrundsätze.
 - `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlage.
@@ -681,91 +527,308 @@ Arbeitsfokus: **Arbeitsrecht und Arbeitsschutz (BMAS)**. Prüfe diese Anker am S
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Anschluss an die Legistik-Kette
+## Spezialwissen: Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** XML.
 
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmas` -> `legw-ressortaufgaben-bmas` -> `legw-bmas-arbeitsrecht-und-arbeitsschutz` (hier) -> `normhierarchie-routing` und Querprueferei.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Abgrenzung
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bundestag** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `bmas-arbeitsschutz-und-arbeitssicherheit`
+## Skill: `dokumente-rendern-docx-pdf`
 
-_Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.); Akteure (BAuA; UVT (Berufsgenossenschaften); Länder-Arbeitsschutzbehoerden; KomNet.); EU-Bezug (Arbeitsschutz-Rahmenrichtlinie 89/39..._
+_Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung, des Bundestages, eines Landes oder eines Landtags rendern. Anwendungsfall fertiger Entwurf soll als lieferfähiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR oder landesspezifischem Format ausgegeb..._
 
-# Arbeitsschutz und Arbeitssicherheit (BMAS)
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-bmas`
-- Aufgabenmatrix aus `legw-ressortaufgaben-bmas`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.
-
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-BAuA; UVT (Berufsgenossenschaften); Länder-Arbeitsschutzbehoerden; KomNet.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.
-
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Gefaehrdungsbeurteilung; Schutzmassnahmen; Unterweisung; ArbMed; Ueberwachung.
-
-Schrittfolge für den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Pruefpunkte
-
-Sektor-spezifische Vorgaben; Vollzugsdefizit; Mehrfachzuständigkeiten Land und UVT.
-
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+# Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout
 
 ## Normenanker
 
-Arbeitsfokus: **Arbeitsschutz und Arbeitssicherheit (BMAS)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 1 DSGVO` — Datenschutzgrundsätze.
-- `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlage.
-- `Art. 22 DSGVO` — automatisierte Entscheidungen.
-- `Art. 35 DSGVO` — Datenschutz-Folgenabschätzung.
-- `§ 3 OZG` — Nutzerkonten/Portalverbund live prüfen.
-- `§ 5 EGovG` — elektronische Aktenführung live prüfen.
-- `Art. 3 KI-VO` — Begriffe.
-- `Art. 6 KI-VO` — Hochrisiko-Systeme.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
+- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
+- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
+- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
+- `§ 45 GGO` — Beteiligung.
+- `§ 46 GGO` — Rechtsförmlichkeit.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Anschluss an die Legistik-Kette
+## Wann verwenden
 
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmas` -> `legw-ressortaufgaben-bmas` -> `legw-bmas-arbeitsschutz-und-arbeitssicherheit` (hier) -> `normhierarchie-routing` und Querprueferei.
+Dieser Skill wird **am Ende** des Legistik-Workflows aufgerufen, wenn aus den strukturierten Markdown-Bausteinen der vorgelagerten Skills (Auftrag, Normentext, Begründung, Synopse) ein **lieferfähiges Dokument** im offiziellen Erscheinungsbild erstellt werden soll.
 
-## Abgrenzung
+Vier Hauptformate:
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
+1. **Referentenentwurf** (ministeriell, serifenlos Arial 11pt, "der Bundesregierung" im Kopf, Bearbeitungsstand-Hinweis, A-F-Vorblatt, Artikelgesetz, Begründung Teil A und B)
+2. **Gesetzesentwurf der Bundesregierung** (BT-Drucksachen-Look, Times New Roman 11pt, "Drucksache XX/YYYY", "Deutscher Bundestag - XX. Wahlperiode", Sperrsatz-Überschriften, Anschreiben des Bundeskanzlers)
+3. **Parlamentarische Vorlage** (Gesetzentwurf aus der Mitte, Änderungsantrag, Antrag oder Entschließungsantrag; BT- oder Landtagsformat nach Verfahrensstand)
+4. **Formulierungshilfe** (fachliche Zulieferung, kuerzer, ohne Drucksachen-Mantel, eingerueckter Änderungstext)
+
+Plus Hilfsformate:
+
+5. **Spaltensynopse** dreispaltig (geltend / Änderung / Begründung)
+6. **Lesefassung konsolidiert** (Artikelgesetz nach Inkrafttreten)
+7. **Kabinettsmappe-Deckblatt**
+
+## Layout-Eckdaten nach Handbuch der Rechtsförmlichkeit
+
+### Referentenentwurf (ministerieller Hausstil)
+
+- Schrift: **Arial 11pt** (serifenlos)
+- Zeilenabstand 1.15
+- Rand: links 2.5 cm, rechts 2.0 cm, oben/unten 2.0 cm
+- Seitenkopf: zentriert `- N -` (Seitennummer in Gedankenstrichen)
+- Fußzeile: leer oder Bearbeitungsstand-Datum
+- Kopfzeile Seite 1: rechtsbuendig "Bearbeitungsstand: TT.MM.JJJJ HH:MM"
+- Titel zentriert fett: "Referentenentwurf"
+- Untertitel zentriert: "des Bundesministeriums für ..."
+- Haupttitel zentriert fett: "Entwurf eines Gesetzes zur ..."
+- Kurztitel in Klammern: "(Kurzbezeichnung - Abkürzung)"
+- Datumsplatzhalter "Vom ..."
+
+### BT-Drucksachen-Layout (Gesetzentwurf der Bundesregierung)
+
+- Schrift: **Times New Roman 11pt** (Serife)
+- Zeilenabstand 1.15
+- Seitenkopf wechselnd (gerade/ungerade): links/rechts "Drucksache XX/YYYY" bzw. "Deutscher Bundestag - XX. Wahlperiode", Mitte `- N -`
+- Sperrsatz für Hauptüberschriften: `I n h a l t s u e b e r s i c h t`
+- Anschreiben Bundeskanzler in Briefkopf-Format
+- Anlagen: Begründung (Anlage 1), Stellungnahme NKR (Anlage 2), Stellungnahme Bundesrat (Anlage 3), Gegenaeusserung (Anlage 4)
+
+### Gemeinsame Strukturen
+
+- Vorblatt: A. Problem und Ziel - B. Lösung - C. Alternativen - D. Haushaltsausgaben ohne Erfüllungsaufwand - E. Erfüllungsaufwand (E.1 Bürger - E.2 Wirtschaft - E.3 Verwaltung) - F. Weitere Kosten
+- Artikelgesetz: "Artikel 1 (Änderung des XYZ-Gesetzes)" fett, Einleitungssatz mit Stammgesetz + letzte Änderung BGBl-Fundstelle
+- Gliederungsebenen: 1. / 2. / 3. -> a) b) c) -> aa) bb) cc) -> aaa) bbb) ccc)
+- Änderungsbefehle: Anführungszeichen kursiv: *"... wird durch ... ersetzt"*
+- Absatzbezeichnung in Klammern: (1), (2), (3)
+- Begründung Teil A (Allgemeiner Teil) Roemisch I-VII: I. Zielsetzung und Notwendigkeit - II. Wesentlicher Inhalt - III. Alternativen - IV. Gesetzgebungskompetenz - V. Vereinbarkeit mit EU-Recht - VI. Gesetzesfolgen - VII. Befristung und Evaluierung
+- Begründung Teil B (Besonderer Teil): "Zu Artikel X" - "Zu Nummer Y" - "Zu Buchstabe Z"
+
+## Eingabeschema
+
+Der Eingabeordner enthält:
+
+```
+projekt/
+ metadaten.yaml # Titel, Kurztitel, Federfuehrung, Bearbeitungsstand, Drucksachennummer, Wahlperiode
+ vorblatt.md # A bis F mit den ueblichen Abschnitten
+ gesetzestext.md # Artikel 1 ... Artikel N (Inkrafttreten)
+ begruendung-a.md # I bis VII
+ begruendung-b.md # Zu Artikel X / Zu Nummer Y
+ synopse.csv # Spalten: geltend | aenderung | begruendung
+ anlagen/ # NKR, Bundesrat, Gegenaeusserung (optional, als md)
+```
+
+## Beispielaufruf
+
+```bash
+python3 skills/dokumente-rendern-docx-pdf/assets/render.py \
+ --format referentenentwurf \
+ --eingabe testakten/legistik-pflichtpostfach/ \
+ --ausgabe testakten/legistik-pflichtpostfach/output/
+```
+
+Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffice` installiert).
+
+## Qualitätsprüfung vor Abgabe
+
+- Schriftart und -groesse korrekt
+- Sperrsatz nur für Hauptüberschriften ("Inhaltsübersicht", "Begründung")
+- Änderungsbefehle durchgaengig kursiv und in Anführungszeichen
+- Vorblatt vollständig A-F
+- Begründung Teil A vollständig I-VII
+- Kopf-/Fußzeile auf jeder Seite
+- Keine überschießenden Begriffe in der Sache (Goldplating siehe Skill goldplating-vermeiden)
+- Keine Mehrwert-Steuer-Komma-Zahlen im Fliesstext - immer Punkt verwenden oder ausschreiben
+
+## Verwandte Skills
+
+- `referentenentwurf-bauen` - liefert die Markdown-Bausteine für das Vorblatt und den Artikeltext
+- `gesetzesentwurf-kabinett` - liefert die Kabinettsmappe als zusätzliches Deckblatt
+- `formulierungshilfe-bauen` - liefert Formulierungshilfe, Änderungsantrag, Gesetzentwurf aus der Mitte, Antrag oder Entschließungsantrag
+- `synopse-erstellen` - liefert die dreispaltige CSV für die Synopse
+- `begruendung-allgemein-und-besonders` - liefert die Begründung Teil A und Teil B
+
+## Technische Standards & Qualitätsanforderungen
+
+- DOCX ist Arbeits- und Austauschformat; PDF ist Liefer- und Lesefassung. Wenn ein bestimmtes Portal, Parlament oder Haus eine andere Vorgabe macht, geht diese vor.
+- Für Bundesentwürfe HdR, GGO und Vorgaben der E-Gesetzgebung beachten; für Länder die jeweilige Landesvorlage, Landtagsvorgaben und Verkündungsregeln abfragen.
+- Bei PDF-Ausgabe Sichtprüfung durchführen: Seitenköpfe, Drucksachennummer, Wahlperiode, Sperrsatz, Seitenumbruch, Tabellenbreiten, Fußnoten und Anlagenverzeichnis.
+- Keine gerichtlichen ERVV-Anforderungen ungeprüft auf Gesetzgebungsdokumente übertragen. Nur verwenden, wenn der konkrete Abgabeweg tatsächlich elektronischer Rechtsverkehr ist.
+- Bei Archiv- oder Veröffentlichungsanforderungen prüfen, ob PDF/A, Barrierefreiheit, maschinenlesbare XML-Fassung oder zusätzliche Metadaten verlangt sind.
+
+## Zentrale Normen und Standards
+
+HdR — GGO — Art. 76-78 GG — GO-BT oder Landtags-GO — Landesverfassung und Verkündungsrecht — LegalDocML.de/eNorm soweit gefordert — PDF/A-Standard ISO 19005 nur bei konkreter Archivvorgabe
+
+---
+
+## Skill: `folgenabschaetzung-erfuellungsaufwand`
+
+_Erfuellungsaufwand für Buerger Wirtschaft und Verwaltung ermitteln und darstellen. Anwendungsfall Referentenentwurf soll NKR-konformes Vorblatt und Begründung erhalten oder NKR verlangt Nachbesserung. Methodik Leitfaden BMJ BMI Statistisches Bundesamt Fallzahlen Bearbeitungszeit Lohnsatz. Pro Vor..._
+
+# Folgenabschätzung - Erfüllungsaufwand
+
+## Normenanker
+
+Arbeitsfokus: **Folgenabschätzung - Erfüllungsaufwand**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 44 Abs. 1 GGO` — Darstellung der Gesetzesfolgen.
+- `§ 44 Abs. 4 GGO` — Erfüllungsaufwand.
+- `§ 45 GGO` — Beteiligung betroffener Kreise.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+- `Art. 20 Abs. 3 GG` — Rechtsbindung.
+- `Art. 80 Abs. 1 GG` — Bestimmtheit bei Verordnungsermächtigungen.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit bei Vollzugskosten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Methodik
+
+Leitfaden zur Ermittlung und Darstellung des Erfüllungsaufwands (BMJ / BMI / DESTATIS, Stand laufend aktualisiert).
+
+## Drei Adressaten
+
+### Bürger
+Aufwand: Lese-, Antrags-, Beleg-Pflichten. Bemessung: Zeitkosten (oft 28 EUR/h Standard).
+
+### Wirtschaft
+Aufwand: betriebliche Umsetzung, IT-Anpassung, Dokumentation, Prüfung. Bemessung: Lohnkosten plus Sachkosten plus einmalige Umstellungskosten.
+
+### Verwaltung
+Aufwand: Personal, IT, Sachmittel. Bemessung: Vollkostenrechnung des Bundes / Landes / Gemeinde.
+
+## Ermittlung
+
+1. **Fallzahlen ermitteln**: wie viele Adressaten? Wie oft pro Jahr?
+2. **Pro Fall Bearbeitungszeit**: in Minuten oder Stunden
+3. **Lohnsatz**: nach DESTATIS oder geschätzt
+4. **Multiplikation**
+
+Beispiel:
+
+| Vorschrift | Adressat | Fallzahl/Jahr | Bearbeitungszeit | Lohnsatz | Erfüllungsaufwand/Jahr |
+|---|---|---|---|---|---|
+| Paragraf 33a HGB neu | Unternehmen | 1.4 Mio | 30 min/Fall einmalig | 41 EUR/h | 28.7 Mio EUR (einmalig) |
+| Paragraf 33a HGB neu | Unternehmen | 1.4 Mio | 5 min/Jahr | 41 EUR/h | 4.8 Mio EUR p.a. |
+
+## Bagatellschwelle
+
+Wenn Erfüllungsaufwand unter 1 Mio EUR p.a. - in der Regel "kein nennenswerter Aufwand". Dennoch dokumentieren.
+
+## KMU-Prüfung
+
+Wenn KMU betroffen: Prüfung Verhältnismaessigkeit. Ggf. Schwellenwerte einführen, ggf. Übergangsregelungen, ggf. Ausnahmen.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 44a, 62 GGO (Erfuellungsaufwand-Berechnung, Folgenabschaetzung) — §§ 1-4 SKMBericht (Statistisches Bundesamt, Standardkosten-Modell) — Art. 5 Abs. 4 EUV (EU-Verhältnismäßigkeit) — § 39a VwVfG (Vorwegbegruendung bei Massenverfahren)
+
+## Ausgabe
+
+Tabelle plus Beschreibung in Vorblatt-Abschnitt E und in Begründung-Abschnitt A.VI.4.
+
+## Anschluss
+
+`folgenabschaetzung-nachhaltigkeit`, `normenkontrollrat-kmu-check`.
+
+---
+
+## Skill: `folgenabschaetzung-nachhaltigkeit`
+
+_Weitere Folgen und Nachhaltigkeitsprüfung für Gesetzesentwurf erstellen. Anwendungsfall Referentenentwurf benoetigt Vorblatt Abschnitt G und Begründung A.VI.6 zu Nachhaltigkeitsfolgen. UN-SDGs prüfen welche betroffen Bewertung positiv neutral negativ. Demografiecheck Wirkung auf aeltere Buerger F..._
+
+# Folgenabschätzung - Nachhaltigkeit
+
+> Was bewirkt das Vorhaben jenseits des unmittelbaren Regelungsziels?
+
+## Prüfdimensionen
+
+### A - Nachhaltigkeit nach UN-SDG
+
+17 Sustainable Development Goals der UN, Resolution 70/1 von 2015. Pro Vorhaben Prüfung:
+
+- SDG 1 Keine Armut - betroffen ja/nein, positiv/negativ
+- SDG 3 Gesundheit
+- SDG 4 Bildung
+- SDG 5 Geschlechtergleichheit
+- SDG 8 Würdige Arbeit
+- SDG 10 Weniger Ungleichheit
+- SDG 13 Klimaschutz
+- SDG 16 Frieden, Gerechtigkeit, starke Institutionen
+
+### B - Demografiecheck
+
+- aeltere Bürger
+- Kinder und Jugendliche
+- Familien
+- Single-Haushalte
+
+### C - Gleichstellungspolitischer Check
+
+- Wirkung auf Frauen vs. Männer
+- Care-Arbeit
+- Equal Pay
+- Gewaltschutz
+
+### D - Klimacheck
+
+Klimaschutzgesetz Paragraf 13. Wirkung auf Treibhausgasemissionen direkt und indirekt.
+
+### E - Soziale Folgen
+
+- Inklusion behinderte Menschen
+- Migration / Integration
+- Armut / Wohnungslosigkeit
+
+### F - Wirkung auf laendliche Räume
+
+- gleichwertige Lebensverhältnisse Art. 72 Abs. 2 GG
+
+### G - Wirkung auf KMU
+
+(Querverweis `normenkontrollrat-kmu-check`)
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 3-6 UVPG (Umweltvertraeglichkeitspruefung) — Art. 20a GG (Staatsziel Umweltschutz) — §§ 4-6 KSG (Klimaschutzziele, Sektorziele) — DNK Deutsche Nachhaltigkeitsstrategie — § 65 GGO (Nachhaltigkeitspruefung in Begruendung)
+
+## Ausgabe
+
+Folgenmatrix als Tabelle plus Text für Vorblatt G und Begründung A.VI.6.
+
+## Anschluss
+
+`inkrafttreten-uebergangsrecht`.
 
 ---
 

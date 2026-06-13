@@ -23,7 +23,7 @@ _Einstieg, Schnelltriage und Fallrouting im Großkanzlei-Corporate/M&A-Plugin. F
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Grosskanzlei Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Grosskanzlei Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -162,7 +162,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `grosskanzlei-corporate-ma-expert-calls-transkripte` | Expert Calls und Transkript-Auswertung für M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR… |
 | `grosskanzlei-corporate-ma-fair-disclosure-knowledge` | Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB… |
 | `grosskanzlei-corporate-ma-freundlicher-copilot` | Freundlicher M&A-Deal-Copilot für junge Anwaelte und Associates: Anwendungsfall Junior-Associate oder Trainee arbeitet an erster groesserer Corporate-Transaktion und braucht verstaendnisbasierte Begleitung ohne… |
-| `grosskanzlei-corporate-ma-gesellschaftsrecht-register` | Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der… |
+| `grosskanzlei-corporate-ma-gesellschaftsrecht-register` | Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschlüsse, Vollmachten und Organstellung der… |
 | `grosskanzlei-corporate-ma-handelsregisterabruf` | Handelsregister-Abruf und Registerrecherche für M&A-Transaktionen: Anwendungsfall Anwalt recherchiert offiziellen Registerstand für Zielgesellschaft, Kaeufer-Holding, Komplementaer-GmbH oder Beteiligungsketten. §§ 8-10… |
 | `grosskanzlei-corporate-ma-kaltstart` | Kanzlei- und Mandantenpraeferenzen für Corporate/M&A erfassen: Anwendungsfall bei erstem Einsatz des Plugins konfiguriert Anwalt oder Kanzlei Deal-Playbooks, Materiality-Schwellen, Reporting-Standards,… |
 | `grosskanzlei-corporate-ma-kg-personengesellschaften` | KG und Personengesellschaften in M&A-Transaktionen: Anwendungsfall Mandat betrifft Kommanditanteilsuebertragung, Fondsvehikel-Struktur, Kommanditistenwechsel oder Einbringung in KG. §§ 161-177 HGB, MoPeG, §§ 20-24… |
@@ -172,13 +172,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `grosskanzlei-corporate-ma-matter-file` | Deal-Akte und Matter-Workspace anlegen: Anwendungsfall bei Mandatsannahme wird strukturierter Matter-Workspace benoetigt mit allen Workstreams, Datenraumspiegel, Register-Links, Q&A-Tracker und Closing-Archiv. § 43a… |
 | `grosskanzlei-corporate-ma-output-versand-signing` | Transaktionsoutput, Signing-Pack und Versand vorbereiten: Anwendungsfall Closing oder Signing naht und Anwalt muss Markups, Board Papers, Signing Packs, Closing Deliverables und beA/Notar/Email-Versand koordinieren. §§… |
 | `grosskanzlei-corporate-ma-outside-in-target-screening` | Zielobjekt-Screening und Pipeline-Analyse aus öffentlichen Quellen: Anwendungsfall Mandant oder Deal-Team sucht geeignete Akquisitionsziele und muss fruehe Analyse aus Registern, Finanzdaten, Nachrichten und… |
-| `grosskanzlei-corporate-ma-post-closing-integration` | Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt… |
+| `grosskanzlei-corporate-ma-post-closing-integration` | Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing müssen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan übersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt… |
 | `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar` | Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG… |
 | `grosskanzlei-corporate-ma-qa-information-requests` | Q&A-Prozess und Information Requests in der Due Diligence steuern: Anwendungsfall Deal-Team muss aus DD-Analyse gezielte Fragen an Verkaeufer formulieren, priorisieren und Antworten gegen Datenraum-Belege prüfen. SPA… |
 | `grosskanzlei-corporate-ma-rechtsprechungsrecherche` | Corporate und M\&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. §§ 93 und… |
 | `grosskanzlei-corporate-ma-regulatory-fdi-merger-control` | Fusionskontrolle und FDI-Investitionsprüfung für M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prüft ob Kartellrechts-Freigabe oder AWV-Prüfung benoetigt wird. §§ 35-44 GWB inlaendische Fusionskontrolle,… |
 | `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan` | StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfähigkeit prüft Restrukturierungsoptionen einschließlich StaRUG-Plan, praeventiyen… |
-| `grosskanzlei-corporate-ma-signing-closing-conditions` | Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, §… |
+| `grosskanzlei-corporate-ma-signing-closing-conditions` | Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing müssen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, §… |
 | `grosskanzlei-corporate-ma-simulation-bidder-process` | M&A-Bieterprozess simulieren für Training und Mandatsvorbereitung: Anwendungsfall Junior-Anwalt oder Deal-Team ueben beschleunigten Transaktions-Tag mit Datenraum Q&A SPA-Markup CP-Liste und Board-Call. SPA Share… |
 | `grosskanzlei-corporate-ma-spa-apa-entwurf` | SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB… |
 | `grosskanzlei-corporate-ma-steps-plan-pmo` | Deal-PMO und Steps-Plan für Pre-Signing bis Post-Closing: Anwendungsfall Transaktion braucht praezisen Aufgaben- und Zeitplan aus Vertraegen, DD-Unterlagen und Gremienunterlagen extrahiert. SPA Closing Conditions, CPs… |
@@ -187,43 +187,43 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `grosskanzlei-corporate-ma-transaktionsstruktur` | Transaktionsstruktur für M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur für seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal… |
 | `grosskanzlei-corporate-ma-translations-multijurisdictional` | Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Ländern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich.… |
 | `grosskanzlei-corporate-ma-umwandlungsrecht` | Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im… |
-| `grosskanzlei-corporate-ma-umwandlungssteuerrecht` | Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG… |
+| `grosskanzlei-corporate-ma-umwandlungssteuerrecht` | Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam müssen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG… |
 | `grosskanzlei-corporate-ma-vertragsmarkup-key-issues` | SPA/APA/NDA Markup analysieren und Key Issues List erstellen: Anwendungsfall Anwalt erhaelt Gegenentwurf oder Markup und muss wirtschaftlich relevante Abweichungen strukturieren und Gegenvorschlaege formulieren. §§ 433… |
 | `grosskanzlei-corporate-ma-wi-insurance` | W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und… |
 | `grosskanzlei-ma-aktenanlage` | Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und… |
 | `grosskanzlei-ma-erechnung-gobd` | Freistehender Billing- GoBD- und E-Rechnungsfür M&A-Mandate: Anwendungsfall Kanzlei muss für M&A-Mandat GoBD-konforme Rechnung XRechnung-XML und ZUGFeRD-Prüfpaket erstellen. § 3a RVG Stundenhonorar, GoBD… |
-| `grosskanzlei-ma-fristen-cp-kalender` | Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengeführt werden. SPA Closing… |
+| `grosskanzlei-ma-fristen-cp-kalender` | Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung müssen in einem Kalender zusammengeführt werden. SPA Closing… |
 | `grosskanzlei-ma-insolvenzreife` | Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO… |
 | `grosskanzlei-ma-liquiditaetsvorschau` | Freistehende Liquiditaetsvorschau für Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfähigkeits-Übersicht 3-Wochen bis 13-Wochen-Horizont. § 17 InsO… |
 | `grosskanzlei-ma-schreibcanvas` | Freistehender Corporate-Schreibcanvas für SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter… |
-| `grosskanzlei-ma-tabellenreview` | Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen muessen auf Formelbrueche widersprüchliche… |
+| `grosskanzlei-ma-tabellenreview` | Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen müssen auf Formelbrueche widersprüchliche… |
 | `ki-einsatz-bei-gutachten-mandatsseite` | Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht… |
 
 ## Worum geht es?
 
-Das Plugin ist ein vollstaendiges Big-Law-Corporate/M&A-Arbeitssystem für Partner, Associates und Kanzleipersonal. Es deckt den gesamten Transaktionslebenszyklus ab: vom Deal-Intake und der Mandatskonflikts-Pruefung ueber Datenraum-Aufbau und Legal Due Diligence bis hin zu SPA/APA-Entwurf, Signing, Closing und Post-Merger-Integration. Hinzu kommen spezialisierte Teilmodule für Public M&A, Umwandlungsrecht, StaRUG-Restrukturierung, Distressed M&A und W&I-Versicherung.
+Das Plugin ist ein vollstaendiges Big-Law-Corporate/M&A-Arbeitssystem für Partner, Associates und Kanzleipersonal. Es deckt den gesamten Transaktionslebenszyklus ab: vom Deal-Intake und der Mandatskonflikts-Prüfung über Datenraum-Aufbau und Legal Due Diligence bis hin zu SPA/APA-Entwurf, Signing, Closing und Post-Merger-Integration. Hinzu kommen spezialisierte Teilmodule für Public M&A, Umwandlungsrecht, StaRUG-Restrukturierung, Distressed M&A und W&I-Versicherung.
 
 Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narratives, GoBD-konforme E-Rechnung, KI-Governance im Transaktionsmandat und einen freundlichen Copilot-Modus für Junior-Associates. Zielgruppe sind Corporate/M&A-Kanzleien aller Groessen sowie Inhouse-M&A-Teams.
 
 ## Wann dieses Modul hilft?
 
-- Kanzlei nimmt neues M&A-Mandat an und muss Deal-Akte anlegen, Interessenkonflikte pruefen und Staffing planen.
+- Kanzlei nimmt neues M&A-Mandat an und muss Deal-Akte anlegen, Interessenkonflikte prüfen und Staffing planen.
 - Anwalt begleitet Sell-side- oder Buy-side-Transaktion und muss Due-Diligence-Prozess strukturieren und berichten.
 - SPA oder APA soll entworfen oder ein Gegenentwurf markiert und kommentiert werden.
-- Transaktion naehert sich Closing; CP-Kalender, Signing-Pack und Closing-Bible muessen vorbereitet werden.
+- Transaktion naehert sich Closing; CP-Kalender, Signing-Pack und Closing-Bible müssen vorbereitet werden.
 - Kanzlei muss für M&A-Mandat GoBD-konforme E-Rechnung erstellen oder Liquiditaetsvorschau für krisennahen Mandanten erbringen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **SPA/APA** — Share Purchase Agreement (Anteilskaufvertrag) / Asset Purchase Agreement (Vermoegensuebertragungsvertrag); zentrale Transaktionsdokumente.
-- **Due Diligence (DD)** — Sorgfaeltige Pruefung aller rechtlichen, wirtschaftlichen und steuerlichen Risiken des Zielobjekts vor der Transaktion.
+- **SPA/APA** — Share Purchase Agreement (Anteilskaufvertrag) / Asset Purchase Agreement (Vermögensuebertragungsvertrag); zentrale Transaktionsdokumente.
+- **Due Diligence (DD)** — Sorgfaeltige Prüfung aller rechtlichen, wirtschaftlichen und steuerlichen Risiken des Zielobjekts vor der Transaktion.
 - **W&I-Versicherung** — Warranty and Indemnity Insurance; versichert Gewaehrleistungs- und Freistellungsansprueche aus SPA.
-- **Conditions Precedent (CP)** — Vertragliche Bedingungen, die zwischen Signing und Closing erfuellt werden muessen.
+- **Conditions Precedent (CP)** — Vertragliche Bedingungen, die zwischen Signing und Closing erfuellt werden müssen.
 - **Closing Bible** — Vollstaendiges Archiv aller Transaktionsdokumente nach Closing; Nachweis der gesamten Transaktion.
 - **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; ermoeglicht ausserinsolvenzliche Restrukturierung für Unternehmen mit drohender Zahlungsunfaehigkeit.
 - **PMI** — Post-Merger-Integration; Umsetzung der DD-Findings und SPA-Pflichten nach Closing.
 - **GoBD** — Grundsaetze ordnungsmäßiger Datenfuehrung; relevanter Rahmen für elektronische Buchfuehrung und E-Rechnung.
-- **FDI-Pruefung** — Foreign Direct Investment; Investitionspruefung bei Erwerb strategisch bedeutsamer Unternehmen durch Auslaender (AWG, AWVO).
+- **FDI-Prüfung** — Foreign Direct Investment; Investitionspruefung bei Erwerb strategisch bedeutsamer Unternehmen durch Ausländer (AWG, AWVO).
 - **Fusionskontrolle** — Merger Control; Anmeldung und Freigabe durch Kartellbehoerden (EU-Kommission, Bundeskartellamt) vor Vollzug.
 
 ## Rechtsgrundlagen
@@ -241,7 +241,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Deal-Intake: Transaktionstyp, Parteien und Timeline erfassen; Interessenkonflikt und GwG-Pruefung starten.
+1. Deal-Intake: Transaktionstyp, Parteien und Timeline erfassen; Interessenkonflikt und GwG-Prüfung starten.
 2. Aktenanlage und Staffing: Matter-Workspace anlegen, Deal-Team besetzen und Look-and-Feel festlegen.
 3. Transaktionsstruktur festlegen: Share Deal oder Asset Deal; Umwandlungsrecht; steuerliche Rueckwirkung.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
@@ -257,7 +257,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - `grosskanzlei-corporate-ma-matter-file` — Deal-Akte und Matter-Workspace strukturieren.
 - `grosskanzlei-corporate-ma-deal-team-staffing` — Deal-Team besetzen und Staffing-Plan erstellen.
 - `grosskanzlei-corporate-ma-look-and-feel` — Einheitliches Ausgabeformat für alle Deal-Outputs konfigurieren.
-- `grosskanzlei-corporate-ma-conflict-gwg-sanctions` — Interessenkonflikte, GwG-Pruefung und Sanktions-Screening bei Mandatsannahme.
+- `grosskanzlei-corporate-ma-conflict-gwg-sanctions` — Interessenkonflikte, GwG-Prüfung und Sanktions-Screening bei Mandatsannahme.
 
 **Target-Screening und Due Diligence**
 - `grosskanzlei-corporate-ma-outside-in-target-screening` — Zielobjekt-Screening aus öffentlichen Quellen; Pipeline-Analyse.
@@ -272,12 +272,12 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - `grosskanzlei-corporate-ma-expert-calls-transkripte` — Expert Calls und Transkript-Auswertung für DD.
 - `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` — KI-Qualitaetskontrolle und Halluzinations-Absicherung in DD-Berichten.
 
-**Transaktionsstruktur und Vertraege**
+**Transaktionsstruktur und Verträge**
 - `grosskanzlei-corporate-ma-transaktionsstruktur` — Transaktionsstruktur entwickeln und Varianten bewerten.
 - `grosskanzlei-corporate-ma-spa-apa-entwurf` — SPA und APA entwerfen: Kaufvertrag für Share Deal oder Asset Deal.
 - `grosskanzlei-corporate-ma-vertragsmarkup-key-issues` — SPA/APA/NDA Markup analysieren und Key Issues List erstellen.
 - `grosskanzlei-corporate-ma-disclosure-schedules` — Disclosure Schedules und Guarantees-Abgleich erstellen.
-- `grosskanzlei-corporate-ma-fair-disclosure-knowledge` — Fair Disclosure und Wissenszurechnung in M&A-Vertraegen klaeren.
+- `grosskanzlei-corporate-ma-fair-disclosure-knowledge` — Fair Disclosure und Wissenszurechnung in M&A-Vertraegen klären.
 - `grosskanzlei-corporate-ma-wi-insurance` — W&I-Versicherung strukturieren; Buy-side oder Sell-side Policy.
 - `grosskanzlei-ma-schreibcanvas` — Freistehender Schreibcanvas für SPA-Klausel, Board Paper und DD-Report.
 
@@ -299,15 +299,15 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten.
 - `grosskanzlei-ma-insolvenzreife` — Insolvenzreife- und StaRUG-Schwellencheck.
 - `grosskanzlei-ma-liquiditaetsvorschau` — Liquiditaetsvorschau für Corporate M&A und Distressed.
-- `grosskanzlei-corporate-ma-gesellschaftsrecht-register` — Corporate Housekeeping und Register-Pruefung.
+- `grosskanzlei-corporate-ma-gesellschaftsrecht-register` — Corporate Housekeeping und Register-Prüfung.
 - `grosskanzlei-corporate-ma-handelsregisterabruf` — Handelsregister-Abruf und Registerrecherche.
 
 **Prozess und Kommunikation**
 - `grosskanzlei-corporate-ma-teaser-im-processdocs` — Investment Teaser, Information Memorandum und Prozessdokumente erstellen.
 - `grosskanzlei-corporate-ma-simulation-bidder-process` — Bieterprozess simulieren für Training und Mandatsvorbereitung.
-- `grosskanzlei-corporate-ma-translations-multijurisdictional` — Multi-Jurisdiction-Koordination und Uebersetzungen.
+- `grosskanzlei-corporate-ma-translations-multijurisdictional` — Multi-Jurisdiction-Koordination und Übersetzungen.
 - `grosskanzlei-corporate-ma-rechtsprechungsrecherche` — Rechtsprechungsrecherche für Gutachten, Schriftsatz oder DD-Report.
-- `grosskanzlei-corporate-ma-board-paper-business-judgment` — Board Paper und Business Judgment Rule Pruefung.
+- `grosskanzlei-corporate-ma-board-paper-business-judgment` — Board Paper und Business Judgment Rule Prüfung.
 - `grosskanzlei-corporate-ma-automation-monitoring` — Monitoring und Automatisierungen für laufende M&A-Mandate einrichten.
 
 **Kanzlei-Querschnitt**
@@ -320,14 +320,14 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 ## Worauf besonders achten
 
 - Signing ohne erfuellte CPs schafft schwebende Unwirksamkeit; CP-Checkliste muss lueckenlos sein.
-- W&I-Versicherungsschlupfloecher: Policy deckt typischerweise keine Steuern, keine Pensionsverpflichtungen und keine bekannten Risiken ab; DD-Ergebnis und Policy-Schutzbereich muessen abgeglichen werden.
-- FDI-Pruefung und Fusionskontrolle laufen parallel; unterschiedliche Fristen bei EU-Kommission, Bundeskartellamt und BMWK erfordern sorgfaeltige Koordination.
+- W&I-Versicherungsschlupfloecher: Policy deckt typischerweise keine Steuern, keine Pensionsverpflichtungen und keine bekannten Risiken ab; DD-Ergebnis und Policy-Schutzbereich müssen abgeglichen werden.
+- FDI-Prüfung und Fusionskontrolle laufen parallel; unterschiedliche Fristen bei EU-Kommission, Bundeskartellamt und BMWK erfordern sorgfaeltige Koordination.
 - GoBD-konforme E-Rechnung ist seit 2025 für B2B-Transaktionen Pflicht (gestaffelt); Kanzlei muss eigene Rechnungen anpassen.
-- KI-generierte DD-Berichte und Schriftsaetze muessen vor Versand auf Halluzinationen und Quellenangaben geprueft werden (§ 43a BRAO Sorgfaltspflicht).
+- KI-generierte DD-Berichte und Schriftsaetze müssen vor Versand auf Halluzinationen und Quellenangaben geprueft werden (§ 43a BRAO Sorgfaltspflicht).
 
 ## Typische Fehler
 
-- Datenraum-Indexierung vergessen: Ohne klare Nummerierung und Kategorien koennen Datenpunkte in DD-Berichten nicht zugeordnet werden.
+- Datenraum-Indexierung vergessen: Ohne klare Nummerierung und Kategorien können Datenpunkte in DD-Berichten nicht zugeordnet werden.
 - Knowledge-Qualifier zu grosszuegig: Breite Wissensdefinition im SPA erhoht Haeftungsrisiko des Verkaeufers erheblich.
 - Anteilsvinkulierung uebersehen: Bei GmbH-Anteilen kann Satzung Zustimmungserfordernis der Gesellschaft vorsehen; fehlende Zustimmung macht Abtretung unwirksam.
 - Umwandlungssteuerliche Rueckwirkung versaeumt: Stichtag für steuerliche Rueckwirkung bei Verschmelzung ist maximal acht Monate vor Anmeldung; spaetere Einreichung schliesst Rueckwirkung aus.
@@ -360,7 +360,7 @@ _Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendun
 
 ## Triage zu Beginn
 
-Vor dem Entwurf eines Monitoring-Plans klaeren:
+Vor dem Entwurf eines Monitoring-Plans klären:
 
 1. **Deal-Phase:** Pre-Signing (Datenraum, Q&A, LOI-Frist) oder Post-Signing (CP-Deadlines, Regulatorie, § 613a BGB) oder PMI?
 2. **Insiderinformationen betroffen?** Monitoring von boersenrelevanten Informationen erfordert MAR-Freigabe (Art. 17 MAR); automatische Aussenkommunikation ist verboten.
@@ -377,7 +377,7 @@ Art. 17 MAR (Ad-hoc-Publizitaet; Insiderinformationen) — §§ 33 ff. WpHG (Sti
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Monitoring-Kategorien und Pruefliste
+## Monitoring-Kategorien und Prüfliste
 
 ### A: Datenraum-Monitoring (Pre-Signing)
 
@@ -415,8 +415,8 @@ Art. 17 MAR (Ad-hoc-Publizitaet; Insiderinformationen) — §§ 33 ff. WpHG (Sti
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Deal-Phase und Monitoring-Bedarf erfassen:** Welche Workstreams laufen? Welche CPs sind offen? Deadline-Uebersicht aus SPA erstellen.
-2. **Owner-Matrix festlegen:** Fuer jeden Monitoring-Bereich einen verantwortlichen Owner (Person + Eskalation) benennen. Kein Monitor ohne Owner.
+1. **Deal-Phase und Monitoring-Bedarf erfassen:** Welche Workstreams laufen? Welche CPs sind offen? Deadline-Übersicht aus SPA erstellen.
+2. **Owner-Matrix festlegen:** Für jeden Monitoring-Bereich einen verantwortlichen Owner (Person + Eskalation) benennen. Kein Monitor ohne Owner.
 3. **Technische Quellen definieren:** VDR-API, RSS-Feeds Bundesanzeiger, Handelsregister-Benachrichtigungen aktivieren, MAR-Alert-System konfigurieren.
 4. **Eskalationsregeln dokumentieren:** Schwellenwerte (Frist < 14 Tage, kritischer Datenraum-Zugang, MAR-Signal) mit Eskalationsstufe (Owner → Senior Partner → Mandant) verknuepfen.
 5. **Stop-Schwellen benennen:** Insiderinformation erkannt → manueller Review vor jeder automatischen Ausgabe. Externer Datenzugriff unklar → Monitoring pausieren.
@@ -480,7 +480,7 @@ ALARM: [BESCHREIBUNG] — Eskalation an: [PERSON] — Frist: [DATUM]
 - Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
 - Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Komplexe Eingaenge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurueckspielen.
 - Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknuepfen.
@@ -530,7 +530,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 - Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
 - W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
-- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing pruefen, sonst § 41 GWB-Vollzugsverbot.
+- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst § 41 GWB-Vollzugsverbot.
 
 ---
 
@@ -553,12 +553,12 @@ _Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendung
 
 ## Triage zu Beginn
 
-Vor der Erstellung von Billing Narratives klaeren:
+Vor der Erstellung von Billing Narratives klären:
 
 1. **Honorarvereinbarung vorhanden?** Stundenhonorar (§ 3a RVG) oder Pauschalhonorar oder Success Fee oder Cap + Success Fee? Kein Narrative ohne klar definiertes Abrechnungsmodell.
 2. **Taetigkeiten vollstaendig erfasst?** Alle Time Entries nach Phase, Workstream und Deliverable vorliegend? Fehlende Entries flaggen.
 3. **Budgetstatus geprueft?** Aktuelles WIP gegen Budget halten; Scope Creep und Abweichungen markieren bevor Narrative erstellt wird.
-4. **Mandantenvertraulichkeit:** Narrative darf kein Mandatsgeheimnis unnoetig offen legen (§ 43a Abs. 2 BRAO); Formulierungen muessen pruefbar aber nicht erlaeuternd sein.
+4. **Mandantenvertraulichkeit:** Narrative darf kein Mandatsgeheimnis unnoetig offen legen (§ 43a Abs. 2 BRAO); Formulierungen müssen prüfbar aber nicht erläuternd sein.
 5. **Rechnungsreife?** Sind alle Bedingungen erfuellt (Leistungsstand, SPA-Meilenstein, vereinbarter Faelligkeitspunkt)? Bei Unsicherheit nicht abrechnen.
 6. **E-Rechnung erforderlich?** Oeffentlicher Auftraggeber oder SPA-Klausel zu XRechnung/ZUGFeRD? Dann an `grosskanzlei-ma-erechnung-gobd` uebergeben.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -585,7 +585,7 @@ Vor der Erstellung von Billing Narratives klaeren:
 ### Narrative-Formulierungsregeln
 
 1. **Mandantentauglich:** Keine Rechtsbegriffe ohne Erklaerung; kein unnoetig detaillierter Sachverhalt.
-2. **Pruefbar:** Jede Taetigkeit muss einem Workstream und Deliverable zugeordnet sein.
+2. **Prüfbar:** Jede Taetigkeit muss einem Workstream und Deliverable zugeordnet sein.
 3. **Vertraulich:** Kein Inhalt aus privilegierten Dokumenten (anwaltliche Stellungnahmen, DD-Reports) in externe Narrative.
 4. **Zeitgenau:** Time Entries tagesgenau; keine rueckwirkenden Grosskorrekturen ohne Erklaerung.
 5. **Budget-Delta markieren:** Abweichungen > 10 % zum vereinbarten Budget kommentieren.
@@ -615,15 +615,15 @@ Verhandlungssitzung [DATUM] mit Gegenseite.
 1. **Time Entries importieren:** Alle Zeiteintragungen für den Abrechnungszeitraum nach Phase und Workstream sortieren.
 2. **Budget-Abgleich:** WIP gegen vereinbartes Budget halten; Abweichungen > 10 % markieren und begruenden.
 3. **Narrative verfassen:** Pro Workstream ein Narrative-Block nach Formulierungsregeln oben.
-4. **Mandantenvertraulichkeit pruefen:** Kein Mandatsgeheimnis unnoetig offen gelegt? Narratives mandantentauglich formuliert?
-5. **Rechnungspflichtangaben pruefen:** § 14 UStG-Angaben vollstaendig (Leistungsbeschreibung, Zeitraum, Steuernummer, USt-ID)?
-6. **Cap-/Success-Fee-Check:** Gesamthonorar gegen vereinbarten Cap pruefen; Success-Fee-Bedingungen eingetreten?
-7. **E-Rechnungspflicht pruefen:** Oeffentlicher Auftraggeber? XRechnung/ZUGFeRD erforderlich? → an `grosskanzlei-ma-erechnung-gobd` uebergeben.
+4. **Mandantenvertraulichkeit prüfen:** Kein Mandatsgeheimnis unnoetig offen gelegt? Narratives mandantentauglich formuliert?
+5. **Rechnungspflichtangaben prüfen:** § 14 UStG-Angaben vollstaendig (Leistungsbeschreibung, Zeitraum, Steuernummer, USt-ID)?
+6. **Cap-/Success-Fee-Check:** Gesamthonorar gegen vereinbarten Cap prüfen; Success-Fee-Bedingungen eingetreten?
+7. **E-Rechnungspflicht prüfen:** Oeffentlicher Auftraggeber? XRechnung/ZUGFeRD erforderlich? → an `grosskanzlei-ma-erechnung-gobd` uebergeben.
 8. **Rechnungsreife-Ampel ausgeben:** Gruen (alle Bedingungen erfuellt), Gelb (offene Punkte), Rot (Rechnung zurueckhalten).
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -636,7 +636,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ## Output-Template
 
-**Adressat:** Mandant / Matter-Controller — Tonfall: knapp, pruefbar, mandantentauglich
+**Adressat:** Mandant / Matter-Controller — Tonfall: knapp, prüfbar, mandantentauglich
 
 ```
 BILLING NARRATIVE LEDGER
@@ -685,13 +685,13 @@ Freigabe durch: [PARTNER-NAME]
 XRechnung/ZUGFeRD erforderlich: [JA → Uebergabe grosskanzlei-ma-erechnung-gobd / NEIN]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -699,7 +699,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Rote Schwellen
 
 - **Honorarvereinbarung § 3a RVG muendlich oder fehlend** — Formverstos; Anwalt kann nur RVG-Pflichtgebuehren verlangen; Vereinbarung unverzueglich schriftlich nachholen.
-- **Narrative enthaelt Mandatsgeheimnis** — § 43a Abs. 2 BRAO; Formulierungen vor Versand pruefen; keine anwaltlichen Stellungnahmen, keine Parteiinterna in externen Narratives.
+- **Narrative enthaelt Mandatsgeheimnis** — § 43a Abs. 2 BRAO; Formulierungen vor Versand prüfen; keine anwaltlichen Stellungnahmen, keine Parteiinterna in externen Narratives.
 - **WIP ueberschreitet Cap ohne Mandanteninformation** — Haftungsrisiko; Mandant informieren und Scope-Abgleich durchfuehren bevor weitergearbeitet wird.
 - **Rechnungspflichtangaben § 14 UStG unvollstaendig** — kein Vorsteuerabzug für Mandant; Rechnung korrigieren; Mahngebueehr-Risiko.
 - **Leistung ohne Akte / Workstream** — GoBD-Verstos; Time Entry kann nicht verbucht werden; Nacherfassung nur mit Erklaerung.
@@ -707,9 +707,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Arbeitsmodus
 
 - Taetigkeiten nach Phase, Workstream und Deliverable erfassen.
-- Narratives knapp, mandantentauglich und pruefbar formulieren.
+- Narratives knapp, mandantentauglich und prüfbar formulieren.
 - Budgetabweichungen und Scope Creep markieren.
-- WIP, Cap, Success Fee, Auslagen, Rabatte und Steuerlogik als eigene Pruefpunkte fuehren.
+- WIP, Cap, Success Fee, Auslagen, Rabatte und Steuerlogik als eigene Prüfpunkte fuehren.
 - Bei Rechnungsreife an `grosskanzlei-ma-erechnung-gobd` uebergeben.
 
 ## Standardausgabe
@@ -717,7 +717,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Billing Narrative Ledger.
 - Budgetstatus nach Workstream.
 - Rechnungsreife-Ampel.
-- Uebergabe an E-Rechnung/GoBD mit Belegkette.
+- Übergabe an E-Rechnung/GoBD mit Belegkette.
 
 ## Vorlagen
 
@@ -790,7 +790,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -854,7 +854,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Rechtsgrundlagen
 
 - § 15 Abs. 3 u. 4 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteils- und SPA-Uebertragungen
-- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung innerhalb eines Monats; Pflicht des Notars oder Geschaeftsfuehrers
+- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung innerhalb eines Monats; Pflicht des Notars oder Geschäftsführers
 - § 20 TranspRG i.V.m. § 19 Abs. 1 GwG — Transparenzregistermeldung nach Gesellschafterwechsel innerhalb von zwei Wochen
 - § 41 GmbHG — Pflicht zur Buchfuehrung nach Registereintragung
 - § 179 AktG — Satzungsaenderung erfordert notarielle Beurkundung und HR-Anmeldung
@@ -866,10 +866,10 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen
-2. **Signaturketten pruefen:** für jeden signierten Vertrag: Originalunterschriften, Vollmachten, Vertretungsmacht gemaess Handelsregisterstand pruefen
-3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemaess § 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
-4. **Registeranmeldungen:** Gesellschafterliste gemaess § 40 GmbHG, HR-Anmeldung Geschaeftsfuehrerwechsel/Satzungsaenderung, Transparenzregister gemaess § 20 TranspRG
-5. **Funds Flow und Closing Payments pruefen:** Kaufpreistransfernachweise, Bankbestaetigung, Freistellung von Sicherheiten
+2. **Signaturketten prüfen:** für jeden signierten Vertrag: Originalunterschriften, Vollmachten, Vertretungsmacht gemäß Handelsregisterstand prüfen
+3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemäß § 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
+4. **Registeranmeldungen:** Gesellschafterliste gemäß § 40 GmbHG, HR-Anmeldung Geschäftsführerwechsel/Satzungsaenderung, Transparenzregister gemäß § 20 TranspRG
+5. **Funds Flow und Closing Payments prüfen:** Kaufpreistransfernachweise, Bankbestaetigung, Freistellung von Sicherheiten
 6. **Closing Bible zusammenstellen:** Inhaltsverzeichnis mit Tab-Struktur, je Dokument: Bezeichnung, Parteien, Datum, Fassung, Datenraum-Referenz
 7. **Offene Punkte als Post-Closing Obligations:** Fristen, Owner, Eskalationsstufe
 8. **Archivierung:** Deal-Archiv anlegen mit Zugriffskonzept, Vertraulichkeitsstufen, Retention Policy (§ 257 HGB: 10 Jahre)
@@ -877,7 +877,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Entscheidungsbaum
 
 - GmbH-Anteilsuebertragung → § 15 Abs. 3 GmbHG → notarielle Beurkundung erforderlich → ohne Beurkundung: Nichtigkeit
-- AG-Aktien vinkuliert → Zustimmung Hauptversammlung/AR-Beschluss pruefen → Eintrag Aktienbuch
+- AG-Aktien vinkuliert → Zustimmung Hauptversammlung/AR-Beschluss prüfen → Eintrag Aktienbuch
 - Transparenzregisterpflicht → § 19 GwG Wirtschaftlich Berechtigte neu? → Frist 2 Wochen ab Closing
 - Registeranmeldung Namenswechsel/Satzungsaenderung → notarielle Form → Registergericht
 
@@ -925,7 +925,7 @@ TAB D — POST-CLOSING OBLIGATIONS
 - Belegkette: Dokument, Datum, Version, Fundstelle
 - Bei hohem Risiko immer Human-in-the-loop und Senior Review
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Registerpunkte → `grosskanzlei-corporate-ma-gesellschaftsrecht-register`
 - Notartermin, Beurkundungsfragen → `grosskanzlei-corporate-ma-output-versand-signing`
@@ -986,7 +986,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -1068,13 +1068,13 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Rechtsprechungsrecherche für M-and-A-Fragestellung | Rechercheprotokoll nach Schema; Template unten |
 | Variante A — Mandant will nur drei aktuelle BGH-Entscheidungen | Kompaktrecherche ohne erschoepfende Darstellung |
-| Variante B — Forschungsfrage im Auslandsrecht | Common-Law-Kompass Skill parallel für auslaendische Rechtsprechung |
+| Variante B — Forschungsfrage im Auslandsrecht | Common-Law-Kompass Skill parallel für ausländische Rechtsprechung |
 | Variante C — Schnellrecherche in 30 Minuten noetig | Priorisierte Suche in JurisPlus Lexis ohne Vollauswertung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -1083,13 +1083,13 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 - assets/templates/rechtsprechungsrecherche-deal.md
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1139,7 +1139,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
 - W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
-- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing pruefen, sonst § 41 GWB-Vollzugsverbot.
+- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst § 41 GWB-Vollzugsverbot.
 
 ---
 
@@ -1191,7 +1191,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -1285,9 +1285,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Rechtsgrundlagen
 
-- Art. 22 DSGVO — automatisierte Einzelentscheidungen: bei rechtlich bedeutsamen Entscheidungen darf keine vollautomatische Entscheidung ohne menschliche Ueberpruefung getroffen werden
-- Art. 13, 14 EU-KI-Verordnung (in Kraft ab 2024/2025) — KI-Systeme mit hohem Risiko muessen transparent, pruefbar und erklaerbar sein; Dokumentationspflichten
-- §§ 675, 280 BGB — Beraterhaftung: Ergebnisse, die auf unzuverlaessigen Daten basieren, koennen Schadensersatz ausloesen; Anwalt muss Datenbasis offenlegen
+- Art. 22 DSGVO — automatisierte Einzelentscheidungen: bei rechtlich bedeutsamen Entscheidungen darf keine vollautomatische Entscheidung ohne menschliche Überprüfung getroffen werden
+- Art. 13, 14 EU-KI-Verordnung (in Kraft ab 2024/2025) — KI-Systeme mit hohem Risiko müssen transparent, prüfbar und erklaerbar sein; Dokumentationspflichten
+- §§ 675, 280 BGB — Beraterhaftung: Ergebnisse, die auf unzuverlaessigen Daten basieren, können Schadensersatz ausloesen; Anwalt muss Datenbasis offenlegen
 - § 43a BRAO — Unabhaengigkeit: Anwalt darf sich nicht auf Ergebnisse verlassen, die er nicht nachpruefen kann
 
 ## Aktuelle Rechtsprechung
@@ -1298,9 +1298,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. **Datenquellen dokumentieren:** alle verwendeten Quellen mit Datum, Version, Zugaenglichkeit; Luecken explizit benennen
 2. **Stichprobe und Plausibilisierung:** 10-20 % der Ergebnisse manuell querprufen
-3. **Explainability-Flag setzen:** je Ergebnis mit hohem Risiko: Human muss Ergebnis nachvollziehen koennen
+3. **Explainability-Flag setzen:** je Ergebnis mit hohem Risiko: Human muss Ergebnis nachvollziehen können
 4. **Halluzinations-Check:** Leitsatz-Zitate, Normen, Aktenzeichen — alle Faktenangaben verifizieren
-5. **Human-in-the-loop-Protokoll:** wer hat geprueft, wann, Ergebnis der Pruefung
+5. **Human-in-the-loop-Protokoll:** wer hat geprueft, wann, Ergebnis der Prüfung
 
 ## Rote Schwellen
 
@@ -1358,7 +1358,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -1468,12 +1468,12 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. **Dokumente hochladen und klassifizieren:** je Dokument: Vertragstyp, Parteien, Datum, Relevanz-Flag (High/Medium/Low)
 4. **Geheimhaltungsprotokoll:** NDA-Liste, MAR-Insiderliste (falls boersennotiert), Clean-Room-Zugangspro tokoll
 5. **IRl-Management:** fehlende Dokumente als Information Request List erfassen; Seller-Response verfolgen
-6. **Datenraum-Gap-Analyse:** Vollstaendigkeit gegen Standard-DD-Checkliste pruefen
+6. **Datenraum-Gap-Analyse:** Vollstaendigkeit gegen Standard-DD-Checkliste prüfen
 
 ## Rote Schwellen
 
 - Sensibler Wettbewerber-Datenraum ohne Clean Room: Kartellrechtsverstoss (Art. 7 FKVO)
-- Datenraumzugang ohne NDA: Geschaeftsgeheimnisschutz verletzt (GeschGehG)
+- Datenraumzugang ohne NDA: Geschäftsgeheimnisschutz verletzt (GeschGehG)
 - Insiderinformationen ohne MAR-Insiderliste: Aufsichtsrisiko (MAR Art. 18)
 
 ---
@@ -1526,7 +1526,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -1622,7 +1622,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Art. 7 FKVO; § 41 GWB — Clean-Room-Pflicht bei kartellrechtlich sensiblen Informationen vor Fusionskontrollfreigabe
 - §§ 17-18 GeschGehG — Schutz von Geschäftsgeheimnissen: Datenraum-Inhalte unterliegen Geheimhaltung; Clean Room schutzt Wettbewerber-Informationen
-- §§ 311, 241 Abs. 2 BGB — Offenbarungspflicht des Verkaeuf ers: wesentliche Risiken muessen offengelegt werden; Fair Disclosure nach BGH
+- §§ 311, 241 Abs. 2 BGB — Offenbarungspflicht des Verkaeuf ers: wesentliche Risiken müssen offengelegt werden; Fair Disclosure nach BGH
 - Art. 7, 17 MAR — bei boersennotiertem Zielobjekt: Insiderinformationen im Datenraum erfordern MAR-konforme Zugangsprotokollierung
 
 ## Aktuelle Rechtsprechung
@@ -1634,8 +1634,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Datenraum-Index auswerten:** Kategorien, Vollstaendigkeit, Duplikate, Versionierung
 2. **IRL-Luecken identifizieren:** fehlende Dokumente je Workstream aufführen; Prioritaet High/Medium
 3. **Widerspruchsanalyse:** Teaser vs. IM vs. Datenraum — wesentliche Abweichungen → Red Flag
-4. **Clean Room pruefen:** kartellrechtlich sensitive Informationen? → Clean Room einrichten; Zugangsproto koll
-5. **Disclosure-Konzept bewerten:** allgemeine Disclosure vs. spezifische Disclosure; Fair-Disclosure-Standard pruefen
+4. **Clean Room prüfen:** kartellrechtlich sensitive Informationen? → Clean Room einrichten; Zugangsproto koll
+5. **Disclosure-Konzept bewerten:** allgemeine Disclosure vs. spezifische Disclosure; Fair-Disclosure-Standard prüfen
 
 ## Rote Schwellen
 

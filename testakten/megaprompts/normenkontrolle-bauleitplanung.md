@@ -8,14 +8,14 @@ Dieser Megaprompt enthaelt top-10 von 91 Skills des Plugins `normenkontrolle-bau
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Normenkontrolle Bauleitplanung: ordnet Rolle (Antragsteller (Anwohner/Nachbargemeinde),…
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleitplanung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen…
-3. **pruefung-erstpruefung-und-mandatsziel** — Pruefung: Erstprüfung, Rollenklärung und Mandatsziel.
+3. **pruefung-erstpruefung-und-mandatsziel** — Prüfung: Erstprüfung, Rollenklärung und Mandatsziel.
 4. **abwaegungsgebot-1-abs-7-baugb** — Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vi…
 5. **anpassungsgebot-flaechennutzungsplan** — Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklun…
-6. **antragsbefugnis-eigentuemer-nachbar** — Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2…
-7. **aufstellungsbeschluss-bekanntmachung** — Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. …
-8. **festsetzungskatalog-9-baugb-baunvo** — Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog…
-9. **jahresfrist-47-abs-2-vwgo** — Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahr…
-10. **kommunalabgaben-und-beitragssatzungen** — Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gl…
+6. **aufstellungsbeschluss-bekanntmachung** — Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. …
+7. **festsetzungskatalog-9-baugb-baunvo** — Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog…
+8. **jahresfrist-47-abs-2-vwgo** — Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahr…
+9. **kommunalabgaben-und-beitragssatzungen** — Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gl…
+10. **mandat-erstgespraech-normenkontrolle** — Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmand…
 
 ---
 
@@ -37,7 +37,7 @@ Dieser Einstieg routet **Normenkontrolle Bauleitplanung** vom ersten Sachverhalt
 - `anfechtung-antragsbefugnis-red-team-korrektur` — Anfechtung Antragsbefugnis RED Team Korrektur
 - `anfechtung-tatbestandsmerkmale` — Anfechtung Tatbestandsmerkmale
 - `anpassungsgebot-flaechennutzungsplan` — Anpassungsgebot Flaechennutzungsplan
-- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis Eigentuemer Nachbar
+- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis Eigentümer Nachbar
 - `antragsbefugnis-fehlerkatalog` — Antragsbefugnis Fehlerkatalog
 - `antragsbefugnis-red-team-und-qualitaetskontrolle` — Antragsbefugnis RED Team und Qualitaetskontrolle
 - `antragstellervertretung-zahlen-schwellen-und-berechnung` — Antragstellervertretung Zahlen Schwellen und Berechnung
@@ -69,7 +69,7 @@ _Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleitplanung-Plugi
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -179,12 +179,12 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `abwaegungsgebot-1-abs-7-baugb` | Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung… |
 | `anpassungsgebot-flaechennutzungsplan` | Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Prüfraster: Entwicklungssaussage des FNP bezogen auf Plangebiet… |
-| `antragsbefugnis-eigentuemer-nachbar` | Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Massstab… |
+| `antragsbefugnis-eigentuemer-nachbar` | Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Maßstab… |
 | `artenschutz-naturschutz-planung` | Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP)… |
 | `aufstellungsbeschluss-bekanntmachung` | Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs.… |
 | `beteiligung-frueh-foermlich` | Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1… |
 | `buergerversammlung-protokoll-audit` | Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege… |
-| `einstweilige-anordnung-47-abs-6-vwgo` | Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab… |
+| `einstweilige-anordnung-47-abs-6-vwgo` | Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Maßstab… |
 | `erforderlichkeit-1-abs-3-baugb` | Mandant greift Bebauungsplan als Gefälligkeitsplanung oder Verhinderungsplanung an. § 1 Abs. 3 S. 1 BauGB Erforderlichkeit Planrechtfertigung. Prüfraster: nachvollziehbares staedtebauliches Konzept erforderlich… |
 | `festsetzungskatalog-9-baugb-baunvo` | Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog BauNVO. Prüfraster: Festsetzungen außerhalb des Katalogs unwirksam BauNVO Art und Mass bauliche… |
 | `immissionsschutz-laerm-bauleitplanung` | Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik… |
@@ -201,21 +201,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin begleitet die Pruefung und Anfechtung von Bebauungsplaenen, Flaechennutzungsplaenen und oertlichen Bauvorschriften vor dem Bayerischen Verwaltungsgerichtshof (BayVGH) und den Oberverwaltungsgerichten (OVG) nach § 47 VwGO. Es deckt das Mandat aus der Perspektive des Antragstellers (Eigentuemer, Nachbar, Naturschutzverband) ab.
+Dieses Plugin begleitet die Prüfung und Anfechtung von Bebauungsplaenen, Flaechennutzungsplaenen und oertlichen Bauvorschriften vor dem Bayerischen Verwaltungsgerichtshof (BayVGH) und den Oberverwaltungsgerichten (OVG) nach § 47 VwGO. Es deckt das Mandat aus der Perspektive des Antragstellers (Eigentümer, Nachbar, Naturschutzverband) ab.
 
 Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antragsbefugnis, Jahresfrist), die Fehlertypen nach dem BauGB (Verfahrensfehler, Erforderlichkeit, Abwaegungsmangel, Fehler bei Festsetzungen), die Planerhaltungsregeln der §§ 214 und 215 BauGB sowie den Eilrechtsschutz nach § 47 Abs. 6 VwGO. Es ersetzt keine individuellen Vertretungshandlungen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Grundstueckseigentuemer oder Nachbar kommt mit einem neuen Bebauungsplan in die Kanzlei und fragt nach Moeglichkeiten.
-- Mandant hat eine Buergerversammlung besucht und moechte das Protokoll auf Vorfestlegungen pruefen lassen.
-- Sie muessen schnell beurteilen, ob die Jahresfrist des § 47 Abs. 2 VwGO noch laeuft.
+- Mandant hat eine Buergerversammlung besucht und moechte das Protokoll auf Vorfestlegungen prüfen lassen.
+- Sie müssen schnell beurteilen, ob die Jahresfrist des § 47 Abs. 2 VwGO noch laeuft.
 - Mandant moechte die Vollziehung eines gerade bekanntgemachten Bebauungsplans vorlaefig stoppen.
 - Naturschutzverband fragt, ob er gegen einen Plan mit unzureichender Artenschutzpruefung vorgehen kann.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Normenkontrolle (§ 47 VwGO)** — Abstraktes Kontrollinstrument; das OVG/VGH prueft die Rechtmaeßigkeit eines Bebauungsplans oder einer oertlichen Bauvorschrift auf Antrag.
+- **Normenkontrolle (§ 47 VwGO)** — Abstraktes Kontrollinstrument; das OVG/VGH prüft die Rechtmaeßigkeit eines Bebauungsplans oder einer oertlichen Bauvorschrift auf Antrag.
 - **Antragsbefugnis** — Nur wer in eigenen Rechten verletzt sein koennte, kann Antrag stellen (Moeglichkeitstheorie, § 47 Abs. 2 S. 1 VwGO).
 - **Jahresfrist** — Normenkontrollantrag muss innerhalb eines Jahres ab ortsuebl. Bekanntmachung gestellt werden (§ 47 Abs. 2 S. 1 VwGO).
 - **Abwaegungsgebot** — Die Gemeinde muss alle betroffenen Belange ermitteln, bewerten und gegeneinander abwaegen (§ 1 Abs. 7 BauGB); vier Fehlerstufen.
@@ -237,11 +237,11 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Erstgespraech und Mandatsannahme-Pruefung: Skill `mandat-erstgespraech-normenkontrolle`.
-2. Statthaftigkeit und Antragsbefugnis klaeren: `statthaftigkeit-47-vwgo` und `antragsbefugnis-eigentuemer-nachbar`.
+1. Erstgespraech und Mandatsannahme-Prüfung: Skill `mandat-erstgespraech-normenkontrolle`.
+2. Statthaftigkeit und Antragsbefugnis klären: `statthaftigkeit-47-vwgo` und `antragsbefugnis-eigentuemer-nachbar`.
 3. Jahresfrist berechnen: `jahresfrist-47-abs-2-vwgo`.
 4. Fehlersuche nach Prioritaet: Verfahrensfehler, Erforderlichkeit, Abwaegung, Festsetzungen.
-5. Eilantrag pruefen bei drohenden Genehmigungen: `einstweilige-anordnung-47-abs-6-vwgo`.
+5. Eilantrag prüfen bei drohenden Genehmigungen: `einstweilige-anordnung-47-abs-6-vwgo`.
 6. Normenkontrollantrag formulieren: `normenkontrollantrag-schriftsatz`.
 
 ## Skill-Tour (was gibt es hier?)
@@ -250,16 +250,16 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 - `mandat-erstgespraech-normenkontrolle` — Erstgespraech, Mandatsannahme-Empfehlung, vorläufige Erfolgsaussichten.
 - `statthaftigkeit-47-vwgo` — Statthaftigkeit der Normenkontrolle gegen Bebauungsplan, VEP, oertliche Bauvorschriften.
-- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis für Eigentuemer, Nachbar, Verband.
+- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis für Eigentümer, Nachbar, Verband.
 - `jahresfrist-47-abs-2-vwgo` — Jahresfrist berechnen, Fristbeginn, fehlerhafte Bekanntmachung.
 
 **Verfahrensfehler**
 
 - `aufstellungsbeschluss-bekanntmachung` — Fehler beim Aufstellungsbeschluss und der Bekanntmachung.
 - `beteiligung-frueh-foermlich` — Fehler in der fruehzeitigen und foermlichen Beteiligung.
-- `buergerversammlung-protokoll-audit` — Niederschrift der Buergerversammlung auf Vollstaendigkeit pruefen.
-- `umweltbericht-umweltpruefung` — Umweltpruefung und Umweltbericht auf Fehler pruefen.
-- `artenschutz-naturschutz-planung` — Artenschutzpruefung (saP), CEF-Massnahmen, FFH-Vertraeglichkeit.
+- `buergerversammlung-protokoll-audit` — Niederschrift der Buergerversammlung auf Vollstaendigkeit prüfen.
+- `umweltbericht-umweltpruefung` — Umweltpruefung und Umweltbericht auf Fehler prüfen.
+- `artenschutz-naturschutz-planung` — Artenschutzpruefung (saP), CEF-Maßnahmen, FFH-Vertraeglichkeit.
 
 **Materielle Fehler**
 
@@ -275,7 +275,7 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 **Spezialkonstellationen**
 
-- `vorhabenbezogener-bebauungsplan-12-baugb` — VEP-Pruefung für Vorhabentraeger und Drittbetroffene.
+- `vorhabenbezogener-bebauungsplan-12-baugb` — VEP-Prüfung für Vorhabentraeger und Drittbetroffene.
 - `veraenderungssperre-zurueckstellung-14-15-baugb` — Anfechtung und Entschaedigung bei Veraenderungssperre.
 - `stellplatzsatzung-bay-bauordnung` — Stellplatzsatzung nach Art. 47 BayBO und § 9 Abs. 1 Nr. 4 BauGB.
 
@@ -288,15 +288,15 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 ## Worauf besonders achten
 
 - **Jahresfrist ist absolut** — Ab ortsuebl. Bekanntmachung laeuft die Jahresfrist unabhaengig von Kenntnis; bei fehlerhafter Bekanntmachung beginnt sie nicht.
-- **Planerhaltung filtert viele Fehler** — Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; § 214 Abs. 1 BauGB und die Ruegefrist des § 215 BauGB muessen immer mitbeachtet werden.
+- **Planerhaltung filtert viele Fehler** — Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; § 214 Abs. 1 BauGB und die Ruegefrist des § 215 BauGB müssen immer mitbeachtet werden.
 - **Ergebnisfehler immer beachtlich** — Fehler bei der Festsetzung ausserhalb des Katalogs oder bei der Erforderlichkeit sind nicht heilbar und nicht ruegepflichtig.
 - **Teilunwirksamkeit beantragen** — Bei fehlerhaften Einzelfestsetzungen kann Teilunwirksamkeit Erfolg haben, selbst wenn der Gesamtplan sonst Bestand haelt.
 - **Eilantrag und Hauptsache koordinieren** — § 47 Abs. 6 VwGO setzt keinen vor dem Antrag in der Hauptsache voraus; Antragsbefugnis muss aber gegeben sein.
 
 ## Typische Fehler
 
-- Normenkontrolle gegen Flaechennutzungsplan beantragt, obwohl dieser grundsaetzlich nicht statthafter Gegenstand ist (Ausnahme: Konzentrationsflaechen).
-- Ruegefrist des § 215 BauGB versaeumnt; Verfahrensfehler koennen danach nicht mehr geltend gemacht werden.
+- Normenkontrolle gegen Flaechennutzungsplan beantragt, obwohl dieser grundsätzlich nicht statthafter Gegenstand ist (Ausnahme: Konzentrationsflaechen).
+- Ruegefrist des § 215 BauGB versaeumnt; Verfahrensfehler können danach nicht mehr geltend gemacht werden.
 - Naturschutzverband meldet sich ohne Verbandsklagebefugnis nach § 64 BNatSchG oder § 2 UmwRG.
 - Abwaegungsfehler-Argument wird auf Vorgangs- statt auf Ergebnis-Ebene gefuehrt; § 214 Abs. 3 BauGB filtert nur Vorgangsfehler.
 - Eilantrag nach § 47 Abs. 6 VwGO wird eingereicht, obwohl Bebauungsplan noch nicht in Kraft ist.
@@ -313,13 +313,13 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 ## Skill: `pruefung-erstpruefung-und-mandatsziel`
 
-_Pruefung: Erstprüfung, Rollenklärung und Mandatsziel._
+_Prüfung: Erstprüfung, Rollenklärung und Mandatsziel._
 
-# Pruefung: Erstprüfung, Rollenklärung und Mandatsziel
+# Prüfung: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Pruefung Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Prüfung Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -339,7 +339,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Pruefung: Erstprüfung, Rollenklärung und Mandatsziel
+## Spezialwissen: Prüfung: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** VwGO, OVG.
 
 ## Fallweichen
@@ -353,7 +353,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pruefung** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Prüfung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -717,141 +717,6 @@ _Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entw
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `antragsbefugnis-eigentuemer-nachbar`
-
-_Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang B..._
-
-# Antragsbefugnis § 47 Abs. 2 VwGO
-
-## Schritt 1 — Maßstab Möglichkeitstheorie
-
-### Wortlaut § 47 Abs. 2 S. 1 VwGO
-- Antragsbefugt ist jede natürliche oder juristische Person, die geltend macht, durch die Rechtsvorschrift oder deren Anwendung in ihren Rechten verletzt zu sein oder in absehbarer Zeit verletzt zu werden
-
-### Möglichkeitstheorie
-- Es genügt, dass eine Rechtsverletzung möglich erscheint
-- Kein Vollbeweis im Zulässigkeitsstadium
-- Schlüssige Darlegung tatsächlicher Anhaltspunkte
-- Verstärkter Maßstab seit 1996/2006-Verkürzung — aber keine Beweisanforderung
-
-### Schwelle
-- Geltendmachung muss substanziiert erfolgen
-- Bloße Behauptung "ich bin betroffen" reicht nicht
-- Konkrete Bezugnahme auf bestimmten Belang notwendig
-
-## Schritt 2 — Eigentümer im Plangebiet
-
-### Grundregel
-- Eigentümer eines Grundstücks im Plangebiet ist stets antragsbefugt
-- Begründung Art. 14 GG: B-Plan-Festsetzungen wirken unmittelbar auf das Eigentum
-- BVerwG seit Jahrzehnten unverändert
-
-### Anwendung
-- Egal ob Festsetzungen den Mandanten begünstigen oder belasten
-- Auch bei nur teilweise im Plangebiet liegenden Grundstücken
-- Erbbauberechtigte gleichgestellt
-- Wohnungseigentümer für Sondereigentum und Miteigentum am gemeinschaftlichen Eigentum
-
-## Schritt 3 — Eigentümer außerhalb des Plangebiets
-
-### Schwelle abwägungserheblicher Belang
-- Außerhalb des Plangebiets nicht automatisch betroffen
-- Erforderlich: abwägungserheblicher privater Belang
-- BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16
-- BVerwG, Beschluss vom 8.6.2011 – 4 BN 42.10
-- Abwägungserheblich = mehr als nur geringfügig betroffen
-
-### Typische abwägungserhebliche Belange
-- Lärmzunahme durch Verkehr aus dem Plangebiet
-- Verschattung durch Hochbauten
-- Gefahr durch Schadstoffemissionen
-- Sichtbeziehung bei besonderer landschaftlicher Bedeutung
-- Wertminderung wenn auf abwägungserheblichen Belang zurückführbar
-
-### Nicht abwägungserhebliche Belange
-- Allgemeine Aussichtseinbußen ohne besondere Schutzwürdigkeit
-- Reine wirtschaftliche Konkurrenz
-- Bloße Wertminderung ohne Substanz-Beeinträchtigung (BVerwG, Beschluss vom 9.2.1995 – 4 NB 17.94)
-- Diffuse "Verschlechterung der Wohnqualität"
-
-## Schritt 4 — Andere Berechtigte
-
-### Mieter und Pächter
-- Grundsätzlich nicht antragsbefugt, da kein dingliches Recht
-- Ausnahme bei besonderer Schutzgehalt (z.B. Gewerbemieter mit existenziell betroffenem Standort) — restriktiv
-- Im Zweifel mit Eigentümer-Mandat verknüpfen
-
-### Erbbauberechtigte
-- Wie Eigentümer
-
-### Wohnungseigentümer
-- Antragsbefugt für eigene Wohnung
-- Bei Gemeinschaftsangelegenheiten Beschluss der WEG erforderlich
-
-## Schritt 5 — Verbandsklage Naturschutz
-
-### Anerkannte Vereinigungen § 3 UmwRG
-- Vom Bund oder Land anerkannte Vereinigungen
-- BUND, NABU, LBV, Bürgerinitiativen mit Anerkennung
-
-### Klagebefugnis § 2 UmwRG
-- Bei Plänen mit UVP-Pflicht oder Sondernormen
-- Bei FFH-relevanten Plänen
-- Bei B-Plänen mit Umweltbericht — über § 2 Abs. 1 UmwRG i.V.m. § 1 Abs. 1 S. 1 Nr. 4 UmwRG
-- Eigenständige Antragsbefugnis ohne dingliches Recht
-
-### Naturschutz § 64 BNatSchG
-- Bei Entscheidungen mit Naturschutzbezug
-- Häufig kumulativ mit § 2 UmwRG geltend gemacht
-
-## Schritt 6 — Gemeinde gegen übergeordnete Planung
-
-### Anpassungsgebot § 8 Abs. 2 BauGB
-- B-Plan muss aus FNP entwickelt werden
-- Gemeinde gegen FNP-Änderung des Nachbarn — Antragsbefugnis möglich
-
-### Selbstverwaltungsrecht
-- Art. 28 Abs. 2 GG, Art. 11 Abs. 2 BayVerfg
-- Gemeinden gegen übergreifende Festsetzungen
-
-## Schritt 7 — Praktische Begründung im Schriftsatz
-
-### Aufbau Antragsbefugnis-Begründung
-1. Identifikation Mandant und Eigentumsstellung
-2. Verortung Grundstück zur Plangrenze (Lageplan, Maßangaben)
-3. Konkreter abwägungserheblicher Belang mit Substanz
-4. Verweis auf Aufnahme dieses Belangs in eigener Einwendung im Aufstellungsverfahren (verstärkt aber nicht zwingend)
-5. Verweis auf zu erwartende Verletzung in absehbarer Zeit
-
-### Beispielsatz
-- "Die Antragstellerin ist Alleineigentümerin des Grundstücks Provinostraße 12, eingetragen im Grundbuch von Augsburg Blatt 4711, das unmittelbar an die nördliche Plangrenze angrenzt. Die im B-Plan festgesetzte Bauhöhe von bis zu 30 m wird zu einer Verschattung der nach Süden orientierten Wohnräume sowie zu einer Verkehrslärmzunahme durch die festgesetzte Tiefgaragenzufahrt führen. Diese Belange sind abwägungserheblich (BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16) und wurden bereits in der Einwendung vom 12.10.2023 substantiiert vorgetragen."
-
-## Schritt 8 — Häufige Fehler bei Antragsbefugnis
-
-- Pauschale Behauptung der Betroffenheit ohne räumlichen Bezug
-- Fehlende Substanziierung des Belangs
-- Belang, der gerade nicht abwägungserheblich ist (allgemeine Aussicht)
-- Fehlende Beifügung Grundbuchauszug bei juristischer Person oder Erbengemeinschaft
-- Falsche Antragstellerbezeichnung bei Eheleuten (jeder Eigentümer einzeln)
-
-## Quellen
-
-- VwGO § 47 Abs. 2
-- GG Art. 14 Abs. 1, Art. 28 Abs. 2
-- BayVerfg Art. 11 Abs. 2
-- BauGB § 8 Abs. 2
-- BNatSchG § 64
-- UmwRG §§ 1 2 3
-- BVerwG, Beschluss vom 9.2.1995 – 4 NB 17.94 (Wertminderung)
-- BVerwG, Beschluss vom 8.6.2011 – 4 BN 42.10 (Nachbar abwägungserheblich)
-- BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Maßstab Möglichkeitstheorie)
-
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -1489,7 +1354,7 @@ _Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfri
 
 - **BVerwG 17.06.2020, 4 CN 6.18**: Anforderungen an die Bekanntmachung von Bebauungsplaenen — Anstossfunktion und Fristbeginn § 47 Abs. 2 VwGO. Quelle: bverwg.de.
 - **BVerwG 03.04.2020, 4 CN 2.19** (Erhaltungssatzung): Bekanntmachung und Fristbeginn für den Normenkontrollantrag. Quelle: bverwg.de.
-- **OVG NRW** und andere OVG/VGH: laufende Rspr. zu Bekanntmachungsmaengeln und Frist; konkrete Aktenzeichen ueber landesrecht-nrw.de bzw. die jeweilige Landesjustiz-Datenbank verifizieren.
+- **OVG NRW** und andere OVG/VGH: laufende Rspr. zu Bekanntmachungsmaengeln und Frist; konkrete Aktenzeichen über landesrecht-nrw.de bzw. die jeweilige Landesjustiz-Datenbank verifizieren.
 
 Vor Ausgabe per bverwg.de mit Datum und Aktenzeichen verifizieren.
 
@@ -1521,6 +1386,171 @@ VwGO § 47; KAG der Länder; Art. 3 GG; Äquivalenz- und Kostendeckungsprinzip. 
 ## Ausgabe
 
 Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schriftsatzgliederung oder Bürger-/Mandantenbrief.
+
+---
+
+## Skill: `mandat-erstgespraech-normenkontrolle`
+
+_Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Prüfraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstprüfung Plan-Unterlagen vorläufige Erfolgsaussichten Kostenaufklärung RV..._
+
+# Erstgespräch Normenkontroll-Mandat
+
+## Schritt 1 — Mandantendaten und Betroffenheitsfeststellung
+
+### Persönliche Daten
+- Name, Anschrift, Geburtsdatum, Kontakt
+- Eigentumsverhältnisse am betroffenen Grundstück (Alleineigentum, Miteigentum, Wohnungseigentum)
+- Grundbuchauszug aktuell beziehen lassen
+- Familienstand bei gemeinschaftlichem Eigentum
+
+### Räumliche Lage
+- Adresse Mandantengrundstück
+- Adresse / Bezeichnung Plangebiet
+- Abstand Grundstücksgrenze zu Plangebiet
+- Skizze Lageplan oder Auszug Stadtplan zur Akte
+- Sichtbeziehung, Verkehrsbeziehung, Topografie
+
+### Konkrete Betroffenheit
+- Innerhalb Plangebiet — direkte Festsetzungsbetroffenheit
+- Außerhalb Plangebiet — drittbetroffener Nachbar
+- Belang: Verschattung, Lärm, Verkehr, Geruch, Wertminderung, Aussicht, Klima
+
+## Schritt 2 — Plan-Identifikation
+
+### Pflichtangaben
+- Genaue Bezeichnung des Plans (Nummer, Name, Stadt, Stadtteil)
+- Aufstellungsbeschluss-Datum
+- Beschluss als Satzung
+- Bekanntmachungsdatum und Ort (Amtsblatt, Tageszeitung)
+- Inkrafttreten
+- Art des Plans: B-Plan qualifiziert, einfach, vorhabenbezogen § 12 BauGB, Bebauungsplan der Innenentwicklung § 13a BauGB, FNP, örtliche Bauvorschrift § 9 Abs. 4 BauGB i.V.m. Art. 81 BayBO
+
+### Beschaffung der Planunterlagen
+- Bei der planenden Gemeinde mündlich oder schriftlich anfordern
+- Online-Bauleitplan-Auskunft sichten
+- Bekanntmachung als PDF
+- Satzungstext mit textlichen Festsetzungen
+- Planurkunde zeichnerisch
+- Begründung mit Umweltbericht
+- Abwägungsdokumentation Stadtrat
+
+## Schritt 3 — Vier Säulen Zulässigkeit § 47 VwGO
+
+### Säule 1 — Statthaftigkeit
+- Im Rang unter Landesgesetz stehende Rechtsvorschrift
+- B-Plan und örtliche Bauvorschrift in Bayern erfasst (§ 47 Abs. 1 Nr. 1 VwGO i.V.m. Art. 5 BayAGVwGO)
+- FNP grundsätzlich nicht statthaft — aber wenn Festsetzungen mit Außenwirkung (Konzentrationsflächen Windenergie § 35 Abs. 3 S. 3 BauGB) ja
+- Frühzeitige Klärung welcher Plan angegriffen wird
+
+### Säule 2 — Antragsbefugnis § 47 Abs. 2 VwGO
+- Möglichkeitstheorie: Geltendmachung einer Rechtsverletzung möglich
+- Eigentümer im Plangebiet immer
+- Nachbar bei abwägungserheblichem Belang (BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16)
+- Anerkannter Naturschutzverband § 64 BNatSchG, § 2 UmwRG
+
+### Säule 3 — Antragsfrist § 47 Abs. 2 S. 1 VwGO
+- Ein Jahr ab Bekanntmachung der Norm
+- Heute kein 2-Jahres-Zeitraum mehr (Verkürzung durch Gesetz vom 22.12.2006)
+- Bei Eilbedarf Fristprüfung sofort
+- Wiedereinsetzung § 60 VwGO nur bei unverschuldeter Versäumung
+
+### Säule 4 — Rechtsschutzbedürfnis
+- Bei Vollzug bereits abgeschlossen — Rechtsschutzbedürfnis problematisch
+- Bei Vollzug noch nicht erfolgt — gegeben
+- Bei Genehmigung bereits erteilt — parallel Klage gegen Genehmigung erforderlich
+
+## Schritt 4 — Mandantenchronologie und Beteiligung
+
+### Eigene Beteiligung am Aufstellungsverfahren
+- An früher Beteiligung § 3 Abs. 1 BauGB teilgenommen?
+- Schriftliche Einwendung in förmlicher Beteiligung § 3 Abs. 2 BauGB abgegeben?
+- Wortlaut der Einwendungen sichern (eigene Korrespondenz, Mail-Archiv, Eingangsbestätigung Stadt)
+- An Bürgerversammlung teilgenommen?
+- Mit anderen Anwohnern vernetzt? Bürgerinitiative?
+
+### Bedeutung für Rügefrist § 215 BauGB
+- Verfahrensfehler nur dann beachtlich, wenn innerhalb eines Jahres nach Bekanntmachung gerügt
+- Wer eingewendet hat, hat in der Regel die Substanz bereits dokumentiert
+- Wer nicht eingewendet hat, ist nicht präkludiert (BVerwG, Urteil vom 18.11.2010 – 4 CN 3.10) — aber materiell schwächer
+- Anwältin muss die Einwendungen kennen, um Rüge zu fertigen
+
+## Schritt 5 — Erste Erfolgsaussichtenprognose
+
+### Schnellscan-Punkte
+- Stimmt die Verfahrenskette in der Begründung formal? Beschlüsse, Bekanntmachungen, Auslegung?
+- Gibt es einen Umweltbericht? Plausibel?
+- Ist die Abwägung mehr als formelhaft?
+- Sind Stellplätze, Lärm, Artenschutz ernsthaft behandelt?
+- Hinweise auf Vorfestlegung oder Gefälligkeitsplanung?
+
+### Prognose-Kategorien
+- Erfolgsaussichten gering — Mandatsablehnung empfehlen
+- Erfolgsaussichten offen — Mandat mit klarer Kosten-Aufklärung
+- Erfolgsaussichten gut — Mandat einschließlich Eilantrag prüfen
+- Erfolgsaussichten sehr gut — Mandat plus Eilantrag plus parallele Drittklage
+
+## Schritt 6 — Kosten und Streitwert
+
+### Streitwert
+- Streitwertkatalog Verwaltungsgerichtsbarkeit Nr. 9.8.1
+- Im Regelfall 60.000 EUR pro Antragsteller, mindestens
+- Bei wirtschaftlich besonders bedeutendem Plan höher
+- Eilantrag § 47 Abs. 6 VwGO: halber Hauptsachestreitwert
+
+### Gebühren RVG
+- 1,6-fache Verfahrensgebühr Nr. 3200 VV RVG
+- 1,2-fache Terminsgebühr Nr. 3202 VV RVG
+- Auslagenpauschale Nr. 7002 VV RVG
+- Mandantengespräch über mögliche Mehrkosten Gutachten Schallschutz / Artenschutz
+
+### Wahl-Vereinbarung
+- Stundensatz Wahlmandat möglich — schriftliche Honorarvereinbarung § 3a RVG
+- Bei Verbandsklage Naturschutz oft RVG plus Spendenakquise
+
+## Schritt 7 — Akten- und Fristanlage
+
+### Akte
+- Mandatsbogen
+- Vollmacht
+- Plan-Mappe mit allen Plan-Unterlagen
+- Mandantenchronologie
+- Aktennotiz Erstgespräch
+- Streitwert- und Kosten-Note
+
+### Fristen
+- **Jahresfrist § 47 Abs. 2 VwGO** ab Bekanntmachung — primäre Frist
+- **Rügefrist § 215 BauGB** ein Jahr ab Bekanntmachung — parallele Sicherungsfrist
+- Beide Fristen mit zweifacher Vorfrist im Fristenkalender (zwei Wochen vor Ablauf, vier Wochen vor Ablauf)
+
+## Schritt 8 — Mandatsannahme oder Ablehnung
+
+### Annahme
+- Schriftliche Auftragsbestätigung
+- Übersendung Honorarvereinbarung
+- Ankündigung Akteneinsicht bei der Gemeinde
+
+### Ablehnung
+- Begründung schriftlich
+- Hinweis auf Frist
+- Hinweis auf andere Beratungswege
+- Datenschutzkonforme Vernichtung der überlassenen Unterlagen oder Rückgabe
+
+## Quellen
+
+- VwGO §§ 47 60
+- BauGB §§ 1 2 3 4 8 10 12 13a 35 214 215
+- BNatSchG § 64
+- UmwRG § 2
+- BayAGVwGO Art. 5
+- BayBO Art. 47 81
+- RVG § 3a, VV RVG Nr. 3200 3202 7002
+- Streitwertkatalog Verwaltungsgerichtsbarkeit 2013 Nr. 9.8.1
+- BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Antragsbefugnis Nachbar)
+- BVerwG, Urteil vom 18.11.2010 – 4 CN 3.10 (Präklusionswirkung Einwendung)
+
+## Aktuelle Rechtsprechung — Triage-relevante Leitsaetze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 

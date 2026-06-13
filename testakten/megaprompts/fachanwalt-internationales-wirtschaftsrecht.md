@@ -15,7 +15,7 @@ Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `fachanwalt-internat
 7. **output-waehlen** — Output-Wahl für Fachanwalt Internationales Wirtschaftsrecht: stimmt Adressat (Internationale Vertragspartner, Schiedsric…
 8. **quellen-livecheck** — Quellen-Live-Check für Fachanwalt Internationales Wirtschaftsrecht: prüft Normen (Rom I/II VO, CISG, ICC Incoterms) gege…
 9. **anschluss-routing** — Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht: wählt den nächsten Spezial-Skill nach Engpass (Schied…
-10. **intwr-cisg-pruefraster** — Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflich…
+10. **intwr-eu-sanktionen-trade-compliance-spezial** — Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraen…
 
 ---
 
@@ -72,7 +72,7 @@ _Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sach
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Internationales Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Internationales Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -202,14 +202,14 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Mandat IWR triage und routen | Triage-Protokoll; Template unten |
 | Variante A — Mehrere Rechtsordnungen betroffen | Multi-Jurisdictions-Ansatz; lokale Korrespondenzanwaelte einbeziehen |
-| Variante B — Schnelle Sicherungsmassnahme noetig | Eilzuständigkeit pruefen; vorher Arrest / einstweilige Verfuegung |
-| Variante C — Mandant will Streit vermeiden | ADR-Pfad pruefen bevor Klage/Schied |
+| Variante B — Schnelle Sicherungsmassnahme noetig | Eilzuständigkeit prüfen; vorher Arrest / einstweilige Verfuegung |
+| Variante C — Mandant will Streit vermeiden | ADR-Pfad prüfen bevor Klage/Schied |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -222,7 +222,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - Mandatsvereinbarung mit Honorar (häufig RVG-überschritten — Honorarvereinbarung)
 - Empfehlung Folge-Skill plus eventuell Auslandskanzlei
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -239,11 +239,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ## Vertiefung: Leitsaetze und Output-Template
 
-### Schluessel-Leitsaetze IWR-Triage
+### Schlüssel-Leitsaetze IWR-Triage
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Normen-Ueberblick IWR-Triage
+### Normen-Überblick IWR-Triage
 - Bruessel Ia VO Art. 4, 7, 25 — Gerichtsstand
 - Rom I VO Art. 3, 4 — Anwendbares Recht Vertrag
 - CISG Art. 1-5 — Anwendungsbereich
@@ -296,7 +296,7 @@ _Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Sc
 
 - Neue Anfrage aus dem Bereich Internationales Wirtschafts- und Schiedsrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klaeren, Konflikt- und GwG-Pruefung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
@@ -304,15 +304,15 @@ _Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Sc
 
 Standard-Fragenraster für Internationales Wirtschafts- und Schiedsrecht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: CISG, EuGVVO/Brussels Ia, Rom I/II, Schiedsklauseln, INCOTERMS
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil). Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -321,7 +321,7 @@ Standard-Fragenraster für Internationales Wirtschafts- und Schiedsrecht:
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -329,14 +329,14 @@ Standard-Streitwerte im Bereich Internationales Wirtschafts- und Schiedsrecht:
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -359,9 +359,9 @@ Drei Weichen am Ende des Erstgespraechs:
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar -> später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 
@@ -397,7 +397,7 @@ Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fac
 
 ### Konstellation C: Interessenkonflikt-Naehe
 
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung:
+Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung:
 
 1. § 43a Abs. 4 BRAO und § 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
 2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
@@ -414,9 +414,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach § 3a RVG.
 - Erfolgshonorar nur in den engen Grenzen § 4a RVG.
-- Vorschuss in Hoehe der voraussichtlichen 1. Instanz.
+- Vorschuss in Höhe der voraussichtlichen 1. Instanz.
 - Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege moeglich sind.
+- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege möglich sind.
 
 ## Mandatsbogen-Muster (Mindestinhalt)
 
@@ -436,11 +436,11 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -453,7 +453,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ## Vertiefung: Rechtsprechung und Normen IWR Erstmandat
 
-### Schluessel-Leitsaetze Erstgespräch IWR
+### Schlüssel-Leitsaetze Erstgespräch IWR
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -496,7 +496,7 @@ Naechster Schritt: [MASSNAHME] bis [DATUM]
 =========================================
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -614,7 +614,7 @@ _Dokumentenintake für Fachanwalt Internationales Wirtschaftsrecht: sortiert Int
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Internationales Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Internationales Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -817,11 +817,11 @@ Dieses Anschluss-Routing für **Fachanwalt Internationales Wirtschaftsrecht** w�
 
 ---
 
-## Skill: `intwr-cisg-pruefraster`
+## Skill: `intwr-eu-sanktionen-trade-compliance-spezial`
 
-_Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe: Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflich..._
+_Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot: Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektor..._
 
-# Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe
+# Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot
 
 
 ## Arbeitsweg
@@ -832,74 +832,39 @@ _Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht.
+**Fokus:** Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Prüfraster für Exportkontrolle und Bankzahlungen.
 
-### IntWR: CISG-Pruefraster
+### IntWR: Sanktionen Trade Compliance
 
-## Einstieg
+## Spezialwissen: IntWR: Sanktionen Trade Compliance
+- **Normen-/Quellenanker:** EU, VO.
+
+## Fallweichen
 Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster CISG (Wiener UN-Kaufrechtsuebereinkommen)
+## Prüfraster
 
-### 1. Anwendungsbereich
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
-- **Sachlich** Art. 1-5 CISG
- - Kaufvertraege ueber Waren zwischen Parteien mit Niederlassung in verschiedenen Staaten (Art. 1 I lit. a CISG: beide Vertragsstaaten; lit. b: Verweisung des IPR auf Recht eines Vertragsstaats).
- - Ausnahmen Art. 2 CISG: Konsumgueterkauf, Auktion, Zwangsvollstreckung, Wertpapiere, Geld, Schiffe/Luftfahrzeuge, Strom.
- - Werklieferungsvertrag Art. 3 CISG: erfasst, wenn nicht wesentlicher Teil aus vom Besteller zu liefernden Stoffen.
- - Keine Anwendung auf Wirksamkeit/Vertragsschlusserforderlichkeit Art. 4 CISG.
-- **Persoenlich** Art. 1, 10 CISG — Niederlassung; Sitz des engsten Zusammenhangs.
-- **Opt-out** Art. 6 CISG — vollstaendiger oder teilweiser Ausschluss durch Parteivereinbarung moeglich (typische Praxis: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts").
-
-### 2. Vertragsschluss Art. 14-24 CISG
-
-- Angebot Art. 14: bestimmt, an Empfaenger gerichtet, Bindungswille.
-- Annahme Art. 18: Erklaerung oder Handlung; Schweigen grds. nicht.
-- Battle of forms: Modifizierte Annahme Art. 19 — bei wesentlicher Aenderung kein Vertragsschluss; bei nicht wesentlicher Aenderung Zustimmung des Anbietenden fingiert.
-
-### 3. Pflichten der Parteien
-
-- **Verkaeufer** Art. 30-44 CISG: Lieferung (Art. 31: am Ort gewerblicher Niederlassung), vertragsgemaesse Beschaffenheit (Art. 35), frei von Rechten Dritter (Art. 41-43).
-- **Kaeufer** Art. 53-60 CISG: Kaufpreiszahlung, Abnahme, Untersuchungs- und Anzeigeobliegenheit Art. 38, 39 CISG.
-
-### 4. Pflichtverletzung und Rechtsbehelfe
-
-- **Wesentliche Vertragsverletzung** Art. 25 CISG: erheblicher Nachteil + Vorhersehbarkeit.
-- **Rechtsbehelfe Kaeufer** Art. 45 ff. CISG: Erfuellung (Art. 46), Nachfrist (Art. 47), Minderung (Art. 50), Aufhebung (Art. 49 — nur bei wesentlicher Vertragsverletzung), Schadensersatz (Art. 74-77).
-- **Rechtsbehelfe Verkaeufer** Art. 61 ff. CISG.
-- **Beschraenkung des Schadensersatzes** Art. 74 CISG: nur vorhersehbarer Schaden; Schadensminderung Art. 77.
-
-## Vergleich CISG vs. BGB-Kaufrecht (§§ 433 ff. BGB)
-
-| Punkt | CISG | BGB |
-|---|---|---|
-| Mangelbegriff | Art. 35 (objektive und subjektive Erwartung) | § 434 |
-| Anzeigeobliegenheit | Art. 38, 39: angemessene Frist nach Erkennen; 2-Jahres-Ausschlussfrist Art. 39 II | §§ 377, 378 HGB (im Handelskauf); BGB ohne Pflicht |
-| Ruecktritt | Art. 49: nur bei wesentlicher Vertragsverletzung | § 323 BGB: Fristsetzung |
-| Verjährung | UN-Verjährungsuebereinkommen 1974 (in DE nicht ratifiziert) -> Rueckgriff auf IPR | § 438 BGB: 2 Jahre |
-| Hardship / Frustration | Art. 79: Befreiung bei Hinderungsgrund ausserhalb Einflussbereichs | § 313 BGB (Stoerung der Geschaeftsgrundlage) |
-
-## Praxisfallen
-
-- **Stillschweigender Ausschluss** des CISG bei "deutschem Recht" wird oft falsch angenommen — die Rechtswahl deutschen Rechts schliesst CISG NICHT aus; CISG ist Bestandteil des deutschen Rechts. **Ausdruecklicher Ausschluss noetig.**
-- **Art. 39 CISG-Frist** zur Mangelanzeige: "innerhalb einer angemessenen Frist" — BGH zur Auslegung (BGHZ 129, 75 — Mussel-Wash). Bei Standardware: ca. ein Monat. Bei verderblicher Ware: Tage.
-- **CISG-Ausschluss** vs. **Schiedsvereinbarung**: bei Schiedsvereinbarung CISG nicht automatisch ausgeschlossen.
-- **OR Schweiz** und **CISG**: Schweiz Vertragsstaat seit 1991; bei Lieferungen DE-CH greift CISG ohne Opt-out.
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

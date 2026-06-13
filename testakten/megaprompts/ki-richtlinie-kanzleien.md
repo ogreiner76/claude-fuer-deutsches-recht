@@ -38,7 +38,7 @@ Dieser Einstieg routet **Ki Richtlinie Kanzleien** vom ersten Sachverhalt zu Rol
 
 - `anonymisierung-pseudonymisierung` — Anonymisierung Pseudonymisierung
 - `anwaelten-berufsrechtskonforme-beruht` — Anwaelten Berufsrechtskonforme Beruht
-- `auftragsverarbeitungsvertrag-pruefen` — Auftragsverarbeitungsvertrag Pruefen
+- `auftragsverarbeitungsvertrag-pruefen` — Auftragsverarbeitungsvertrag Prüfen
 - `automatisierte-entscheidungen-art-22-dsgvo` — Automatisierte Entscheidungen ART 22 DSGVO
 - `berufsrecht-bausteine` — Berufsrecht Bausteine
 - `berufsrechtskonforme-tatbestand-beweis-und-belege` — Berufsrechtskonforme Tatbestand Beweis und Belege
@@ -76,7 +76,7 @@ _Pflegt: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Pflegt Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Richtlinie Kanzleien** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Pflegt Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ki Richtlinie Kanzleien** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,10 +98,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -205,7 +205,7 @@ Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die
 ## Triage zu Beginn
 1. Handelt es sich um echte Anonymisierung oder nur Pseudonymisierung — besteht ein Zuordnungsschluessel?
 2. Welche Datenkategorien sind betroffen — besondere Kategorien nach Art. 9 DSGVO?
-3. Ist ein Re-Identifikationsrisiko durch Kombination verbleibender Merkmale (Branche, Ort, Umstaende) moeglich?
+3. Ist ein Re-Identifikationsrisiko durch Kombination verbleibender Merkmale (Branche, Ort, Umstaende) möglich?
 4. Wird das Dokument in einem KI-System mit Training verarbeitet — besteht Risiko des Modell-Memorizings?
 5. Ist der Anonymisierungsprozess dokumentiert und vieraugengeprueft?
 
@@ -267,7 +267,7 @@ _Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwen
 
 ## Arbeitsbereich
 
-Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit KI-Dienstleister und muss AVV auf DSGVO-Konformität prüfen. Art. 28 DSGVO AVV-Pflicht, § 43e BRAO IT-Dienstleister, AI Act Betreiberpflichten. Prüfraster Subprozessoren-Genehmigung, technisch-organisatorische Massnahmen TOMs, Drittlandtransfer SCC, Auditrrechte, Löschpflichten, Training-Opt-out. Output AVV-Prüfprotokoll mit Lueckenliste und Nachverhandlungsbedarf. Abgrenzung zu Musterklauseln-IT-Vertrag und zu Dienstleister-Due-Diligence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit KI-Dienstleister und muss AVV auf DSGVO-Konformität prüfen. Art. 28 DSGVO AVV-Pflicht, § 43e BRAO IT-Dienstleister, AI Act Betreiberpflichten. Prüfraster Subprozessoren-Genehmigung, technisch-organisatorische Maßnahmen TOMs, Drittlandtransfer SCC, Auditrrechte, Löschpflichten, Training-Opt-out. Output AVV-Prüfprotokoll mit Lueckenliste und Nachverhandlungsbedarf. Abgrenzung zu Musterklauseln-IT-Vertrag und zu Dienstleister-Due-Diligence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -326,7 +326,7 @@ Die Anforderungen an AVV können sich durch Entscheidungen der Datenschutzbehör
 4. Sind Unterauftragsverarbeiter benannt und durch eigenen AVV gebunden?
 5. Sind Auditrechte der Kanzlei nach Art. 28 Abs. 3 lit. h DSGVO vereinbart?
 
-## Output-Template — AVV-Pruefungsprotokoll
+## Output-Template — AVV-Prüfungsprotokoll
 **Adressat:** Kanzlei intern / DSB — Tonfall: checklisten-strukturiert
 ```
 AVV-PRUEFUNGSPROTOKOLL
@@ -431,18 +431,18 @@ Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 22 Abs. 1 DSGVO — Verbot vollautomatisierter Einzelentscheidungen mit Rechtswirkung
 - Art. 22 Abs. 2 lit. a-c DSGVO — Ausnahmen (Vertrag, gesetzliche Pflicht, Einwilligung)
-- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht und menschliche Pruefung
+- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht und menschliche Prüfung
 - Art. 13/14 DSGVO — Informationspflichten bei automatisierten Entscheidungen
-- § 26 BDSG — Beschaeftigtendatenschutz bei KI-Mitarbeiterbewertung
+- § 26 BDSG — Beschäftigtendatenschutz bei KI-Mitarbeiterbewertung
 
 ## Triage zu Beginn
 1. Liegt eine vollautomatisierte Entscheidung mit Rechtswirkung oder erheblicher Beeintraechtigung vor?
 2. Ist eine Rechtsgrundlage nach Art. 22 Abs. 2 lit. a-c DSGVO gegeben?
-3. Ist ein menschlicher Ueberpruefer vorgesehen — oder stempelt er nur ab (Stempel-Risiko)?
-4. Werden Betroffene nach Art. 13/14 DSGVO ueber die automatisierte Entscheidung informiert?
+3. Ist ein menschlicher Überprüfer vorgesehen — oder stempelt er nur ab (Stempel-Risiko)?
+4. Werden Betroffene nach Art. 13/14 DSGVO über die automatisierte Entscheidung informiert?
 5. Ist ein Widerspruchsrecht und eine Korrekturmoeglichkeit nach Art. 22 Abs. 3 DSGVO implementiert?
 
-## Output-Template — Art. 22 DSGVO-Pruefprotokoll
+## Output-Template — Art. 22 DSGVO-Prüfprotokoll
 **Adressat:** DSB / Compliance — Tonfall: strukturiert, rechtlich
 ```
 ART. 22 DSGVO-PRUEFPROTOKOLL
@@ -507,7 +507,7 @@ Das anwaltliche Berufsrecht setzt dem Einsatz von KI-Systemen in Kanzleien spezi
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -529,13 +529,13 @@ Die Wahrung des Anwaltsgeheimnisses ist oberstes Gebot (§ 43a Abs. 2 BRAO, § 2
 **Baustein Prüfpflicht/Halluzinationen:**
 Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig nach § 43 BRAO und haftet für die Folgen. Ein "Grundvertrauen" wie bei erfahrenen Mitarbeitenden ist bei KI-generierten Arbeitsprodukten nicht angebracht (BRAK-Hinweise 12/2024; DAV-Stellungnahme 32/2025).
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -558,7 +558,7 @@ Die BRAK und der DAV aktualisieren ihre Hinweise und Stellungnahmen fortlaufend.
 1. Ist der KI-Anbieter ein IT-Dienstleister nach § 43e BRAO — liegt eine berufsrechtliche AVV-Vereinbarung vor?
 2. Werden Mandatsdaten in das KI-System eingegeben — ist Anonymisierung oder verschlüsselte Verarbeitung sichergestellt?
 3. Hat der KI-Anbieter seinen Sitz ausserhalb der EU — droht ein CLOUD Act-Zugriff?
-4. Werden KI-Ausgaben ohne menschliche Pruefung verwendet — Haftungsrisiko nach § 280 BGB?
+4. Werden KI-Ausgaben ohne menschliche Prüfung verwendet — Haftungsrisiko nach § 280 BGB?
 5. Ist die KI in der Lage, Mandate anderer Mandanten zu verwechseln — Interessenkonflikt-Risiko?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -636,13 +636,13 @@ Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse 
 - Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko bei Bewerbungs-Screening, Personalauswahl und Beschäftigtenmanagement nach Zweckbestimmung
 
 ## Triage zu Beginn
-1. Fuer welchen Zweck wird das KI-System eingesetzt — Bewerberauswahl, Mandatszuordnung, Leistungsbewertung?
-2. Koennen Trainingsdaten historische Diskriminierungsmuster enthalten?
+1. Für welchen Zweck wird das KI-System eingesetzt — Bewerberauswahl, Mandatszuordnung, Leistungsbewertung?
+2. Können Trainingsdaten historische Diskriminierungsmuster enthalten?
 3. Sind schutzbeduerfte Gruppen nach AGG unverhältnismaessig betroffen?
 4. Wurde ein Bias-Test durchgefuehrt — und sind die Ergebnisse dokumentiert?
 5. Gibt es einen Widerspruchsmechanismus für Betroffene (Art. 22 Abs. 3 DSGVO)?
 
-## Output-Template — Bias-Pruefprotokoll
+## Output-Template — Bias-Prüfprotokoll
 **Adressat:** HR / Compliance — Tonfall: strukturiert, sachlich
 ```
 BIAS-PRUEFPROTOKOLL
@@ -699,7 +699,7 @@ Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRA
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -734,13 +734,13 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 **10.** Wir melden jeden Verdachtsfall einer Compliance-Verletzung beim KI-Einsatz unverzüglich an [Name Datenschutzbeauftragter/Berufsrechtsbeauftragter/Geschäftsführung].
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -763,7 +763,7 @@ Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Än
 1. Welche KI-Systeme werden in der Kanzlei eingesetzt — ist eine Freigabeliste vorhanden?
 2. Gibt es bereits einen Compliance-Regelsatz oder wird er neu erstellt?
 3. Ist ein Betriebsrat vorhanden — wurde nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden?
-4. Sind alle Mitarbeiter ueber das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
+4. Sind alle Mitarbeiter über das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
 5. Gibt es Schulungsunterlagen zum Compliance-Regelsatz?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -939,7 +939,7 @@ Die sechs Eckpunkte spiegeln die zentralen Rechtspflichten wider: § 43 BRAO (Ge
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -970,13 +970,13 @@ Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegeb
 **Eckpunkt 6 – Kennzeichnung und Transparenz:**
 Öffentliche KI-generierte Inhalte, die keiner menschlichen Verantwortung oder redaktionellen Kontrolle unterliegen, müssen als solche gekennzeichnet werden (Art. 50 Abs. 4 KI-VO). KI-generierte Inhalte sind stets auf mögliche Verletzungen von Urheber- und Persönlichkeitsrechten zu prüfen.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -995,7 +995,7 @@ Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungna
 - § 203 StGB — strafrechtliches Berufsgeheimnis
 
 ## Triage zu Beginn
-1. Fuer welche Zielgruppe ist das Executive Summary — Partner, alle Mitarbeiter, Mandanten?
+1. Für welche Zielgruppe ist das Executive Summary — Partner, alle Mitarbeiter, Mandanten?
 2. Wie umfangreich ist die KI-Nutzungsrichtlinie — was muss im Summary priorisiert werden?
 3. Sind kritische Nutzungsfaelle bekannt — muss das Summary sie explizit adressieren?
 4. Soll das Summary als eigenstaendiges Dokument oder als Richtlinien-Deckblatt verwendet werden?
@@ -1042,7 +1042,7 @@ _GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Ka
 
 ## Arbeitsbereich
 
-GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schützen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsmassnahmen, § 203 StGB Berufsgeheimnis, §§ 43a und 43e BRAO. Prüfraster Geheimnisqualifikation der Mandatsinformationen, angemessene technische Massnahmen, Vertragspflichten für KI-Dienstleister. Output GeschGehG-Bausteine für KI-Richtlinie mit konkreten Formulierungen. Abgrenzung zu Berufsrecht-Bausteine und zu Musterklauseln-IT. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schützen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsmassnahmen, § 203 StGB Berufsgeheimnis, §§ 43a und 43e BRAO. Prüfraster Geheimnisqualifikation der Mandatsinformationen, angemessene technische Maßnahmen, Vertragspflichten für KI-Dienstleister. Output GeschGehG-Bausteine für KI-Richtlinie mit konkreten Formulierungen. Abgrenzung zu Berufsrecht-Bausteine und zu Musterklauseln-IT. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -1088,13 +1088,13 @@ Das GeschGehG ist ein vergleichsweise junges Gesetz (in Kraft seit 26. April 201
 
 ## Zentrale Normen (Paragrafenkette)
 - § 1 GeschGehG — Anwendungsbereich
-- § 2 Nr. 1 GeschGehG — Definition Geschaeftsgeheimnis (angemessene Geheimhaltungsmassnahmen)
+- § 2 Nr. 1 GeschGehG — Definition Geschäftsgeheimnis (angemessene Geheimhaltungsmassnahmen)
 - § 4 GeschGehG — Handlungsverbote (unbefugte Nutzung)
 - § 43a Abs. 2 BRAO — Verschwiegenheit als berufsrechtlicher Schutzmechanismus
 - § 203 StGB — Berufsgeheimnis
 
 ## Triage zu Beginn
-1. Welche Mandats- oder Unternehmensdaten sind als Geschaeftsgeheimnis einzustufen?
+1. Welche Mandats- oder Unternehmensdaten sind als Geschäftsgeheimnis einzustufen?
 2. Wurden angemessene Geheimhaltungsmassnahmen nach § 2 Nr. 1 GeschGehG ergriffen?
 3. Erlaubt der KI-Anbieter Training auf Eingabedaten — droht Verlust des Geheimnisschutzes?
 4. Gibt es einen Geheimhaltungsvertrag mit dem KI-Anbieter (NDA / AVV mit Vertraulichkeitsklausel)?
@@ -1148,14 +1148,14 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Halluzinations-Pruefprotokoll für KI-Output erstellen | Pruefprotokoll nach Schema; Template unten |
+| Standard — Halluzinations-Prüfprotokoll für KI-Output erstellen | Prüfprotokoll nach Schema; Template unten |
 | Variante A — Halluzination in bereits versandtem Dokument | Fehlerkorrektur-Protokoll; Mandant sofort informieren |
-| Variante B — Pruefung nicht moeglich keine Originalquellen | Quellenangaben-Luecke dokumentieren; Vorbehalt in Dokument |
-| Variante C — Routinemäßige Qualitaetssicherung kein Einzelfall | Systematisches Pruefverfahren einrichten; Checkliste standardisieren |
+| Variante B — Prüfung nicht möglich keine Originalquellen | Quellenangaben-Luecke dokumentieren; Vorbehalt in Dokument |
+| Variante C — Routinemäßige Qualitaetssicherung kein Einzelfall | Systematisches Prüfverfahren einrichten; Checkliste standardisieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -1170,13 +1170,13 @@ Schriftsätze, die unter wesentlicher Mitwirkung von KI-Systemen erstellt wurden
 **Baustein Dokumentationsprotokoll:**
 Für jeden Schriftsatz oder jede Beratungsunterlage, bei der KI-Systeme wesentlich mitgewirkt haben, wird ein Prüfprotokoll angelegt mit folgenden Angaben: Datum der Prüfung, Name der prüfenden Person, geprüfte Fundstellen und Verifikationsquelle, Ergebnis der Prüfung.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1197,13 +1197,13 @@ Gerichtliche Entscheidungen zum Umgang mit KI-generierten Fundstellen (insbesond
 
 ## Triage zu Beginn
 1. Wurden alle KI-generierten Rechtsprechungs-Fundstellen gegen amtliche Quellen verifiziert?
-2. Ist ein Vier-Augen-Pruefungsprozess für Schriftsaetze mit KI-Inhalten etabliert?
+2. Ist ein Vier-Augen-Prüfungsprozess für Schriftsaetze mit KI-Inhalten etabliert?
 3. Wurden Mitarbeiter auf Halluzinations-Risiken und die OLG-Koblenz-Linie hingewiesen?
-4. Gibt es ein Protokoll-System zur Dokumentation der Pruefvorgaenge?
+4. Gibt es ein Protokoll-System zur Dokumentation der Prüfvorgaenge?
 5. Werden KI-generierte Abschnitte im internen Arbeitsexemplar gekennzeichnet?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Output-Template — Halluzinations-Pruefprotokoll
+## Output-Template — Halluzinations-Prüfprotokoll
 **Adressat:** Kanzlei intern — Tonfall: strukturiert, dokumentierend
 ```
 HALLUZINATIONS-PRUEFPROTOKOLL
@@ -1284,10 +1284,10 @@ Die Kontextanalyse sollte bei wesentlichen Änderungen der Kanzleistruktur (Fusi
 - § 43e BRAO — IT-Dienstleister-Regelung
 - § 45 BRAO — Interessenkonflikt-Verbot
 - Art. 28 DSGVO — AVV-Pflicht für alle Kanzleigroessen
-- § 26 BDSG — Beschaeftigtendatenschutz (bei Mitarbeiter-KI)
+- § 26 BDSG — Beschäftigtendatenschutz (bei Mitarbeiter-KI)
 
 ## Triage zu Beginn
-1. Wie gross ist die Kanzlei — Einzelanwalt, Boutique (2-10 RA), Mittelgross (11-50), Gross (50+)?
+1. Wie groß ist die Kanzlei — Einzelanwalt, Boutique (2-10 RA), Mittelgross (11-50), Groß (50+)?
 2. Welche Rechtsgebiete werden betrieben — IT-Recht, Datenschutz, Strafrecht, Familienrecht?
 3. Gibt es Inhouse-/Syndikus-Anwaelte — gelten andere Compliance-Anforderungen?
 4. Sind internationale Mandate vorhanden — welche Drittland-Jurisdiktionen?
@@ -1352,7 +1352,7 @@ Art. 50 Abs. 4 Unterabs. 2 Satz 1 KI-VO: Betreiber eines KI-Systems, das Text zu
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -1374,13 +1374,13 @@ Anwaltliche Schriftsätze, die unter Nutzung von KI-Assistenzsystemen erstellt w
 **Baustein Interne Dokumentation:**
 Unabhängig von der externen Kennzeichnungspflicht dokumentiert die Kanzlei intern, bei welchen Veröffentlichungen KI-Systeme in welchem Umfang eingesetzt wurden. Diese Dokumentation dient der Qualitätssicherung und der Nachweisbarkeit bei etwaigen späteren Anfragen.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1395,7 +1395,7 @@ Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäis
 ## Zentrale Normen (Paragrafenkette)
 - Art. 50 Abs. 1 KI-VO — Kennzeichnungspflicht bei KI-Interaktionen (Chatbot-Offenlegung)
 - Art. 50 Abs. 4 KI-VO — Kennzeichnung synthetischer Inhalte (Deepfake)
-- § 5 UWG — Verbot irreführender Geschaeftspraktiken
+- § 5 UWG — Verbot irreführender Geschäftspraktiken
 - § 43b BRAO — Werbeverbot für Anwaelte (Irreführungsschutz)
 - § 1 UrhG — Urheberrecht an KI-generierten Inhalten (kein Schutz ohne menschliche Schaepfungshoehe)
 
@@ -1403,7 +1403,7 @@ Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäis
 1. Werden KI-generierte Texte in Veroeffentlichungen, Mandantenschreiben oder Schriftsaetzen verwendet?
 2. Ist Art. 50 KI-VO anwendbar — handelt es sich um einen Chatbot oder synthetischen Inhalt?
 3. Besteht ein berufsrechtliches Risiko nach § 43b BRAO bei fehlender Kennzeichnung?
-4. Sind Mandanten oder Gerichte ueber KI-Unterstuetzung zu informieren?
+4. Sind Mandanten oder Gerichte über KI-Unterstuetzung zu informieren?
 5. Hat die Kanzlei ein einheitliches Kennzeichnungsschema für verschiedene Veroeffentlichungsarten?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

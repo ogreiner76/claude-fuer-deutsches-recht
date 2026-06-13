@@ -72,7 +72,7 @@ _Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimm
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Gegendarstellung Presse Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Urheber Medienrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Gegendarstellung Presse Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Urheber Medienrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -162,13 +162,13 @@ Schritt 5: Routing zum Folge-Skill
 - **Sofort-Telefon:** einstweilige Verfuegung zugestellt; Berichterstattung in 2 Tagen
 - **Binnen 1 Stunde:** Abmahnfrist laeuft heute ab; Schutzschrift-Einreichung noetig
 - **Heute:** Gegendarstellungsverlangen verfassen; Reaktion auf Abmahnung
-- **Diese Woche:** Lizenzverletzungs-Pruefu ng; Klageschrift-Entwurf
+- **Diese Woche:** Lizenzverletzungs-Prüfu ng; Klageschrift-Entwurf
 
 ## Cross-Refs
 
 - `erstgespraech-mandatsannahme` — vollstaendige Mandatsannahme
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
-- `fachanwalt-urheber-medienrecht-orientierung` — Normen-Uebersicht
+- `fachanwalt-urheber-medienrecht-orientierung` — Normen-Übersicht
 
 ---
 
@@ -224,7 +224,7 @@ _Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat saube
 - Bisherige Korrespondenz (Abmahnung, einstweilige Verfuegung, Gegendarstellungsverlangen)
 - **Fristenscreening sofort:** Antwortfristen aus Abmahnungen, Reaktionsfrist auf einstweilige Verfuegung, Gegendarstellungsfristen nach LPG
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
 - Konflikt-Check: frueheres Mandat mit Gegenseite oder Sachzusammenhang?
 - GwG-Identifizierung: Lichtbildausweis, bei juristischer Person Handelsregisterauszug
@@ -643,13 +643,13 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — TDM § 44b UrhG KI-Training Opt-Out | Opt-Out-Erklaerung; Template unten |
-| Variante A — Mandant will KI-Training erlauben | Lizenzvertrag statt Opt-Out; gesonderte Verguetung |
-| Variante B — Bereits laufendes KI-Training | Opt-Out für Zukunft; Schadensersatz für Vergangenheit pruefen |
+| Variante A — Mandant will KI-Training erlauben | Lizenzvertrag statt Opt-Out; gesonderte Vergütung |
+| Variante B — Bereits laufendes KI-Training | Opt-Out für Zukunft; Schadensersatz für Vergangenheit prüfen |
 | Variante C — EU-DSA / Digital-Markets-Act beruehrt | Plattform-spezifische Opt-Out-Mechanismen zusaetzlich |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -875,7 +875,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
 
 Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
-1. War das urheberrechtlich geschuetzte Werk oeffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmäßigem Zugang)?
+1. War das urheberrechtlich geschuetzte Werk öffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmäßigem Zugang)?
 2. Wurde ein Opt-out vor dem Trainings-Zeitpunkt erklaert (maschinenlesbar: robots.txt, TDM Reserved Right)?
 3. Liegen Nachweise dafür vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
 4. Ist § 60d UrhG (Wissenschaftliches TDM) als Privilegierungstatbestand einschlaegig?
@@ -890,12 +890,12 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 
 ## Faktische Updates (Stand 05/2026)
 
-- **§ 44b UrhG / Art. 4 Abs. 3 DSM-RL:** TDM-Opt-out muss "maschinenlesbar" sein. Welche Form (robots.txt, ai.txt, TDM Reservation Protocol, REP-Erweiterungen, EXIF/IPTC, Sidecar-Files, NoAI-Meta-Tag) ausreichend ist, ist hoechstrichterlich nicht abschliessend geklaert. Konkrete EuGH- und BGH-Verfahren live ueber curia.europa.eu / dejure.org verifizieren (Stichworte: TDM, Art. 4 DSM-RL).
-- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 muessen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veröffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live pruefen.
-- **GPAI Code of Practice — Saeule Urheberrecht:** Der EU-AI-Office-Code enthaelt eine Urheberrechts-Saeule (TDM-Vorbehalt-Detektion, Lizenz-Trail, Take-down-Verfahren); bei Anschluss Anbieter-Vermutung der Compliance. Aktuelle Fassung live ueber digital-strategy.ec.europa.eu pruefen.
-- **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
-- **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.
-- **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte ueber VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
+- **§ 44b UrhG / Art. 4 Abs. 3 DSM-RL:** TDM-Opt-out muss "maschinenlesbar" sein. Welche Form (robots.txt, ai.txt, TDM Reservation Protocol, REP-Erweiterungen, EXIF/IPTC, Sidecar-Files, NoAI-Meta-Tag) ausreichend ist, ist hoechstrichterlich nicht abschliessend geklaert. Konkrete EuGH- und BGH-Verfahren live über curia.europa.eu / dejure.org verifizieren (Stichworte: TDM, Art. 4 DSM-RL).
+- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 müssen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veröffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live prüfen.
+- **GPAI Code of Practice — Saeule Urheberrecht:** Der EU-AI-Office-Code enthaelt eine Urheberrechts-Saeule (TDM-Vorbehalt-Detektion, Lizenz-Trail, Take-down-Verfahren); bei Anschluss Anbieter-Vermutung der Compliance. Aktuelle Fassung live über digital-strategy.ec.europa.eu prüfen.
+- **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live über dejure.org und openjur.de verifizieren.
+- **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live über nationale Gerichtsdatenbanken und curia.europa.eu prüfen.
+- **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte über VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
 
 ---
 
@@ -927,26 +927,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -971,7 +971,7 @@ _Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Be
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster.
+**Fokus:** Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Prüfraster.
 
 ### UrhMR: KI-Content
 
@@ -984,26 +984,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -1028,7 +1028,7 @@ _Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext.
+**Fokus:** Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Prüfraster und Mustertext.
 
 ### UrhMR: Gegendarstellung
 
@@ -1041,26 +1041,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

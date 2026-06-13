@@ -78,7 +78,7 @@ _Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Einfache Leichte Sprache Jura** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Einfache Leichte Sprache Jura** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -194,24 +194,24 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Juristische Texte — Bescheide, Vertraege, Urteile, Merkblaetter — sind für viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behörden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemaess BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
+Juristische Texte — Bescheide, Verträge, Urteile, Merkblaetter — sind für viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behörden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemäß BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
 
-Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absicherung: Vereinfachungen muessen stets gegen das Original geprueft werden. Das Qualitaetsgate am Ende des Workflows sichert die Konformitaet vor Veroeffentlichung.
+Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absicherung: Vereinfachungen müssen stets gegen das Original geprueft werden. Das Qualitaetsgate am Ende des Workflows sichert die Konformitaet vor Veroeffentlichung.
 
 ## Wann brauchen Sie diese Skill?
 
 - Eine Behörde will Bescheide oder Widerspruchsbeschluesse für Buerger mit eingeschraenkter Lesekompetenz aufbereiten.
 - Eine Kanzlei erklaert Mandanten verstaendlich, welche Rechte und Pflichten ein Vertrag begruendet.
 - Ein Unternehmen muss seine Datenschutzerklaerung barrierefrei gestalten (BITV 2.0, WCAG 2.1).
-- Ein Pflegeheim oder eine Sozialeinrichtung will Heimvertraege in Leichte Sprache uebersetzen.
-- Ein Verband prueft, ob sein oeffentlich zugaengliches Rechtsmerkblatt verstaendlich genug ist.
+- Ein Pflegeheim oder eine Sozialeinrichtung will Heimvertraege in Leichte Sprache übersetzen.
+- Ein Verband prüft, ob sein öffentlich zugaengliches Rechtsmerkblatt verstaendlich genug ist.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Einfache Sprache** — Schriftsprachliche Vereinfachung auf ca. Niveau B1 des Europaeischen Referenzrahmens; kurze Saetze, gebraeuchliche Woerter, aktive Formulierungen.
 - **Leichte Sprache** — Stark vereinfachte Sprache auf Niveau A2 nach BITV 2.0 und dem Regelwerk des Netzwerks Leichte Sprache; standardisierte Regeln zu Wortlaenge, Satzstruktur und Bildunterstuetzung.
 - **BITV 2.0** — Barrierefreie-Informationstechnik-Verordnung; verpflichtet öffentliche Stellen zur barrierefreien Gestaltung digitaler Angebote einschliesslich Leichter Sprache.
-- **Rechtsinhalt-Sicherung** — Pruefung, dass nach der Vereinfachung keine Rechte, Pflichten, Fristen oder Rechtsfolgen verloren gegangen sind.
+- **Rechtsinhalt-Sicherung** — Prüfung, dass nach der Vereinfachung keine Rechte, Pflichten, Fristen oder Rechtsfolgen verloren gegangen sind.
 - **Qualitaetsgate** — Abschlusspruefung vor Veroeffentlichung: Verstaendlichkeit, Gleichgewicht zum Original, Glossar-Konsistenz, Barrierefreiheit.
 - **Zielgruppe** — Definierte Personengruppe (z. B. Menschen mit Lernschwierigkeiten, Buerger ohne Rechtskenntnisse), nach der Schwierigkeitsgrad und Modus gewaehlt werden.
 
@@ -225,27 +225,27 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Wer ist die Zielgruppe des vereinfachten Textes?
+1. Mandantenkonstellation klären: Wer ist die Zielgruppe des vereinfachten Textes?
 2. Modus festlegen: Einfache Sprache (B1) oder Leichte Sprache (A2)?
 3. Rechtsinhalt erfassen: Alle relevanten Rechte, Pflichten, Fristen und Rechtsfolgen des Originaltexts sichern (Skill `elsj-juristische-sicherung`).
 4. Vereinfachung erstellen: Passenden Skill waehlen (`elsj-einfache-sprache` oder `elsj-leichte-sprache`).
-5. Qualitaetsgate durchlaufen: Fertige Fassung vor Veroeffentlichung pruefen (`elsj-qualitaetsgate`).
+5. Qualitaetsgate durchlaufen: Fertige Fassung vor Veroeffentlichung prüfen (`elsj-qualitaetsgate`).
 
 ## Skill-Tour (was gibt es hier?)
 
-- `elsj-kommandocenter` — Navigationszentrum: Zielgruppe und Modus klaeren, starten, alle Skills koordinieren.
+- `elsj-kommandocenter` — Navigationszentrum: Zielgruppe und Modus klären, starten, alle Skills koordinieren.
 - `elsj-einfache-sprache` — Juristischen Text auf Einfache Sprache Niveau B1 uebertragen für Buerger ohne Fachkenntnisse.
 - `elsj-leichte-sprache` — Juristischen Text auf Leichte Sprache Niveau A2 uebertragen für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen.
 - `elsj-juristische-sicherung` — Sicherstellt, dass kein Rechtsinhalt (Rechte, Pflichten, Fristen, Betraege, Rechtsfolgen) bei der Vereinfachung verloren geht.
-- `elsj-qualitaetsgate` — Abschlusspruefung der vereinfachten Fassung vor Veroeffentlichung auf Verstaendlichkeit, Glaeubigkeit und Vollstaendigkeit.
+- `elsj-qualitaetsgate` — Abschlusspruefung der vereinfachten Fassung vor Veroeffentlichung auf Verstaendlichkeit, Gläubigkeit und Vollstaendigkeit.
 
 ## Worauf besonders achten
 
 - Einfache Sprache und Leichte Sprache sind verschiedene Standards mit unterschiedlichen Regelwerken — Modus am Anfang festlegen, nicht waehrend der Bearbeitung wechseln.
-- Kein Rechtsinhalt darf durch Vereinfachung verloren gehen: Fristen, Betraege und Rechtsfolgen muessen exakt erhalten bleiben.
-- Leichte Sprache erfordert typischerweise die Einbindung von Prueferinnen und Pruefern mit kognitiven Einschraenkungen — das Plugin kann nur den Text liefern, nicht die Pruefung ersetzen.
+- Kein Rechtsinhalt darf durch Vereinfachung verloren gehen: Fristen, Betraege und Rechtsfolgen müssen exakt erhalten bleiben.
+- Leichte Sprache erfordert typischerweise die Einbindung von Prüferinnen und Prüfern mit kognitiven Einschraenkungen — das Plugin kann nur den Text liefern, nicht die Prüfung ersetzen.
 - Bei Bescheiden und amtlichen Dokumenten gilt: Vereinfachungen sind Informationshilfen, kein rechtsverbindlicher Ersatz des Originaldokuments.
-- AGB-Vereinfachungen koennen auf Einbeziehungsfragen nach § 305 BGB wirken — rechtliche Wechselwirkungen bedenken.
+- AGB-Vereinfachungen können auf Einbeziehungsfragen nach § 305 BGB wirken — rechtliche Wechselwirkungen bedenken.
 
 ## Typische Fehler
 
@@ -257,9 +257,9 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 ## Querverweise
 
-- `datenschutzrecht` — DSGVO-Einwilligungen und Datenschutzerklaerungen muessen verstaendlich formuliert sein (Art. 7 Abs. 2 DSGVO).
+- `datenschutzrecht` — DSGVO-Einwilligungen und Datenschutzerklaerungen müssen verstaendlich formuliert sein (Art. 7 Abs. 2 DSGVO).
 - `vertragsrecht` — AGB-Einbeziehung nach § 305 BGB erfordert klare, verstaendliche Formulierungen.
-- `selbstvertreter-amtsgericht` — Buerger ohne Rechtskenntnisse koennen von vereinfachten Gerichtsdokumenten profitieren.
+- `selbstvertreter-amtsgericht` — Buerger ohne Rechtskenntnisse können von vereinfachten Gerichtsdokumenten profitieren.
 
 ## Quellen und Aktualitaet
 
@@ -557,16 +557,16 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
@@ -582,10 +582,10 @@ Konkret zu prüfen:
 - UN-BRK Art. 9, 21
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -731,7 +731,7 @@ _Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Einfache und leich
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Juristische Erstpruefung Rollenklaerung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Einfache Leichte Sprache Jura** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Juristische Erstpruefung Rollenklaerung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Einfache Leichte Sprache Jura** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -753,10 +753,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

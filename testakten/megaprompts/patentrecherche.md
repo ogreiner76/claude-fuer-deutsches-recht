@@ -8,17 +8,17 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `patentrecherche`.
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Patentrecherche (FTO, Validity, Family-Watch): ordnet Rolle (Anmelder, Erfinder, Patent…
 2. **patentrecherche-erstpruefung-und-mandatsziel** — Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel im Patentrecherche.
-3. **agentische-datenbank-recherche** — Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Besc…
-4. **freedom-to-operate-recherche** — Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in …
-5. **klassifikation-cpc-neuheit-patentfamilien** — CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanks…
-6. **neuheit-pruefen** — Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkm…
-7. **patentfamilien-analyse** — Patentfamilien-Analyse über INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitgliede…
-8. **recherchebericht-erstellen** — Formaler Recherchebericht für den Mandanten oder die Akte. Bringt Auftrag Methodik durchsuchte Datenbanken verwendete Su…
-9. **rueckfragen-mandant** — Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine sinnvolle Recherche nicht ausreicht oder Abg…
-10. **rueckfragen-mandant-depatisnet** — Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO R…
-11. **stand-der-technik-recherche** — Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand des Erfindungsmaterials und der ermittelte…
-12. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Patentrecherche-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und W…
-13. **ueberwachung-konkurrenten** — Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anm…
+3. **freedom-to-operate-recherche** — Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in …
+4. **klassifikation-cpc-neuheit-patentfamilien** — CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanks…
+5. **neuheit-pruefen** — Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkm…
+6. **patentfamilien-analyse** — Patentfamilien-Analyse über INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitgliede…
+7. **recherchebericht-erstellen** — Formaler Recherchebericht für den Mandanten oder die Akte. Bringt Auftrag Methodik durchsuchte Datenbanken verwendete Su…
+8. **rueckfragen-mandant** — Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine sinnvolle Recherche nicht ausreicht oder Abg…
+9. **rueckfragen-mandant-depatisnet** — Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO R…
+10. **stand-der-technik-recherche** — Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand des Erfindungsmaterials und der ermittelte…
+11. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Patentrecherche-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und W…
+12. **ueberwachung-konkurrenten** — Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anm…
+13. **agentische-datenbank-recherche** — Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Besc…
 14. **erfinderische-taetigkeit-freedom-to-ki-patent** — Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern…
 15. **kaltstart-interview** — Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentass…
 
@@ -76,7 +76,7 @@ _Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel im Patentrecherch
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Patentrecherche Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Patentrecherche** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Patentrecherche Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Patentrecherche** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -114,211 +114,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `agentische-datenbank-recherche`
-
-_Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG..._
-
-# agentische-datenbank-recherche
-
-## Arbeitsbereich
-
-Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Tätigkeit). Prüfraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veröffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: EPÜ R. 36 Teilanmeldung, PatG § 41 Priorität 12 Monate, USPTO Provisional 12 Monate, EPO Recherchebericht typ. 6 Monate.
-- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- **Suchauftrag** in natürlicher Sprache ("Bitte recherchiere zu folgender Erfindung den Stand der Technik in Europa und USA …").
-- **Erfindungsmaterial:** Erfindungsbeschreibung, Anspruchsentwurf, Datenblatt, Skizzen, Memo. **Drag-and-Drop oder Datei-Upload.**
-- **Klassen** aus dem vorgelagerten Skill `klassifikation-cpc-ipc` (Hauptklasse + Nebenklassen, CPC und IPC).
-- **Rechtsraum** aus dem Kaltstart-Interview oder ad hoc gewählt.
-- **Recherchezweck** (Stand der Technik / Neuheit / FTO / Monitoring / Bescheid) — bestimmt die Filtersetzung.
-
-## Datenbanken und ihre agentische Bedienung
-
-### 1. Espacenet — `https://worldwide.espacenet.com`
-
-- Betreiber: EPA. ~150 Millionen Patentdokumente weltweit. Volltext bei vielen Dokumenten, Maschinenübersetzung **Patent Translate** für ~30 Sprachen.
-- **Smart Search** für freien Volltext: Eingabefeld oben akzeptiert kurze Fragen und ganze Sätze.
-- **Advanced Search** für strukturierte Suche: Felder `txt` (Titel/Abstract), `desc` (Beschreibung), `claims`, `cpc`, `ipc`, `ti` (Titel), `ab` (Abstract), `in` (Erfinder), `pa` (Anmelder), `pn` (Publikationsnummer), `pd` (Publikationsdatum), `prd` (Prioritätsdatum), `ap` (Anmelde-Nr.). Boolesche Operatoren `AND`, `OR`, `NOT`, Wildcards `*`, Nachbarschaft `prox/distance<n>` und `prox/unit=sentence`.
-- **Familien-Ansicht:** "Family list" und "INPADOC patent family" — wichtig für Dedup.
-- **Classification Search:** [Espacenet CPC Browser](https://worldwide.espacenet.com/patent/cpc-browser).
-- **Agentische Bedienung:** Smart Search akzeptiert natürlichsprachige Suchaufträge und ganze Texte. Drag-and-Drop des Erfindungsmaterials in das Smart-Search-Feld; das System scrollt durch die Trefferliste, öffnet Treffer in "Family list"-Ansicht, sammelt Metadaten.
-
-### 2. Google Patents — `https://patents.google.com`
-
-- Betreiber: Google. ~120 Millionen Patentdokumente, sehr gute Volltextsuche mit semantischer Erweiterung, Maschinenübersetzung. **Google Scholar Cross-Search** für Nicht-Patent-Literatur (Aufsätze, Konferenz-Proceedings).
-- **Suche:** Suchfeld akzeptiert ganze Sätze und Anspruchstext. Filter links: Klasse (CPC), Erfinder, Anmelder, Datum, Patentamt, Sprache, Status.
-- **Prior Art Finder:** Bei jedem Treffer Button "Find prior art" — automatische Vorschläge für ähnliche Dokumente.
-- **Agentische Bedienung:** Suchauftrag in das Hauptsuchfeld, Filter setzen, Klassen-Filter aus dem CPC-Set, Status-Filter (Granted / Application / Expired) je nach Recherchezweck.
-
-### 3. DPMAregister — `https://register.dpma.de`
-
-- Betreiber: DPMA. **Rechtsstand** deutscher Patente und Gebrauchsmuster: Anmeldetag, Erteilung, Erlöschen, Einspruch, Nichtigkeit, Jahresgebühren bezahlt, Stand offen / erteilt / zurückgenommen / zurückgewiesen / erloschen / nichtig.
-- **Recherche nicht stark** — DPMAregister ist die Rechtsstands-Datenbank. Volltextrecherche läuft über DEPATISnet.
-- **Agentische Bedienung:** Eingabe Veröffentlichungsnummer oder Anmeldenummer, Direkt-Abruf Rechtsstand. Bei FTO und Einspruch immer DPMAregister hinzuziehen.
-
-### 4. DEPATISnet — `https://depatisnet.dpma.de`
-
-- Betreiber: DPMA. **Recherchedatenbank** mit weltweitem Patentdokumentenbestand (DEPATIS — Datenbankzugang in den Patentinformationszentren).
-- **Klassen-Recherche** stark, **deutscher Volltext** vorhanden, Anmelder- und Erfindersuche.
-- **Agentische Bedienung:** "Einsteigerrecherche" für natürlichsprachige Eingabe, "Expertenrecherche" mit IKOFAX-Syntax (Befehlsmodus). Für DE-Schwerpunkt sinnvoll.
-
-### 5. EPO Register — `https://register.epo.org`
-
-- Betreiber: EPA. **Rechtsstand** europäischer Patentanmeldungen und EP-Patente. Akteneinsicht teilweise öffentlich nach Veröffentlichung der Anmeldung — Rechercheberichte, Prüfungsbescheide, Antworten, Einspruchsschriften.
-- **Agentische Bedienung:** Eingabe Veröffentlichungsnummer (EP …), Direkt-Abruf Rechtsstand und "All Documents". Für Einspruchsstrategie und FTO essenziell.
-
-### 6. WIPO PATENTSCOPE — `https://patentscope.wipo.int`
-
-- Betreiber: WIPO. **PCT-Anmeldungen** (Welt-Anmeldungen WO …), nationale Phasen, ISA-Recherchebericht.
-- **Cross-Lingual Expansion:** WIPO Translate für Volltextsuche in mehreren Sprachen.
-- **Agentische Bedienung:** Suchfeld für natürlichsprachige Suche, Klassenfilter, Frist-Tracker für die nationalen Phasen.
-
-### 7. USPTO Patent Public Search — `https://ppubs.uspto.gov/pubwebapp/external.html`
-
-- Betreiber: USPTO. **US-Patente** und Anmeldungen. PatFT und AppFT in PPUBS zusammengefasst (ab 2022). Volltext der US-Dokumente, CPC- und USPC-Klassifikation.
-- **Agentische Bedienung:** Quick Lookup oder Advanced Search mit Boolescher Syntax, Felder `.TI.`, `.AB.`, `.CLM.`, `.AN.` (Assignee), `.IN.` (Inventor), `.CPC.`, `.APD.` (Filing Date).
-
-## Ablauf
-
-### Schritt 1: Suchauftrag normalisieren
-
-Das System liest den natürlichsprachigen Auftrag, identifiziert:
-
-- Welche Datenbanken sind angesprochen (alle / nur EU / nur DE / Weltreichweite)?
-- Welcher Zeitraum (Anmelde- / Veröffentlichungsdatum, vor / nach Stichtag)?
-- Welcher Recherchezweck?
-- Welche Schlüsselbegriffe (aus dem Material extrahiert)?
-
-### Schritt 2: Such-Strings je Datenbank bauen
-
-Pro Datenbank ein eigener Suchstring — die Syntax unterscheidet sich:
-
-**Espacenet (Advanced Search):**
-```
-((cpc=H02J3/14 OR cpc=Y02E60/00) AND (txt="lastmanagement" OR txt="demand response") AND pd>=2018)
-```
-
-**Google Patents:**
-```
-(lastmanagement OR demand response) (CPC=H02J3/14 OR CPC=Y02E60/00) after:2018-01-01
-```
-
-**DEPATISnet (IKOFAX):**
-```
-ICB=H02J3/14? UND TI=lastmanagement?
-```
-
-**USPTO PPUBS:**
-```
-(lastmanagement OR (demand ADJ response)).TI,AB,CLM. AND CPC/H02J3/14
-```
-
-Die Strings werden **dokumentiert** ausgegeben, damit die Recherche reproduzierbar bleibt.
-
-### Schritt 3: Datenbanken nacheinander ansteuern
-
-Pro Datenbank:
-
-1. URL öffnen.
-2. Suchstring eingeben oder bei Smart Search den Erfindungstext einfügen.
-3. Trefferzahl notieren (Sanity Check: 5 oder 50.000 Treffer sind beide ein Problem).
-4. Bei Überschwemmung: Filter setzen (Klasse, Datum, Anmelder) und Refinement bis Trefferzahl handhabbar (≤200) wird.
-5. Trefferliste durchgehen — Titel, Abstract, Hauptanspruch, Klassen, Zeichnungen.
-6. Treffer, die zur Erfindung passen: in die Ergebnistabelle übernehmen.
-
-### Schritt 4: Trefferliste zusammenführen
-
-Tabelle mit Spalten:
-
-| Veröff.-Nr. | Anmelder | Anmeldetag (Prio) | CPC / IPC | Titel | Status | Link | Quelldatenbank |
-
-### Schritt 5: Patentfamilien deduplizieren
-
-Über das Skill `patentfamilien-analyse` die INPADOC-Familie jedes Treffers prüfen — wenn ein US-Patent und sein EP-Pendant denselben Prioritätstag haben, gehören sie zur selben Familie und können als ein Treffer (mit Familien-Auflistung) zusammengefasst werden.
-
-### Schritt 6: Maschinenübersetzungen kennzeichnen
-
-Wenn ein Treffer aus JP-, CN-, KR-, RU- oder anderen Nicht-Englisch / Nicht-Deutsch / Nicht-Französisch-Quellen stammt und nur als Maschinenübersetzung lesbar ist: explizit kennzeichnen mit `[MT]` hinter dem Titel.
-
-### Schritt 7: Output
-
-Strukturierte Ergebnisliste mit:
-
-- **Suchstrings** je Datenbank
-- **Trefferzahlen** je Datenbank
-- **Treffertabelle** (Veröff.-Nr., Anmelder, Anmeldetag, Klassen, Titel, Status, Link, Quelldatenbank)
-- **Familien-Cluster** wo dedupliziert
-- **Disclaimer** (siehe unten)
-
-## Grenzen der agentischen Recherche
-
-- **Volltextsuche** funktioniert nicht in allen Sprachen gleich gut. JP, CN, KR sind oft nur über Klassen- und Anmelder-/Titel-Suche zuverlässig erreichbar.
-- **Bezahl-Datenbanken** (PatBase, STN, Orbit, Questel) werden **nicht** agentisch bedient. Wenn die Kanzlei Zugänge hat: dort selbst recherchieren, Ergebnisse manuell zuführen.
-- **Nicht-Patent-Literatur** (NPL) — Aufsätze, Konferenz-Proceedings, Dissertationen, Produkt-Datenblätter, frühere öffentliche Nutzungen. Das Plugin behandelt sie über `stand-der-technik-recherche` ergänzend, nicht innerhalb des Master-Skills.
-- **Geheime ältere Anmeldungen** (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) — diese werden zwar nachträglich publiziert, sind aber bei einer Recherche kurz nach dem Anmeldetag der Mandantin noch nicht öffentlich. Klar kommunizieren, dass ein "Zwischenraum" von 18 Monaten existiert.
-
-## Disclaimer
-
-> **Hinweis zur Recherche.** Diese Recherche ist eine KI-gestützte Vorrecherche und keine amtliche Recherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Treffern in nicht-deutschen, nicht-englischen und nicht-französischen Sprachen, bei Treffern außerhalb der gewählten Klassen und bei Treffern, die nicht in einer der eingesehenen Datenbanken hinterlegt sind. Die Recherche muss durch eigene Nachrecherche oder durch Überprüfung der Treffer abgesichert werden.
-
-## Übergabe
-
-Die strukturierte Ergebnisliste geht an den passenden Folge-Skill:
-
-- `neuheit-pruefen` — für Neuheitsbewertung
-- `erfinderische-taetigkeit-pruefen` — für Problem-Solution-Approach
-- `freedom-to-operate-recherche` — für FTO-Bewertung
-- `recherchebericht-erstellen` — für formalen Output
-
-## Triage-Fragen vor agentischer Datenbankrecherche
-
-Bevor die Datenbankrecherche gestartet wird, klaere:
-1. Was ist das prioritaere Rechercheziel — Neuheitspruefung, FTO oder Stand-der-Technik?
-2. Sind alle relevanten Datenbanken zugaenglich (Espacenet, USPTO, Patentscope, J-PlatPat)?
-3. Wurden die Schluesselbegriffe und Klassifikationen (CPC/IPC) bereits identifiziert?
-4. Gibt es einen Anmeldetag — der bestimmt den massgeblichen Prioritaetszeitpunkt für die Neuheit?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> **EPA, Technische Beschwerdekammer, T 1090/12 (Funktionale Merkmale):** Eine Entgegenhaltung nimmt ein funktionales Merkmal vorweg, wenn sie eine Vorrichtung beschreibt, die geeignet ist, die beanspruchte Funktion zu erfuellen; die tatsaechliche Ausfuehrung der Funktion ist nicht erforderlich.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 PatG
-- § 4 PatG
-- § 45 PatG
-- § 14 PatG
-- § 59 PatG
-- § 203 StGB
-- § 33 PatG
-- § 81 PatG
-- § 47 PatG
-- § 39 PatG
-- § 16 PatG
-- § 29 VwVfG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
@@ -547,7 +342,7 @@ klassen:
 ## Triage-Fragen vor Klassifikations-Recherche
 
 Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
-1. Welches technische Gebiet ist primaer betroffen (Hauptklasse) und welche Querschnittsklassen koennen relevant sein?
+1. Welches technische Gebiet ist primaer betroffen (Hauptklasse) und welche Querschnittsklassen können relevant sein?
 2. Sind Y-Klassen (CPC-spezifisch, Klimatechnologie, IoT) zutreffend?
 3. Soll IPC zusaetzlich zu CPC eingesetzt werden (notwendig für Länder ohne CPC und aeltere Patente vor 2013)?
 4. Wurde die Klassifikation anhand des naechstliegenden Anspruchsmerkmals (nicht des Funktionsergebnisses) bestimmt?
@@ -558,7 +353,7 @@ Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **DPMA, Merkblatt Klassifikation 2023:** CPC-Klassen werden von Espacenet und Google Patents korrekt indexiert; für die agentische Recherche ist die Kombination von Klassen- und Schluessel-wort-Suche unverzichtbar, da Klassifikationsfehler der Aemter zu Luecken fuehren koennen.
+> **DPMA, Merkblatt Klassifikation 2023:** CPC-Klassen werden von Espacenet und Google Patents korrekt indexiert; für die agentische Recherche ist die Kombination von Klassen- und Schlüssel-wort-Suche unverzichtbar, da Klassifikationsfehler der Aemter zu Luecken fuehren können.
 
 ---
 
@@ -654,7 +449,7 @@ Bevor die Neuheitspruefung beginnt, klaere:
 1. Ist der Prioritaetszeitpunkt klar (Anmeldetag oder Prioritaetsdatum aus frueherer Anmeldung)?
 2. Sind geheime aeltere Anmeldungen (§ 3 II PatG / Art. 54 III EPU) beruecksichtigt?
 3. Wurden alle relevanten CPC/IPC-Klassen für die Recherche eingesetzt?
-4. Handelt es sich um einen Hauptanspruch oder einen abhaengigen Anspruch (abhaengige Ansprueche koennen weniger Merkmale enthalten = leichter angreifbar)?
+4. Handelt es sich um einen Hauptanspruch oder einen abhaengigen Anspruch (abhaengige Ansprueche können weniger Merkmale enthalten = leichter angreifbar)?
 
 ## Aktuelle Rechtsprechung
 
@@ -771,7 +566,7 @@ Bevor die Familienanalyse begonnen wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EPA, Erweiterte Beschwerdekammer, G 2/10 (Teilanmeldung):** Eine EP-Teilanmeldung kann nur Gegenstande umfassen, die in der Stammanmeldung zum Zeitpunkt der Einreichung der Teilanmeldung offenbart waren; neue Merkmale koennen nicht nachtraeglich in eine Teilanmeldung eingefuehrt werden.
+> **EPA, Erweiterte Beschwerdekammer, G 2/10 (Teilanmeldung):** Eine EP-Teilanmeldung kann nur Gegenstande umfassen, die in der Stammanmeldung zum Zeitpunkt der Einreichung der Teilanmeldung offenbart waren; neue Merkmale können nicht nachtraeglich in eine Teilanmeldung eingefuehrt werden.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -928,7 +723,7 @@ Markdown-Datei `recherchebericht_<aktenzeichen>_<datum>.md` im Arbeitsverzeichni
 ## Triage-Fragen vor Recherchebericht-Erstellung
 
 Bevor der Bericht formatiert wird, klaere:
-1. Sind alle Rechercheergeb-nisse aus den vorangegangenen Skills (neuheit-pruefen, erfinderische-taetigkeit, FTO) vollstaendig?
+1. Sind alle Rechercheergeb-nisse aus den vorangegangenen Skills (neuheit-prüfen, erfinderische-taetigkeit, FTO) vollstaendig?
 2. Ist der Adressat des Berichts identifiziert (Mandant, Patentanwalt, Gericht)?
 3. Sind alle drei Disclaimer-Bloecke im Bericht enthalten (Deckblatt, Methodik, Abschluss)?
 4. Ist der Stichtag der Recherche im Dateinamen und im Bericht korrekt vermerkt?
@@ -939,7 +734,7 @@ Bevor der Bericht formatiert wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **DPMA, Bekanntmachung 2022 (Verwertungsberichte):** Im Zusammenhang mit Patentbewertungen und Recherchen für IP-Portfoliokauf erwartet das DPMA vollstaendige Angaben ueber bekannte Wettbewerber-Rechte; ein Bericht, der bekannte Kollisionspunkte nicht nennt, kann als unvollstaendige Auskunft und Berufspflichtverletzung angesehen werden.
+> **DPMA, Bekanntmachung 2022 (Verwertungsberichte):** Im Zusammenhang mit Patentbewertungen und Recherchen für IP-Portfoliokauf erwartet das DPMA vollstaendige Angaben über bekannte Wettbewerber-Rechte; ein Bericht, der bekannte Kollisionspunkte nicht nennt, kann als unvollstaendige Auskunft und Berufspflichtverletzung angesehen werden.
 
 ---
 
@@ -1066,7 +861,7 @@ Mit freundlichen Grüßen
 ## Triage-Fragen vor Mandanten-Rueckfragen
 
 Bevor die Rueckfrageliste erstellt wird, klaere:
-1. Welches Rechercheprodukt benoetigt die Informationen — Neuheitspruefung, FTO, Pruefungsbescheid-Antwort oder Valorisierung?
+1. Welches Rechercheprodukt benoetigt die Informationen — Neuheitspruefung, FTO, Prüfungsbescheid-Antwort oder Valorisierung?
 2. Hat der Mandant bereits Unterlagen eingereicht (Anspruchsentwurf, Produktbeschreibung, Skizze)?
 3. Besteht ein zeitlicher Druck (Patent-Frist, Messe-Neuheitsfrist, Vertragsverhandlung)?
 4. Ist der Mandant technischer Fachmann oder berufslaie (Fragebogen-Sprachstil anpassen)?
@@ -1448,7 +1243,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `agentische-datenbank-recherche` | Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister,… |
 | `erfinderische-taetigkeit-pruefen` | Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand… |
 | `freedom-to-operate-recherche` | Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14… |
-| `klassifikation-cpc-ipc` | CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC… |
+| `klassifikation-cpc-ipc` | CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanksuche müssen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC… |
 | `neuheit-pruefen` | Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-für-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die… |
 | `patentfamilien-analyse` | Patentfamilien-Analyse über INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitglieder weltweit DE EP US JP CN KR WO und sonstige Aemter mit gleichem Prioritaetstag. Liefert eine… |
 | `patentrecherche-kaltstart-interview` | Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik… |
@@ -1461,7 +1256,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt Patentanwaelte, Patentassistenten und technische Berater bei der systematischen Patentrecherche in nationalen und internationalen Datenbanken. Es deckt die gesamte Bandbreite von der Neuheitspruefung vor Anmeldung ueber die Pruefung erfinderischer Taetigkeit bis zur Freedom-to-Operate-Recherche (FTO) ab.
+Das Plugin unterstuetzt Patentanwaelte, Patentassistenten und technische Berater bei der systematischen Patentrecherche in nationalen und internationalen Datenbanken. Es deckt die gesamte Bandbreite von der Neuheitspruefung vor Anmeldung über die Prüfung erfinderischer Taetigkeit bis zur Freedom-to-Operate-Recherche (FTO) ab.
 
 Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO und USPTO nach den CPC/IPC-Klassifikationen und dem Problem-Solution-Approach der EPA-Beschwerdekammern. Ergebnisse werden in formalen Rechercheberichten und Anmelde-Antwort-Paketen dokumentiert.
 
@@ -1469,7 +1264,7 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 
 - Mandant hat neue Erfindung und will wissen, ob sie neuheitlich und erfinderisch genueg für eine Patentanmeldung ist.
 - Unternehmen plant Markteintritt mit neuem Produkt und braucht FTO-Recherche zu aktiven Schutzrechten von Wettbewerbern.
-- Patentanwalt erhaelt Pruefungsbescheid des DPMA oder EPA und muss Antwort mit Stand-der-Technik-Analyse vorbereiten.
+- Patentanwalt erhaelt Prüfungsbescheid des DPMA oder EPA und muss Antwort mit Stand-der-Technik-Analyse vorbereiten.
 - Mandant will Patentportfolio eines Konkurrenten laufend beobachten (Ueberwachung Neuanmeldungen).
 - Rechtsstandpruefung eines Patents: Ist das Schutzrecht noch in Kraft? Sind Jahresgebuehren bezahlt?
 
@@ -1479,8 +1274,8 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 - **Erfinderische Taetigkeit (§ 4 PatG / Art. 56 EPUe)** — Erfindung darf sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergeben.
 - **Problem-Solution-Approach (PSA)** — Standardmethode der EPA-Beschwerdekammern: naechster Stand der Technik, objektive technische Aufgabe, naheliegend?
 - **CPC / IPC** — Cooperative Patent Classification / International Patent Classification; hierarchische Klassifikationssysteme für Patentdokumente.
-- **Freedom to Operate (FTO)** — Pruefung, ob ein Produkt oder Verfahren in einen Anspruch eines Drittpatents faellt und damit Verletzungsrisiko besteht.
-- **INPADOC** — Internationaler Patenddokumentationsdienst; liefert Familienzusammenhaenge und Rechtsstanddaten ueber EPO.
+- **Freedom to Operate (FTO)** — Prüfung, ob ein Produkt oder Verfahren in einen Anspruch eines Drittpatents faellt und damit Verletzungsrisiko besteht.
+- **INPADOC** — Internationaler Patenddokumentationsdienst; liefert Familienzusammenhaenge und Rechtsstanddaten über EPO.
 - **Patentfamilie** — Alle nationalen und regionalen Schutzrechte, die auf dieselbe Prioritaetsanmeldung zurueckgehen.
 
 ## Rechtsgrundlagen
@@ -1489,13 +1284,13 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 - § 3 PatG — Neuheit
 - § 4 PatG — Erfinderische Taetigkeit
 - §§ 34 ff. PatG — Patentanmeldung beim DPMA
-- §§ 44 45 PatG — Pruefungsverfahren DPMA
+- §§ 44 45 PatG — Prüfungsverfahren DPMA
 - Art. 52-57 EPUe — Patentierbarkeit nach Europaeischem Patentrecht
-- Art. 94 EPUe — Pruefungsverfahren EPA
+- Art. 94 EPUe — Prüfungsverfahren EPA
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Neuanmeldung, FTO, Pruefungsbescheid-Antwort oder Konkurrenzueberwachung?
+1. Mandantenkonstellation klären: Neuanmeldung, FTO, Prüfungsbescheid-Antwort oder Konkurrenzueberwachung?
 2. Erfindungsmaterial aufnehmen: Anspruchsentwurf, Beschreibung oder technisches Dokument hochladen.
 3. Klassifikation bestimmen: CPC/IPC-Klassen für gezielte Datenbanksuche festlegen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
@@ -1505,32 +1300,32 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 
 - `patentrecherche-kaltstart-interview` — Erstkontakt und Aufnahme der Rechercheanforderungen: Wer recherchiert, was ist das Ziel, welches Material liegt vor?
 - `klassifikation-cpc-ipc` — CPC- und IPC-Klassen für die Datenbankrecherche bestimmen und Klassifikationsdossier erstellen.
-- `agentische-datenbank-recherche` — Agentische Suche in natuerlicher Sprache ueber Espacenet, Google Patents, DEPATISnet, WIPO und USPTO.
+- `agentische-datenbank-recherche` — Agentische Suche in natuerlicher Sprache über Espacenet, Google Patents, DEPATISnet, WIPO und USPTO.
 - `stand-der-technik-recherche` — Stand der Technik vor Patentanmeldung identifizieren und bewerten.
-- `neuheit-pruefen` — Neuheit nach § 3 PatG und Art. 54 EPUe systematisch pruefen; Merkmal-für-Merkmal-Abgleich.
-- `erfinderische-taetigkeit-pruefen` — Erfinderische Taetigkeit nach § 4 PatG und Art. 56 EPUe mit Problem-Solution-Approach pruefen.
+- `neuheit-pruefen` — Neuheit nach § 3 PatG und Art. 54 EPUe systematisch prüfen; Merkmal-für-Merkmal-Abgleich.
+- `erfinderische-taetigkeit-pruefen` — Erfinderische Taetigkeit nach § 4 PatG und Art. 56 EPUe mit Problem-Solution-Approach prüfen.
 - `freedom-to-operate-recherche` — FTO-Recherche vor Markteintritt: aktive Drittpatente mit relevantem Scope identifizieren.
-- `patentfamilien-analyse` — Alle Familienmitglieder eines Schutzrechts ueber INPADOC und Espacenet ermitteln.
-- `rechtsstand-pruefen` — Aktuellen Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Register pruefen.
-- `pruefungsbescheid-vorbereiten` — Antwort auf DPMA-Pruefungsbescheid (§ 45 PatG) oder EPA-Bescheid (Art. 94 EPUe) systematisch vorbereiten.
+- `patentfamilien-analyse` — Alle Familienmitglieder eines Schutzrechts über INPADOC und Espacenet ermitteln.
+- `rechtsstand-pruefen` — Aktuellen Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Register prüfen.
+- `pruefungsbescheid-vorbereiten` — Antwort auf DPMA-Prüfungsbescheid (§ 45 PatG) oder EPA-Bescheid (Art. 94 EPUe) systematisch vorbereiten.
 - `recherchebericht-erstellen` — Formalen Recherchebericht mit Methodik, Datenbanken, Suchstrategien und Ergebnissen erstellen.
 - `ueberwachung-konkurrenten` — Watch-Profile für laufende Ueberwachung neuer Patentanmeldungen von Wettbewerbern anlegen.
 - `rueckfragen-mandant` — Rueckfragen an den Mandanten generieren, wenn Erfindungsmaterial unvollstaendig oder ambivalent ist.
 
 ## Worauf besonders achten
 
-- Neuheitsschaedlichkeit ist weltweit und zeitlich unbegrenzt: Auch 20 Jahre alte Veroeffentlichungen koennen Neuheit zerstoeren.
+- Neuheitsschaedlichkeit ist weltweit und zeitlich unbegrenzt: Auch 20 Jahre alte Veroeffentlichungen können Neuheit zerstoeren.
 - FTO und Anmelderecherche sind unterschiedliche Aufgaben mit unterschiedlichem Scope; Verwechslung fuehrt zu falschen Ergebnissen.
-- Pruefungsbescheide haben feste Fristen (§ 45 PatG: 4 Monate, verlaengerbar; Art. 94 EPUe: aehnlich); versaeumte Fristen fuehren zu Zurueckweisung.
-- Patentfamilien-Analyse ist essenziell: Ein nationales Schutzrecht kann international wirken; nur Famille-Pruefung zeigt Gesamtscope.
-- Veroeffentlichungen des Anmelders vor dem Prioritaetstag koennen neuheitsschaedlich sein (Ausnahme: 6-Monats-Schonfrist in manchen Systemen, z.B. USPTO).
+- Prüfungsbescheide haben feste Fristen (§ 45 PatG: 4 Monate, verlaengerbar; Art. 94 EPUe: ähnlich); versaeumte Fristen fuehren zu Zurueckweisung.
+- Patentfamilien-Analyse ist essenziell: Ein nationales Schutzrecht kann international wirken; nur Famille-Prüfung zeigt Gesamtscope.
+- Veroeffentlichungen des Anmelders vor dem Prioritaetstag können neuheitsschaedlich sein (Ausnahme: 6-Monats-Schonfrist in manchen Systemen, z.B. USPTO).
 
 ## Typische Fehler
 
 - Recherche nur in einer Datenbank: Relevante Dokumente sind oft nur in DEPATISnet oder USPTO-Datenbanken, nicht in Espacenet.
 - Falschen Zeitschnitt gesetzt: FTO-Recherche erfordert nur noch in Kraft befindliche Schutzrechte; Neuheitsrecherche erfordert alle Veroeffentlichungen bis zum Anmeldetag.
 - CPC-Klassifikation zu eng gewaehlt: Aehnliche Technologien in Nachbarklassen werden uebersehen.
-- Pruefungsbescheid-Argumente zu schwach: Ohne detaillierten Merkmals-Abgleich (Feature-by-Feature-Analysis) akzeptiert EPA keine summarischen Stellungnahmen.
+- Prüfungsbescheid-Argumente zu schwach: Ohne detaillierten Merkmals-Abgleich (Feature-by-Feature-Analysis) akzeptiert EPA keine summarischen Stellungnahmen.
 - Rechtsstand nicht gecheckt: FTO-Recherche gegen abgelaufene oder fallen lassene Patente liefert unnoetigen Aufwand.
 
 ## Quellen und Aktualitaet
@@ -1649,7 +1444,7 @@ Aggregierter Bericht alle drei Monate mit:
 
 Bevor die Monitoring-Konfiguration eingerichtet wird, klaere:
 1. Sind alle relevanten Konkurrenten-Anmelder-Namen (inkl. Tochtergesellschaften und Strohmann-Kanzleien) erfasst?
-2. Welche CPC/IPC-Klassen und Schluesselbegriffe sollen für das Keyword-Monitoring eingesetzt werden?
+2. Welche CPC/IPC-Klassen und Schlüsselbegriffe sollen für das Keyword-Monitoring eingesetzt werden?
 3. Ist eine Einspruchsfrist-Ueberwachung (9 Monate nach Erteilung, § 59 PatG / Art. 99 EPU) eingerichtet?
 4. Wird die 18-Monats-Veroeffentlichungsverzoegerung in der Strategieplanung beruecksichtigt?
 
@@ -1657,15 +1452,220 @@ Bevor die Monitoring-Konfiguration eingerichtet wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EPA, Technische Beschwerdekammer, T 328/87 (Drittbeobachtungen):** Im EPA-Erteilungsverfahren koennen Dritte Beobachtungen (Art. 115 EPU) einreichen, ohne am Verfahren beteiligt zu werden; durch fruehzeitige Beobachtung koennen relevante Entgegenhaltungen in das Pruefungsverfahren eingebracht werden, bevor ein formeller Einspruch noetig wird.
+> **EPA, Technische Beschwerdekammer, T 328/87 (Drittbeobachtungen):** Im EPA-Erteilungsverfahren können Dritte Beobachtungen (Art. 115 EPU) einreichen, ohne am Verfahren beteiligt zu werden; durch fruehzeitige Beobachtung können relevante Entgegenhaltungen in das Prüfungsverfahren eingebracht werden, bevor ein formeller Einspruch noetig wird.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Massnahme: Datum und Leitsatz korrigiert auf tatsaechlichen Inhalt.
+Maßnahme: Datum und Leitsatz korrigiert auf tatsaechlichen Inhalt.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.09.2017&Aktenzeichen=X+ZB+1%2F17
 -->
+
+---
+
+## Skill: `agentische-datenbank-recherche`
+
+_Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO übersetzt. Normen: § 3 PatG..._
+
+# agentische-datenbank-recherche
+
+## Arbeitsbereich
+
+Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO übersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Tätigkeit). Prüfraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veröffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: EPÜ R. 36 Teilanmeldung, PatG § 41 Priorität 12 Monate, USPTO Provisional 12 Monate, EPO Recherchebericht typ. 6 Monate.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- **Suchauftrag** in natürlicher Sprache ("Bitte recherchiere zu folgender Erfindung den Stand der Technik in Europa und USA …").
+- **Erfindungsmaterial:** Erfindungsbeschreibung, Anspruchsentwurf, Datenblatt, Skizzen, Memo. **Drag-and-Drop oder Datei-Upload.**
+- **Klassen** aus dem vorgelagerten Skill `klassifikation-cpc-ipc` (Hauptklasse + Nebenklassen, CPC und IPC).
+- **Rechtsraum** aus dem Kaltstart-Interview oder ad hoc gewählt.
+- **Recherchezweck** (Stand der Technik / Neuheit / FTO / Monitoring / Bescheid) — bestimmt die Filtersetzung.
+
+## Datenbanken und ihre agentische Bedienung
+
+### 1. Espacenet — `https://worldwide.espacenet.com`
+
+- Betreiber: EPA. ~150 Millionen Patentdokumente weltweit. Volltext bei vielen Dokumenten, Maschinenübersetzung **Patent Translate** für ~30 Sprachen.
+- **Smart Search** für freien Volltext: Eingabefeld oben akzeptiert kurze Fragen und ganze Sätze.
+- **Advanced Search** für strukturierte Suche: Felder `txt` (Titel/Abstract), `desc` (Beschreibung), `claims`, `cpc`, `ipc`, `ti` (Titel), `ab` (Abstract), `in` (Erfinder), `pa` (Anmelder), `pn` (Publikationsnummer), `pd` (Publikationsdatum), `prd` (Prioritätsdatum), `ap` (Anmelde-Nr.). Boolesche Operatoren `AND`, `OR`, `NOT`, Wildcards `*`, Nachbarschaft `prox/distance<n>` und `prox/unit=sentence`.
+- **Familien-Ansicht:** "Family list" und "INPADOC patent family" — wichtig für Dedup.
+- **Classification Search:** [Espacenet CPC Browser](https://worldwide.espacenet.com/patent/cpc-browser).
+- **Agentische Bedienung:** Smart Search akzeptiert natürlichsprachige Suchaufträge und ganze Texte. Drag-and-Drop des Erfindungsmaterials in das Smart-Search-Feld; das System scrollt durch die Trefferliste, öffnet Treffer in "Family list"-Ansicht, sammelt Metadaten.
+
+### 2. Google Patents — `https://patents.google.com`
+
+- Betreiber: Google. ~120 Millionen Patentdokumente, sehr gute Volltextsuche mit semantischer Erweiterung, Maschinenübersetzung. **Google Scholar Cross-Search** für Nicht-Patent-Literatur (Aufsätze, Konferenz-Proceedings).
+- **Suche:** Suchfeld akzeptiert ganze Sätze und Anspruchstext. Filter links: Klasse (CPC), Erfinder, Anmelder, Datum, Patentamt, Sprache, Status.
+- **Prior Art Finder:** Bei jedem Treffer Button "Find prior art" — automatische Vorschläge für ähnliche Dokumente.
+- **Agentische Bedienung:** Suchauftrag in das Hauptsuchfeld, Filter setzen, Klassen-Filter aus dem CPC-Set, Status-Filter (Granted / Application / Expired) je nach Recherchezweck.
+
+### 3. DPMAregister — `https://register.dpma.de`
+
+- Betreiber: DPMA. **Rechtsstand** deutscher Patente und Gebrauchsmuster: Anmeldetag, Erteilung, Erlöschen, Einspruch, Nichtigkeit, Jahresgebühren bezahlt, Stand offen / erteilt / zurückgenommen / zurückgewiesen / erloschen / nichtig.
+- **Recherche nicht stark** — DPMAregister ist die Rechtsstands-Datenbank. Volltextrecherche läuft über DEPATISnet.
+- **Agentische Bedienung:** Eingabe Veröffentlichungsnummer oder Anmeldenummer, Direkt-Abruf Rechtsstand. Bei FTO und Einspruch immer DPMAregister hinzuziehen.
+
+### 4. DEPATISnet — `https://depatisnet.dpma.de`
+
+- Betreiber: DPMA. **Recherchedatenbank** mit weltweitem Patentdokumentenbestand (DEPATIS — Datenbankzugang in den Patentinformationszentren).
+- **Klassen-Recherche** stark, **deutscher Volltext** vorhanden, Anmelder- und Erfindersuche.
+- **Agentische Bedienung:** "Einsteigerrecherche" für natürlichsprachige Eingabe, "Expertenrecherche" mit IKOFAX-Syntax (Befehlsmodus). Für DE-Schwerpunkt sinnvoll.
+
+### 5. EPO Register — `https://register.epo.org`
+
+- Betreiber: EPA. **Rechtsstand** europäischer Patentanmeldungen und EP-Patente. Akteneinsicht teilweise öffentlich nach Veröffentlichung der Anmeldung — Rechercheberichte, Prüfungsbescheide, Antworten, Einspruchsschriften.
+- **Agentische Bedienung:** Eingabe Veröffentlichungsnummer (EP …), Direkt-Abruf Rechtsstand und "All Documents". Für Einspruchsstrategie und FTO essenziell.
+
+### 6. WIPO PATENTSCOPE — `https://patentscope.wipo.int`
+
+- Betreiber: WIPO. **PCT-Anmeldungen** (Welt-Anmeldungen WO …), nationale Phasen, ISA-Recherchebericht.
+- **Cross-Lingual Expansion:** WIPO Translate für Volltextsuche in mehreren Sprachen.
+- **Agentische Bedienung:** Suchfeld für natürlichsprachige Suche, Klassenfilter, Frist-Tracker für die nationalen Phasen.
+
+### 7. USPTO Patent Public Search — `https://ppubs.uspto.gov/pubwebapp/external.html`
+
+- Betreiber: USPTO. **US-Patente** und Anmeldungen. PatFT und AppFT in PPUBS zusammengefasst (ab 2022). Volltext der US-Dokumente, CPC- und USPC-Klassifikation.
+- **Agentische Bedienung:** Quick Lookup oder Advanced Search mit Boolescher Syntax, Felder `.TI.`, `.AB.`, `.CLM.`, `.AN.` (Assignee), `.IN.` (Inventor), `.CPC.`, `.APD.` (Filing Date).
+
+## Ablauf
+
+### Schritt 1: Suchauftrag normalisieren
+
+Das System liest den natürlichsprachigen Auftrag, identifiziert:
+
+- Welche Datenbanken sind angesprochen (alle / nur EU / nur DE / Weltreichweite)?
+- Welcher Zeitraum (Anmelde- / Veröffentlichungsdatum, vor / nach Stichtag)?
+- Welcher Recherchezweck?
+- Welche Schlüsselbegriffe (aus dem Material extrahiert)?
+
+### Schritt 2: Such-Strings je Datenbank bauen
+
+Pro Datenbank ein eigener Suchstring — die Syntax unterscheidet sich:
+
+**Espacenet (Advanced Search):**
+```
+((cpc=H02J3/14 OR cpc=Y02E60/00) AND (txt="lastmanagement" OR txt="demand response") AND pd>=2018)
+```
+
+**Google Patents:**
+```
+(lastmanagement OR demand response) (CPC=H02J3/14 OR CPC=Y02E60/00) after:2018-01-01
+```
+
+**DEPATISnet (IKOFAX):**
+```
+ICB=H02J3/14? UND TI=lastmanagement?
+```
+
+**USPTO PPUBS:**
+```
+(lastmanagement OR (demand ADJ response)).TI,AB,CLM. AND CPC/H02J3/14
+```
+
+Die Strings werden **dokumentiert** ausgegeben, damit die Recherche reproduzierbar bleibt.
+
+### Schritt 3: Datenbanken nacheinander ansteuern
+
+Pro Datenbank:
+
+1. URL öffnen.
+2. Suchstring eingeben oder bei Smart Search den Erfindungstext einfügen.
+3. Trefferzahl notieren (Sanity Check: 5 oder 50.000 Treffer sind beide ein Problem).
+4. Bei Überschwemmung: Filter setzen (Klasse, Datum, Anmelder) und Refinement bis Trefferzahl handhabbar (≤200) wird.
+5. Trefferliste durchgehen — Titel, Abstract, Hauptanspruch, Klassen, Zeichnungen.
+6. Treffer, die zur Erfindung passen: in die Ergebnistabelle übernehmen.
+
+### Schritt 4: Trefferliste zusammenführen
+
+Tabelle mit Spalten:
+
+| Veröff.-Nr. | Anmelder | Anmeldetag (Prio) | CPC / IPC | Titel | Status | Link | Quelldatenbank |
+
+### Schritt 5: Patentfamilien deduplizieren
+
+Über das Skill `patentfamilien-analyse` die INPADOC-Familie jedes Treffers prüfen — wenn ein US-Patent und sein EP-Pendant denselben Prioritätstag haben, gehören sie zur selben Familie und können als ein Treffer (mit Familien-Auflistung) zusammengefasst werden.
+
+### Schritt 6: Maschinenübersetzungen kennzeichnen
+
+Wenn ein Treffer aus JP-, CN-, KR-, RU- oder anderen Nicht-Englisch / Nicht-Deutsch / Nicht-Französisch-Quellen stammt und nur als Maschinenübersetzung lesbar ist: explizit kennzeichnen mit `[MT]` hinter dem Titel.
+
+### Schritt 7: Output
+
+Strukturierte Ergebnisliste mit:
+
+- **Suchstrings** je Datenbank
+- **Trefferzahlen** je Datenbank
+- **Treffertabelle** (Veröff.-Nr., Anmelder, Anmeldetag, Klassen, Titel, Status, Link, Quelldatenbank)
+- **Familien-Cluster** wo dedupliziert
+- **Disclaimer** (siehe unten)
+
+## Grenzen der agentischen Recherche
+
+- **Volltextsuche** funktioniert nicht in allen Sprachen gleich gut. JP, CN, KR sind oft nur über Klassen- und Anmelder-/Titel-Suche zuverlässig erreichbar.
+- **Bezahl-Datenbanken** (PatBase, STN, Orbit, Questel) werden **nicht** agentisch bedient. Wenn die Kanzlei Zugänge hat: dort selbst recherchieren, Ergebnisse manuell zuführen.
+- **Nicht-Patent-Literatur** (NPL) — Aufsätze, Konferenz-Proceedings, Dissertationen, Produkt-Datenblätter, frühere öffentliche Nutzungen. Das Plugin behandelt sie über `stand-der-technik-recherche` ergänzend, nicht innerhalb des Master-Skills.
+- **Geheime ältere Anmeldungen** (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) — diese werden zwar nachträglich publiziert, sind aber bei einer Recherche kurz nach dem Anmeldetag der Mandantin noch nicht öffentlich. Klar kommunizieren, dass ein "Zwischenraum" von 18 Monaten existiert.
+
+## Disclaimer
+
+> **Hinweis zur Recherche.** Diese Recherche ist eine KI-gestützte Vorrecherche und keine amtliche Recherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Treffern in nicht-deutschen, nicht-englischen und nicht-französischen Sprachen, bei Treffern außerhalb der gewählten Klassen und bei Treffern, die nicht in einer der eingesehenen Datenbanken hinterlegt sind. Die Recherche muss durch eigene Nachrecherche oder durch Überprüfung der Treffer abgesichert werden.
+
+## Übergabe
+
+Die strukturierte Ergebnisliste geht an den passenden Folge-Skill:
+
+- `neuheit-pruefen` — für Neuheitsbewertung
+- `erfinderische-taetigkeit-pruefen` — für Problem-Solution-Approach
+- `freedom-to-operate-recherche` — für FTO-Bewertung
+- `recherchebericht-erstellen` — für formalen Output
+
+## Triage-Fragen vor agentischer Datenbankrecherche
+
+Bevor die Datenbankrecherche gestartet wird, klaere:
+1. Was ist das prioritaere Rechercheziel — Neuheitspruefung, FTO oder Stand-der-Technik?
+2. Sind alle relevanten Datenbanken zugaenglich (Espacenet, USPTO, Patentscope, J-PlatPat)?
+3. Wurden die Schlüsselbegriffe und Klassifikationen (CPC/IPC) bereits identifiziert?
+4. Gibt es einen Anmeldetag — der bestimmt den massgeblichen Prioritaetszeitpunkt für die Neuheit?
+
+## Aktuelle Rechtsprechung
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> **EPA, Technische Beschwerdekammer, T 1090/12 (Funktionale Merkmale):** Eine Entgegenhaltung nimmt ein funktionales Merkmal vorweg, wenn sie eine Vorrichtung beschreibt, die geeignet ist, die beanspruchte Funktion zu erfuellen; die tatsaechliche Ausfuehrung der Funktion ist nicht erforderlich.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 3 PatG
+- § 4 PatG
+- § 45 PatG
+- § 14 PatG
+- § 59 PatG
+- § 203 StGB
+- § 33 PatG
+- § 81 PatG
+- § 47 PatG
+- § 39 PatG
+- § 16 PatG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
@@ -1786,7 +1786,7 @@ Wenn die Could-Would-Prüfung nahelegend ausfällt, aber dennoch Zweifel bestehe
 
 > **Hinweis zur Prüfung.** Diese Prüfung der erfinderischen Tätigkeit ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Der Problem-Solution-Approach ist methodisch sensibel — die Auswahl des nächstliegenden Stands der Technik kann die Bewertung entscheidend verschieben. Die Prüfung muss durch eigene Bewertung und durch Prüfung der Recherche-Vollständigkeit abgesichert werden.
 
-## Triage-Fragen vor Pruefung erfinderischer Taetigkeit
+## Triage-Fragen vor Prüfung erfinderischer Taetigkeit
 
 Bevor der Problem-Solution-Approach angewendet wird, klaere:
 1. Welche Entgegenhaltung ist der naechstliegende Stand der Technik (CPA — Closest Prior Art)?
@@ -1798,7 +1798,7 @@ Bevor der Problem-Solution-Approach angewendet wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EPA, Technische Beschwerdekammer, T 21/81 (Unerwarteter technischer Effekt):** Ein unerwarteter technischer Effekt, der ueber das aus dem Stand der Technik Vorhersehbare hinausgeht, ist ein Indiz für erfinderische Taetigkeit; er muss im Anspruch oder in der Beschreibung hinreichend offenbart sein.
+> **EPA, Technische Beschwerdekammer, T 21/81 (Unerwarteter technischer Effekt):** Ein unerwarteter technischer Effekt, der über das aus dem Stand der Technik Vorhersehbare hinausgeht, ist ein Indiz für erfinderische Taetigkeit; er muss im Anspruch oder in der Beschreibung hinreichend offenbart sein.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -1812,7 +1812,7 @@ _Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchie
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Patentrecherche** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Patentrecherche** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -1955,7 +1955,7 @@ Bevor das Interview begonnen wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **DPMA, Richtlinien für die Pruefung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen koennen die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.
+> **DPMA, Richtlinien für die Prüfung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen können die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.
 
 ---
 

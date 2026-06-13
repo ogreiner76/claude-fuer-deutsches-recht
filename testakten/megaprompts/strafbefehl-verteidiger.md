@@ -76,7 +76,7 @@ _Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Strafbefehls Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Strafbefehl Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Strafbefehls Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Strafbefehl Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -119,21 +119,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Strafbefehls-Erstpruefung Bausteine
-- **Zustellung re-pruefen:** Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO; bei Ersatzzustellung Heilung § 189 ZPO; Datum verbindlich für Beginn 2-Wochen-Frist § 410 StPO.
+- **Zustellung re-prüfen:** Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO; bei Ersatzzustellung Heilung § 189 ZPO; Datum verbindlich für Beginn 2-Wochen-Frist § 410 StPO.
 - **Verteidigerbestellung § 137 StPO** sofort; bei Freiheitsstrafe Strafbefehl Pflichtverteidigerbestellung § 408b StPO.
 - **Mandantenziel matrix:**
- - **Schuldspruch bestritten** -> Vollumfaenglicher Einspruch + Hauptverhandlung; Akteneinsicht § 147 StPO Beweismittel pruefen.
+ - **Schuldspruch bestritten** -> Vollumfaenglicher Einspruch + Hauptverhandlung; Akteneinsicht § 147 StPO Beweismittel prüfen.
  - **Strafmass-Reduktion** -> Beschraenkter Einspruch § 410 II StPO auf Rechtsfolgenausspruch.
  - **Nebenfolgen-Reduktion** (Fahrverbot) -> Einspruch auf Fahrverbot ggf. mit Antrag Erhoehung Geldstrafe als Kompensation.
  - **Einstellung anstreben** -> §§ 153, 153a StPO mit Auflagen.
  - **Akzeptanz** -> Wenn Strafmass im Rahmen, kein Eintrag-Risiko, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
-- **BZRG-Eintrag-Risiko** § 32 BZRG: ab 90 TS / Freiheitsstrafe Eintragung Fuehrungszeugnis; Konsequenzen Berufslaufbahn pruefen.
+- **BZRG-Eintrag-Risiko** § 32 BZRG: ab 90 TS / Freiheitsstrafe Eintragung Fuehrungszeugnis; Konsequenzen Berufslaufbahn prüfen.
 - **Berufliche / disziplinarrechtliche Auswirkungen:**
  - Beamte: Disziplinarrecht, Anzeigepflicht; ab Geldstrafe ueblich Verfahren.
  - Aerzte / Anwaelte / Steuerberater / Apotheker: Berufsaufsicht.
  - Lehrer / Polizisten: Schulaufsicht / Disziplinarverfahren.
  - Fuehrungspositionen Wirtschaft: Reputation.
-- **Erfolgsaussicht-Prognose** vor Einspruch: Beweislage objektiv pruefen; Strafrahmen Hauptverhandlung; Kostenrisiko bei Verurteilung; Best-Case / Worst-Case.
+- **Erfolgsaussicht-Prognose** vor Einspruch: Beweislage objektiv prüfen; Strafrahmen Hauptverhandlung; Kostenrisiko bei Verurteilung; Best-Case / Worst-Case.
 - **Anschluss-Skills:** Strafbefehl-Dokumentenmatrix; Einspruchsentscheidung; Verteidigerstrategie.
 
 ---
@@ -194,15 +194,15 @@ Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Sachverhalt qualifizieren:** Delikt-Schwere, Schadenshoehe, Vorleben — passe Antrag an passende Norm an.
-2. **Informelle Sondierung bei Staatsanwaltschaft:** Telefonat oder E-Mail — ist Einstellung grundsaetzlich moeglich?
+2. **Informelle Sondierung bei Staatsanwaltschaft:** Telefonat oder E-Mail — ist Einstellung grundsätzlich möglich?
 3. **Foermlichen Antrag stellen** mit Begründung und Anlage (Einkommensnachweise, Spendenbereitschaft, Schadenswiedergutmachungsnachweis).
 4. **Zustimmungserfordernisse beachten:** § 153 Abs. 1 StPO: StA und Gericht; § 153a StPO: StA und Gericht und Beschuldigter.
 5. **Bei § 153a:** Auflage-Erfuellungsfrist beachten; Zahlungsbeleg und Quittung sichern; Abschlussbestaetigung von Staatsanwaltschaft anfordern.
-6. **Bei Ablehnung:** Wiederholung des Antrags in der Hauptverhandlung moeglich.
+6. **Bei Ablehnung:** Wiederholung des Antrags in der Hauptverhandlung möglich.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -239,13 +239,13 @@ bis [DATUM].
 Mit freundlichen Gruessen [KANZLEI]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -282,7 +282,7 @@ Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Ber
 1. **Welches Gericht hat verurteilt?** — Amtsgericht (Strafrichter): Berufung zum LG oder Revision zum OLG (§§ 312, 335 StPO); LG: nur Revision zum BGH.
 2. **Was soll angegriffen werden?** — Tatsachenfeststellung → Berufung; Rechtsfehler → Revision; Strafmass → wahlweise beides.
 3. **Frist:** Berufung und Revision: 1 Woche ab Urteilsverkuendung, schriftlich oder protokollarisch (§§ 314, 341 StPO).
-4. **Revision oder Berufung?** — Berufung ist neue Verhandlung in der Tatsache; Revision prueft nur Rechtsfehler. Sprung-Revision (§ 335 StPO) direkt vom AG zum OLG moeglich.
+4. **Revision oder Berufung?** — Berufung ist neue Verhandlung in der Tatsache; Revision prüft nur Rechtsfehler. Sprung-Revision (§ 335 StPO) direkt vom AG zum OLG möglich.
 5. **Beschraenkung auf Strafmass?** — Berufung kann auf Rechtsfolgen beschraenkt werden wenn Schuldfeststellung unstreitig ist.
 
 ## Zentrale Normen
@@ -490,14 +490,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Strafbefehlsverfahren nach §§ 407 ff. StPO ermoeglicht es dem Amtsgericht, Vergehen ohne Hauptverhandlung durch schriftlichen Beschluss (Strafbefehl) zu ahnden. Der Strafbefehl ergeht auf Antrag der Staatsanwaltschaft und wird rechtskraeftig, wenn der Beschuldigte nicht innerhalb von zwei Wochen ab Zustellung Einspruch einlegt (§ 410 StPO). Diese Frist ist eine absolute Ausschlussfrist.
 
-Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von der Fristensicherung und Akteneinsicht ueber die Inhaltspruefung, Einlassungsstrategie und Tagessatz-Berechnung bis hin zur Hauptverhandlung, Verstaendigung und zu Rechtsmitteln nach einem Urteil.
+Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von der Fristensicherung und Akteneinsicht über die Inhaltspruefung, Einlassungsstrategie und Tagessatz-Berechnung bis hin zur Hauptverhandlung, Verstaendigung und zu Rechtsmitteln nach einem Urteil.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein Mandant hat einen Strafbefehl erhalten und Sie muessen sofort die Einspruchsfrist berechnen und sichern.
-- Sie pruefen, ob der Strafbefehl Pflichtinhalt nach § 409 StPO enthaelt und ob Nichtigkeitsgruende vorliegen.
-- Sie berechnen die Hoehe der Geldstrafe (Tagessatz x Anzahl) und wollen sie anfechten oder den Tagessatz korrigieren.
-- Der Mandant kann zur Hauptverhandlung nicht erscheinen und Sie muessen einen Entbindungsantrag nach § 411 Abs. 2 StPO stellen.
+- Ein Mandant hat einen Strafbefehl erhalten und Sie müssen sofort die Einspruchsfrist berechnen und sichern.
+- Sie prüfen, ob der Strafbefehl Pflichtinhalt nach § 409 StPO enthaelt und ob Nichtigkeitsgruende vorliegen.
+- Sie berechnen die Höhe der Geldstrafe (Tagessatz x Anzahl) und wollen sie anfechten oder den Tagessatz korrigieren.
+- Der Mandant kann zur Hauptverhandlung nicht erscheinen und Sie müssen einen Entbindungsantrag nach § 411 Abs. 2 StPO stellen.
 - Nach der Hauptverhandlung soll Berufung oder Revision eingelegt werden.
 
 ## Fachbegriffe (kurz erklaert)
@@ -505,7 +505,7 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - **Strafbefehl** — schriftlicher Beschluss des Amtsgerichts auf Antrag der Staatsanwaltschaft; ersetzt die Hauptverhandlung bei Vergehen mit bestimmten Rechtsfolgen (§ 407 Abs. 2 StPO).
 - **Einspruch** — Rechtsmittel gegen den Strafbefehl; fuehrt zur Anberaumung einer Hauptverhandlung (§§ 410 f. StPO); Frist zwei Wochen ab Zustellung.
 - **Beschraenkter Einspruch** — Einspruch nur gegen die Rechtsfolgen; der Schuldspruch wird rechtskraeftig (§ 410 Abs. 2 StPO).
-- **Tagessatz** — Einheit der Geldstrafe; Hoehe richtet sich nach Nettoeinkommen des Taeters (ein Dreissigstel des monatlichen Nettoeinkommens, § 40 StGB).
+- **Tagessatz** — Einheit der Geldstrafe; Höhe richtet sich nach Nettoeinkommen des Taeters (ein Dreissigstel des monatlichen Nettoeinkommens, § 40 StGB).
 - **Pflichtverteidiger** — vom Gericht beigeordneter Verteidiger bei notwendiger Verteidigung nach § 140 StPO.
 - **Wiedereinsetzung** — Wiederherstellung einer versaeumten Einspruchsfrist bei fehlendem Verschulden (§ 44 StPO).
 - **Verstaendigung** — Absprache nach § 257c StPO; bindend für das Gericht bei Gestaendnis und Zustimmung aller Beteiligten.
@@ -525,10 +525,10 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Ist der Strafbefehl bereits zugegangen? Wann genau?
+1. Mandantenkonstellation klären: Ist der Strafbefehl bereits zugegangen? Wann genau?
 2. Phase des Mandats bestimmen: Vor Einspruchsfrist-Ablauf (sofortige Fristensicherung), nach Einspruch (Strategie), Hauptverhandlung oder Urteil?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: § 410 StPO — zwei Wochen ab Zustellung; keine Verlaengerung moeglich ausser Wiedereinsetzung nach § 44 StPO.
+4. Eilfristen prüfen: § 410 StPO — zwei Wochen ab Zustellung; keine Verlaengerung möglich ausser Wiedereinsetzung nach § 44 StPO.
 5. Anschluss-Skill bestimmen: Nach Einspruch zu Akteneinsicht, dann Beweis- und Einlassungsstrategie, dann Hauptverhandlung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -536,11 +536,11 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - `strafbefehl-kommandocenter` — Einstieg und Ampel-Schnelldiagnose: kritische Fristen und offene Handlungsfelder auf einen Blick.
 - `strafbefehl-aktenanlage` — Neue Mandatsakte mit Fristen, Vollmacht und Beweismittelverzeichnis anlegen.
 - `strafbefehl-fristen-einspruch` — Einspruchsfrist nach § 410 StPO berechnen und Einspruchsentwurf erstellen.
-- `strafbefehl-inhalt-409-pruefung` — Strafbefehl auf Pflichtinhalt nach § 409 StPO und Nichtigkeitsgruende pruefen.
-- `strafbefehl-zulaessigkeit-407` — Zulaessigkeitsvoraussetzungen (nur Vergehen, Sanktionskatalog, Zuständigkeit) pruefen.
-- `strafbefehl-akteneinsicht-147` — Akteneinsicht nach § 147 StPO beantragen und Versagungsgruende pruefen.
+- `strafbefehl-inhalt-409-pruefung` — Strafbefehl auf Pflichtinhalt nach § 409 StPO und Nichtigkeitsgruende prüfen.
+- `strafbefehl-zulaessigkeit-407` — Zulaessigkeitsvoraussetzungen (nur Vergehen, Sanktionskatalog, Zuständigkeit) prüfen.
+- `strafbefehl-akteneinsicht-147` — Akteneinsicht nach § 147 StPO beantragen und Versagungsgruende prüfen.
 - `strafbefehl-tagessaetze-geldstrafe` — Tagessatzhoehe und Geldstrafe nach §§ 40 ff. StGB berechnen und anfechten.
-- `strafbefehl-nebenfolgen-fahrerlaubnis` — Fahrerlaubnisentzug (§ 69 StGB) und Fahrverbot (§ 44 StGB) pruefen und haertere Folgen abwenden.
+- `strafbefehl-nebenfolgen-fahrerlaubnis` — Fahrerlaubnisentzug (§ 69 StGB) und Fahrverbot (§ 44 StGB) prüfen und haertere Folgen abwenden.
 - `strafbefehl-einspruch-beschraenkung` — Beschraenkten Einspruch auf Rechtsfolgen nach § 410 Abs. 2 StPO taktisch einsetzen.
 - `strafbefehl-beweis-und-einlassung` — Beweispruefung und Einlassungsstrategie (Schweigen vs. Gestaendnis vs. Bestreiten).
 - `strafbefehl-pflichtverteidiger` — Pflichtverteidigerbestellung nach § 140 StPO beantragen.
@@ -552,12 +552,12 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - `strafbefehl-zeugen-befragungsstrategie` — Belastungszeugen erschuettern und Entlastungszeugen foerdern in der Hauptverhandlung.
 - `strafbefehl-rechtsprechungsrecherche` — BGH- und OLG-Rechtsprechung zu §§ 407-412 StPO für Schriftsaetze recherchieren.
 - `strafbefehl-rechtsmittel-nach-urteil` — Berufung (§ 312 StPO) und Revision (§ 333 StPO) nach Urteil in der Hauptverhandlung.
-- `strafbefehl-quality-gate` — Abschluss-Pruefung vor Einspruch-Versand, vor Hauptverhandlung oder nach Urteil.
+- `strafbefehl-quality-gate` — Abschluss-Prüfung vor Einspruch-Versand, vor Hauptverhandlung oder nach Urteil.
 
 ## Worauf besonders achten
 
 - **Zwei-Wochen-Frist ist absolut**: Die Einspruchsfrist nach § 410 StPO laeuft auch dann, wenn der Mandant von dem Strafbefehl erst nach ein paar Tagen erfahren hat; Zustellungsfiktion nach § 418 ZPO i.V.m. § 37 StPO beachten.
-- **Zustellungsfiktion pruefen**: Bei Ersatzzustellung oder Niederlegung laeuft die Frist moeglicherweise schon, ohne dass der Mandant den Bescheid gelesen hat; Wiedereinsetzung nach § 44 StPO nur bei fehlendem Verschulden.
+- **Zustellungsfiktion prüfen**: Bei Ersatzzustellung oder Niederlegung laeuft die Frist moeglicherweise schon, ohne dass der Mandant den Bescheid gelesen hat; Wiedereinsetzung nach § 44 StPO nur bei fehlendem Verschulden.
 - **Beschraenkter Einspruch macht Schuldspruch rechtskraeftig**: Wer nur gegen die Rechtsfolgen vorgeht, gibt den Freispruch dauerhaft auf.
 - **Tagessatz-Festsetzung des Gerichts angreifbar**: Gerichte schaetzen haeufig, wenn keine Einkommensnachweise vorliegen; dieser Schaetzung kann mit konkreten Belegen entgegengetreten werden.
 - **Pflichtverteidiger sichert Verfahrensrechte**: In Faellen mit notwendiger Verteidigung (§ 140 StPO) ist der Antrag sofort zu stellen, da spaetere Bestellung Versaeumnisse nicht heilt.
@@ -609,10 +609,10 @@ Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht ers
 
 - **§ 411 Abs. 2 StPO** — Entbindung von Erscheinungspflicht: Gericht kann anordnen, Verteidiger kann allein handeln
 - **§ 412 StPO** — Verwerfung des Einspruchs: unentschuldigtes Ausbleiben → Einspruch gilt als zurueckgenommen; Beschluss
-- **§ 412 Satz 2 StPO** — Wiedereinsetzung moeglich wenn Ausbleiben entschuldigt
+- **§ 412 Satz 2 StPO** — Wiedereinsetzung möglich wenn Ausbleiben entschuldigt
 - **§ 44 StPO** — Wiedereinsetzung allgemein (s. separaten Skill)
 - **§ 231 StPO** — Unterbrechung bei Ausbleiben des Angeklagten (in der allgemeinen Hauptverhandlung; § 411 lex specialis)
-- **§ 213 StPO** — Terminbestimmung; Terminsverlegung moeglich
+- **§ 213 StPO** — Terminbestimmung; Terminsverlegung möglich
 
 ## Aktuelle Rechtsprechung
 
@@ -658,7 +658,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 - Entbindungsantrag vor dem Termin stellen, nicht am Terminstag.
 - Bei Verwerfung nach § 412 StPO: sofort Wiedereinsetzungsantrag (1-Woche-Frist § 45 StPO).
-- Mandant immer ueber Folgen des Nichterscheinens aufklaeren.
+- Mandant immer über Folgen des Nichterscheinens aufklaeren.
 - Anwaltliche Endkontrolle vor dem Termin.
 
 ---
@@ -732,7 +732,7 @@ Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und
  - Revisionsbegründung
 ```
 
-## Fristen-Uebersicht — Template
+## Fristen-Übersicht — Template
 
 | Frist | Rechtsgrundlage | Datum | Erledigt |
 |-------|----------------|-------|---------|
@@ -749,7 +749,7 @@ Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und
 |-----|-------------|-----|----------|-------------|--------|
 | 1 | Zeuge [Name] | Zeuge | Bl. [X] | [Thema] | auswerten |
 | 2 | Polizeibericht | Urkunde | Bl. [X] | Tathergang | auswerten |
-| 3 | Messprotokoll | Urkunde | Bl. [X] | Geschwindigkeit | kritisch pruefen |
+| 3 | Messprotokoll | Urkunde | Bl. [X] | Geschwindigkeit | kritisch prüfen |
 
 ## Zentrale Normen
 
@@ -789,7 +789,7 @@ Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach
 
 1. **Was bestreitet der Mandant?** — Tathandlung, Fahrereigenschaft, Vorsatz, Schuld? Klare Abgrenzung der streitigen Punkte.
 2. **Aktenlage:** Welche Beweismittel hat die Staatsanwaltschaft — Zeugen, Messgeraet, Video, Gestaendnis im Anhörungsbogen?
-3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhörungsverfahren oder Vernehmung koennen belastend sein.
+3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhörungsverfahren oder Vernehmung können belastend sein.
 4. **Anhörungsbogen ausgefuellt oder unterschrieben?** — Nur schriftliche Bekanntgabe, kein Gestaendnis; Unterschrift kann als Einraeuming der Fahrereigenschaft ausgelegt werden.
 5. **Dauer der Hauptverhandlung und Ressourcen des Mandanten** — Einlassung mit Kostenpruefung abstimmen.
 6. **Smartphone-, Polizei- oder Versammlungsaufnahme?** — Bei Strafbefehl wegen Filmens/Audioaufnahme sofort `strafbefehl-polizeifilmerei-201-kug` hinzuziehen: § 201 StGB, § 201a StGB und KunstUrhG/KUG dürfen nicht vermischt werden.
@@ -800,7 +800,7 @@ Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach
 - **§ 136a StPO** — Verbotene Vernehmungsmethoden; Verstoss = absolutes Beweisverwertungsverbot
 - **§ 163a StPO** — Vernehmung des Beschuldigten durch die Polizei; Belehrungspflicht
 - **§ 244 StPO** — Beweisantragsrecht; Gericht muss jeden Beweisantrag bescheiden
-- **§ 257c StPO** — Verstaendigung (Deal); auch im vereinfachten Verfahren moeglich
+- **§ 257c StPO** — Verstaendigung (Deal); auch im vereinfachten Verfahren möglich
 - **§ 46 StGB** — Strafzumessung; Gestaendnis als Milderungsgrund
 - **§§ 22, 23, 33 KunstUrhG/KUG** — Bildnisveröffentlichung; bloße Anfertigung von Bildern getrennt prüfen
 - **§§ 201, 201a StGB** — Tonaufnahmen und höchstpersönliche Bildinhalte; Nichtöffentlichkeit, Schutzbereich und Rechtfertigung sauber trennen
@@ -837,7 +837,7 @@ Anhörungsbogen ausgefuellt?
 1. **Akteneinsicht anfordern** (§ 147 StPO) — Basis für jede Einlassungsstrategie.
 2. **Beweislage analysieren:** Welche Beweismittel hat die Anklage? Sind sie verwertbar (Belehrungsfehler, § 136a-Verstoss)?
 3. **Mandantengespraech: Sachverhaltsschilderung vollstaendig aufnehmen** — ohne Bewertung, nur erfassen.
-4. **Strategie festlegen** (s. Entscheidungsbaum) — schriftlich dokumentieren, Mandant ueber Risiken aufklaeren.
+4. **Strategie festlegen** (s. Entscheidungsbaum) — schriftlich dokumentieren, Mandant über Risiken aufklaeren.
 5. **Einlassung formulieren oder Schweigen anordnen** — bei Schweigen Mandanten anweisen, keine Angaben gegenueber Polizei/Staatsanwaltschaft zu machen.
 6. **Beweisantraege formulieren** (§ 244 StPO) — konkret: Beweisthema und Beweismittel benennen.
 7. **Wenn Gestaendnis:** Timing und Umfang mit Mandant absprechen; Gestaendnis in HV fruehzeitig abgeben für optimalen Strafzumessungseffekt.
@@ -872,8 +872,8 @@ Strafmildernd ist zu beruecksichtigen:
 
 - Keine Einlassung vor vollstaendiger Akteneinsicht.
 - Schweigrecht nach § 136 StPO ausueben bis Aktenlage klar ist.
-- Gestaendnis nur nach Mandantenruecksprache und Aufklaerung ueber Tragweite.
-- Beweisverwertungsverbote aktiv pruefen — Fehler der Ermittlungsbehoerden nicht verschenken.
+- Gestaendnis nur nach Mandantenruecksprache und Aufklaerung über Tragweite.
+- Beweisverwertungsverbote aktiv prüfen — Fehler der Ermittlungsbehoerden nicht verschenken.
 - Anwaltliche Endkontrolle bei jedem Schritt.
 
 ---
@@ -896,10 +896,10 @@ Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstel
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Triage zu Beginn — Sofort klaeren
+## Triage zu Beginn — Sofort klären
 
-1. **Zugangsdatum Strafbefehl:** Wann wurde der Strafbefehl zugestellt? Postzustellung (§ 37 StPO i.V.m. §§ 177 ff. ZPO) oder persönliche Uebergabe?
-2. **Zustellungsfiktion pruefen:** Bei Postzustellung gilt § 418 ZPO — Einwurf-Einschreiben drei Tage nach Aufgabe als zugestellt, es sei denn Mandant weist spaetere Kenntnisnahme nach.
+1. **Zugangsdatum Strafbefehl:** Wann wurde der Strafbefehl zugestellt? Postzustellung (§ 37 StPO i.V.m. §§ 177 ff. ZPO) oder persönliche Übergabe?
+2. **Zustellungsfiktion prüfen:** Bei Postzustellung gilt § 418 ZPO — Einwurf-Einschreiben drei Tage nach Aufgabe als zugestellt, es sei denn Mandant weist spaetere Kenntnisnahme nach.
 3. **Fristende berechnen:** Tag der Zustellung + 14 Tage (§ 410 Abs. 1 StPO), §§ 42, 43 StPO zur Berechnung; Fristende auf Samstag/Sonntag/Feiertag — naechster Werktag.
 4. **Reaktion des Mandanten bislang:** Hat der Mandant bereits reagiert, einen Pro-forma-Einspruch selbst eingelegt?
 5. **Ziel des Mandanten:** Einstellung (§§ 153, 153a StPO), Verhandlung und Freispruch, Strafmassreduzierung — beeinflusst ob beschraenkt oder unbeschraenkt.
@@ -923,8 +923,8 @@ Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstel
 ## Schritt-für-Schritt-Workflow
 
 1. **Frist sofort berechnen und dokumentieren:** Zugangsdatum (aus Zustellungsurkunde oder Mandantenangabe) + 14 Tage = Fristende; in Fristenkalender einpflegen, 3-Tage-Vorlauf-Wiedervorlage setzen.
-2. **Strafbefehl auf Pflichtinhalt pruefen (§ 409 StPO):** Fehlt ein Pflichtbestandteil, kann dies zur Nichtigkeit fuehren — Antrag auf Berichtigung oder Aufhebung.
-3. **Zustellungsfiktion pruefen:** Einwurf-Einschreiben? Mandant ueber § 180 ZPO aufklaeren; bei Zweifeln Mandant schriftlich bestaetigenden Hinweis geben lassen.
+2. **Strafbefehl auf Pflichtinhalt prüfen (§ 409 StPO):** Fehlt ein Pflichtbestandteil, kann dies zur Nichtigkeit fuehren — Antrag auf Berichtigung oder Aufhebung.
+3. **Zustellungsfiktion prüfen:** Einwurf-Einschreiben? Mandant über § 180 ZPO aufklaeren; bei Zweifeln Mandant schriftlich bestaetigenden Hinweis geben lassen.
 4. **Einspruch formulieren:** Unbeschraenkt als Standardweg — Beschraenkung auf Rechtsfolgen nur wenn Schuldspruch unstreitig und Strafmassreduzierung das einzige Ziel.
 5. **Einspruch per EB oder anwaltlichem Fax einlegen** — Empfangsbekenntnis sichern.
 6. **Hauptverhandlung vorbereiten** — nach Einspruch wird Termin bestimmt (§ 411 StPO); Akte anfordern, Einlassung abstimmen.
@@ -1171,7 +1171,7 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 
 1. **Fristlage:** Wann wurde der Strafbefehl zugestellt? Einspruchsfrist § 410 Abs. 1 StPO: 2 Wochen ab Zustellung. Ist die Frist noch offen oder abgelaufen?
  - Frist offen → Einspruch sofort einlegen, dann vertiefen
- - Frist abgelaufen → Wiedereinsetzung § 44 StPO pruefen
+ - Frist abgelaufen → Wiedereinsetzung § 44 StPO prüfen
 
 2. **Delikt und Sanktion:** Was wird vorgeworfen (§§ StGB/StVG/OWiG)? Welche Rechtsfolge ist angesetzt (Tagessaetze, Geldstrafe, Fahrverbot, Bewaehrungsstrafe)?
 
@@ -1179,7 +1179,7 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 
 ## Ampel-Schnelldiagnose
 
-| Situation | Ampel | Massnahme |
+| Situation | Ampel | Maßnahme |
 |-----------|-------|-----------|
 | Frist laeuft in < 3 Tagen | ROT | Einspruch SOFORT, dann vertiefen |
 | Frist laeuft in 4-7 Tagen | GELB | Einspruch und Akteneinsicht parallel |
@@ -1192,7 +1192,7 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 | Aufgabe | Subskill |
 |---------|---------|
 | Einspruchsfrist berechnen + einlegen | `strafbefehl-fristen-einspruch` |
-| Strafbefehl-Inhalt auf § 409 pruefen | `strafbefehl-inhalt-409-pruefung` |
+| Strafbefehl-Inhalt auf § 409 prüfen | `strafbefehl-inhalt-409-pruefung` |
 | Akteneinsicht anfordern | `strafbefehl-akteneinsicht-147` |
 | Beweis- und Einlassungsstrategie | `strafbefehl-beweis-und-einlassung` |
 | Beschraenkter Einspruch | `strafbefehl-einspruch-beschraenkung` |
@@ -1307,7 +1307,7 @@ Vorbemerkung: Die unten genannten Fundstellen stammen aus geschlossenen Verlagsp
 ### § 407/409 StPO — Zulaessigkeit und Inhalt
 - Recherche-Anker: Verbrechen schliesst Strafbefehl aus (Nichtigkeit) — in dejure.org "§ 407 StPO Verbrechen Nichtigkeit" suchen
 - Recherche-Anker: Freiheitsstrafe ohne Bewaehrung unzulaessig — in dejure.org "§ 407 Abs. 2 StPO Freiheitsstrafe Bewaehrung" suchen
-- Recherche-Anker: Tatbeschreibung muss Art. 103 Abs. 2 GG genuegen — in dejure.org "§ 409 StPO Tatbeschreibung Bestimmtheit" suchen
+- Recherche-Anker: Tatbeschreibung muss Art. 103 Abs. 2 GG genügen — in dejure.org "§ 409 StPO Tatbeschreibung Bestimmtheit" suchen
 
 ### § 410 StPO — Einspruch und Frist
 - Recherche-Anker: Zustellungsfiktion § 180 ZPO im Strafbefehlsverfahren — in dejure.org "§ 410 StPO § 180 ZPO Zustellungsfiktion" suchen
@@ -1375,7 +1375,7 @@ Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach
 
 ## Triage zu Beginn
 
-1. **Wie viele Tagessaetze sind im Strafbefehl festgesetzt?** — Anzahl bestimmt Schuldgewicht, Hoehe das Nettoeinkommen.
+1. **Wie viele Tagessaetze sind im Strafbefehl festgesetzt?** — Anzahl bestimmt Schuldgewicht, Höhe das Nettoeinkommen.
 2. **Tagessatzhoehe korrekt?** — Nettoeinkommen / 30 = Tagessatz (§ 40 Abs. 2 StGB); zu hoch wenn Einkommen ueberschaetzt.
 3. **Liegt Einkommensnachweis vor?** — Lohnabrechnung, Steuerbescheid, BWA bei Selbststaendigen.
 4. **Ratenzahlung noetig?** — § 42 StGB: Gericht kann Ratenzahlung gestatten; Antrag bei Zahlungsunfaehigkeit.
@@ -1386,7 +1386,7 @@ Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach
 - **§ 40 Abs. 1 StGB** — Geldstrafe: 5 bis 360 Tagessaetze (bei Mehrfachverstoss bis 720)
 - **§ 40 Abs. 2 StGB** — Tagessatz: Dreissigstel des monatlichen Nettoeinkommens; Mindest 1 EUR
 - **§ 40 Abs. 2 Satz 3 StGB** — Schaetzungsrecht des Gerichts wenn genaues Einkommen nicht feststellbar
-- **§ 41 StGB** — Geldstrafe neben Freiheitsstrafe moeglich
+- **§ 41 StGB** — Geldstrafe neben Freiheitsstrafe möglich
 - **§ 42 StGB** — Zahlungserleichterungen, Ratenzahlung
 - **§ 43 StGB** — Ersatzfreiheitsstrafe: 1 Tag pro Tagessatz, mind. 1 Tag
 - **§ 459d StPO** — Uneinbringlichkeit der Geldstrafe: Vollstreckungsgericht entscheidet
@@ -1482,7 +1482,7 @@ _Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruch
 - **§ 44 StPO** — Wiedereinsetzung in den vorigen Stand: kein Verschulden, Antrag binnen 1 Woche nach Kenntnis
 - **§ 45 StPO** — Form und Frist des Wiedereinsetzungsantrags: schriftlich oder protokollarisch, 1-Wochen-Frist
 - **§ 45 Abs. 2 Satz 2 StPO** — gleichzeitig mit Antrag muss die versaeumte Handlung (Einspruch) nachgeholt werden
-- **§ 46 StPO** — Entscheidung ueber den Antrag; Beschluss
+- **§ 46 StPO** — Entscheidung über den Antrag; Beschluss
 - **§ 180 ZPO** — Zustellungsfiktion bei Einwurf-Einschreiben
 - **§ 409 Abs. 1 Nr. 7 StPO** — fehlerhafte Belehrung = Frist laeuft nicht an; kein Wiedereinsetzungsbedarf
 
@@ -1577,8 +1577,8 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 
 1. **Wer sind die Belastungszeugen?** — Polizeibeamte, Geschaedigte, Passanten, Sachverstaendige — unterschiedliche Erschuetterungsstrategien.
 2. **Haben die Zeugen fruehere Aussagen gemacht?** — Polizeivernehmung, Anhörung im OWi-Verfahren, andere Verfahren — Inkonsistenzen nutzen.
-3. **Zeugnisverweigerungsrecht vorhanden?** — § 52 StPO: Angehoerige; § 53 StPO: Berufsgeheimnisstraeger. Zeuge ueber Recht belehrt?
-4. **Aussage-Konstanz pruefen:** Sind Angaben in der Polizeiaussage identisch mit der HV-Aussage? Abweichungen sind Angriffspunkt.
+3. **Zeugnisverweigerungsrecht vorhanden?** — § 52 StPO: Angehoerige; § 53 StPO: Berufsgeheimnisstraeger. Zeuge über Recht belehrt?
+4. **Aussage-Konstanz prüfen:** Sind Angaben in der Polizeiaussage identisch mit der HV-Aussage? Abweichungen sind Angriffspunkt.
 5. **Schriftsatzzeugen:** Dokumentarische Beweise (Messprotokolle, Bericht der Polizei) als Ergaenzung zu Zeugenbefragung.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -1588,8 +1588,8 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 - **§ 53 StPO** — Zeugnisverweigerungsrecht für Berufsgeheimnisstraeger (Aerzte, Anwaelte, etc.)
 - **§ 55 StPO** — Auskunftsverweigerungsrecht bei Selbstbelastung (nemo tenetur)
 - **§ 68 StPO** — Zeugenpflichten: erscheinen, Zeugnis ablegen (mit Ausnahmen)
-- **§ 68a StPO** — Fragen nach Vorstrafen des Zeugen zulaessig zur Glaubwuerdigkeitspruefung
-- **§ 240 StPO** — Fragerecht; alle Beteiligten koennen Fragen stellen
+- **§ 68a StPO** — Fragen nach Vorstrafen des Zeugen zulässig zur Glaubwuerdigkeitspruefung
+- **§ 240 StPO** — Fragerecht; alle Beteiligten können Fragen stellen
 - **§ 249 StPO** — Urkundenbeweis; Vorlesen von Dokumenten
 - **§ 254 StPO** — Verlesung von Protokollen richterlicher Vernehmung (Vorhalt)
 
@@ -1628,13 +1628,13 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Zeugen-Befragungsstrategie für Strafbefehl-Verfahren erstellen | Frageliste nach Schema; Template unten |
 | Variante A — Zeuge ist Belastungszeuge offensichtlich feindlich | Kurze konfrontative Befragung; kein ausfuehrliches Kreuzverhoer |
-| Variante B — Zeuge kennt Mandanten gut Entlastung moeglich | Entlastungszeuge foerdern; ausfuehrliche Befragung zu Gunsten |
+| Variante B — Zeuge kennt Mandanten gut Entlastung möglich | Entlastungszeuge foerdern; ausfuehrliche Befragung zu Gunsten |
 | Variante C — Zeuge verweigert Aussage zu erwarten | Befragungsstrategie für Aussageverweigerung vorbereiten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -1655,13 +1655,13 @@ Fragen:
 Erwartetes Ergebnis: [Entlastung / Erschuetterung / Vorhalt]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

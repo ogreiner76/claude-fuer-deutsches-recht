@@ -71,7 +71,7 @@ _Einstieg, Schnelltriage und Fallrouting für das Gesellschaftsgründer-Plugin; 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Gesellschaftsgruender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsgruender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -123,7 +123,7 @@ _Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel im Gesellscha
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Gruendungsassistent Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Gesellschaftsgruender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Gruendungsassistent Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsgruender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -247,7 +247,7 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 | 1 | Rechtsform und Pflicht | GmbH: Beirat freiwillig; AG: AR Pflicht; DrittelbG/MitbestG? | Klaren ob AR-Pflicht besteht |
 | 2 | Aufgabenprofil | Beratend, kontrollierend, schlichterisch? | Festlegt Tiefe der Satzungs-Klausel |
 | 3 | Satzungs-Klausel | Beirat in Satzung verankert? Befugnisse definiert? | Ohne Satzungs-Klausel kein Zustimmungsvorbehalt |
-| 4 | Beiratsordnung | Detailregelungen ausgelagert (Meeting-Rhythmus, Vergütung, Quorum)? | Aenderungen ohne Notar moeglich |
+| 4 | Beiratsordnung | Detailregelungen ausgelagert (Meeting-Rhythmus, Vergütung, Quorum)? | Änderungen ohne Notar möglich |
 | 5 | Besetzung | Anzahl Mitglieder, Wahlmodus, Amtszeit, Wiederwahl | Satzung oder Beiratsordnung regelt |
 | 6 | Vergütung | Cash / Optionen / ehrenamtlich; Reisekostenerstattung | Steuerlich relevant; ESOP bei Startup |
 | 7 | D&O-Versicherung | Bei Zustimmungsrechten empfohlen | Keine gesetzliche Pflicht; Gestaltung |
@@ -267,7 +267,7 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 
 ### Aufsichtsrat
 - Bei AG Pflicht (Paragraf 95 AktG)
-- Bei mitbestimmter GmbH ab 500 / 2.000 Beschaeftigten Pflicht (DrittelbG, MitbestG)
+- Bei mitbestimmter GmbH ab 500 / 2.000 Beschäftigten Pflicht (DrittelbG, MitbestG)
 - Pflicht-Aufgaben: Bestellung Vorstand, Prüfung Jahresabschluss
 
 ## Aufgaben (typisch)
@@ -294,11 +294,11 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Triage:** Aufgabe und Rechtsform klaeren; Pflicht-AR pruefen (DrittelbG/MitbestG)
+1. **Triage:** Aufgabe und Rechtsform klären; Pflicht-AR prüfen (DrittelbG/MitbestG)
 2. **Konzept:** Aufgabenprofil, Besetzungswunsch, Verguetungsmodell festlegen
 3. **Satzungs-Klausel entwerfen:** Minimalklausel oder detaillierte Klausel; Notar-Termin einplanen
 4. **Beiratsordnung entwerfen:** Meeting-Rhythmus, Quorum, Beschlussfaehigkeit, Protokoll-Pflicht
-5. **Beiratsvertraege:** Vertraulichkeit, Verguetung, D&O-Versicherung, Wettbewerbsverbot
+5. **Beiratsvertraege:** Vertraulichkeit, Vergütung, D&O-Versicherung, Wettbewerbsverbot
 6. **Besetzung:** Mitglieder ansprechen, Beschluss der Gesellschafterversammlung herbeiführen
 7. **Konstituierende Sitzung:** Vorsitzenden waehlen, Beiratsordnung verabschieden
 8. **Monitoring:** Jaehrliche Beirats-Evaluation; Anpassung Beiratsordnung wenn noetig
@@ -414,7 +414,7 @@ Kuendigung: 3 Monate vor Ablauf; ausserordentlich aus wichtigem Grund
 - § 52 GmbHG, §§ 95, 111, 116 AktG, §§ 1, 4 DrittelbG, §§ 1, 7 MitbestG
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-geschaeftsordnung-gf` — Verzahnung mit GF-Entscheidungskompetenzen
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungs-Klausel Beirat
@@ -595,14 +595,14 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Bilinguales Dokument erstellen Deutsch-Englisch | Bilinguale Vorlage nach Vorrang-Klausel-Schema; Template unten |
-| Variante A — Nur eine Sprache rechtlich bindend | Monolinguales Kerndokument mit Uebersetzung zur Information |
+| Variante A — Nur eine Sprache rechtlich bindend | Monolinguales Kerndokument mit Übersetzung zur Information |
 | Variante B — Fremdrechts-Bezug notwendig Governing Law noetig | Rechtswahl-Klausel und Gerichtsstand explizit regeln |
-| Variante C — Mandant will nur interne Verwendung kein Vollzug noetig | Vereinfachte Uebersetzung ohne juristische Bindefassung |
+| Variante C — Mandant will nur interne Verwendung kein Vollzug noetig | Vereinfachte Übersetzung ohne juristische Bindefassung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -727,13 +727,13 @@ Bei Widersprüchen geht die deutsche Fassung vor.
 In case of discrepancies, the German version shall prevail.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -879,8 +879,8 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 
 - Kein Dolmetscher bei Beurkundung mit sprachunkundigen Auslaedern: Nichtigkeit (§ 5 BeurkG; OLG Frankfurt 2019)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Ausschliesslich englischsprachige Einreichung beim Handelsregister, Finanzamt: wird nicht angenommen
-- Schiedsspruch auf Englisch ohne Uebersetzung: Vollstreckungsantrag in Deutschland unzulaessig (§ 1064 Abs. 3 ZPO)
+- Ausschließlich englischsprachige Einreichung beim Handelsregister, Finanzamt: wird nicht angenommen
+- Schiedsspruch auf Englisch ohne Übersetzung: Vollstreckungsantrag in Deutschland unzulaessig (§ 1064 Abs. 3 ZPO)
 
 ## Anschluss-Skills
 
@@ -894,8 +894,8 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 - § 184 GVG (Amtssprache Deutsch)
 - § 5 BeurkG (Beurkundungssprache; Dolmetscher-Pflicht)
 - §§ 133, 157 BGB (Auslegungsgrundsaetze)
-- § 1064 Abs. 3 ZPO (Vollstreckung auslaendischer Schiedsspruche; Uebersetzungspflicht)
-- § 1061 ZPO i.V.m. New York Convention (Anerkennung auslaendischer Schiedsspruche)
+- § 1064 Abs. 3 ZPO (Vollstreckung ausländischer Schiedsspruche; Übersetzungspflicht)
+- § 1061 ZPO i.V.m. New York Convention (Anerkennung ausländischer Schiedsspruche)
 - Limmer/Hertel/Frenz/Mayer, Wuerzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- AUDIT 27.05.2026
@@ -968,7 +968,7 @@ Klaere bei jedem eGbR-Mandat zuerst:
 - **§ 707a II BGB** — Pflicht-Namenszusatz "eGbR" / "eingetragene Gesellschaft buergerlichen Rechts"
 - **§ 707a III BGB** — Vertrauensschutz Dritter auf Registerpublizitaet (analog Paragraf 15 HGB)
 - **§ 707b BGB** — Pflicht-Eintragung bei Grundstuecksgeschaeften; Grundbuchverfahren
-- **§ 720 I BGB** — Grundsatz der Gesamtvertretung; Satzungsabweichung moeglich
+- **§ 720 I BGB** — Grundsatz der Gesamtvertretung; Satzungsabweichung möglich
 - **§ 721 BGB** — Gesamtschuldnerische Aussenhaftung aller Gesellschafter (unbeschraenkt)
 - **§ 723 BGB** — Fortbestand der Gesellschaft bei Ausscheiden eines Gesellschafters (Kernneuerung MoPeG)
 
@@ -984,14 +984,14 @@ Klaere bei jedem eGbR-Mandat zuerst:
 | 2 | Grundstuecksgeschaeft geplant? | § 707b BGB | Ja: Pflicht-Eintragung VOR Notar-Termin |
 | 3 | GmbH-Anteilsbeteiligung? | § 40 GmbHG | Ja: eGbR-Eintragung Voraussetzung |
 | 4 | Handelsgeschaeft? | § 1 HGB | Ja: OHG statt eGbR (Handelsregister) |
-| 5 | Haftungsbeschraenkung gewuenscht? | § 721 BGB | eGbR bietet keine; GmbH/KG pruefen |
-| 6 | Vertrauensschutz für Geschaeftspartner gewuenscht? | § 707a III BGB | Eintragung schafft Publizitaet |
+| 5 | Haftungsbeschraenkung gewuenscht? | § 721 BGB | eGbR bietet keine; GmbH/KG prüfen |
+| 6 | Vertrauensschutz für Geschäftspartner gewuenscht? | § 707a III BGB | Eintragung schafft Publizitaet |
 | 7 | Bestehendes Grundbuch auf alte GbR? | § 47 GBO | Umschreibung auf eGbR nach Eintragung |
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Qualifikation:** Innen-GbR oder Aussen-GbR? Handelsgeschaeft oder nicht? Freiberufler-Sozietaet?
-2. **Pflicht pruefen:** Grundstueck oder GmbH-Anteil betroffen? Dann Eintragung zwingend.
+2. **Pflicht prüfen:** Grundstueck oder GmbH-Anteil betroffen? Dann Eintragung zwingend.
 3. **Gesellschaftsvertrag entwerfen** (formfrei, aber schriftlich empfohlen): Gegenstand, Einlagen, Vertretung, Gewinnverteilung, Ausscheiden, Fortbestandsklausel (§ 723 BGB).
 4. **Anmeldung beim Amtsgericht:** Alle Gesellschafter; notarielle Beglaubigung der Unterschriften; Gebuehr ca. 80-150 EUR.
 5. **Eintragung abwarten:** Veröffentlichung im Bundesanzeiger; Namenszusatz "eGbR" ab sofort zu fuehren.
@@ -1032,10 +1032,10 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 
 ## Rote Schwellen
 
-- Grundstueckskauf ohne eGbR-Eintragung: Auflassung scheitert; Notartermin nicht durchfuehrbar. Hinweis: BGH-Linie ueber das Voreintragungserfordernis nach MoPeG ist mittlerweile durch erste obergerichtliche und BGH-Entscheidungen gefestigt (siehe Vertiefung). Konkrete Aktenzeichen vor Verwendung live verifizieren.
+- Grundstueckskauf ohne eGbR-Eintragung: Auflassung scheitert; Notartermin nicht durchfuehrbar. Hinweis: BGH-Linie über das Voreintragungserfordernis nach MoPeG ist mittlerweile durch erste obergerichtliche und BGH-Entscheidungen gefestigt (siehe Vertiefung). Konkrete Aktenzeichen vor Verwendung live verifizieren.
 - Namenszusatz "eGbR" vergessen nach Eintragung: Ordnungswidrigkeit; Haftungsfolgen
 - Eintragung = Haftungsbeschraenkung: FALSCH. Alle Gesellschafter haften weiter unbeschraenkt (§ 721 BGB)
-- GbR als GmbH-Gesellschafter ohne eGbR: Eintragung in Gesellschafterliste nicht moeglich (§ 40 GmbHG)
+- GbR als GmbH-Gesellschafter ohne eGbR: Eintragung in Gesellschafterliste nicht möglich (§ 40 GmbHG)
 
 ## Quellen und Vertiefung
 
@@ -1045,14 +1045,14 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 - § 40 GmbHG (Gesellschafterliste; eGbR-Eintragung als Voraussetzung der Listung als Gesellschafterin): https://www.gesetze-im-internet.de/gmbhg/__40.html
 - MoPeG (BGBl. I 2021, 3436): https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl121s3436.pdf%27]
 - BGH, Beschl. v. 03.07.2025 — V ZB 17/24 (Voreintragung der GbR im Gesellschaftsregister vor Grundbuchaenderung; ECLI:DE:BGH:2025:030725BVZB17.24.0): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=142513
-- Weitere obergerichtliche Linien zur Firmierung "eGbR" und identitaetswahrenden Umwandlung GbR -> KG/OHG (Beispiele aus 2024, vor Verwendung Aktenzeichen pruefen):
+- Weitere obergerichtliche Linien zur Firmierung "eGbR" und identitaetswahrenden Umwandlung GbR -> KG/OHG (Beispiele aus 2024, vor Verwendung Aktenzeichen prüfen):
  - OLG Hamburg, Beschl. v. 22.04.2024 — 11 W 19/24
  - OLG Koeln, Beschl. v. 22.04.2024 — 4 Wx 4/24
  - OLG Muenchen, Beschl. v. 2024 — 34 Wx 71/24 e
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-rechtsformwahl` — Vergleich zu anderen Formen (GmbH, KG, OHG)
 - `gesellschaftsgruender-handelsregister-anmeldung` — bei Umwandlung in OHG
@@ -1088,10 +1088,10 @@ _Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsg
 Klaere mindestens 2 Wochen vor Notar-Termin:
 
 1. **3-5 Wunsch-Firmen bereit?** Immer Alternativen vorbereiten; Plan A kann beanstandet werden.
-2. **Branchenbezeichnung im Namen?** Pruefen ob Zulassung erforderlich (Bank: BaFin; Steuer: StBerG; Rechts: RAK).
-3. **Personenname im Firmennamen?** Eigener Name: unproblematisch; fremder Name: Berechtigung pruefen (§ 12 BGB).
+2. **Branchenbezeichnung im Namen?** Prüfen ob Zulassung erforderlich (Bank: BaFin; Steuer: StBerG; Rechts: RAK).
+3. **Personenname im Firmennamen?** Eigener Name: unproblematisch; fremder Name: Berechtigung prüfen (§ 12 BGB).
 4. **Marken-Relevanz?** Bei Startup oder Brand mit Aussenauftritt: DPMA/EUIPO-Recherche vor Eintragung.
-5. **Internationale Aktivitaet?** Bedeutung des Namens in Zielmaerkten pruefen; schwer aussprechbare Namen vermeiden.
+5. **Internationale Aktivitaet?** Bedeutung des Namens in Zielmaerkten prüfen; schwer aussprechbare Namen vermeiden.
 6. **Domain bereits gesichert?** Domain VOR Notar-Termin sichern; nachtraeglich oft nicht mehr verfuegbar.
 
 ## Zentrale Normen
@@ -1110,7 +1110,7 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 
 ## Prüfschema: Firmennamen-Check
 
-| Schritt | Pruefung | Stelle | Ergebnis |
+| Schritt | Prüfung | Stelle | Ergebnis |
 |---|---|---|---|
 | 1 | Handelsregister-Suche bundesweit | gemeinsam.handelsregister.de | Konflikt? Wenn ja, Name anpassen |
 | 2 | IHK-Firmenvorpruefung beantragt | Oertliche IHK | Bescheinigung erhalten? |
@@ -1128,14 +1128,14 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 ## Schritt-für-Schritt-Workflow
 
 1. **T-14 (2 Wochen vor Notar):** 3-5 Wunsch-Namen listen; HR-Suche nationwide; DPMA-Stichprobe.
-2. **T-10:** IHK-Vorpruefung beantragen (oft binnen 2-5 Werktagen); Domain-Verfuegbarkeit pruefen.
+2. **T-10:** IHK-Vorpruefung beantragen (oft binnen 2-5 Werktagen); Domain-Verfuegbarkeit prüfen.
 3. **T-7:** IHK-Bescheinigung liegt vor; Domain bei Verfuegbarkeit SOFORT sichern; ggf. Marken-Anmeldung einleiten.
 4. **T-3:** Alle Alternativen bereit halten; Marken-Recherche abgeschlossen.
 5. **T (Notar-Termin):** Beurkundung mit gewaehltem Namen; IHK-Bescheinigung dem Notar vorlegen.
-6. **T+5 bis T+14 (HR-Pruefung):** HR-Gericht prueft; bei Beanstandung: Satzungsaenderung und erneute Beurkundung (Kosten ca. 300-600 EUR).
-7. **Nach Eintragung:** Marken-Anmeldung auf Gesellschaft umschreiben (falls zuvor auf Gruender angemeldet).
+6. **T+5 bis T+14 (HR-Prüfung):** HR-Gericht prüft; bei Beanstandung: Satzungsaenderung und erneute Beurkundung (Kosten ca. 300-600 EUR).
+7. **Nach Eintragung:** Marken-Anmeldung auf Gesellschaft umschreiben (falls zuvor auf Gründer angemeldet).
 
-## Output-Template: Firmenname-Pruefprotokoll
+## Output-Template: Firmenname-Prüfprotokoll
 
 **Adressat:** Interne Dokumentation / Anwaltsakte
 
@@ -1183,11 +1183,11 @@ Naechste Schritte:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gmbh-vorbereitung` — Firmenname als Baustein der Vorbereitung
 - `gesellschaftsgruender-notar-vorbereitung` — IHK-Bescheinigung vorlegen
-- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Pruefung durch Registergericht
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Prüfung durch Registergericht
 
 ---
 
@@ -1521,8 +1521,8 @@ _Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wet
 
 Klaere vor Entwurf des Anstellungsvertrags:
 
-1. **Gesellschafter-GF oder Fremd-GF?** Gesellschafter-GF: strengere vGA-Anforderungen (Fremdvergleich); Fremd-GF: SV-Pflicht pruefen.
-2. **Alleiniger GF oder Mitgeschaeftsfuehrer?** Allein: volles Geschaeft; Mitglied: Ressortverteilung, Gesamtvertretung.
+1. **Gesellschafter-GF oder Fremd-GF?** Gesellschafter-GF: strengere vGA-Anforderungen (Fremdvergleich); Fremd-GF: SV-Pflicht prüfen.
+2. **Alleiniger GF oder Mitgeschaeftsfuehrer?** Allein: volles Geschäft; Mitglied: Ressortverteilung, Gesamtvertretung.
 3. **Sozialversicherungsstatus?** Mehrheitsgesellschafter-GF meist SV-frei; Minderheits-GF meist SV-pflichtig; Statusfeststellung (§ 7a SGB IV) beantragen?
 4. **Pensionszusage gewuenscht?** Steuerlich attraktiv, aber strenge Anforderungen bei Gesellschafter-GF.
 5. **Wettbewerbsverbot?** Nachvertraglich: bis 2 Jahre; Karenzentschaedigung zwingend (≥ 50 % letzter Bezuege).
@@ -1530,7 +1530,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Zentrale Normen
 
-- **§ 6 GmbHG** — Organstellung des Geschaeftsfuehrers
+- **§ 6 GmbHG** — Organstellung des Geschäftsführers
 - **§ 35 GmbHG** — Vertretung der Gesellschaft durch GF
 - **§ 38 GmbHG** — Jederzeits-Abberufung des GF (mit Folgen für das Anstellungsverhaeltnis)
 - **§ 43 GmbHG** — Haftung des GF bei Pflichtverstoessen (Fahrlassigkeit, Vorsatz)
@@ -1545,11 +1545,11 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Prüfschema: Anstellungsvertrag-Check
 
-| Schritt | Pruefpunkt | Norm | Ergebnis |
+| Schritt | Prüfpunkt | Norm | Ergebnis |
 |---|---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | SV-Status bestimmt? | § 7a SGB IV | Statusfeststellungsverfahren empfohlen |
-| 3 | vGA-Fremdvergleich bei Gesellschafter-GF | § 8 Abs. 2 KStG | Angemessene Verguetung; Erdienungszeitraum Pension |
+| 3 | vGA-Fremdvergleich bei Gesellschafter-GF | § 8 Abs. 2 KStG | Angemessene Vergütung; Erdienungszeitraum Pension |
 | 4 | Wettbewerbsverbot mit Karenz? | § 74 II HGB analog | Ohne Karenz: Klausel unverbindlich |
 | 5 | Kuendigung und Befristung | §§ 620, 626 BGB | Sonderkuendigungsrecht für wichtige Gruende |
 | 6 | Kopplung Abberufung-Kuendigung | § 38 GmbHG | Explizit im Vertrag regeln |
@@ -1557,10 +1557,10 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Vor Notar-Termin:** Vertragsrahmen (Verguetung, Befristung, Ressort) mit Gesellschaftern abstimmen.
+1. **Vor Notar-Termin:** Vertragsrahmen (Vergütung, Befristung, Ressort) mit Gesellschaftern abstimmen.
 2. **Gesellschafterbeschluss zur Bestellung** (Paragraf 46 Nr. 5 GmbHG) formulieren — separate Beurkundung oder Teil der Gruendung.
 3. **Anstellungsvertrag entwerfen:** Verguetungsstruktur, SV-Status, Wettbewerbsverbot, Pensionszusage.
-4. **vGA-Check:** Bei Gesellschafter-GF: Fremdvergleich-Pruefung durch Steuerberater empfohlen.
+4. **vGA-Check:** Bei Gesellschafter-GF: Fremdvergleich-Prüfung durch Steuerberater empfohlen.
 5. **Statusfeststellung beantragen** (§ 7a SGB IV) nach Eintragung im HR.
 6. **Unterzeichnung:** Gesellschaft vertreten durch alle Gesellschafter (oder bevollmächtigten Vertreter); GF als Anstellende.
 7. **Lohnsteuer-Anmeldung** beim Finanzamt; Gehaltskonto einrichten.
@@ -1568,7 +1568,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Output-Template: Anstellungsvertrag (Kernauszug)
 
-**Adressat:** GmbH und Geschaeftsfuehrer — Tonfall rechtspraezise
+**Adressat:** GmbH und Geschäftsführer — Tonfall rechtspraezise
 
 ```
 GESCHAEFTSFUEHRER-ANSTELLUNGSVERTRAG
@@ -1639,7 +1639,7 @@ Grund (§ 626 BGB) jederzeit moeglich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Verweise Satzung zu GF-Vertrag
 - `gesellschaftsgruender-gesellschaftervereinbarung` — Vesting/Leaver-Klauseln koordinieren

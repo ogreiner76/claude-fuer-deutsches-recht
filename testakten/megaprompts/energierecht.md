@@ -71,7 +71,7 @@ _Energierecht: Erstprüfung, Rollenklärung und Mandatsziel im Energierecht._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Energierecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Energierecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Energierecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Energierecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -93,10 +93,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -255,15 +255,15 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin deckt das gesamte Energierecht ab — von der Erzeugung ueber Netze bis zum Vertrieb. Adressaten sind Rechtsanwaelte, Unternehmensjuristen und Compliance-Beauftragte bei Stadtwerken, Energieversorgern, Netzbetreibern, Industriekunden und Projektierungsgesellschaften. Das Plugin unterstuetzt bei Einzelpruefungen ebenso wie bei der Begleitung von Transaktionen und Regulierungsverfahren.
+Dieses Plugin deckt das gesamte Energierecht ab — von der Erzeugung über Netze bis zum Vertrieb. Adressaten sind Rechtsanwaelte, Unternehmensjuristen und Compliance-Beauftragte bei Stadtwerken, Energieversorgern, Netzbetreibern, Industriekunden und Projektierungsgesellschaften. Das Plugin unterstuetzt bei Einzelpruefungen ebenso wie bei der Begleitung von Transaktionen und Regulierungsverfahren.
 
 Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartellrechtliche Sektorfragen (GWB), das Recht der Waermenetze und Quartiersbloecke, die Projektfinanzierung von Erneuerbaren-Anlagen sowie Due Diligence bei M&A-Transaktionen im Energiesektor.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein Windparkbetreiber prueft Ansprueche auf EEG-Einspeiseverguetung oder Marktpraemie nach neuer Anlageninbetriebnahme.
+- Ein Windparkbetreiber prüft Ansprueche auf EEG-Einspeiseverguetung oder Marktpraemie nach neuer Anlageninbetriebnahme.
 - Ein Stadtwerk will ein Waermenetz nach GEG-Vorgaben strukturieren und benoetigt den Rechtsrahmen.
-- Ein Industrie-Gross-Kunde fragt nach Netzentgeltbefreiungen und Direktleitungsoptionen.
+- Ein Industrie-Groß-Kunde fragt nach Netzentgeltbefreiungen und Direktleitungsoptionen.
 - Eine Investmentgesellschaft kauft einen Solarpark und benoetigt energierechtliche Due Diligence.
 - Ein Versorger fuehrt ein BNetzA-Regulierungsverfahren durch oder klaegt gegen einen Netzentgeltbescheid.
 
@@ -291,24 +291,24 @@ Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartel
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Erzeuger, Netzbetreiber, Versorger, Industrie oder Investor?
+1. Mandantenkonstellation klären: Erzeuger, Netzbetreiber, Versorger, Industrie oder Investor?
 2. Rechtsgebiet eingrenzen: EEG/KWKG-Förderung, Netz, Vertrieb, Waerme, Transaktion oder Verfahren?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: Widerspruchs- und Klagfristen bei BNetzA-Bescheiden sind kurz.
+4. Eilfristen prüfen: Widerspruchs- und Klagfristen bei BNetzA-Bescheiden sind kurz.
 5. Anschluss-Skill bestimmen: Genehmigung, Finanzierungsstruktur oder kartellrechtliches Gutachten?
 
 ## Skill-Tour (was gibt es hier?)
 
 - `energierecht-kommandocenter` — Navigationszentrum: Weiterleitung je Rechtsthema und Anfrageart; Schnellstart für alle Energierecht-Mandate.
-- `energierecht-eeg-kwkg-erzeugung` — EEG-Einspeiseverguetung und Marktpraemie sowie KWK-Zuschlaege für Stromerzeugungsanlagen pruefen.
-- `energierecht-netz-speicher-zugang` — Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher nach EnWG pruefen.
-- `energierecht-energievertraege` — Strom- und Gasliefervertraege mit Industrie- und Privatkunden pruefen und entwerfen.
+- `energierecht-eeg-kwkg-erzeugung` — EEG-Einspeiseverguetung und Marktpraemie sowie KWK-Zuschlaege für Stromerzeugungsanlagen prüfen.
+- `energierecht-netz-speicher-zugang` — Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher nach EnWG prüfen.
+- `energierecht-energievertraege` — Strom- und Gasliefervertraege mit Industrie- und Privatkunden prüfen und entwerfen.
 - `energierecht-industriekunden` — Sonderregelungen für Industriekunden: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung.
 - `energierecht-infrastrukturprojekte` — Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfeststellung, Enteignung.
 - `energierecht-vertrieb-marktrollen` — Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis.
 - `energierecht-waerme-quartier` — Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende.
-- `energierecht-emobility-wasserstoff` — Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wasserstoff pruefen.
-- `energierecht-wettbewerb` — Wettbewerbs- und Kartellrecht im Energiesektor pruefen: Marktmacht, Diskriminierung, Missbrauch.
+- `energierecht-emobility-wasserstoff` — Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wasserstoff prüfen.
+- `energierecht-wettbewerb` — Wettbewerbs- und Kartellrecht im Energiesektor prüfen: Marktmacht, Diskriminierung, Missbrauch.
 - `energierecht-verfahren` — Regulierungsverfahren und Gerichtsverfahren im Energierecht durchfuehren (BNetzA, Kartellamt).
 - `energierecht-transaktionen-dd` — Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen.
 - `energierecht-projektfinanzierung` — Projektfinanzierung für Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen.
@@ -316,10 +316,10 @@ Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartel
 ## Worauf besonders achten
 
 - EEG-Förderung ist anlagenspezifisch und zeitraumgebunden: Inbetriebnahmedatum und Ausschreibungsergebnis bestimmen den Foerdermechanismus.
-- Netzanschluss-Fristen nach NAV und EnWG koennen mit Vertragsrechten kollidieren — Lieferantenwechsel und Anschlussprozesse haben eigene Taktfristen.
+- Netzanschluss-Fristen nach NAV und EnWG können mit Vertragsrechten kollidieren — Lieferantenwechsel und Anschlussprozesse haben eigene Taktfristen.
 - Kartellrecht im Energiesektor: Marktmachtmissbrauch nach §§ 18 ff. GWB und EnWG-Diskriminierungsverbot sind parallel anwendbar.
 - GEG-Pflichten zur kommunalen Waermeplanung gelten ab 2024/2026 gestaffelt — Uebergangszeitraeume beachten.
-- Bei Energietransaktionen: EEG-Foerderansprueche gehen nicht automatisch auf Erwerber ueber, wenn Anlagenstruktur veraendert wird.
+- Bei Energietransaktionen: EEG-Foerderansprueche gehen nicht automatisch auf Erwerber über, wenn Anlagenstruktur veraendert wird.
 
 ## Typische Fehler
 
@@ -334,7 +334,7 @@ Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartel
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
 - EEG 2023 in der zum Stand-Datum geltenden Fassung
-- GEG in der Fassung des Waermepumpen-Aenderungsgesetzes 2024
+- GEG in der Fassung des Waermepumpen-Änderungsgesetzes 2024
 
 ## Normen und Rechtsprechung
 
@@ -484,8 +484,8 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 ### Vergütungs-Streit mit Netzbetreiber
 
 - Anlagenzulassung erfolgt aber Vergütung verweigert
-- BGH-EnVR-Senat: laufende Rechtsprechung zum Anlagenbegriff und zur Verguetung — vor Ausgabe Aktenzeichen ueber bundesgerichtshof.de verifizieren
-- Klärung Streit ueber Schiedsverfahren bei der BNetzA (§ 81 EEG) oder Klage Zivilgericht
+- BGH-EnVR-Senat: laufende Rechtsprechung zum Anlagenbegriff und zur Vergütung — vor Ausgabe Aktenzeichen über bundesgerichtshof.de verifizieren
+- Klärung Streit über Schiedsverfahren bei der BNetzA (§ 81 EEG) oder Klage Zivilgericht
 
 ### Bei nicht-rechtzeitiger MaStR-Eintragung
 
@@ -579,9 +579,9 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 
 ## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026)
 
-- **EuGH 28.03.2019, C-405/16 P (PreussenElektra-Nachfolge / EEG 2012)**: EEG-Umlage stellt keine staatliche Beihilfe i.S.v. Art. 107 AEUV dar (in Vorlaeufer-Konstellation); Aenderung gegenueber Kommissions-Auffassung. Quelle: curia.europa.eu (CELEX 62016CJ0405).
-- **BGH 05.07.2022, EnVR 41/20**: Anlagenbegriff EEG; Abgrenzung zwischen mehreren Anlagen am selben Standort. Quelle: bundesgerichtshof.de — Pressemitteilung BGH 99/2022. Vor Zitieren der Detailfragen Aktenzeichen ueber bundesgerichtshof.de verifizieren.
-- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Pruefung (saP). Quelle: bverwg.de.
+- **EuGH 28.03.2019, C-405/16 P (PreussenElektra-Nachfolge / EEG 2012)**: EEG-Umlage stellt keine staatliche Beihilfe i.S.v. Art. 107 AEUV dar (in Vorlaeufer-Konstellation); Änderung gegenueber Kommissions-Auffassung. Quelle: curia.europa.eu (CELEX 62016CJ0405).
+- **BGH 05.07.2022, EnVR 41/20**: Anlagenbegriff EEG; Abgrenzung zwischen mehreren Anlagen am selben Standort. Quelle: bundesgerichtshof.de — Pressemitteilung BGH 99/2022. Vor Zitieren der Detailfragen Aktenzeichen über bundesgerichtshof.de verifizieren.
+- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Prüfung (saP). Quelle: bverwg.de.
 - **EuGH 27.04.2023, C-217/22 (Aktiengesellschaft Yarpa)**: Auslegung der EE-Richtlinie 2018/2001 (RED II) — Foerderfaehigkeit. Quelle: curia.europa.eu.
 - **Gesetzeslage 05/2026:**
  - EEG 2023 (BGBl. I 2022 S. 1237, mehrfach geaendert)
@@ -590,13 +590,13 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
  - KWKG 2023 — Verlaengerung Förderung bis 2030 (Wasserstoff-Pflicht ab 10 MW)
  - GEG 2024 (BGBl. I 2023 S. 280) — Heizungsgesetz, 65-Prozent-EE-Pflicht ab 2024 in Neubaugebieten
  - RED III — RL (EU) 2023/2413; Frist Umsetzung 21.05.2025; Beschleunigungsgebiete ab 21.02.2026 verpflichtend
- - BNetzA-Festlegungen Ausschreibungs-Hoechstwerte 2025/2026 ueber bundesnetzagentur.de aktuell pruefen
+ - BNetzA-Festlegungen Ausschreibungs-Hoechstwerte 2025/2026 über bundesnetzagentur.de aktuell prüfen
 
-Konkrete Aktenzeichen vor Ausgabe ueber bundesgerichtshof.de / bverwg.de / curia.europa.eu mit Datum verifizieren.
+Konkrete Aktenzeichen vor Ausgabe über bundesgerichtshof.de / bverwg.de / curia.europa.eu mit Datum verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
-§ 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Verguetung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
+§ 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Vergütung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
 
 ## Verzahnung
 
@@ -1147,7 +1147,7 @@ Kern-Punkte:
 
 ## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026, verifiziert dejure.org / curia.europa.eu)
 
-- **EuGH 23.10.2014, C-359/11 (Schulz)**: Preisanpassungsklauseln in Strom-/Gaslieferungsvertraegen nach AVBEltV/GVV — Aenderungen muessen rechtzeitig mitgeteilt werden, Verbraucher muss Kuendigungsrecht haben. Quelle: curia.europa.eu (CELEX 62011CJ0359).
+- **EuGH 23.10.2014, C-359/11 (Schulz)**: Preisanpassungsklauseln in Strom-/Gaslieferungsvertraegen nach AVBEltV/GVV — Änderungen müssen rechtzeitig mitgeteilt werden, Verbraucher muss Kuendigungsrecht haben. Quelle: curia.europa.eu (CELEX 62011CJ0359).
 - **BGH 28.10.2015, VIII ZR 158/11**: Preisanpassung Energielieferungsvertrag — § 5 Abs. 2 GasGVV Transparenz-Anforderungen; AGB-Kontrolle § 307 BGB. Quelle: dejure.org/2015,33580.
 - **BGH 24.03.2010, VIII ZR 178/08**: Preisaenderungsklauseln in Sondervertraegen Strom/Gas — wirksame Indexbindung erfordert klare Berechnungsformel. Quelle: dejure.org/2010,5874.
 - **BGH 09.02.2011, VIII ZR 295/09**: Billigkeit der Leistungsbestimmung § 315 BGB; Beweislast Versorger für Billigkeit. Quelle: dejure.org/2011,4286.
@@ -1159,7 +1159,7 @@ Weitere Aktenzeichen vor Ausgabe per dejure.org / curia.europa.eu verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
-§ 315 BGB (billiges Ermessen Leistungsbestimmung) — §§ 305-310 BGB (AGB-Kontrolle) — §§ 36-38 EnWG (Grundversorgung) — § 46 EnWG (Konzessionsvertrag) — AVBEltV / AVBFernwaermeV (Vertragsbeziehungen Grundversorgung) — §§ 313, 314 BGB (Stoerung Geschaeftsgrundlage, Hardship)
+§ 315 BGB (billiges Ermessen Leistungsbestimmung) — §§ 305-310 BGB (AGB-Kontrolle) — §§ 36-38 EnWG (Grundversorgung) — § 46 EnWG (Konzessionsvertrag) — AVBEltV / AVBFernwaermeV (Vertragsbeziehungen Grundversorgung) — §§ 313, 314 BGB (Stoerung Geschäftsgrundlage, Hardship)
 
 ## Verzahnung
 
@@ -1623,7 +1623,7 @@ Berufsrecht / DS-Pflichten: [Pruefung erfolgt]
 
 ## Zentrale Normen (Paragrafenkette)
 
-§ 31 EnWG (BNetzA-Beschwerde) — § 75 EnWG (OLG-Beschwerde) — §§ 4, 16 BImSchG (Genehmigung, Aenderung) — § 46 EnWG (Konzessionsvertrag) — §§ 72-78 VwVfG (Planfeststellung) — § 80 Abs. 5 VwGO (Eilrechtsschutz)
+§ 31 EnWG (BNetzA-Beschwerde) — § 75 EnWG (OLG-Beschwerde) — §§ 4, 16 BImSchG (Genehmigung, Änderung) — § 46 EnWG (Konzessionsvertrag) — §§ 72-78 VwVfG (Planfeststellung) — § 80 Abs. 5 VwGO (Eilrechtsschutz)
 
 ## Quellen
 

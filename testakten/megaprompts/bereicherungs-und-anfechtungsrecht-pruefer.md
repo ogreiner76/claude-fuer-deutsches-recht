@@ -23,7 +23,7 @@ _Einstieg, Schnelltriage und Fallrouting im Bereicherungs- und Anfechtungsrecht-
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Bereicherungs Und Anfechtungsrecht Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Bereicherungs Und Anfechtungsrecht Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -440,7 +440,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ### Anwendung im Skill
 
 - Leistungs- vs. Nichtleistungskondiktion strikt trennen; § 812 Abs. 1 S. 1 1. Alt. BGB ist kein Auffang.
-- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell pruefen.
+- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell prüfen.
 - Anfechtung §§ 119, 123 BGB binnen Jahresfrist § 124 BGB; verschaerfte Haftung § 819 BGB ab Kenntnis.
 
 ---
@@ -557,7 +557,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ### Anwendung im Skill
 
 - Leistungs- vs. Nichtleistungskondiktion strikt trennen; § 812 Abs. 1 S. 1 1. Alt. BGB ist kein Auffang.
-- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell pruefen.
+- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell prüfen.
 - Anfechtung §§ 119, 123 BGB binnen Jahresfrist § 124 BGB; verschaerfte Haftung § 819 BGB ab Kenntnis.
 
 ---
@@ -653,7 +653,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ### Anwendung im Skill
 
 - Leistungs- vs. Nichtleistungskondiktion strikt trennen; § 812 Abs. 1 S. 1 1. Alt. BGB ist kein Auffang.
-- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell pruefen.
+- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell prüfen.
 - Anfechtung §§ 119, 123 BGB binnen Jahresfrist § 124 BGB; verschaerfte Haftung § 819 BGB ab Kenntnis.
 
 ---
@@ -741,9 +741,9 @@ _Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvors
 
 ## Rechtsprechung (BGH — Leitsätze § 3 AnfG Vorsatzanfechtung)
 
-- Die zur Insolvenzanfechtung nach § 133 InsO ergangene Neuausrichtung des BGH gilt grundsaetzlich uebertragbar auch für § 3 Abs. 1 AnfG, weil beide Vorschriften denselben Wortlaut zur Vorsatzanfechtung tragen. Leitlinie: BGH, Urt. v. 06.05.2021 – Az. IX ZR 72/20 (Insolvenz; uebertragbar). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX+ZR+72/20
-- Weiterentwicklung: BGH, Urt. v. 18.04.2024 – Az. IX ZR 129/22 — Verwalter muss Deckungsluecke darlegen; einfaches Bestreiten kann genuegen; insoweit ebenfalls auf § 3 AnfG uebertragbar, weil der Anfechtende dort dieselben Darlegungslasten traegt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129%2F22
-- Aktenzeichen und Uebertragbarkeit auf den konkreten Mandatssachverhalt vor Schriftsatzverwendung pruefen.
+- Die zur Insolvenzanfechtung nach § 133 InsO ergangene Neuausrichtung des BGH gilt grundsätzlich uebertragbar auch für § 3 Abs. 1 AnfG, weil beide Vorschriften denselben Wortlaut zur Vorsatzanfechtung tragen. Leitlinie: BGH, Urt. v. 06.05.2021 – Az. IX ZR 72/20 (Insolvenz; uebertragbar). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX+ZR+72/20
+- Weiterentwicklung: BGH, Urt. v. 18.04.2024 – Az. IX ZR 129/22 — Verwalter muss Deckungsluecke darlegen; einfaches Bestreiten kann genügen; insoweit ebenfalls auf § 3 AnfG uebertragbar, weil der Anfechtende dort dieselben Darlegungslasten traegt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129%2F22
+- Aktenzeichen und Uebertragbarkeit auf den konkreten Mandatssachverhalt vor Schriftsatzverwendung prüfen.
 
 ## Obersatz
 

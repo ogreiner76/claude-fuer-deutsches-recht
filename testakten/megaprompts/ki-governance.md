@@ -13,14 +13,14 @@ Dieser Megaprompt enthaelt top-15 von 53 Skills des Plugins `ki-governance`.
 5. **ki-anbieter-pruefung** — Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung…
 6. **ki-folgenabschaetzung-ki-governance-mandat** — KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanaly…
 7. **ki-inventar-marketing-werbung-rote-linien** — KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst je KI-System Rolle (Anbieter, Betreiber, Einführer, Händler, B…
-8. **ki-rote-linien-art-5-pruefen** — Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall pruefen: unterschwellige Beeinflussung, Vulnerabilitaets…
-9. **mandat-arbeitsbereich** — Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, …
-10. **regulierungs-luecken-analyse** — Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken,…
-11. **richtlinien-monitor-vorlage-anbieter** — Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folg…
-12. **richtlinien-vorlage** — Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherc…
-13. **vo-pflichtenpyramide-kig-ai-foundation** — Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (Gener…
-14. **anwendungsfall-triage** — Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht f…
-15. **ki-arbeitsrecht-mitbestimmung** — Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtun…
+8. **mandat-arbeitsbereich** — Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, …
+9. **regulierungs-luecken-analyse** — Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken,…
+10. **richtlinien-monitor-vorlage-anbieter** — Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folg…
+11. **richtlinien-vorlage** — Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherc…
+12. **vo-pflichtenpyramide-kig-ai-foundation** — Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (Gener…
+13. **anwendungsfall-triage** — Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht f…
+14. **ki-arbeitsrecht-mitbestimmung** — Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtun…
+15. **ki-haftung-und-versicherung** — Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueber…
 
 ---
 
@@ -193,12 +193,12 @@ Downstream-Auswirkungen von Konfigurationsänderungen können folgende Normen be
 
 ## Triage zu Beginn
 1. Welcher Abschnitt des Praxisprofils soll geaendert werden — Risikoeinstellung, Register, Eskalation?
-2. Hat die Aenderung nachgelagerte Auswirkungen auf andere Skills (Triage, Folgenabschaetzung)?
-3. Betrifft die Aenderung die Eskalationsmatrix — wer ist neuer Genehmiger?
+2. Hat die Änderung nachgelagerte Auswirkungen auf andere Skills (Triage, Folgenabschaetzung)?
+3. Betrifft die Änderung die Eskalationsmatrix — wer ist neuer Genehmiger?
 4. Wird eine Leitplanke degradiert — welche Schutzfunktion entfaellt?
-5. Sind Aenderungen am gemeinsamen Profil (unternehmens-profil.md) betroffen?
+5. Sind Änderungen am gemeinsamen Profil (unternehmens-profil.md) betroffen?
 
-## Output-Template — Profil-Aenderungsbestaetigung
+## Output-Template — Profil-Änderungsbestaetigung
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: knapp, bestaedigend
 ```
 PROFIL-AENDERUNGSBESTAETIGUNG
@@ -371,17 +371,17 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 ## Wann brauchen Sie diese Skill?
 
-- Ihr Unternehmen moechte ein neues KI-System einfuehren und Sie muessen pruefen, ob es unter die KI-VO faellt und welche Risikoklasse gilt.
+- Ihr Unternehmen moechte ein neues KI-System einfuehren und Sie müssen prüfen, ob es unter die KI-VO faellt und welche Risikoklasse gilt.
 - Sie benoetigen eine KI-Folgenabschaetzung (FRIA) nach Art. 27 KI-VO oder eine DSGVO-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO.
-- Sie pruefen einen KI-Anbietervertrag auf KI-VO-Konformitaet, Haftung und Transparenzpflichten nach Art. 25 KI-VO.
+- Sie prüfen einen KI-Anbietervertrag auf KI-VO-Konformitaet, Haftung und Transparenzpflichten nach Art. 25 KI-VO.
 - Die interne KI-Richtlinie soll gegen neue Regulierungen oder Behördenleitlinien geprueft und aktualisiert werden.
 - Sie wollen ein vollstaendiges KI-Inventar aller im Unternehmen eingesetzten Systeme nach Art. 3 KI-VO aufbauen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Anbieter** — Wer ein KI-System entwickelt oder entwickeln laesst und es in Verkehr bringt oder in Betrieb nimmt (Art. 3 Nr. 3 KI-VO).
+- **Anbieter** — Wer ein KI-System entwickelt oder entwickeln lässt und es in Verkehr bringt oder in Betrieb nimmt (Art. 3 Nr. 3 KI-VO).
 - **Betreiber** — Wer ein KI-System im eigenen Namen und unter eigener Kontrolle einsetzt (Art. 3 Nr. 4 KI-VO).
-- **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO (z.B. biometrische Identifikation, Beschaeftigung, kritische Infrastruktur); erfordern umfassende Compliance-Pflichten.
+- **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO (z.B. biometrische Identifikation, Beschäftigung, kritische Infrastruktur); erfordern umfassende Compliance-Pflichten.
 - **FRIA** — Fundamental Rights Impact Assessment nach Art. 27 KI-VO: Folgenabschaetzung für Grundrechte bei Hochrisiko-KI durch Betreiber.
 - **DSFA** — Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO; erforderlich bei hohem Risiko für Betroffene durch Datenverarbeitung.
 - **Allzweck-KI (GPAI)** — General Purpose AI Model; gesonderte Pflichten nach Art. 51 ff. KI-VO für Modelle mit systemischen Risiken.
@@ -400,10 +400,10 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Unternehmen als Anbieter oder Betreiber, Branche, Groesse, welche KI-Systeme bereits im Einsatz oder geplant.
+1. Mandantenkonstellation klären: Unternehmen als Anbieter oder Betreiber, Branche, Groesse, welche KI-Systeme bereits im Einsatz oder geplant.
 2. Phase des Mandats bestimmen: Ersteinrichtung (Inventar, Profil), Triage neues KI-System, Folgenabschaetzung, Richtlinien-Erstellung oder Monitoring.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: KI-VO-Verbote seit 02.02.2025 anwendbar; Hochrisiko-Pflichten seit 02.08.2026; GPAI-Pflichten seit 02.08.2025.
+4. Eilfristen prüfen: KI-VO-Verbote seit 02.02.2025 anwendbar; Hochrisiko-Pflichten seit 02.08.2026; GPAI-Pflichten seit 02.08.2025.
 5. Anschluss-Skill bestimmen: nach Triage folgt Folgenabschaetzung oder Richtlinien-Monitor; nach Vendor-Review ggf. Vertragsnachverhandlung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -425,25 +425,25 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 **Vendor und Richtlinien**
 
-- `ki-anbieter-pruefung` — KI-Anbietervertraege auf Governance-Positionen, Training auf Daten, Haftung und Art. 25 KI-VO pruefen.
+- `ki-anbieter-pruefung` — KI-Anbietervertraege auf Governance-Positionen, Training auf Daten, Haftung und Art. 25 KI-VO prüfen.
 - `richtlinien-vorlage` — Interne KI-Nutzungsrichtlinie entwerfen auf Basis öffentlicher Muster und Praxisprofil.
-- `richtlinien-monitor` — Interne KI-Richtlinie auf Abweichungen von der Praxis und neuen Regulierungen pruefen.
+- `richtlinien-monitor` — Interne KI-Richtlinie auf Abweichungen von der Praxis und neuen Regulierungen prüfen.
 - `regulierungs-luecken-analyse` — Neue KI-Regulierung oder Behördenleitlinie gegen aktuelle Governance-Position abgleichen.
 
 ## Worauf besonders achten
 
-- **Anbieter- und Betreiber-Rolle exakt abgrenzen.** Beide Rollen haben unterschiedliche Pflichten nach KI-VO; eine Verwechslung fuehrt zu falschen Compliance-Massnahmen.
+- **Anbieter- und Betreiber-Rolle exakt abgrenzen.** Beide Rollen haben unterschiedliche Pflichten nach KI-VO; eine Verwechslung fuehrt zu falschen Compliance-Maßnahmen.
 - **Zeitplan der KI-VO beachten.** Verbote (Art. 5) seit 02.02.2025, GPAI seit 02.08.2025, Hochrisiko seit 02.08.2026; nicht alle Pflichten gelten gleichzeitig.
-- **DSFA und FRIA sind keine Duplikate.** Beide Instrumente haben eigene Anwendungsbereiche und koennen parallel erforderlich sein; Skill `ki-folgenabschaetzung` kombiniert beide.
-- **Interne Richtlinie muss gelebte Praxis abbilden.** Eine Richtlinie, die niemand einhalt, schuetzt nicht vor regulatorischer Verantwortung; Skill `richtlinien-monitor` prueft Konsistenz.
+- **DSFA und FRIA sind keine Duplikate.** Beide Instrumente haben eigene Anwendungsbereiche und können parallel erforderlich sein; Skill `ki-folgenabschaetzung` kombiniert beide.
+- **Interne Richtlinie muss gelebte Praxis abbilden.** Eine Richtlinie, die niemand einhalt, schuetzt nicht vor regulatorischer Verantwortung; Skill `richtlinien-monitor` prüft Konsistenz.
 - **Allzweck-KI-Modelle erfordern Sonderbehandlung.** Bei Einsatz von GPAI-Modellen mit systemischen Risiken gelten Transparenz- und Sorgfaltspflichten nach Art. 53 ff. KI-VO.
 
 ## Typische Fehler
 
-- Unternehmen klassifiziert sich als Anbieter obwohl es nur Betreiber ist; fuehrt zu ueberzogenen Compliance-Massnahmen.
-- Use-Case-Triage wird nur einmal durchgefuehrt; bei Weiterentwicklung des KI-Systems ist eine erneute Pruefung erforderlich.
+- Unternehmen klassifiziert sich als Anbieter obwohl es nur Betreiber ist; fuehrt zu ueberzogenen Compliance-Maßnahmen.
+- Use-Case-Triage wird nur einmal durchgefuehrt; bei Weiterentwicklung des KI-Systems ist eine erneute Prüfung erforderlich.
 - Folgenabschaetzung wird nach Einfuehrung des Systems erstellt; KI-VO erfordert Vorab-Bewertung.
-- KI-Anbietervertrag wird ohne Pruefung der Art. 25 KI-VO-Pflichten akzeptiert; Vertragslücken bei Modellwechsel oder Datenpanne.
+- KI-Anbietervertrag wird ohne Prüfung der Art. 25 KI-VO-Pflichten akzeptiert; Vertragslücken bei Modellwechsel oder Datenpanne.
 - Richtlinie wird erstellt und dann nicht aktualisiert; neue Regulierung und neue Systeme bleiben unberuecksichtigt.
 
 ## Quellen und Aktualitaet
@@ -485,7 +485,7 @@ _KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unter
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Governance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ki Governance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -937,7 +937,7 @@ EMPFOHLENE REDLINES:
 WENN ANBIETER NICHT NACHGIBT:
 [FALLBACK ODER ESKALATIONSWEG]
 
-Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Pruefung einholen.
+Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Prüfung einholen.
 ```
 
 ---
@@ -1338,7 +1338,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 1. Liegt ein Hochrisiko-KI-System nach Art. 6 KI-VO i.V.m. Anhang III vor (Nr. 1-8)?
 2. Ist eine DSFA nach Art. 35 DSGVO erforderlich — automatisierte Entscheidung, Profiling, Art. 9-Daten?
 3. Sind personenbezogene Daten betroffen — verlassen sie den Perimeter an Drittanbieter-API?
-4. Handelt es sich um eine öffentliche Stelle oder einen oeffentlich finanzierten Dienst (FRIA Art. 27 KI-VO)?
+4. Handelt es sich um eine öffentliche Stelle oder einen öffentlich finanzierten Dienst (FRIA Art. 27 KI-VO)?
 5. Ist der Einsatz assistierend oder vollautomatisiert — Stempel-Risiko beim nominellen Human-Review?
 
 ## Output-Template — Folgenabschaetzungs-Zusammenfassung
@@ -1680,58 +1680,6 @@ AUSSTEHENDE PFLICHTEN:
 
 Stand: [DATUM] — Naechste Vollpruefung: [DATUM]
 ```
-
----
-
-## Skill: `ki-rote-linien-art-5-pruefen`
-
-_Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall pruefen: unterschwellige Beeinflussung, Vulnerabilitaetsausnutzung, Social Scoring, biometrische Echtzeit-Identifikation im öffentlichen Raum, Emotionserkennung am Arbeitsplatz/Schule, biometrische Kategorisierung. Pruefraster und Ri..._
-
-# Verbotene KI Art. 5 pruefen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Verbotene KI Art. 5 pruefen
-- **Normen-/Quellenanker:** KI, Art. 5, VO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 
@@ -2155,7 +2103,7 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 2. Ist das Regime bereits in Kraft oder nur angekuendigt — welches Anwendungsdatum?
 3. Betrifft das Regime die Rolle als Anbieter oder Betreiber (Art. 3 KI-VO-Unterscheidung)?
 4. Welche Anwendungsfaelle aus dem Register sind potenziell lueckenhaft?
-5. Gibt es bereits Massnahmen oder laufende Compliance-Projekte — Delta zum Status quo ermitteln?
+5. Gibt es bereits Maßnahmen oder laufende Compliance-Projekte — Delta zum Status quo ermitteln?
 
 ## Output-Template — Lueckenanalyse KI-Regulierung
 **Adressat:** Compliance- / Rechts-Team — Tonfall: sachlich, priorisiert
@@ -2579,7 +2527,7 @@ _Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 
 
 ## Arbeitsbereich
 
-Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Übersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -2598,26 +2546,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -2635,7 +2583,7 @@ _Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensreg
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Anwendungsfall Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Governance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Anwendungsfall Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ki Governance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -2796,8 +2744,8 @@ Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
 ## Triage zu Beginn
 1. Was tut die KI genau — assistierend, augmentierend oder vollautomatisiert?
 2. Sind Betroffene schutzbeduertige Gruppen (Minderjaerige, Arbeitnehmer, Kreditnehmer)?
-3. Liegt eine Hochrisiko-Kategorie nach Anhang III KI-VO vor (Nr. 1-8 pruefen)?
-4. Ist eine vollautomatisierte Einzelentscheidung mit Rechtswirkung moeglich (Art. 22 DSGVO)?
+3. Liegt eine Hochrisiko-Kategorie nach Anhang III KI-VO vor (Nr. 1-8 prüfen)?
+4. Ist eine vollautomatisierte Einzelentscheidung mit Rechtswirkung möglich (Art. 22 DSGVO)?
 5. Besteht ein § 87 Abs. 1 Nr. 6 BetrVG-Mitbestimmungsrecht (Mitarbeiterbewertung)?
 
 ## Output-Template — Triage-Ergebnis KI-Anwendungsfall
@@ -2874,26 +2822,78 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `ki-haftung-und-versicherung`
+
+_Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Prüfraster für Versicherungsmakler und Risikomanagement im Ki Governance._
+
+# KI-Haftung und Versicherung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: KI-Haftung und Versicherung
+- **Normen-/Quellenanker:** KI, VO, RL, EU.
+
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

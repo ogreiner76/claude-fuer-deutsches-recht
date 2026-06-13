@@ -76,7 +76,7 @@ _Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Verkehrsowi Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Verkehrsowi Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Verkehrsowi Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verkehrsowi Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -120,13 +120,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **(1) Zustellungsdatum** Bussgeldbescheid? § 67 OWiG 2 Wochen Einspruchsfrist.
  - **(2) Tatvorwurf-Typ** (Geschwindigkeit, Abstand, Rotlicht, Handy, Alkohol, Drogen)?
  - **(3) Sanktionsumfang** (Geldbusse, Punkte, Fahrverbot)?
- - **(4) Beruflich existenzbedrohend** (Berufskraftfahrer, Pendler, Aussendienst)?
+ - **(4) Beruflich existenzbedrohend** (Berufskraftfahrer, Pendler, Außendienst)?
  - **(5) Vorbelastung** (Punktestand FAER, Wiederholungstaeter § 4 II StVG, MPU-Risiko)?
 - **Mandatsziele-Hierarchie:**
  - **Verfahren einstellen** § 47 OWiG (Geringfuegigkeit, öffentliches Interesse).
- - **Fahrverbot abwenden** (auch ueber Erhoehung Geldbusse als Kompensation, BGH-Linie).
+ - **Fahrverbot abwenden** (auch über Erhoehung Geldbusse als Kompensation, BGH-Linie).
  - **Punkte abwenden** (insb. bei drohender 8-Punkte-Grenze).
- - **Geldbusse senken** (oft realistisch ueber Beschraenkung).
+ - **Geldbusse senken** (oft realistisch über Beschraenkung).
  - **Schuldspruch beseitigen** (Messfehler, Identitaetszweifel).
 - **Akteneinsicht § 49 OWiG i.V.m. § 147 StPO sofort:**
  - Messprotokoll, Lichtbild, Eichschein, Bedienerschein, Lebensakte Geraet.
@@ -134,7 +134,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Schulungsnachweis Messbeamter.
 - **Verteidigungsstrategie-Optionen:**
  - **Messfehler** (Standardisierungsfrage, Toleranzunterschreitung, Bedienfehler).
- - **Identitaetszweifel** (Lichtbild zeigt nicht Halter; Halterauskunft § 31a StVZO trotzdem zulaessig).
+ - **Identitaetszweifel** (Lichtbild zeigt nicht Halter; Halterauskunft § 31a StVZO trotzdem zulässig).
  - **Verfahrensfehler** (Verjährung § 26 III StVG, Zustellungsmaengel, Anhörungspflicht § 55 OWiG).
  - **Rechtsfolgenmilderung** (Tagessatzhoehe; Fahrverbot Haerte).
 - **Risikoampel:**
@@ -211,15 +211,15 @@ Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Prom
 
 1. **Sachverhalt aufnehmen:** AAK-Wert, BAK-Wert, Zeitpunkt der Atemtest/Blutentnahme, Fahrtende.
 2. **Zuordnung OWi oder Strafrecht?** — Trennlinie klar definieren.
-3. **Blutentnahme-Rechmaessigkeit pruefen:** Richteranordnung vorhanden? Gefahr im Verzug begruendet?
+3. **Blutentnahme-Rechmaessigkeit prüfen:** Richteranordnung vorhanden? Gefahr im Verzug begruendet?
 4. **Rueckrechnungspruefung:** Nachweis BAK/AAK korrekt auf Fahrzeitpunkt zurueckgerechnet?
-5. **Bei Drogen:** Wirkstoff und Grenzwert pruefen; § 24a Abs. 3 StVG-Ausnahme pruefen.
+5. **Bei Drogen:** Wirkstoff und Grenzwert prüfen; § 24a Abs. 3 StVG-Ausnahme prüfen.
 6. **Fahrerlaubnis-Strategie:** Fahrverbot § 25 StVG vs. Entziehung § 69 StGB — getrennt bearbeiten.
 
 ## Harte Leitplanken
 
 - BAK ab 1,6 Promille immer als Strafrecht behandeln — eigener Skill § 316 StGB.
-- Blutentnahme-Rechtmaessigkeit aktiv pruefen — Verwertungsverbot argumentierbar.
+- Blutentnahme-Rechtmaessigkeit aktiv prüfen — Verwertungsverbot argumentierbar.
 - Rueckrechnung selbst kontrollieren; Fehler im Urteil sind Revisionsgruende.
 - Anwaltliche Endkontrolle bei Abgrenzung OWi/Strafrecht.
 
@@ -268,19 +268,19 @@ Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoe
 
 ## Triage-Erstgespraeches-Leitfaden
 
-**Was zuerst klaeren:**
+**Was zuerst klären:**
 
 1. **Zustellungsdatum Bescheid?** — Frist sofort berechnen, Mandant informieren.
 2. **Fahrzeug auf Mandanten-Namen?** — Halter = OWi-Adressat; wenn nicht Fahrzeugfuehrer: Fahreridentifikation.
 3. **Aktueller Punktestand?** — Hat der Mandant eine FAER-Auskunft (§ 30 StVG)?
-4. **Berufliche Folgen eines Fahrverbots?** — Existenzgefaehrdung? Arbeitgeber-Bescheinigung moeglich?
+4. **Berufliche Folgen eines Fahrverbots?** — Existenzgefaehrdung? Arbeitgeber-Bescheinigung möglich?
 5. **Was ist das Ziel?** — Freispruch, Einstellung, Fahrverbot-Vermeidung, Tagessatz-Reduzierung?
 
 ## Kommentar-Warteraum Erstgespraeches-Sprache
 
 - Nicht: "Die Messtoleranz wurde korrekt abgezogen" → Besser: "Von Ihrer gemessenen Geschwindigkeit wird ein Sicherheitsabzug von 3 km/h (bzw. 3%) vorgenommen — das ist gesetzlich vorgeschrieben."
 - Nicht: "§ 67 OWiG-Frist" → Besser: "Sie haben ab dem Tag, an dem Sie den Bescheid bekommen haben, 2 Wochen Zeit, Einspruch einzulegen."
-- Nicht: "Standardisiertes Messverfahren nach BGH" → Besser: "Das Gericht akzeptiert diese Art der Messung grundsaetzlich, aber wir pruefen trotzdem ob technische Fehler vorlagen."
+- Nicht: "Standardisiertes Messverfahren nach BGH" → Besser: "Das Gericht akzeptiert diese Art der Messung grundsätzlich, aber wir prüfen trotzdem ob technische Fehler vorlagen."
 
 ## Zentrale Normen
 
@@ -347,12 +347,12 @@ Mit freundlichen Gruessen [KANZLEI]
 2. **Einspruch einlegen:** Mandant sofort informieren.
 3. **Akteneinsicht:** Ergebnis in verstaendlicher Sprache erklaeren.
 4. **Strategie besprechen:** Erfolgsaussichten realistisch einschaetzen.
-5. **Vor der HV:** Mandant ueber Ablauf informieren, Erscheinungspflicht klaeren.
+5. **Vor der HV:** Mandant über Ablauf informieren, Erscheinungspflicht klären.
 6. **Nach der HV / Urteil:** Ergebnis erklaeren, Rechtsmitteloptionen darlegen.
 
 ## Harte Leitplanken
 
-- Mandant immer ueber Kosten informieren (RVG-Gebühren schriftlich).
+- Mandant immer über Kosten informieren (RVG-Gebühren schriftlich).
 - Erfolgsaussichten realistisch kommunizieren — keine Garantien.
 - Fristen immer in Mandantenkommunikation vermerken.
 - Anwaltliche Endkontrolle bei Mandantenkorrespondenz.
@@ -499,18 +499,18 @@ Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspr
 ## Wann brauchen Sie diese Skill?
 
 - Mandant erhaelt Anhörungsbogen oder Bussgeldbescheid wegen Geschwindigkeitsueberschreitung und braucht sofortige Beratung zu Einspruchsfrist und Strategie.
-- Mandant ist auf den Fuehrerschein beruflich angewiesen und soll Fahrverbot erhalten — Haertefall-Argumentation pruefen.
+- Mandant ist auf den Fuehrerschein beruflich angewiesen und soll Fahrverbot erhalten — Haertefall-Argumentation prüfen.
 - Anwalt hat Akteneinsicht beantragt und will Messakte auf Verfahrensfehler untersuchen.
 - Mandant bestreitet Fahrereigenschaft — Fahreridentifizierungsstrategie entwickeln.
 - OWi-Urteil des Amtsgerichts ist unbefriedigend und Rechtsbeschwerde zum OLG wird erwaogen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **OWiG** — Gesetz ueber Ordnungswidrigkeiten; Rahmengesetz für alle Ordnungswidrigkeitsverfahren einschliesslich VerkehrsOWi.
+- **OWiG** — Gesetz über Ordnungswidrigkeiten; Rahmengesetz für alle Ordnungswidrigkeitsverfahren einschliesslich VerkehrsOWi.
 - **StVG** — Strassenverkehrsgesetz; § 24 StVG Grundnorm für Verkehrsordnungswidrigkeiten, § 25 StVG Fahrverbot.
 - **FAER** — Fahreignungsregister; Punkteregister in Flensburg beim Kraftfahrt-Bundesamt.
 - **Messakte** — Vollstaendige Unterlagen zum Messvorgang: Eichschein, Rohmessdaten, Geraetefoto, Aufstellprotokoll.
-- **Standardisiertes Messverfahren** — Pruefstandsgerechtes Verfahren mit amtlich anerkanntem Messgeraet; Gerichte duerfen auf Beweiswert vertrauen, solange keine konkreten Fehlerhinweise vorliegen.
+- **Standardisiertes Messverfahren** — Prüfstandsgerechtes Verfahren mit amtlich anerkanntem Messgeraet; Gerichte dürfen auf Beweiswert vertrauen, solange keine konkreten Fehlerhinweise vorliegen.
 - **Verfolgungsverjaehrung** — Nach §§ 26 StVG und 31 ff. OWiG: Verjaeht die Tat, kann kein Bussgeld mehr verhaengt werden.
 - **Rechtsbeschwerde** — Rechtsmittel nach § 79 OWiG zum Oberlandesgericht gegen Urteil des Amtsgerichts im OWi-Verfahren.
 - **Haertefall** — Ausnahme vom Fahrverbot nach § 25 StVG, wenn unverhieltnisgemäßige berufliche Folgen drohen.
@@ -529,7 +529,7 @@ Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspr
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Aktenanlage und Mandat aufnehmen: Tatvorwurf, Verfahrensstadium, Fristen erfassen (`verkehrsowi-aktenanlage`).
-2. Einspruchsfrist pruefen: Zwei Wochen ab Zustellung des Bussgeldbescheids — Fristwahrung hat Vorrang (`verkehrsowi-fristen-einspruch`).
+2. Einspruchsfrist prüfen: Zwei Wochen ab Zustellung des Bussgeldbescheids — Fristwahrung hat Vorrang (`verkehrsowi-fristen-einspruch`).
 3. Akteneinsicht und Messakte beantragen und auswerten (`verkehrsowi-akteneinsicht-messakte`).
 4. Verteidigungsstrategie festlegen: Messverfahren angreifen, Fahreridentifizierung, Haertefall?
 5. Quality-Gate vor Einspruch und vor Hauptverhandlung durchlaufen (`verkehrsowi-quality-gate`).
@@ -540,27 +540,27 @@ Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspr
 - `verkehrsowi-aktenanlage` — Akte im VerkehrsOWi-Mandat anlegen und strukturieren.
 - `verkehrsowi-anhoerung-bussgeldbescheid` — Reaktion auf Anhörungsbogen oder Bussgeldbescheid strategisch vorbereiten.
 - `verkehrsowi-fristen-einspruch` — Einspruchsfrist berechnen und wahren; Fristversaeumnis-Risiken erkennen.
-- `verkehrsowi-akteneinsicht-messakte` — Vollstaendige Messakte anfordern und auf Verfahrensfehler und Eichluecken pruefen.
+- `verkehrsowi-akteneinsicht-messakte` — Vollstaendige Messakte anfordern und auf Verfahrensfehler und Eichluecken prüfen.
 - `verkehrsowi-messverfahren-geschwindigkeit` — Geschwindigkeitsmessungen (TraffiStar, Riegl, ESO) auf Verwertbarkeit angreifen.
 - `verkehrsowi-beweisverwertung-standardisiert` — Beweisverwertbarkeit im standardisierten Messverfahren angreifen.
 - `verkehrsowi-rotlicht-abstand-handy` — Rotlicht-, Abstands- und Handy-OWi verteidigen.
 - `verkehrsowi-alkohol-drogen-24a` — Alkohol- und Drogen-OWi nach § 24a StVG verteidigen (0,5-Promille, Drogennachweis).
 - `verkehrsowi-fahreridentifizierung` — Fahrereigenschaft angreifen oder Fahreridentifizierung als Verteidigungsstrategieklaeren.
-- `verkehrsowi-punkte-fahrverbot-flensburg` — Punkte im FAER und Fahrverbot nach § 25 StVG pruefen und Massnahmen besprechen.
+- `verkehrsowi-punkte-fahrverbot-flensburg` — Punkte im FAER und Fahrverbot nach § 25 StVG prüfen und Maßnahmen besprechen.
 - `verkehrsowi-haertefall-fahrverbot` — Haertefall-Argumentation gegen Fahrverbot bei beruflicher Angewiesenheit entwickeln.
-- `verkehrsowi-verjaehrung-zustellung` — Verfolgungsverjaehrung pruefen und Zustellungsfehler identifizieren.
+- `verkehrsowi-verjaehrung-zustellung` — Verfolgungsverjaehrung prüfen und Zustellungsfehler identifizieren.
 - `verkehrsowi-hauptverhandlung-amtsgericht` — Hauptverhandlung am Amtsgericht vorbereiten und fuehren.
 - `verkehrsowi-rechtsbeschwerde` — Rechtsbeschwerde nach § 79 OWiG zum OLG einlegen.
 - `verkehrsowi-zeugen-polizei-strategie` — Zeugen-Strategie gegenueber Polizeibeamten in der Hauptverhandlung entwickeln.
 - `verkehrsowi-quality-gate` — Checkliste vor Einspruch, nach Akteneingang und vor Hauptverhandlung durchlaufen.
-- `verkehrsowi-mandantenkommunikation` — Mandant verstaendlich ueber Verfahren, Kosten und Aussichten informieren.
+- `verkehrsowi-mandantenkommunikation` — Mandant verstaendlich über Verfahren, Kosten und Aussichten informieren.
 - `verkehrsowi-rechtsprechungsrecherche` — OLG-Entscheidungen zu Messverfahren, Rohmessdaten und Fahrverboten recherchieren.
 - `verkehrsowi-simulation-training` — Simulationstraining für OWi-Mandate: Messverfahren, Rotlicht, Handy, Alkohol, Fahreridentifizierung.
 
 ## Worauf besonders achten
 
 - Einspruchsfrist ist zwei Wochen ab Zustellung — keine Hemmung, kein Neubeginn bei blossem Schweigen; Fristverpassen = Rechtskraft.
-- Verfolgungsverjaehrung nach § 26 StVG betraegt 3 Monate ab Tatbegehung, Unterbrechung durch behordliche Massnahmen — Zeitstrahl pruefen.
+- Verfolgungsverjaehrung nach § 26 StVG betraegt 3 Monate ab Tatbegehung, Unterbrechung durch behordliche Maßnahmen — Zeitstrahl prüfen.
 - Akteneinsicht in Messakte inklusive Rohmessdaten ist einzufordern; ohne Rohmessdaten ist effektive Verteidigung eingeschraenkt.
 - Haertefall-Fahrverbot: Nicht jede berufliche Betroffenheit genuegt — wirtschaftliche Existenzgefaehrdung oder alternativlose Infrastruktur noetig.
 - Rechtsbeschwerde setzt Anwaltszwang voraus (§ 79 Abs. 3 OWiG i. V. m. § 341 StPO analog).
@@ -568,10 +568,10 @@ Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspr
 ## Typische Fehler
 
 - Einspruch ohne gleichzeitige Akteneinsicht: Verteidigung beginnt blind ohne Kenntnis der Messumstaende.
-- Schweigen im Anhörungsbogen unterlassen: Mandant macht Angaben, die spaeter als Beweismittel verwendet werden.
+- Schweigen im Anhörungsbogen unterlassen: Mandant macht Angaben, die später als Beweismittel verwendet werden.
 - Fahreridentifizierungsstrategie zu spaet entwickelt: Fotoabgleich wird im Bussgeldbescheid bereits verwendet und nicht mehr angegriffen.
-- Haertefall nicht rechtzeitig vorgetragen: Amtsgericht prueft von Amts wegen nicht — Vortrag Sache des Verteidigers.
-- Rechtsbeschwerde ohne Zulassungsgrund: Nur bei Verfahrensfehlern oder Rechtsfragen von grundsaetzlicher Bedeutung zulaessig.
+- Haertefall nicht rechtzeitig vorgetragen: Amtsgericht prüft von Amts wegen nicht — Vortrag Sache des Verteidigers.
+- Rechtsbeschwerde ohne Zulassungsgrund: Nur bei Verfahrensfehlern oder Rechtsfragen von grundsaetzlicher Bedeutung zulässig.
 
 ## Quellen und Aktualitaet
 
@@ -654,7 +654,7 @@ Akte im Verkehrs-OWi-Mandat anlegen und strukturieren: Neues Mandat Bußgeldbesc
  - Rechtsbeschwerde
 ```
 
-## Fristen-Uebersicht OWi
+## Fristen-Übersicht OWi
 
 | Frist | Rechtsgrundlage | Datum | Erledigt |
 |-------|----------------|-------|---------|
@@ -707,8 +707,8 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 1. **Anhörungsbogen erhalten?** — Unterschied zum Bussgeldbescheid: Anhörung ist Vorstadium; kein Bussgeldbescheid noch offen.
 2. **Schweigen oder Stellungnahme?** — § 55 OWiG: Betroffener muss auf Anhörung nicht reagieren; Schweigen kann nicht nachteilig gewertet werden.
 3. **Fahreridentifikation?** — Betroffener muss sich nicht als Fahrender identifizieren; Halter-Auskunft ist OWi-Pflicht (§ 31a StVG bei Halter-Anfrage), aber Fahrernennung ist freiwillig.
-4. **Bussgeldbescheid bereits erlassen?** — Wenn ja: Einspruchsfrist 2 Wochen ab Zustellung (§ 67 Abs. 1 OWiG) pruefen.
-5. **Zustellungsfiktion pruefen?** — § 33 Abs. 1 OWiG i.V.m. §§ 177-182 ZPO; Einwurf-Einschreiben.
+4. **Bussgeldbescheid bereits erlassen?** — Wenn ja: Einspruchsfrist 2 Wochen ab Zustellung (§ 67 Abs. 1 OWiG) prüfen.
+5. **Zustellungsfiktion prüfen?** — § 33 Abs. 1 OWiG i.V.m. §§ 177-182 ZPO; Einwurf-Einschreiben.
 
 ## Zentrale Normen
 
@@ -716,7 +716,7 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 - **§ 55 Abs. 1 OWiG** — Schweigen ist nicht zu seinen Ungunsten zu verwenden
 - **§ 66 OWiG** — Inhalt des Bussgeldbescheidss; Pflichtangaben nach § 66 Abs. 1 Nr. 1-7 OWiG
 - **§ 67 Abs. 1 OWiG** — Einspruch: 2 Wochen ab Zustellung des Bussgeldbescheids
-- **§ 67 Abs. 2 OWiG** — Beschraenkter Einspruch (nur Rechtsfolgen) moeglich
+- **§ 67 Abs. 2 OWiG** — Beschraenkter Einspruch (nur Rechtsfolgen) möglich
 - **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
 - **§ 31a StVG** — Recht auf Fahrerauskunft (nur Halter-Auskunft, nicht Fahrernennung)
 
@@ -776,7 +776,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 - Anhörungsbogen nicht selbst ausfullen lassen — Schweigerecht empfehlen.
 - Einspruchsfrist 2 Wochen ab Zustellung (§ 67 OWiG) — sofort notieren.
-- Bussgeldbescheid auf Pflichtinhalt nach § 66 OWiG pruefen.
+- Bussgeldbescheid auf Pflichtinhalt nach § 66 OWiG prüfen.
 - Anwaltliche Endkontrolle bei Einspruchsformulierung.
 
 ---
@@ -800,7 +800,7 @@ _Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant best
 1. **Ist der Betroffene eindeutig auf dem Messfoto identifizierbar?** — Qualitaet des Fotos entscheidend; unklares Foto = Angriffspunkt.
 2. **Hat der Betroffene sich bereits als Fahrer identifiziert?** — Anhörungsbogen, Polizeivermerk, sonstige Aussagen.
 3. **Ist die Halter-Auskunft (§ 31a StVG) bereits ergangen?** — Halter muss Auskunft geben; Fahrernennung ist freiwillig.
-4. **Ist eine Fahrtenbuchauflage drohendes Thema?** — § 31a StVG: wenn Fahrer nicht ermittelt werden kann, kann Halter Fahrtenbuch fuehren muessen.
+4. **Ist eine Fahrtenbuchauflage drohendes Thema?** — § 31a StVG: wenn Fahrer nicht ermittelt werden kann, kann Halter Fahrtenbuch fuehren müssen.
 5. **Biometrischer Vergleich noetig?** — Sachverstaendiger wenn Foto-Identifikation streitig und für das Gericht nicht offenkundig.
 
 ## Zentrale Normen
@@ -896,10 +896,10 @@ Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskr
 ## Triage zu Beginn
 
 1. **Wann wurde der Bussgeldbescheid zugestellt?** — Ausgangspunkt der 2-Wochen-Frist § 67 Abs. 1 OWiG.
-2. **Zustellungsform?** — Persoenliche Uebergabe, Einwurf-Einschreiben (§§ 33 OWiG, 180 ZPO), PZU.
-3. **Mandant kennt Zugangsdatum?** — Falls unsicher: Zustellungsfiktion pruefen; für Mandanten spaetestes bekanntes Datum nehmen.
-4. **Frist bereits abgelaufen?** — Wiedereinsetzungsantrag nach § 52 OWiG pruefen.
-5. **Beschraenkt oder unbeschraenkt einlegen?** — § 67 Abs. 2 OWiG: Beschraenkung auf Rechtsfolgen moeglich.
+2. **Zustellungsform?** — Persoenliche Übergabe, Einwurf-Einschreiben (§§ 33 OWiG, 180 ZPO), PZU.
+3. **Mandant kennt Zugangsdatum?** — Falls unsicher: Zustellungsfiktion prüfen; für Mandanten spaetestes bekanntes Datum nehmen.
+4. **Frist bereits abgelaufen?** — Wiedereinsetzungsantrag nach § 52 OWiG prüfen.
+5. **Beschraenkt oder unbeschraenkt einlegen?** — § 67 Abs. 2 OWiG: Beschraenkung auf Rechtsfolgen möglich.
 
 ## Zentrale Normen
 
@@ -999,7 +999,7 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 
 1. **Wie hoch ist das Fahrverbot?** — § 25 StVG: 1 bis 3 Monate; Regelfahrverbot im BKat (Bussgeldkatalog) bei bestimmten Verstaessen.
 2. **Ist der Mandant beruflich auf das Fahrzeug angewiesen?** — LKW-Fahrer, Vertreter, Pflegekraft, Taxi/Uber — Haertefall-Argumentation.
-3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentuemer Kleinstunternehmen.
+3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentümer Kleinstunternehmen.
 4. **Gibt es mildernde Tatumstaende?** — Dringende Notsituation, techisches Versagen, minimale Ueberschreitung.
 5. **Vier-Monats-Frist nutzbar?** — § 25 Abs. 2a StVG: Betroffener kann Beginn des Fahrverbots bis zu 4 Monate nach Rechtskraft hinauszogern (vorteilhaft für Urlaubszeit).
 
@@ -1008,7 +1008,7 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 - **§ 25 Abs. 1 StVG** — Fahrverbot im OWi-Verfahren: 1 bis 3 Monate
 - **§ 25 Abs. 2a StVG** — Vier-Monats-Frist: Betroffener kann Antritt bis 4 Monate nach Rechtskraft hinausschieben
 - **§ 4 Abs. 1 BKatV** — Regelfahrverbot bei bestimmten Grenzwerten; kann unterschritten werden wenn Haertefall vorliegt
-- **§ 17 Abs. 3 OWiG** — Geldbusse als Alternative; Erhoehung moeglich statt Fahrverbot
+- **§ 17 Abs. 3 OWiG** — Geldbusse als Alternative; Erhoehung möglich statt Fahrverbot
 - **§ 44 StGB** — Fahrverbot als strafrechtliche Nebenstrafe (andere Regelung als § 25 StVG)
 
 ## Aktuelle Rechtsprechung
@@ -1046,7 +1046,7 @@ VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Mandant ueber realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
+1. **Mandant über realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
 2. **Beweise sammeln:** Arbeitgeber-Bescheinigung, Einkommensnachweis, Alternativennachweis (OEPNV nicht erreichbar).
 3. **Vier-Monats-Frist als Alternative:** Wenn Haertefall nicht durchsetzbar, Fristverschiebung nach § 25 Abs. 2a StVG beantragen.
 4. **Absehen vom Fahrverbot beantragen:** Statt Fahrverbot erhoehte Geldbusse; § 17 Abs. 3 OWiG i.V.m. § 4 Abs. 4 BKatV.
@@ -1095,7 +1095,7 @@ Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nac
 - **§ 74 OWiG** — Verwerfung des Einspruchs bei unentschuldigtem Ausbleiben
 - **§ 77 OWiG** — Beweisantraege: Ablehnungsgruende eng; Sachverstaendigenrecht
 - **§ 17 OWiG** — Geldbusse: Zubemassung nach Schwere und Einkommen
-- **§ 79 OWiG** — Rechtsbeschwerde: zulaessig bei Geldbusse > 250 EUR oder Fahrverbot
+- **§ 79 OWiG** — Rechtsbeschwerde: zulässig bei Geldbusse > 250 EUR oder Fahrverbot
 - **§ 80 OWiG** — Zulassung der Rechtsbeschwerde bei grundsaetzlicher Bedeutung
 
 ## Aktuelle Rechtsprechung
@@ -1138,13 +1138,13 @@ Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nac
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — OWi-Hauptverhandlung am Amtsgericht fuehren | Plaedoyer nach Schema; Template unten |
 | Variante A — Mandant will Einspruch zuruecknehmen vor HV | Einspruchsruecknahme statt HV; Bussgeldbescheid wird rechtskraeftig |
-| Variante B — Freispruch unrealistisch Strafmass im Fokus | Strafzumessungs-Plaedoyer; Fahrverpflichtung pruefen |
+| Variante B — Freispruch unrealistisch Strafmass im Fokus | Strafzumessungs-Plaedoyer; Fahrverpflichtung prüfen |
 | Variante C — Rechtsbeschwerde bereits im Blick | Verteidigungsstrategie HV auf Rechtsbeschwerde ausrichten; Protokollfuehrung beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -1168,13 +1168,13 @@ Antrag: Freispruch / Einstellung / Geldbusse von [X] EUR
 ohne Fahrverbot.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1209,7 +1209,7 @@ _Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vo
 
 1. **Fristlage:** Wann wurde der Bussgeldbescheid zugestellt? Einspruchsfrist § 67 Abs. 1 OWiG: 2 Wochen ab Zustellung.
  - Frist offen → Einspruch sofort, dann vertiefen
- - Frist abgelaufen → Wiedereinsetzung § 52 OWiG pruefen
+ - Frist abgelaufen → Wiedereinsetzung § 52 OWiG prüfen
 
 2. **OWi oder Strafrecht?** — Grenzwert: § 24a Abs. 1 StVG (0,5 Promille OWi) vs. § 316 StGB (ab 1,1 Promille oder Ausfallerscheinung = Strafrecht!); Geschwindigkeit: OWi immer.
 
@@ -1217,7 +1217,7 @@ _Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vo
 
 ## Ampel-Schnelldiagnose
 
-| Situation | Ampel | Massnahme |
+| Situation | Ampel | Maßnahme |
 |-----------|-------|-----------|
 | Frist laeuft in < 3 Tagen | ROT | Einspruch SOFORT, dann vertiefen |
 | Frist laeuft in 4-7 Tagen | GELB | Einspruch und Akteneinsicht parallel |
@@ -1231,11 +1231,11 @@ _Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vo
 |---------|---------|
 | Einspruchsfrist berechnen + einlegen | `verkehrsowi-fristen-einspruch` |
 | Akteneinsicht Messakte anfordern | `verkehrsowi-akteneinsicht-messakte` |
-| Messverfahren-Angriffspunkte pruefen | `verkehrsowi-messverfahren-geschwindigkeit` |
+| Messverfahren-Angriffspunkte prüfen | `verkehrsowi-messverfahren-geschwindigkeit` |
 | Beweisverwertung standardisiert | `verkehrsowi-beweisverwertung-standardisiert` |
 | Alkohol / Drogen § 24a StVG | `verkehrsowi-alkohol-drogen-24a` |
 | Fahreridentifizierung | `verkehrsowi-fahreridentifizierung` |
-| Anhörung / Bussgeldbescheid-Pruefung | `verkehrsowi-anhoerung-bussgeldbescheid` |
+| Anhörung / Bussgeldbescheid-Prüfung | `verkehrsowi-anhoerung-bussgeldbescheid` |
 | Haertefall Fahrverbot | `verkehrsowi-haertefall-fahrverbot` |
 | Punkte in Flensburg | `verkehrsowi-punkte-fahrverbot-flensburg` |
 | Hauptverhandlung Amtsgericht | `verkehrsowi-hauptverhandlung-amtsgericht` |
@@ -1246,7 +1246,7 @@ _Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vo
 | Mandantenkommunikation | `verkehrsowi-mandantenkommunikation` |
 | Quality Gate | `verkehrsowi-quality-gate` |
 
-## Zentrale OWi-Normen im Ueberblick
+## Zentrale OWi-Normen im Überblick
 
 - **§ 24 StVG** — Ordnungswidrigkeiten im Strassenverkehr allgemein
 - **§ 24a StVG** — Alkohol (0,5 Promille) und Drogen
@@ -1266,9 +1266,9 @@ _Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vo
 
 ## Harte Leitplanken
 
-- OWi vs. Strafrecht immer zuerst klaeren — falsche Qualifikation ist schwerer Fehler.
+- OWi vs. Strafrecht immer zuerst klären — falsche Qualifikation ist schwerer Fehler.
 - Frist immer zuerst sichern — kein Schritt vor Einspruch.
-- Rohmessdaten grundsaetzlich anfordern.
+- Rohmessdaten grundsätzlich anfordern.
 - Anwaltliche Endkontrolle bei allen Fristen und Antraegen.
 
 ---
@@ -1297,13 +1297,13 @@ Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Manda
 2. **Neue Eintragung droht?** — Nach Bussgeldbescheid oder Verurteilung: wann wird eingetragen?
 3. **Wie viele Punkte nach neuer Eintragung?** — Warnstufen nach § 4 Abs. 5 StVG: bei 4 Punkten Ermahnung, bei 6 Punkten Verwarnung, bei 8 Punkten Entzug.
 4. **Tilgungsfristen laufen?** — § 65 StVG: Punktetilgung nach Ablauf der Tilgungsfrist (2,5 oder 10 Jahre je nach Eintragungsart).
-5. **Freiwilliger Kurs moeglich?** — Nach § 4 Abs. 7 StVG: bei Punkt-Level 1-5 kann Kurs 1 Punkt reduzieren.
+5. **Freiwilliger Kurs möglich?** — Nach § 4 Abs. 7 StVG: bei Punkt-Level 1-5 kann Kurs 1 Punkt reduzieren.
 
 ## Zentrale Normen
 
 - **§ 4 StVG** — Fahreignungs-Bewertungssystem: Eintragungen, Warnstufen, Konsequenzen
-- **§ 4 Abs. 5 StVG** — Stufensystem: 1-3 Punkte (keine Massnahme), 4-5 Punkte (Ermahnung), 6-7 Punkte (Verwarnung), 8+ Punkte (Entziehung)
-- **§ 4 Abs. 7 StVG** — Freiwilliger Kurs: 1 Punkt-Reduktion moeglich bei <= 5 Punkten
+- **§ 4 Abs. 5 StVG** — Stufensystem: 1-3 Punkte (keine Maßnahme), 4-5 Punkte (Ermahnung), 6-7 Punkte (Verwarnung), 8+ Punkte (Entziehung)
+- **§ 4 Abs. 7 StVG** — Freiwilliger Kurs: 1 Punkt-Reduktion möglich bei <= 5 Punkten
 - **§ 30 StVG** — Recht auf Auskunft aus dem FAER
 - **§ 65 StVG** — Tilgungsfristen: Grundregel 2,5 Jahre; Ausnahme (z.B. Straftaten mit Entziehung) 10 Jahre
 - **§ 66 StVG** — Tilgungshemmung bei neuer Eintragung innerhalb der Tilgungsfrist
@@ -1339,14 +1339,14 @@ Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Manda
 
 1. **FAER-Auskunft beantragen** (§ 30 StVG) — Mandant beim KBA Flensburg (Kraftfahrtbundesamt).
 2. **Punktestand berechnen** nach neuer Eintragung.
-3. **Tilgungsfristen pruefen:** Laufen alte Eintragungen demnachst aus?
-4. **Kursoption pruefen:** <= 5 Punkte → freiwilliger Kurs nach § 4 Abs. 7 StVG.
-5. **MPU-Risiko pruefen:** Bei Alkohol- oder Drogendelikten koennen Behörden MPU anordnen.
+3. **Tilgungsfristen prüfen:** Laufen alte Eintragungen demnachst aus?
+4. **Kursoption prüfen:** <= 5 Punkte → freiwilliger Kurs nach § 4 Abs. 7 StVG.
+5. **MPU-Risiko prüfen:** Bei Alkohol- oder Drogendelikten können Behörden MPU anordnen.
 6. **Verwaltungsrechtlichen Weg einschlagen** bei unberechtigter Eintragung (Widerspruch, VG-Klage).
 
 ## Harte Leitplanken
 
-- Punkte koennen nicht "verhandelt" werden — Eintragung ist automatisch nach Rechtskraft.
+- Punkte können nicht "verhandelt" werden — Eintragung ist automatisch nach Rechtskraft.
 - Tilgungshemmung durch neue Eintragung beachten.
 - Freiwilliger Kurs nur bei <= 5 Punkten wirksam.
 - Anwaltliche Endkontrolle bei Kursempfehlung und Verwaltungsrechtsstrategie.
@@ -1419,8 +1419,8 @@ AMPEL: GRUEN zufriedenstellend / GELB Rechtsbeschwerde moeglich / ROT Fehler
 ## Harte Leitplanken
 
 - Quality Gate ist Pflichtprozess — auch bei einfachen Faellen.
-- ROT-Punkte muessen unverzueglich adressiert werden.
-- Mandant ueber jeden Gate-Status informieren.
+- ROT-Punkte müssen unverzueglich adressiert werden.
+- Mandant über jeden Gate-Status informieren.
 - Anwaltliche Endkontrolle bei jedem Gate zwingend.
 
 ---
@@ -1445,7 +1445,7 @@ Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil ge
 
 ## Triage zu Beginn
 
-1. **Ist Rechtsbeschwerde zulaessig?** — § 79 Abs. 1 OWiG: zulaessig bei Geldbusse > 250 EUR ODER Fahrverbot; ansonsten nur Zulassungsbeschwerde nach § 80 OWiG.
+1. **Ist Rechtsbeschwerde zulässig?** — § 79 Abs. 1 OWiG: zulässig bei Geldbusse > 250 EUR ODER Fahrverbot; ansonsten nur Zulassungsbeschwerde nach § 80 OWiG.
 2. **Welches Gericht ist zuständig?** — OLG im jeweiligen Bundesland (Ausnahme: bei Grundsatzfragen auch BGH denkbar, sehr selten).
 3. **Was soll angegriffen werden?** — Rechtsfehler (Verfahrensruege oder Sachruge); keine Tatsachenpruefung in der Rechtsbeschwerde!
 4. **Frist beachten?** — 1 Woche ab Urteilsverkuendung; Begründungsfrist 1 Monat ab Urteilszustellung (§ 79 Abs. 3 OWiG i.V.m. § 345 StPO).
@@ -1464,7 +1464,7 @@ Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil ge
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Pruefschema Rechtsbeschwerde-Zulaessigkeit
+## Prüfschema Rechtsbeschwerde-Zulaessigkeit
 
 ```
 § 79 Abs. 1 OWiG — Zulaessigkeit:

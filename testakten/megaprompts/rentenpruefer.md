@@ -32,7 +32,7 @@ _Einstieg, Kaltstart und Fallrouting im Rentenprüfer: klärt gesetzliche Rente,
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Rentenpruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Rentenpruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -76,7 +76,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -90,7 +90,7 @@ _Sammelt und ordnet Rentenunterlagen: Renteninformation, Rentenauskunft, Versich
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Aktenstruktur Und Dokumentenintake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Rentenpruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Aktenstruktur Und Dokumentenintake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Rentenpruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -134,7 +134,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -174,7 +174,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -226,7 +226,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -278,7 +278,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -330,7 +330,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -382,7 +382,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -434,7 +434,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -486,7 +486,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -538,7 +538,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -590,7 +590,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -642,7 +642,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -694,7 +694,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -746,7 +746,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -798,7 +798,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

@@ -15,12 +15,12 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `jurastudium`.
 7. **fall-zusammenfassung-gliederungs-baukasten** — Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder …
 8. **gliederungs-baukasten** — Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für H…
 9. **gutachten-uebung** — Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausur…
-10. **juristisches-schreiben-jus** — Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpun…
-11. **kaltstart-interview** — Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernpro…
-12. **karteikarten-lernplan-lernsitzung** — Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende No…
-13. **lernplan** — Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite S…
-14. **lernsitzung** — Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema a…
-15. **lernstrategien-loesungsschemata-methodenlehre** — Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden f…
+10. **kaltstart-interview** — Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernpro…
+11. **karteikarten-lernplan-lernsitzung** — Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende No…
+12. **lernplan** — Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite S…
+13. **lernsitzung** — Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema a…
+14. **lernstrategien-loesungsschemata-methodenlehre** — Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden f…
+15. **loesungsschemata** — Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundre…
 
 ---
 
@@ -97,7 +97,7 @@ _Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Studium Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Jurastudium** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Studium Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Jurastudium** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -119,10 +119,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -415,7 +415,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `fall-zusammenfassung` | Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil,… |
 | `gliederungs-baukasten` | Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau.… |
 | `gutachten-uebung` | Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz… |
-| `jurastudium-anpassen` | Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2.… |
+| `jurastudium-anpassen` | Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, ändert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2.… |
 | `jurastudium-kaltstart-interview` | Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG… |
 | `juristisches-schreiben` | Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil,… |
 | `karteikarten` | Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende,… |
@@ -434,16 +434,16 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Jurastudenten und Referendare bei allen Phasen der juristischen Ausbildung: von der Einuebung des Gutachtenstils und der Subsumtion ueber die Methodenlehre in allen drei Hauptrechtsgebieten bis hin zur strukturierten Examensvorbereitung. Es orientiert sich an der AG-Tradition (Arbeitsgemeinschaft) und an den Anforderungen des Ersten und Zweiten Staatsexamens in deutschen Bundeslaendern.
+Dieses Plugin unterstuetzt Jurastudenten und Referendare bei allen Phasen der juristischen Ausbildung: von der Einuebung des Gutachtenstils und der Subsumtion über die Methodenlehre in allen drei Hauptrechtsgebieten bis hin zur strukturierten Examensvorbereitung. Es orientiert sich an der AG-Tradition (Arbeitsgemeinschaft) und an den Anforderungen des Ersten und Zweiten Staatsexamens in deutschen Bundeslaendern.
 
-Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Lernassistent: interaktive Uebungen, Feedback zu Gutachten, Karteikarten, Lernplaene und Pruefungsgespraeche stehen im Vordergrund.
+Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Lernassistent: interaktive Uebungen, Feedback zu Gutachten, Karteikarten, Lernplaene und Prüfungsgespraeche stehen im Vordergrund.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie bereiten sich auf eine Klausur oder das Erste Staatsexamen vor und benoetigen strukturierte Uebungsaufgaben mit Feedback.
 - Sie wollen den Gutachtenstil, die Subsumtion oder die juristische Methodenlehre gezielt trainieren.
-- Sie muessen einen Lernplan für die Examensvorbereitung erstellen und nach Schwaechen gewichten.
-- Sie bereiten sich auf ein Pruefungsgespraeach oder eine AG-Diskussion vor und wollen moegliche Dozentenfragen antizipieren.
+- Sie müssen einen Lernplan für die Examensvorbereitung erstellen und nach Schwaechen gewichten.
+- Sie bereiten sich auf ein Prüfungsgespraeach oder eine AG-Diskussion vor und wollen moegliche Dozentenfragen antizipieren.
 - Sie suchen Loesungsschemata für Zivilrecht, Strafrecht oder öffentliches Recht als Orientierungsrahmen für die Klausurbearbeitung.
 
 ## Fachbegriffe (kurz erklaert)
@@ -451,9 +451,9 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - **Gutachtenstil** — Der klassische juristische Schreibstil mit Obersatz, Definition, Subsumtion und Ergebnis je Tatbestandsmerkmal.
 - **Urteilsstil** — Umgekehrte Reihenfolge: Ergebnis zuerst, dann Begruendung; im Urteil und in bestimmten Klausurteilen.
 - **Subsumtion** — Einordnung des Sachverhalts unter die Definition eines Tatbestandsmerkmals.
-- **Loesungsschema** — Strukturierter Pruefungsaufbau für ein Rechtsgebiet (z.B. Anspruchspruefungsschema BGB, Verbrechensaufbau StGB).
+- **Loesungsschema** — Strukturierter Prüfungsaufbau für ein Rechtsgebiet (z.B. Anspruchspruefungsschema BGB, Verbrechensaufbau StGB).
 - **AG** — Arbeitsgemeinschaft; Kleingruppenveranstaltung im Jurastudium mit Sokrates-Methode und Fallbearbeitung.
-- **JPA** — Justizpruefungsamt; prueft das Erste Staatsexamen (Erste Juristische Pruefung).
+- **JPA** — Justizpruefungsamt; prüft das Erste Staatsexamen (Erste Juristische Prüfung).
 - **Repetitorium** — Kommerzielle Vorbereitungskurse für das Erste oder Zweite Staatsexamen (z.B. Alpmann, Hemmer, Kaiser).
 
 ## Rechtsgrundlagen
@@ -468,8 +468,8 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Welche Ausbildungsphase (Studium, Repetitorium, Referendariat, Zweites Staatsexamen), welches Bundesland, welche Schwerpunkte.
-2. Phase des Mandats bestimmen: Konfiguration, Lernplanung, Uebung, Klausurtraining oder Pruefungsgespraeach.
+1. Mandantenkonstellation klären: Welche Ausbildungsphase (Studium, Repetitorium, Referendariat, Zweites Staatsexamen), welches Bundesland, welche Schwerpunkte.
+2. Phase des Mandats bestimmen: Konfiguration, Lernplanung, Uebung, Klausurtraining oder Prüfungsgespraeach.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
 4. Lernprofil konfigurieren mit `jurastudium-kaltstart-interview` wenn Plugin erstmals genutzt wird.
 5. Anschluss-Skill bestimmen: nach Lernplan typischerweise Lernsitzung oder Gutachten-Uebung; nach Examens-Prognose gezieltes Thementraining.
@@ -478,13 +478,13 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 
 **Konfiguration**
 
-- `jurastudium-kaltstart-interview` — Ersteinrichtung: Lernprofil, Semester, Bundesland, Pruefungsziel und Lernstil aufnehmen.
-- `jurastudium-anpassen` — Lernprofil aktualisieren: Lernstil aendern, Schwerpunkte anpassen, Bundesland wechseln.
+- `jurastudium-kaltstart-interview` — Ersteinrichtung: Lernprofil, Semester, Bundesland, Prüfungsziel und Lernstil aufnehmen.
+- `jurastudium-anpassen` — Lernprofil aktualisieren: Lernstil ändern, Schwerpunkte anpassen, Bundesland wechseln.
 
 **Lernplanung**
 
 - `lernplan` — Strukturierten Lernplan erstellen für Erstes Staatsexamen, Referendariat oder Zweites Staatsexamen; phasenbezogen und nach Schwaechen gewichtet.
-- `lernstrategien` — Effektive Lernmethoden entwickeln: Spaced-Repetition, aktives Erinnern, Priorisierung nach Pruefungsrelevanz.
+- `lernstrategien` — Effektive Lernmethoden entwickeln: Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz.
 - `examens-prognose` — Gewichtete Themenliste mit Lernprioritaet auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken.
 
 **Lernen und Ueben**
@@ -501,7 +501,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - `gliederungs-baukasten` — Gliederung für Hausarbeiten und Seminararbeiten strukturiert aufbauen.
 - `examensvorbereitung-fragen` — Uebungsfragen für Erstes und Zweites Staatsexamen mit Musterloesungen und Schwachstellen-Hinweis.
 
-**Pruefungsgespraeach und AG**
+**Prüfungsgespraeach und AG**
 
 - `pruefungsgespraech-ag` — AG-Diskussion oder Dozentengespraeach simulieren und Argumentation mit Sokrates-Methode trainieren.
 - `ag-vorbereitung` — Cold-Call-Vorbereitung: Faelle für Seminar oder AG aufbereiten und Dozentenfragen antizipieren.
@@ -512,7 +512,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - `methodenlehre-grundlagen` — Juristische Methodenlehre: Wortlaut, Systematik, Historie, Telos, Analogie, teleologische Reduktion.
 - `methodenlehre-zivilrecht` — Zivilrechtliche Methodenlehre: AGL-Reihenfolge, Willenserklaerungs-Auslegung, AGB-Auslegung.
 - `methodenlehre-strafrecht` — Strafrechtliche Methodenlehre: dreistufiger Verbrechensaufbau, Konkurrenzlehre, Analogieverbot.
-- `methodenlehre-öffentliches-recht` — Oeffentlich-rechtliche Methodenlehre: Grundrechtspruefung, Verhaeltnismaessigkeit, Ermessen, Klageart.
+- `methodenlehre-öffentliches-recht` — Öffentlich-rechtliche Methodenlehre: Grundrechtspruefung, Verhältnismäßigkeit, Ermessen, Klageart.
 
 **Loesungsschemata und Rechtsgeschichte**
 
@@ -521,8 +521,8 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 
 ## Worauf besonders achten
 
-- **Lernprofil zu Beginn konfigurieren.** Skill `jurastudium-kaltstart-interview` muss vor anderen Skills ausgefuehrt werden; ohne Bundesland und Pruefungsziel sind Empfehlungen unscharf.
-- **Schemata sind keine Dogmatik.** Loesungsschemata koennen das Verstaendnis unterstuetzen, sind aber nie zwingend; Abweichungen und Kontroversen erkennen.
+- **Lernprofil zu Beginn konfigurieren.** Skill `jurastudium-kaltstart-interview` muss vor anderen Skills ausgefuehrt werden; ohne Bundesland und Prüfungsziel sind Empfehlungen unscharf.
+- **Schemata sind keine Dogmatik.** Loesungsschemata können das Verstaendnis unterstuetzen, sind aber nie zwingend; Abweichungen und Kontroversen erkennen.
 - **Zeitmanagement in der Klausur.** Ein haeufiger Fehler ist Ueberschreiten der Zeit im Oberteil; Skill `gutachten-uebung` simuliert Zeitlimit.
 - **Bundesland-Varianten beachten.** JAG-Anforderungen und zugelassene Hilfsmittel variieren; Prognosen und Lernplaene immer bundesland-spezifisch konfigurieren.
 - **Subsumtionsspruenge erkennen.** Das Plugin gibt aktiv Pushback, wenn Definition und Sachverhalt uebersprungen werden.
@@ -533,7 +533,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - Definitionen werden aus dem Kopf formuliert statt aus herrschender Meinung und Rechtsprechung abgeleitet.
 - Einreden und Gegenansprueche werden nicht geprueft; Subsumtion endet bei der anspruchsbegruendenden Norm.
 - Zeitlimit wird nicht simuliert; in der echten Klausur fehlt Zeit für spaetere Punkte.
-- Rechtsgeschichte und Methodenlehre werden als prueflungsirrelevant abgetan; beide koennen im Staatsexamen gefragt werden.
+- Rechtsgeschichte und Methodenlehre werden als prueflungsirrelevant abgetan; beide können im Staatsexamen gefragt werden.
 
 ## Quellen und Aktualitaet
 
@@ -703,7 +703,7 @@ _Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfa
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmassstab (exemplarisch für alle Bundeslaender)
+- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmaßstab (exemplarisch für alle Bundeslaender)
 - § 195 BGB — Regelverjaehrung: Dauerklassiker in Zivilrecht-Klausuren
 - § 1 Abs. 1 StGB — Bestimmtheitsgebot: Examens-Fundamentalsatz Strafrecht
 - § 42 VwGO — Anfechtungs- und Verpflichtungsklage: Examens-Standard öffentliches Recht
@@ -875,7 +875,7 @@ _Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder
 ## Zentrale Normen
 - §§ 433-453 BGB — Kaufrecht: Standardkomplex für Zivilrecht-Gutachten
 - §§ 241-304 BGB — Leistungsstoerungsrecht: Kern-Anspruchsgrundlagen
-- §§ 823-853 BGB — Deliktsrecht: zweite Pruefungssaule
+- §§ 823-853 BGB — Deliktsrecht: zweite Prüfungssaule
 - §§ 242, 263 StGB — Strafrecht-Standardtatbestaende für Klausur
 
 ## Eingaben
@@ -1349,123 +1349,6 @@ Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
 
-## Skill: `juristisches-schreiben-jus`
-
-_Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesl..._
-
-# Lernprofil anpassen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
-- Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-1. Welches Element des Lernprofils soll angepasst werden: Lernstil, Faecher, Bundesland, Prüfungsziel?
-2. Gibt es einen konkreten Anlass (neue Pruefung, Schwachstelle erkannt, Semesterwechsel)?
-3. Welches Prüfungsziel gilt jetzt (Zwischenpruefung, 1. StEx, 2. StEx, Schwerpunktbereich)?
-4. Welche Ressourcen stehen zur Verfuegung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Bibliothek, Lerngruppe)?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Länder aequivalent
-- Art. 3 GG — Chancengleichheit: Grundlage für bundeslandspezifische Lernprofile
-- §§ 133, 157 BGB — Auslegungsmethoden: unveraendert kernelementig in allen Profilen
-- § 195 BGB — Verjährung als Dauerklassiker: bleibt in jedem Profil
-
-## Eingaben
-
-1. **Flag** (optional): `--lernstil`, `--bundesland`, `--fach`, `--material`, `--examen`, `--reset`
-2. Ohne Flag: interaktives Menü mit allen anpassbaren Feldern
-3. Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`
-
-## Ablauf
-
-### Ohne Flag: Interaktives Menü
-
-```
-Was möchtest du anpassen?
-1. Lernstil (aktuell: [Drill / Erklärung])
-2. Bundesland / JAG (aktuell: [X])
-3. Ziel-Examen und Prüfungstermin (aktuell: [X])
-4. Aktuelle Lehrveranstaltungen
-5. Schwächen / Stärken
-6. Material hinzufügen
-7. Repetitorium wechseln
-8. Profil vollständig zurücksetzen (--reset)
-```
-
-### `--lernstil`
-
-Wechsel zwischen:
-- **Drill-Modus:** Sokratisch, kein Vorwegnehmen der Antwort, Nachbohren
-- **Erklärungs-Modus:** Erst Erklärung, dann Selbsttest, mehr Gerüst
-
-Gilt sofort für alle nachfolgenden Skills in dieser Sitzung und wird in `CLAUDE.md` gespeichert.
-
-### `--bundesland`
-
-Fragt nach neuem Bundesland und JAG, prüft Konsistenz:
-> "Nach dem Wechsel von NRW nach Bayern unterscheiden sich die Prüfungsfächer im 1. StEx. Ich aktualisiere das Profil. Bitte bestätige: [neue Fächerliste nach JAG Bayern]."
-
-### `--fach`
-
-Fügt eine Lehrveranstaltung hinzu oder entfernt sie:
-- Name der Veranstaltung
-- Prüfungsformat (Klausur / Hausarbeit / mündlich)
-- Semesterwoche
-
-### `--material`
-
-Nimmt neues Lernmaterial auf:
-- Dateipfad oder Textinhalt (benotete Klausur, Gliederung, JPA-Klausur)
-- Aktualisiert den Materialzähler im Profil
-- Entfernt `WENIG MATERIAL`-Flag, sobald ≥ 10 Positionen vorhanden
-
-### `--examen`
-
-Aktualisiert Prüfungsziel, Prüfungstermin und Repetitorium.
-
-### `--reset`
-
-Sicherheitsabfrage:
-> "Du löschst das gesamte Lernprofil. Diese Aktion ist nicht rückgängig zu machen. Danach musst du kaltstart-interview erneut durchlaufen. Fortfahren? (ja / nein)"
-
-## Quellen und Zitierweise
-
-Dieser Skill ändert nur Konfigurationsdaten. Keine juristischen Inhalte. Zitierregeln → `../references/zitierweise.md` gelten in den inhaltlichen Skills.
-
-## Beispiel
-
-**Anfrage:** "Ich habe jetzt auch VwGO als Pflichtfach und möchte auf Drill-Modus wechseln."
-
-**Ausgabe:**
-
-```
-Profil aktualisiert:
-- Lernstil: Erklärung → Drill
-- Lehrveranstaltungen: VwGO-Klausur (Klausur, Woche 1) hinzugefügt
-
-Auswirkungen:
-- pruefungsgespraech-ag, ag-vorbereitung, gutachten-übung: ab sofort Drill-Modus
-- examensvorbereitung-fragen: VwGO jetzt in der Fächerliste
-- lernplan: wird beim nächsten Aufruf mit VwGO ergänzt
-```
-
-## Risiken / typische Fehler
-
-- **Falsches Bundesland nach Hochschulwechsel nicht aktualisieren:** Alle Examensprognosen und Lernpläne arbeiten mit dem gespeicherten Bundesland. Bei Wechsel immer sofort `--bundesland` ausführen.
-- **Veraltete Lehrveranstaltungen nicht entfernen:** Beendete Fächer im Profil lassen laufen, führt zu Studienplan-Verzerrungen.
-- **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort "nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
-- **Material nicht hochladen nach neuen Klausurergebnissen:** `examens-prognose` und `gutachten-uebung` werden genauer, wenn benotete Klausuren im Profil sind. Nach jeder Prüfungsrückgabe `--material` ausführen.
-
----
-
 ## Skill: `kaltstart-interview`
 
 _Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG Bundesland-Varianten, Methodenlehre. Prüfraster Semester und Fortschritt, Bundesland JA..._
@@ -1474,7 +1357,7 @@ _Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet er
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Jurastudium** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Jurastudium** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -2125,7 +2008,7 @@ _Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsf
 ## Zentrale Normen
 - § 195 BGB — Regelverjaehrung: Muster-Anker für Spaced Repetition im Schuldrecht
 - §§ 242 StGB, 263 StGB — Strafrecht-Standardtatbestaende für Interleaving-Uebungen
-- §§ 40, 42 VwGO — VwR-Klageart-Pruefung als wiederkehrendes Interleaving-Element
+- §§ 40, 42 VwGO — VwR-Klageart-Prüfung als wiederkehrendes Interleaving-Element
 - §§ 133, 157 BGB — Auslegung als Kern-Kompetenz: muss durch aktiven Abruf gelernt werden
 
 ## Eingaben
@@ -2213,6 +2096,183 @@ _Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsf
 - Sie schreibt keinen fertigen Lernplan (das macht `lernplan`).
 - Sie gibt keine pauschale "so musst du lernen"-Antwort. Sie nennt Strategien, der Studierende wählt.
 - Sie ist keine Motivationsberatung. Wer kein Examen schreiben will, lernt nicht effektiver, weil ein Plugin Ratschläge gibt.
+
+---
+
+## Skill: `loesungsschemata`
+
+_Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, könne..._
+
+# Lösungsschemata
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
+- Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+1. Welches Schema wird benoetigt: Anspruchspruefung, Verbrechensaufbau, Grundrechtspruefung, Klageart-Bestimmung?
+2. In welchem Prüfungsniveau (Anfaenger, Fortgeschrittene, Examen) soll das Schema eingesetzt werden?
+3. Gibt es Streitfragen zum Schema selbst (z.B. Aufbaufragen im Strafrecht)?
+4. Soll das Schema als Gedaechtnisstuetze oder zum Verstaendnis-Aufbau verwendet werden?
+
+## Aktuelle Rechtsprechung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen
+- §§ 433, 280 BGB — Vertrag und Leistungsstoerung: Kern des Anspruchspruefungs-Schemas
+- §§ 13-35 StGB — Allgemeiner Teil: Fundament des Verbrechensaufbau-Schemas
+- Art. 1, 19 GG — Grundrechte: Schutzbereich als erster Schritt des Grundrechtsschemas
+- §§ 40, 42 VwGO — Rechtsweg und Klageart als erster Schritt des Verwaltungsrecht-Schemas
+
+## Ehrlicher Disclaimer vorweg
+
+**Schemata sind nicht das Gesetz, nicht die Lehre und nicht das Examen. Sie sind didaktische Krücken — manchmal sehr gute, manchmal irreführende.**
+
+Die ehrliche Lage:
+- Die ausgezeichneten Studierenden brauchen keine Schemata. Sie haben die innere Struktur verstanden und arbeiten direkt aus dem Gesetz.
+- Für viele andere — auch sehr ordentliche Studierende — sind Schemata ein **Verständniskatalysator**. Wer mit einem Schema im Kopf einsteigt, fragt sich beim Lesen des Sachverhalts: "An welchem Punkt bin ich jetzt im Schema?" Das gibt Halt und Reihenfolge.
+- Wer die innere Begründung kennt und das Schema dann als Stütze nutzt, ist gut bedient. Wer Schemata abspult, **ohne** zu verstehen warum, schreibt mediokere Klausuren.
+- **Whatever works**: Wenn ein Schema dir hilft, die nächste Klausur zu schreiben — nimm es. Wenn du es nicht brauchst — auch gut.
+
+Diese Skill stellt Schemata bereit, weil das Verbieten nichts bringt. Wir kommentieren aber jedes Schema mit dem dogmatischen Grund, **warum** es so aussieht — damit du irgendwann ohne auskommst.
+
+## Eingaben
+
+- **Rechtsgebiet** und **Thema** (z. B. "§ 823 I BGB Schema", "§ 32 StGB Notwehr", "Art. 8 GG Versammlungsfreiheit")
+- Optional: **Erklärungstiefe** ("nur das Schema" / "mit Erläuterung warum")
+
+## Zivilrechtliche Schemata
+
+### Anspruchsprüfung (allgemein)
+1. **Anspruch entstanden?** — Tatbestand der AGL.
+2. **Anspruch nicht erloschen?** — Erlöschensgründe (Erfüllung § 362, Aufrechnung § 389, Rücktritt §§ 346 ff., Anfechtung § 142 I).
+3. **Anspruch durchsetzbar?** — Einreden (Verjährung § 214, Zurückbehaltung § 273).
+
+**Warum so**: Diese Dreiteilung folgt der Logik der Anspruchsnorm — sie entsteht, kann erlöschen, kann gehemmt sein.
+
+### § 433 I BGB — Kaufvertragsanspruch
+1. Vertragsschluss: §§ 145, 147 BGB — Angebot, Annahme, Konsens über Ware und Preis (essentialia negotii).
+2. Wirksamkeit: keine Nichtigkeit (§§ 105 ff., 116 ff., 134, 138 BGB), keine Anfechtung (§§ 142, 143 BGB), keine erfolgreiche Formanforderung (§ 311b BGB bei Grundstückskaufverträgen).
+3. Anspruch nicht erloschen: keine Erfüllung, kein Rücktritt.
+4. Anspruch durchsetzbar: keine Verjährung (§§ 195, 199 BGB).
+
+### § 280 I BGB — Schadensersatz neben der Leistung
+1. Schuldverhältnis.
+2. Pflichtverletzung (jede Abweichung vom Soll-Zustand).
+3. Vertretenmüssen (§§ 276 ff. BGB, Vermutung).
+4. Schaden (§§ 249 ff. BGB).
+5. Haftungsausfüllende Kausalität.
+
+### § 823 I BGB — Delikt
+1. Rechtsgutsverletzung (Leben, Körper, Gesundheit, Freiheit, Eigentum, sonstiges Recht).
+2. Verletzungshandlung.
+3. Haftungsbegründende Kausalität (Äquivalenz + Adäquanz + Schutzzweck der Norm).
+4. Rechtswidrigkeit (indiziert).
+5. Verschulden (§§ 276 ff., evtl. Deliktsfähigkeit §§ 827, 828).
+6. Schaden + haftungsausfüllende Kausalität.
+
+**Warum so**: Drei Ebenen — Tatbestand (1–3), Rechtswidrigkeit (4), Verschulden (5) — wie im Strafrecht, dann Schaden als Rechtsfolge.
+
+### § 812 I 1 Fall 1 BGB — Leistungskondiktion
+1. "Etwas erlangt" — Vermögensvorteil.
+2. "Durch Leistung" eines anderen — bewusste, zweckgerichtete Mehrung fremden Vermögens.
+3. "Ohne rechtlichen Grund" — kein wirksamer Behaltensgrund.
+
+### § 985 BGB — Herausgabe
+1. Anspruchsteller ist **Eigentümer**.
+2. Anspruchsgegner ist **Besitzer**.
+3. Anspruchsgegner hat **kein Recht zum Besitz** (§ 986 BGB).
+
+### EBV — §§ 987 ff. BGB
+Sperrwirkung: §§ 987 ff. BGB regeln die Folgen abschließend, daneben kein § 823 BGB (Ausnahme: § 992 BGB bei deliktischem Besitzerwerb), kein § 812 BGB (Ausnahme: bei Bösgläubigkeit § 988 BGB).
+
+### Culpa in contrahendo — §§ 280 I, 311 II, 241 II BGB
+1. Vorvertragliches Schuldverhältnis (§ 311 II BGB).
+2. Pflichtverletzung (§ 241 II BGB).
+3. Vertretenmüssen.
+4. Schaden.
+
+## Strafrechtliche Schemata
+
+### Verbrechensaufbau (jedes Delikt)
+1. **Tatbestand**
+ - Objektiver Tatbestand (Handlung, Erfolg, Kausalität, objektive Zurechnung)
+ - Subjektiver Tatbestand (Vorsatz § 15, besondere subjektive Merkmale)
+2. **Rechtswidrigkeit** (Rechtfertigungsgründe)
+3. **Schuld** (Schuldfähigkeit, Entschuldigungsgründe, Unrechtsbewusstsein)
+
+### § 242 StGB — Diebstahl
+1. Objektiver Tatbestand:
+ - Fremde bewegliche Sache.
+ - Wegnahme: Bruch fremden, Begründung neuen Gewahrsams.
+2. Subjektiver Tatbestand:
+ - Vorsatz bzgl. obj. Merkmalen.
+ - Zueignungsabsicht: Aneignungs**absicht** (Vorsatz 1. Grades) + Enteignungs**vorsatz** (dolus eventualis reicht), Rechtswidrigkeit der Zueignung.
+3. Rechtswidrigkeit (Notwehr § 32, Notstand § 34, Einwilligung — selten).
+4. Schuld.
+
+### § 32 StGB — Notwehr (Rechtfertigungsgrund)
+1. Notwehrlage: gegenwärtiger rechtswidriger Angriff.
+2. Notwehrhandlung: erforderlich + geboten.
+3. Subjektives Rechtfertigungselement: Verteidigungswille.
+
+## Öffentlich-rechtliche Schemata
+
+### Grundrechtsprüfung (Schichtenprüfung)
+1. **Schutzbereich**: persönlich + sachlich.
+2. **Eingriff**.
+3. **Verfassungsrechtliche Rechtfertigung**:
+ - Schranke (Vorbehalt des Gesetzes).
+ - Schranken-Schranken (Verhältnismäßigkeit, Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Bestimmtheit).
+
+### Verhältnismäßigkeit
+1. Legitimer Zweck.
+2. Geeignetheit.
+3. Erforderlichkeit.
+4. Angemessenheit (Verhältnismäßigkeit im engeren Sinn).
+
+### Klage im Verwaltungsprozess
+1. **Klageart bestimmen** (Anfechtung, Verpflichtung, Leistung, Feststellung, FFK, Normenkontrolle).
+2. **Zulässigkeit**:
+ - Verwaltungsrechtsweg (§ 40 VwGO).
+ - Statthaftigkeit (richtige Klageart).
+ - Klagebefugnis (§ 42 II VwGO, "möglicherweise verletzt").
+ - Vorverfahren (§ 68 VwGO).
+ - Klagefrist (§ 74 VwGO).
+ - Form (§ 81 VwGO).
+ - Beteiligten- und Prozessfähigkeit (§§ 61, 62 VwGO).
+3. **Begründetheit** (z. B. § 113 I 1 VwGO bei Anfechtungsklage: VA rechtswidrig + Kläger in seinen Rechten verletzt).
+
+### Verwaltungsaktqualität (§ 35 VwVfG)
+1. Verfügung, Entscheidung, andere hoheitliche Maßnahme.
+2. Behörde.
+3. Auf dem Gebiet des öffentlichen Rechts.
+4. Zur Regelung.
+5. Eines Einzelfalls.
+6. Mit Außenwirkung.
+
+## Drill-Modus
+
+Die Skill stellt das Schema bereit, **erklärt aber jeden Schritt** mit der dogmatischen Begründung. Beispiel:
+
+> Frage: "Warum prüft man bei § 985 BGB drei Voraussetzungen?"
+> Antwort der Skill: "Weil die Norm den Anspruch des **Eigentümers** gegen den **Besitzer** auf Herausgabe regelt, **wenn** der Besitzer kein Recht zum Besitz hat. Die drei Schritte sind keine Konvention, sondern direkt der Wortlaut."
+
+Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende erst aus dem Gesetz beantwortet, dann mit dem Schema abgleicht.
+
+## Was diese Skill nicht tut
+
+- Sie ist **nicht** das Lehrbuch. Wer nur das Schema lernt, geht durch das Examen wie ein Roboter mit fehlerhafter Firmware: erkennt einen 80%-passenden Sachverhalt nicht.
+- Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
+- Sie ist nicht universell. Manche Fälle passen in kein Schema — dann hilft das Verständnis der Methodenlehre (siehe `methodenlehre-grundlagen`), nicht das Krampfhalten am Schema.
+
+## Schlusswort
+
+Schemata sind wie Stützräder am Fahrrad. Solange sie tragen, lassen sie sich nicht ohne Folgen abbauen. Wer fahren kann, fährt ohne. Wer das Fahren lernt, fährt erstmal mit — und schämt sich nicht.
 
 ---
 

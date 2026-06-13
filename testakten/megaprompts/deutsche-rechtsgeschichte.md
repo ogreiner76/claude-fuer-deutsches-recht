@@ -9,8 +9,8 @@ Dieser Megaprompt enthaelt top-8 von 132 Skills (gekuerzt fuer Chat-Fenster) des
 1. **kaltstart-triage** — Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe.
 2. **drg-neu-020-historische-verfassungsvergleiche-als-argumentations** — Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenh…
 3. **bgb-1900-und-soziale-frage** — Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeit…
-4. **abschlussmemo-historische-tragfaehigkeit** — Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prueft, ob hi…
-5. **rechtspolitische-narrative-enteignung** — Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bism…
+4. **abschlussmemo-historische-tragfaehigkeit** — Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob his…
+5. **rechtspolitische-narrative-enteignung** — Deutsche Rechtsgeschichte: Rechtspolitische Narrative prüfen. Wie man politisch geladene historische Erzaehlungen (Bisma…
 6. **reichskammergericht-und-reichshofrat** — Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeptio…
 7. **gute-rechtsgeschichte-fuer-laien** — Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht für Nicht-Juristen. Didaktische Aufbereitung von …
 8. **quellenkritik-archiv-und-edition** — Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergl…
@@ -25,7 +25,7 @@ _Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodu
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Deutsche Rechtsgeschichte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Deutsche Rechtsgeschichte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -45,7 +45,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -113,7 +113,7 @@ _Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentations
 
 ### DDR-Verfassung → GG
 - BVerfG hat DDR-Recht nicht generell verworfen.
-- Spezifische Streitfragen ueber Bodenreform und Vermoegensrecht.
+- Spezifische Streitfragen über Bodenreform und Vermögensrecht.
 
 ## Methodenvorschlag für Argumentation
 
@@ -156,12 +156,12 @@ _Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Men
 
 ## Worum es geht
 
-Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne die realen Machtungleichgewichte zu beruecksichtigen. Anton Mengers Das buergerliche Recht und die besitzlosen Volksklassen (1890) analysierte dies scharf: Das BGB schuetze Eigentuemer und Kreditgeber, nicht Mieter und Arbeitnehmer. Otto von Gierke kritisierte den fehlenden deutschen Genossenschaftsgeist. Die soziale Luecke wurde durch Sondergesetze gefuellt: Gewerbegerichtsgesetz 1890, BGB-Ergaenzungen durch Arbeitnehmerrecht, Mieterschutz im Ersten Weltkrieg. Die Rechtsprechung nutzte BGB § 242 (Treu und Glauben) als Korrektiv. Das 20. Jh. brachte schliesslich Arbeitnehmerschutzrecht (BetrVG, KSchG), Mieterschutz (BGB §§ 535 ff.), und Verbraucherschutz.
+Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne die realen Machtungleichgewichte zu beruecksichtigen. Anton Mengers Das buergerliche Recht und die besitzlosen Volksklassen (1890) analysierte dies scharf: Das BGB schuetze Eigentümer und Kreditgeber, nicht Mieter und Arbeitnehmer. Otto von Gierke kritisierte den fehlenden deutschen Genossenschaftsgeist. Die soziale Luecke wurde durch Sondergesetze gefuellt: Gewerbegerichtsgesetz 1890, BGB-Ergaenzungen durch Arbeitnehmerrecht, Mieterschutz im Ersten Weltkrieg. Die Rechtsprechung nutzte BGB § 242 (Treu und Glauben) als Korrektiv. Das 20. Jh. brachte schliesslich Arbeitnehmerschutzrecht (BetrVG, KSchG), Mieterschutz (BGB §§ 535 ff.), und Verbraucherschutz.
 
 ## Kernnormen / Kernquellen
 
 - **BGB § 242**: Treu und Glauben, sozialrechtliches Korrektivinstrument
-- **BGB § 618**: Fuersorgepflicht des Arbeitgebers (1900 bereits im BGB)
+- **BGB § 618**: Fürsorgepflicht des Arbeitgebers (1900 bereits im BGB)
 - **Gewerbegerichtsgesetz 1890 (RGBl. 1890, 141)**: Arbeitsgerichtliche Vorlaeufernorm
 - **Mieterschutzverordnung 1917**: Erster staatlicher Mietschutz im Weltkrieg
 - **KSchG 1951 (BGBl. I 1951, 499)**: Kuendigungsschutzgesetz als BGB-Ergaenzung
@@ -179,7 +179,7 @@ Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne di
 2. § 242 BGB: Hat das RG damit die sozialen Luecken sinnvoll geschlossen?
 3. Mieterschutz: Warum erst 1917? War Krieg als Anlass notwendig?
 4. BetrVG 1952/1972: Welcher Teil der Sozialkritik ist ins Gesetz eingegangen?
-5. Verbraucherschutz ab 1970er: Laesst sich das als Fortsetzung der Menger-Forderungen lesen?
+5. Verbraucherschutz ab 1970er: Lässt sich das als Fortsetzung der Menger-Forderungen lesen?
 
 ## Methodik
 
@@ -192,7 +192,7 @@ Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne di
 
 ## Skill: `abschlussmemo-historische-tragfaehigkeit`
 
-_Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prueft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Rechtsgeschichte._
+_Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Rechtsgeschichte._
 
 # Abschlussmemo historische Tragfaehigkeit
 
@@ -204,7 +204,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -223,19 +223,19 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrument für rechtshistorische Argumente in heutigen Texten (Gutachten, Schriftsaetze, Gesetzesbegr√ündungen). Es prueft: (1) Sind die historischen Quellen korrekt identifiziert? (2) Tragt die Quelle die Behauptung tatsaechlich? (3) Liegt ein Anachronismus vor? (4) Gibt es Luecken in der Argumentationskette? (5) Sind Unsicherheiten sichtbar gemacht? Ergebnis ist ein strukturiertes Memo mit Ampelbewertung: Gruen (Quelle traegt), Gelb (Einschraenkung noetig), Rot (Quelle traegt nicht).
+Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrument für rechtshistorische Argumente in heutigen Texten (Gutachten, Schriftsaetze, Gesetzesbegr√ündungen). Es prüft: (1) Sind die historischen Quellen korrekt identifiziert? (2) Tragt die Quelle die Behauptung tatsaechlich? (3) Liegt ein Anachronismus vor? (4) Gibt es Luecken in der Argumentationskette? (5) Sind Unsicherheiten sichtbar gemacht? Ergebnis ist ein strukturiertes Memo mit Ampelbewertung: Gruen (Quelle traegt), Gelb (Einschraenkung noetig), Rot (Quelle traegt nicht).
 
 ## Kernnormen / Kernquellen
 
 - **BVerfGE 62, 1 (1982)**: BVerfG-Methodik der historischen Auslegung
 - **BGB § 133**: Wille des Erklaerenden / Gesetzgebers als Auslegungsziel
-- **Mugdan, Materialien BGB** (1899): Massstab für BGB-historische Argumente
-- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab für historische Verfassungsargumente
-- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Massstab für DDR-Rechtsuebergangsargumente
+- **Mugdan, Materialien BGB** (1899): Maßstab für BGB-historische Argumente
+- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Maßstab für historische Verfassungsargumente
+- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Maßstab für DDR-Rechtsuebergangsargumente
 
 ## Akteure und Institutionen
 
-- **BVerfG**: Pruefungsmassstab für historische Verfassungsargumente
+- **BVerfG**: Prüfungsmassstab für historische Verfassungsargumente
 - **BGH**: Zivilrechtliche historische Auslegung, z. B. BGB-Materialien
 - **Bundesarchiv**: Primaerquellen-Lieferant für historische Argumentationsbasis
 - **BReg Rechtsabteilung**: Nutzer von historischer Argumentation in Gesetzesbegr√ündungen
@@ -259,9 +259,9 @@ Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrum
 
 ## Skill: `rechtspolitische-narrative-enteignung`
 
-_Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Rechtsgeschichte._
+_Deutsche Rechtsgeschichte: Rechtspolitische Narrative prüfen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Rechtsgeschichte._
 
-# Rechtspolitische Narrative pruefen
+# Rechtspolitische Narrative prüfen
 
 ## Historische Quellenanker
 
@@ -271,7 +271,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -290,7 +290,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Rechtspolitische Narrative sind verdichtete Erzaehlungen ueber die Bedeutung historischer Ereignisse für heutige Rechtspositionen. Beispiele: Sozialversicherung als Bismarck-Errungenschaft, WRV als gescheitertes Experiment, NS als absoluter Zivilisationsbruch, BGB als Arbeitgeberrecht, Wiedervereinigung als Erfolgsgeschichte. Diese Narrative haben politische Funktionen, aber methodisch muss man fragen: Was sagen die Quellen wirklich? Sind die Schlussfolgerungen belegt oder projiziert? Welche Gegennarrative gibt es? Ein geprueftes Narrativ ist sachlich praeziser und widersteht Gegenarrumenten besser.
+Rechtspolitische Narrative sind verdichtete Erzaehlungen über die Bedeutung historischer Ereignisse für heutige Rechtspositionen. Beispiele: Sozialversicherung als Bismarck-Errungenschaft, WRV als gescheitertes Experiment, NS als absoluter Zivilisationsbruch, BGB als Arbeitgeberrecht, Wiedervereinigung als Erfolgsgeschichte. Diese Narrative haben politische Funktionen, aber methodisch muss man fragen: Was sagen die Quellen wirklich? Sind die Schlussfolgerungen belegt oder projiziert? Welche Gegennarrative gibt es? Ein geprueftes Narrativ ist sachlich praeziser und widersteht Gegenarrumenten besser.
 
 ## Kernnormen / Kernquellen
 
@@ -338,7 +338,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -357,18 +357,18 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (RKGOrdnung 1495, RGBl. 1495 [Neue Sammlung]). Es war das erste staendige zentrale Reichsgericht und schrieb die Anwendung des gemeinen Rechts (roemisch-kanonisches Recht) vor. 1527 nach Speyer verlegt, blieb es bis 1806 taetig. Der Reichshofrat (1497/1559) war das kaiserliche Konkurrenzgericht in Wien mit anderer Zusammensetzung und weniger strenger Bindung an das gelehrte Recht. Beide Gerichte bildeten die Spitze der Reichsgerichtsbarkeit. Die Besetzung des RKG (Haefte Reichsstaende, Haefte kaiserliche Ernennung) spiegelte die reichsstaendische Verfassung wider.
+Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (RKGOrdnung 1495, RGBl. 1495 [Neue Sammlung]). Es war das erste staendige zentrale Reichsgericht und schrieb die Anwendung des gemeinen Rechts (roemisch-kanonisches Recht) vor. 1527 nach Speyer verlegt, blieb es bis 1806 tätig. Der Reichshofrat (1497/1559) war das kaiserliche Konkurrenzgericht in Wien mit anderer Zusammensetzung und weniger strenger Bindung an das gelehrte Recht. Beide Gerichte bildeten die Spitze der Reichsgerichtsbarkeit. Die Besetzung des RKG (Haefte Reichsstaende, Haefte kaiserliche Ernennung) spiegelte die reichsstaendische Verfassung wider.
 
 ## Kernnormen / Kernquellen
 
 - **Reichskammergerichtsordnung 1495**: Gruendungsdokument und Verfahrensordnung
-- **Jungster Reichsabschluss 1654**: Letzte grosse RKG-Reform
+- **Jungster Reichsabschluss 1654**: Letzte große RKG-Reform
 - **Kammerzielerordnung**: Finanzierung des RKG durch Reichsstaedte und Reichsstaende
 - **Wahlkapitulationen** (ab 1519): Sicherung der RKG-Existenz durch Kaiserwahl-Bedingungen
 
 ## Akteure und Institutionen
 
-- **Maximilian I.** (1459-1519): Gruender des RKG 1495
+- **Maximilian I.** (1459-1519): Gründer des RKG 1495
 - **Kameralrichter** (Praesidenten und Beisitzer): Richterliches Kollegium des RKG
 - **Prokuratoren und Advokaten am RKG**: Rechtsanwaltschaft vor dem Reichsgericht
 - **Ferdinand I.** (1503-1564): Ausbau des Reichshofrats
@@ -403,7 +403,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -422,11 +422,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Rechtsgeschichte für Nicht-Juristen erfordert eine andere Sprache und Struktur als Facharbeit. Kernaufgabe: komplexe historische Rechtsinstitute in zugaenglicher Sprache erklaeren, ohne Praezision zu opfern. Das bedeutet: Fremdwoerter erklaeren (Pandektistik = Systematisierung des roemischen Rechts durch Kommentatoren), Epochen mit anschaulichen Ankerpunkten benennen (Sachsenspiegel = erster grosser Rechtstext in Mitteldeutsch), und Gegenwartsrelevanz herstellen (Warum praegt das BGB 1900 bis heute unser Vertragsrecht?).
+Rechtsgeschichte für Nicht-Juristen erfordert eine andere Sprache und Struktur als Facharbeit. Kernaufgabe: komplexe historische Rechtsinstitute in zugaenglicher Sprache erklaeren, ohne Praezision zu opfern. Das bedeutet: Fremdwoerter erklaeren (Pandektistik = Systematisierung des roemischen Rechts durch Kommentatoren), Epochen mit anschaulichen Ankerpunkten benennen (Sachsenspiegel = erster großer Rechtstext in Mitteldeutsch), und Gegenwartsrelevanz herstellen (Warum praegt das BGB 1900 bis heute unser Vertragsrecht?).
 
 ## Kernnormen / Kernquellen
 
-- **Sachsenspiegel** (ca. 1220-1235): Erster grosser Rechtstext in niederdeutscher Volkssprache
+- **Sachsenspiegel** (ca. 1220-1235): Erster großer Rechtstext in niederdeutscher Volkssprache
 - **BGB 1900**: 2385 Paragraphen, gepraegt von Pandektistik und Vertragsliberalismus
 - **WRV 1919**: Erste demokratische Gesamtverfassung, aber gescheitert
 - **GG 1949 Art. 1-19**: Grundrechtskatalog als Reaktion auf NS-Unrecht
@@ -470,7 +470,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -489,7 +489,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueberlieferungsform (Original, Abschrift, Druck, Digitalisat), Entstehungskontext (Kanzleipraxis, Legislativverfahren, Gerichtspraxis) und Editionszustand (kritische Edition, Regeste, Faksimile). Fuer die deutsche Rechtsgeschichte sind das Bundesarchiv (Koblenz/Berlin), die Landesarchive, das Geheime Staatsarchiv Preussischer Kulturbesitz sowie digitale Sammlungen wie ALEX und MGH-Online die zentralen Anlaufstellen.
+Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueberlieferungsform (Original, Abschrift, Druck, Digitalisat), Entstehungskontext (Kanzleipraxis, Legislativverfahren, Gerichtspraxis) und Editionszustand (kritische Edition, Regeste, Faksimile). Für die deutsche Rechtsgeschichte sind das Bundesarchiv (Koblenz/Berlin), die Landesarchive, das Geheime Staatsarchiv Preussischer Kulturbesitz sowie digitale Sammlungen wie ALEX und MGH-Online die zentralen Anlaufstellen.
 
 ## Kernnormen / Kernquellen
 

@@ -187,7 +187,7 @@ Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`luftrecht-flughafenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/luftrecht-flughafenrecht.md) (48 KB)
+- **Direkt-Download**: [`luftrecht-flughafenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/luftrecht-flughafenrecht.md) (47 KB)
 - Im Repo: [`testakten/megaprompts/luftrecht-flughafenrecht.md`](../testakten/megaprompts/luftrecht-flughafenrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

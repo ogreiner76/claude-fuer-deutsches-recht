@@ -7,13 +7,13 @@ Dieser Megaprompt enthaelt top-8 von 302 Skills (gekuerzt fuer Chat-Fenster) des
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Einstiegs- und Prüfungslinie für Allgemein: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output…
-2. **agb-arbeitnehmerueberlassung-aueg** — AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Pruefung der Standardvertraege zwischen Verleih…
-3. **agb-bei-kreditvertraegen-verbraucherdarlehen** — AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Wi…
-4. **agb-bei-plattformnutzung-app-stores** — AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Sta…
-5. **agb-haftung-erfuellungsgehilfen** — AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlung von Haftungsausschluessen für Erfuellung…
-6. **agb-im-arbeitsvertrag-310-abs-4-vertieft** — Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im Arbeitsrecht: Anwendbarkeit der §§ 305 ff…
-7. **agb-im-konzernverbund** — AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Pruefung von Konzernvereinbarungen Service-Level-Agreements zw…
-8. **agb-im-mietrecht-wohnraum-vs-gewerbe** — AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-rechtliche Behandlung typischer Mietklause…
+2. **agb-bei-kreditvertraegen-verbraucherdarlehen** — AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Wi…
+3. **agb-haftung-erfuellungsgehilfen** — AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlung von Haftungsausschluessen für Erfuellung…
+4. **agb-im-arbeitsvertrag-310-abs-4-vertieft** — Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im Arbeitsrecht: Anwendbarkeit der §§ 305 ff…
+5. **agb-im-mietrecht-wohnraum-vs-gewerbe** — AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-rechtliche Behandlung typischer Mietklause…
+6. **agb-preisanpassung-energie-stromgvv-gasgvv** — AGB-Preisanpassung Energieversorgung StromGVV GasGVV. Skill klaert die rechtlichen Anforderungen an Preisanpassungsklaus…
+7. **agb-und-242-bgb-eingriffsnorm** — Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzel…
+8. **agb-und-cookie-einwilligung-dsgvo** — AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln u…
 
 ---
 
@@ -25,7 +25,7 @@ _Einstiegs- und Prüfungslinie für Allgemein: sortiert Ziel, Rolle, Dokumente, 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Agb Recht Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Agb Recht Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -89,82 +89,6 @@ Frage höchstens eine wirklich entscheidende Rückfrage. Wenn genug Material vor
 
 ---
 
-## Skill: `agb-arbeitnehmerueberlassung-aueg`
-
-_AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Pruefung der Standardvertraege zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung. Aktualisierungen AUeG 2017 und Folgejudikatur. Li..._
-
-# Agb Arbeitnehmerueberlassung Aueg
-
-## Fachkern: Agb Arbeitnehmerueberlassung Aueg
-
-- **Klauselproblem (Agb Arbeitnehmerueberlassung Aueg):** AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Pruefung der Standardvertraege zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung. Aktualisierungen AUeG 2017 und Folgejudikatur. Liefert Pruefraster.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Norm
-
-- AUeG (Arbeitnehmerueberlassungsgesetz).
-- §§ 305-310 BGB anwendbar.
-- BAG- und BGH-Rechtsprechung zu Verleiher-Entleiher-Vertraegen.
-
-## Klassische Klauseln
-
-### Equal-Pay
-- § 8 AUeG: Equal-Pay-Grundsatz nach 9 Monaten.
-- Branchenzuschlaege als Ausnahme nach Tarifvertrag.
-- AGB-Klauseln, die Equal-Pay weiter ausschliessen, sind unwirksam.
-
-### Vertragsstrafe bei Abwerbung
-- Wettbewerbsschutz für Verleiher: AGB-Klausel mit Vertragsstrafe in Hoehe einer Vermittlungsprovision (3-6 Monatsgehaelter) wirksam, soweit angemessen.
-- BAG 9 AZR 162/12 (Az verifizieren).
-
-### Verleihverbot
-- § 1 Abs. 1b AUeG: Verleihhoechstdauer 18 Monate.
-- AGB-Klauseln muessen die Hoechstdauer beachten.
-
-### Sicherheitenklauseln
-- Stellung von Bankbuergschaften / Verleiher haftet als Gesamtschuldner.
-
-## Pruefraster
-
-1. Verleiher-Entleiher-Vertrag oder Arbeitsvertrag?
-2. AGB-Risiko bei Equal-Pay?
-3. Vertragsstrafe angemessen?
-4. Verleihhoechstdauer beruecksichtigt?
-5. Lizenz des Verleihers nach § 1 AUeG?
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 305 BGB (Einbeziehung von AGB)
-- § 305c BGB (überraschende und mehrdeutige Klauseln)
-- § 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit)
-- § 307 BGB (Inhaltskontrolle, Transparenzgebot)
-- § 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
-- § 309 BGB (Klauselverbote ohne Wertungsmöglichkeit)
-- § 310 BGB (Anwendungsbereich, B2B-Modifikation)
-- §§ 1, 3, 4 UKlaG (Verbandsklage, qualifizierte Einrichtungen)
-- § 8 Abs. 3, § 13, § 13a UWG (Abmahnung, Vertragsstrafe)
-- Art. 6 ff. Rom-I-VO (Verbraucherverträge, anwendbares Recht)
-
-### Leitentscheidungen
-
-- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 26/19 (Cookie-Banner als AGB)
-- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
-- BGH I ZR 196/19 (Verbandsklagebefugnis vzbv)
-- BGH IX ZR 119/14 (geltungserhaltende Reduktion)
-
-### Anwendung im Skill
-
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
-- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
-
----
-
 ## Skill: `agb-bei-kreditvertraegen-verbraucherdarlehen`
 
 _AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert P..._
@@ -173,7 +97,7 @@ _AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§
 
 ## Fachkern: Agb Bei Kreditvertraegen Verbraucherdarlehen
 
-- **Klauselproblem (Agb Bei Kreditvertraegen Verbraucherdarlehen):** AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert Pruefraster.
+- **Klauselproblem (Agb Bei Kreditvertraegen Verbraucherdarlehen):** AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert Prüfraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -197,14 +121,14 @@ _AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§
 ## Vorfaelligkeitsentschaedigung
 
 - § 502 BGB: Vorfaelligkeitsentschaedigung bei Verbraucherdarlehen begrenzt.
-- AGB-Klauseln zur Berechnung muessen transparent sein.
+- AGB-Klauseln zur Berechnung müssen transparent sein.
 
 ## Widerrufsbelehrung
 
 - § 495 BGB i.V.m. Art. 247 EGBGB.
 - Fehlerhafte Belehrung loest den ewig laufenden Widerruf aus — bis Reform 2014; danach Hoechstfrist.
 
-## Pruefraster
+## Prüfraster
 
 1. Verbraucherdarlehensvertrag (§ 491 BGB)?
 2. AGB-Klausel oder Hauptleistung?
@@ -237,89 +161,9 @@ _AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§
 
 ### Anwendung im Skill
 
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
-
----
-
-## Skill: `agb-bei-plattformnutzung-app-stores`
-
-_AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster._
-
-# Agb Bei Plattformnutzung App Stores
-
-## Fachkern: Agb Bei Plattformnutzung App Stores
-
-- **Klauselproblem (Agb Bei Plattformnutzung App Stores):** AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Norm
-
-- §§ 305-310 BGB AGB-Recht.
-- P2B-Verordnung (EU) 2019/1150 Plattform-Business-Verordnung.
-- DSA-Verordnung (EU) 2022/2065.
-- DMA-Verordnung (EU) 2022/1925 für Gatekeeper.
-
-## Plattform-AGB
-
-- App Store-AGB Apple: Provision 30 Prozent (15 Prozent für kleine Entwickler) — DMA-Pflicht zur Alternative.
-- Google Play-AGB: aehnlich, mit DMA-Pflicht.
-- Amazon Marketplace: Allgemeine Verkaufsbedingungen mit Sanktionen.
-
-## BGH-Linie
-
-- BGH KZR 67/19 zur Marketplace-AGB: einseitige Aenderung unwirksam, wenn Hauptleistung beruehrt.
-- BGH I ZR 26/19 Cookie-Banner.
-
-## P2B-VO
-
-- Art. 3: Transparenzpflichten in AGB.
-- Art. 4: Kuendigung und Aussetzung mit Begruendungspflicht.
-- Art. 8: Beschwerdemanagement.
-
-## DMA
-
-- Art. 5 Gatekeeper-Pflichten.
-- Art. 6 spezifische Verhaltenspflichten.
-
-## Pruefraster
-
-1. Welche Plattform?
-2. Gatekeeper-Status?
-3. AGB-Klausel in Konflikt mit P2B/DMA?
-4. § 307 BGB Generalklausel anwendbar?
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 305 BGB (Einbeziehung von AGB)
-- § 305c BGB (überraschende und mehrdeutige Klauseln)
-- § 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit)
-- § 307 BGB (Inhaltskontrolle, Transparenzgebot)
-- § 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
-- § 309 BGB (Klauselverbote ohne Wertungsmöglichkeit)
-- § 310 BGB (Anwendungsbereich, B2B-Modifikation)
-- §§ 1, 3, 4 UKlaG (Verbandsklage, qualifizierte Einrichtungen)
-- § 8 Abs. 3, § 13, § 13a UWG (Abmahnung, Vertragsstrafe)
-- Art. 6 ff. Rom-I-VO (Verbraucherverträge, anwendbares Recht)
-
-### Leitentscheidungen
-
-- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 26/19 (Cookie-Banner als AGB)
-- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
-- BGH I ZR 196/19 (Verbandsklagebefugnis vzbv)
-- BGH IX ZR 119/14 (geltungserhaltende Reduktion)
-
-### Anwendung im Skill
-
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
-- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.
 
 ---
 
@@ -357,7 +201,7 @@ _AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlun
 - BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportvertraegen.
 - BGH VII ZR 168/13: bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel ist im Streit?
 2. Differenzierung Vorsatz / grobe Fahrlaessigkeit / einfache Fahrlaessigkeit?
@@ -388,75 +232,29 @@ _Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im
  - beide Seiten erfasst sind (gegenseitig),
  - Mindestlohn / unabdingbare Ansprueche ausdruecklich ausgenommen sind,
  - Frist nicht unter 3 Monaten.
-- BAG 5 AZR 545/13 (Az verifizieren): Ausschlussfristen unter 3 Monaten unwirksam.
+- BAG, Urteil vom 28.09.2005 - 5 AZR 52/05; bestätigt u.a. BAG, Urteil vom 24.09.2015 - 5 AZR 278/14: Für arbeitsvertragliche AGB-Ausschlussfristen muss dem Arbeitnehmer regelmäßig eine Mindestfrist von drei Monaten ab Fälligkeit verbleiben.
 
 ### Rueckzahlungsklausel für Aus- und Fortbildung
 - Klassische BAG-Linie: nur wirksam, wenn:
  - der Mitarbeiter einen geldwerten Vorteil aus der Fortbildung zieht,
- - die Bindungsdauer in einem angemessenen Verhaeltnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
+ - die Bindungsdauer in einem angemessenen Verhältnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
 - Klausel muss differenzieren nach Kuendigungsgrund (Eigenkuendigung des Arbeitnehmers schadet, betriebsbedingte Kuendigung des Arbeitgebers nicht).
 
 ### Vertragsstrafe im Arbeitsvertrag
-- § 309 Nr. 6 BGB direkt nicht anwendbar (§ 310 Abs. 4 Satz 1 BGB), aber Wertung ueber § 307 BGB.
-- BAG: Vertragsstrafe in Hoehe eines Bruttomonatsgehalts in der Regel zulaessig.
+- § 309 Nr. 6 BGB direkt nicht anwendbar (§ 310 Abs. 4 Satz 1 BGB), aber Wertung über § 307 BGB.
+- BAG: Vertragsstrafe in Höhe eines Bruttomonatsgehalts in der Regel zulässig.
 
 ### Ueberstundenpauschalierung
-- Klausel "Mit der Verguetung sind etwaige Ueberstunden abgegolten" ist intransparent, wenn die Anzahl der erfassten Ueberstunden nicht klar genannt wird.
-- BAG 5 AZR 765/10: max. 25 Prozent Pauschalierung in Bezug zur Wochenarbeitszeit zulaessig.
+- Klausel "Mit der Vergütung sind etwaige Ueberstunden abgegolten" ist intransparent, wenn die Anzahl der erfassten Ueberstunden nicht klar genannt wird.
+- BAG 5 AZR 765/10: max. 25 Prozent Pauschalierung in Bezug zur Wochenarbeitszeit zulässig.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel ist in Rede?
 2. Spezialregelung im Arbeitsrecht oder allgemeines AGB-Recht?
 3. § 310 Abs. 4 Satz 2 BGB: arbeitsrechtliche Besonderheit relevant?
 4. Transparenzgebot § 307 Abs. 1 Satz 2 BGB erfuellt?
 5. Konkrete BAG-Linie konsultieren.
-
----
-
-## Skill: `agb-im-konzernverbund`
-
-_AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Pruefung von Konzernvereinbarungen Service-Level-Agreements zwischen Mutter und Tochter sowie Standardklauseln bei konzerninternen Vertraegen. Aktuelle Themen: Cash-Pooling Cross-Cluster-Services Konzernverrechnungspreise und § 307 BGB. Li..._
-
-# Agb Im Konzernverbund
-
-## Fachkern: Agb Im Konzernverbund
-
-- **Klauselproblem (Agb Im Konzernverbund):** Cash-Pooling Cross-Cluster-Services Konzernverrechnungspreise und § 307 BGB. Liefert Pruefraster.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Norm
-
-- § 305 Abs. 1 BGB: AGB-Eigenschaft setzt Stellung für "Vielzahl von Vertraegen" voraus.
-- In Konzernvertraegen oft vorformuliert, aber individuell ausgehandelt.
-- § 310 Abs. 1 BGB: B2B-Wertungen.
-
-## Typische Konzernklauseln
-
-### Service-Level-Agreements (SLA)
-- Standardisierte Leistungsbeschreibungen mit Sanktionen bei Nichterfuellung.
-- AGB-rechtliche Pruefung der Haftungsbegrenzung.
-
-### Cash-Pooling-Vereinbarungen
-- BGH II ZR 102/07 zu Cash-Pool-Risiken.
-- Haftungsausschluesse muessen § 307 BGB standhalten.
-
-### Konzernverrechnungspreise
-- Steuerlich Transferpreise nach OECD-RL.
-- AGB-rechtlich Transparenzgebot.
-
-### Cross-Cluster-Services
-- Vertraege zwischen verschiedenen Konzernteilen ueber gemeinsame Dienstleistungen (IT, HR, Finance).
-- Standardisierung typisch — § 305 BGB greift.
-
-## Pruefraster
-
-1. Vorformulierung für Vielzahl von Vertraegen?
-2. Individuell ausgehandelt?
-3. § 307 BGB-Risiko?
-4. Steuerliche und kartellrechtliche Wechselwirkung?
 
 ---
 
@@ -468,7 +266,7 @@ _AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-r
 
 ## Fachkern: Agb Im Mietrecht Wohnraum Vs Gewerbe
 
-- **Klauselproblem (Agb Im Mietrecht Wohnraum Vs Gewerbe):** Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-rechtliche Behandlung typischer Mietklauseln Schoenheitsreparaturen Quotenklauseln Endrenovierung Mieterhoehungsvereinbarungen Versetzungsklauseln Anpassungsklauseln. Behandelt die strenge BGH-Linie im Wohnraummietrecht und die weicheren Kontrollen im Gewerberaummietrecht. Liefert Klauselentwurf und Pruefraster.
+- **Klauselproblem (Agb Im Mietrecht Wohnraum Vs Gewerbe):** Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-rechtliche Behandlung typischer Mietklauseln Schoenheitsreparaturen Quotenklauseln Endrenovierung Mieterhoehungsvereinbarungen Versetzungsklauseln Anpassungsklauseln. Behandelt die strenge BGH-Linie im Wohnraummietrecht und die weicheren Kontrollen im Gewerberaummietrecht. Liefert Klauselentwurf und Prüfraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -483,7 +281,7 @@ _AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-r
 ### Mieterhoehung
 - Klauseln, die einseitige Mieterhoehung ohne gesetzliche Voraussetzungen erlauben, sind unwirksam (§ 558 BGB als Maximalrahmen).
 - Indexmiete (§ 557b BGB) wirksam, wenn ordnungsgemaess vereinbart.
-- Staffelmiete (§ 557a BGB) zulaessig.
+- Staffelmiete (§ 557a BGB) zulässig.
 
 ### Modernisierungszuschlag
 - § 559 BGB: 8 Prozent der Modernisierungskosten p.a., Kappungsgrenze.
@@ -491,28 +289,160 @@ _AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-r
 
 ### Kaution
 - § 551 BGB: maximal 3 Nettomonatsmieten, separat anzulegen.
-- AGB-Klauseln zur Hoehe oder zur Anlage gegen § 551 BGB sind unwirksam.
+- AGB-Klauseln zur Höhe oder zur Anlage gegen § 551 BGB sind unwirksam.
 
 ## Gewerberaummietrecht
 
-- § 310 Abs. 1 BGB: § 308/309 BGB grundsaetzlich nicht direkt anwendbar.
-- § 307 BGB als Massstab.
-- Schoenheitsreparaturen in Gewerbe-AGB grundsaetzlich uebertragbar — BGH XII ZR 168/15.
-- Indexierungsklauseln im Gewerbe zulaessig, soweit angemessen.
-- Konkurrenzschutzklauseln zulaessig.
+- § 310 Abs. 1 BGB: § 308/309 BGB grundsätzlich nicht direkt anwendbar.
+- § 307 BGB als Maßstab.
+- Schoenheitsreparaturen in Gewerbe-AGB grundsätzlich uebertragbar — BGH XII ZR 168/15.
+- Indexierungsklauseln im Gewerbe zulässig, soweit angemessen.
+- Konkurrenzschutzklauseln zulässig.
 
 ## Versetzungsklauseln
 
 - Wohnraum: keine, nicht erforderlich.
 - Gewerbe: Filialmietvertraege bei Konzernen — Recht zur Verlagerung intern.
 
-## Pruefraster
+## Prüfraster
 
 1. Wohnraum oder Gewerbe?
 2. Welche Klausel konkret?
 3. BGH-Linie aktuell?
 4. § 558-559 BGB-Grenze?
 5. Lebenszyklusfrage (Beginn / Verlauf / Ende der Miete)?
+
+---
+
+## Skill: `agb-preisanpassung-energie-stromgvv-gasgvv`
+
+_AGB-Preisanpassung Energieversorgung StromGVV GasGVV. Skill klaert die rechtlichen Anforderungen an Preisanpassungsklauseln in Energielieferungsvertraegen Grundversorgung (StromGVV GasGVV) und Sonderkundenvertraege. Behandelt EuGH-Linie zur Transparenz BGH-Folgejudikate zur Verfassungsmaessigkeit..._
+
+# Agb Preisanpassung Energie Stromgvv Gasgvv
+
+## Fachkern: Agb Preisanpassung Energie Stromgvv Gasgvv
+
+- **Klauselproblem (Agb Preisanpassung Energie Stromgvv Gasgvv):** AGB-Preisanpassung Energieversorgung StromGVV GasGVV. Skill klaert die rechtlichen Anforderungen an Preisanpassungsklauseln in Energielieferungsvertraegen Grundversorgung (StromGVV GasGVV) und Sonderkundenvertraege. Behandelt EuGH-Linie zur Transparenz BGH-Folgejudikate zur Verfassungsmaessigkeit. Liefert Klauselentwurf und Prüfraster.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Norm
+
+- StromGVV und GasGVV: Grundversorgungs-Verordnungen.
+- § 41 EnWG.
+- §§ 305-310 BGB AGB-Recht.
+
+## EuGH-Linie
+
+- EuGH C-92/11 (Schulz / Egbringhoff): Preisanpassung in Energiegrundversorgung muss transparent sein; einfache Bezugnahme auf gesetzliche Tarifaenderungen unzureichend.
+
+## BGH-Folgejudikate
+
+- BGH VIII ZR 178/08 zu unwirksamer Preisanpassung.
+- BGH VIII ZR 244/10 zur Folgeanalyse.
+- BGH VIII ZR 295/13 zur Grundversorgung.
+
+## Anforderungen
+
+- Konkrete Berechnungsformel.
+- Anpassungstrigger (Kostenbestandteile aus EnWG, EEG, KWKG).
+- Kuendigungsrecht des Kunden.
+- Vorabhinweis mit Frist (typischerweise 6 Wochen).
+
+## Prüfraster
+
+1. Grundversorgung oder Sonderkundenvertrag?
+2. Klausel transparent?
+3. Kostenbestandteile getrennt aufgelistet?
+4. Kuendigungsrecht?
+5. EuGH-Linie eingehalten?
+
+---
+
+## Skill: `agb-und-242-bgb-eingriffsnorm`
+
+_Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeut..._
+
+# Agb Und 242 Bgb Eingriffsnorm
+
+## Argumentation pro Eingriffsnormcharakter
+
+- § 242 BGB ist seit dem Reichsgericht und BGH eine "Generalklausel mit Verfassungsrang" (so vereinzelte Stimmen).
+- Treu und Glauben sei eine universale rechtsethische Wertung, ohne die das deutsche Privatrecht nicht denkbar ist.
+- §§ 307 ff. BGB seien Konkretisierungen des § 242 BGB; wenn § 242 international zwingend ist, dann auch die Konkretisierungen.
+- Faktischer Verbraucherschutz koennte sonst durch Rechtswahl ausgehebelt werden.
+
+## Argumentation contra (herrschende Meinung)
+
+- **EuGH "Unamar" (Rs. C-184/12, 17.10.2013)**: Eingriffsnormen werden eng definiert — sie müssen "für die Wahrung der politischen, sozialen oder wirtschaftlichen Organisation eines Mitgliedstaats als so entscheidend angesehen werden, dass ihre Befolgung [...] vorzunehmen ist".
+- § 242 BGB ist eine Auslegungs- und Konkretisierungsregel, kein international zwingender Anwendungsbefehl.
+- Art. 6 Rom-I-VO regelt den Verbraucherschutz autonom und abschliessend; die Spezialnorm verdraengt einen Rueckgriff auf Art. 9.
+- BGH IX ZR 119/14 (Az im Digitalisat verifizieren): keine Erstreckung des AGB-Rechts via § 242 BGB auf fremdrechtliche Verträge.
+- Praktische Folge: Schweizer / englisches / US-Recht in B2B-Vertraegen ist wirksam, ohne dass deutsches AGB-Recht über § 242 BGB durchschlaegt.
+
+## Praktische Folgen
+
+- Verwender mit deutschen B2B-Mandanten können mit Rechtswahl Schweizer Recht erheblichen AGB-Spielraum gewinnen.
+- Bei B2C bleibt Art. 6 Rom-I — der ist die einzige relevante Schutzklippe.
+- Schiedsklauseln in B2B sind frei verwertbar.
+
+## Prüfraster
+
+1. Behauptet der Mandant § 242 BGB als Eingriffsnorm?
+2. Welche Konstellation (B2C vs. B2B)?
+3. Welche EuGH-Rechtsprechung gilt aktuell (Unamar, Da Silva Martins, etc.)?
+4. Welche BGH-Linie ist einschlaegig?
+5. Welche praxisnahe Loesung?
+
+---
+
+## Skill: `agb-und-cookie-einwilligung-dsgvo`
+
+_AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln und datenschutzrechtlicher Einwilligung Anforderungen an die Einwilligung Differenzierung notwendige Cookies und optionale Cookies sowie BGH-Linie zur Einwilligung im Plattformko..._
+
+# Agb Und Cookie Einwilligung Dsgvo
+
+## Fachkern: Agb Und Cookie Einwilligung Dsgvo
+
+- **Klauselproblem (Agb Und Cookie Einwilligung Dsgvo):** AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln und datenschutzrechtlicher Einwilligung Anforderungen an die Einwilligung Differenzierung notwendige Cookies und optionale Cookies sowie BGH-Linie zur Einwilligung im Plattformkontext. Behandelt EuGH-Linie Planet49 und Folgejudikate. Liefert Prüfraster und Bannerentwurf.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Norm
+
+- DSGVO Art. 6 Abs. 1 Buchst. a (Einwilligung).
+- DSGVO Art. 7 (Bedingungen für Einwilligung).
+- TDDDG (Telekommunikation-Digitale-Dienste-Datenschutzgesetz, frueher TTDSG), insbesondere § 25.
+- EuGH "Planet49" Rs. C-673/17 (01.10.2019): aktive Einwilligung erforderlich; Voreinstellung "ja" unzulaessig.
+
+## Cookie-Banner-Anforderungen
+
+### Notwendige Cookies
+- Sitzungs- und Sicherheitscookies erfordern keine Einwilligung (Art. 5 Abs. 3 ePrivacy-RL).
+
+### Tracking-Cookies
+- Aktive Einwilligung erforderlich.
+- "Akzeptieren" und "Ablehnen" müssen gleichwertig prominent sein.
+- BGH I ZR 7/16 (Cookie-Einwilligung): Vorabauswahl mit Haekchen unwirksam.
+
+### Dark Patterns
+- Manipulative Gestaltung der Einwilligung ist DSGVO-Verstoss.
+- LfDI BW und BfDI haben mehrfach Bussgelder verhaengt.
+
+## Verhältnis zu AGB
+
+- Einwilligung in Cookies ist nicht Bestandteil der AGB.
+- AGB-Klausel "Mit Annahme dieser AGB stimmt der Kunde der Verwendung von Cookies zu" ist unwirksam (§ 7a UWG, fehlende Differenzierung).
+
+## Prüfraster
+
+1. Welche Cookies werden gesetzt?
+2. Einwilligung aktiv und differenziert eingeholt?
+3. Verhältnis zu AGB getrennt geregelt?
+4. Bussgeldrisiko?
+5. Werbliche Folgen?
 
 ---
 

@@ -29,7 +29,7 @@ Dieser Einstieg routet **Methodenlehre Buergerliches Recht** vom ersten Sachverh
 
 ## Fachlandkarte dieses Plugins
 
-- `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
+- `abschlussprodukt-uebergabe` — Abschlussprodukt Übergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
 - `abwaegung-material-auswahl` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl
@@ -84,7 +84,7 @@ _Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Pl
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Methodenlehre Buergerliches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Methodenlehre Buergerliches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 

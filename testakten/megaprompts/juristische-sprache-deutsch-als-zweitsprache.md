@@ -12,10 +12,10 @@ Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `juristische-sprache
 4. **qualitaetsgate-keine-herablassung** — Hilft bei Qualitaetsgate Keine Herablassung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert …
 5. **telefonat-behoerde-unterschrift-vollmacht** — Hilft bei Telefonat Mit Behörde Vorbereiten für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert …
 6. **eigene-worte-email-an** — Hilft bei Eigene Worte Zu Formalem Deutsch für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert R…
-7. **juristische-begriffe-uebersetzen** — Hilft bei Juristische Begriffe Uebersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert R…
-8. **passiv-und-nominalstil-verstehen** — Hilft bei Passiv Und Nominalstil Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert R…
-9. **rechtsbehelfsbelehrung-verstehen-respektvolle** — Hilft bei Rechtsbehelfsbelehrung Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert R…
-10. **antrag-stellungnahme-erklaerung** — Hilft bei Antrag Stellungnahme Erklaerung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Ri…
+7. **passiv-und-nominalstil-verstehen** — Hilft bei Passiv Und Nominalstil Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert R…
+8. **rechtsbehelfsbelehrung-verstehen-respektvolle** — Hilft bei Rechtsbehelfsbelehrung Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert R…
+9. **antrag-stellungnahme-erklaerung** — Hilft bei Antrag Stellungnahme Erklaerung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Ri…
+10. **juristische-begriffe-uebersetzen** — Hilft bei Juristische Begriffe Übersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Ri…
 11. **widerspruch-einfach-zivilprozess-warnwoerter** — Hilft bei Widerspruch Einfach Formulieren für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Ri…
 12. **keine-falschen-klage-einfach** — Hilft bei Keine Falschen Zugestaendnisse für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Ris…
 13. **bescheid-in-einfacher-sprache** — Hilft bei Bescheid In Einfacher Sprache für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risi…
@@ -32,7 +32,7 @@ _Hilft bei Allgemein für Menschen mit Deutsch als Zweitsprache. Erklaert Jurist
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Juristische Sprache Deutsch Als Zweitsprache** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Juristische Sprache Deutsch Als Zweitsprache** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -49,7 +49,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -93,7 +93,7 @@ _Hilft bei Grammatik Korrektur Ohne Inhaltsverlust für Menschen mit Deutsch als
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -137,7 +137,7 @@ _Hilft bei Sprachprofil Speichern Ohne Stigma für Menschen mit Deutsch als Zwei
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -181,7 +181,7 @@ _Hilft bei Qualitaetsgate Keine Herablassung für Menschen mit Deutsch als Zweit
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -225,7 +225,7 @@ _Hilft bei Telefonat Mit Behörde Vorbereiten für Menschen mit Deutsch als Zwei
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -269,51 +269,7 @@ _Hilft bei Eigene Worte Zu Formalem Deutsch für Menschen mit Deutsch als Zweits
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
----
-
-## Skill: `juristische-begriffe-uebersetzen`
-
-_Hilft bei Juristische Begriffe Uebersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache._
-
-# Juristische Begriffe Uebersetzen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
-- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -357,7 +313,7 @@ _Hilft bei Passiv Und Nominalstil Verstehen für Menschen mit Deutsch als Zweits
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -401,7 +357,7 @@ _Hilft bei Rechtsbehelfsbelehrung Verstehen für Menschen mit Deutsch als Zweits
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -445,7 +401,51 @@ _Hilft bei Antrag Stellungnahme Erklaerung für Menschen mit Deutsch als Zweitsp
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+---
+
+## Skill: `juristische-begriffe-uebersetzen`
+
+_Hilft bei Juristische Begriffe Übersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache._
+
+# Juristische Begriffe Übersetzen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
+- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -489,7 +489,7 @@ _Hilft bei Widerspruch Einfach Formulieren für Menschen mit Deutsch als Zweitsp
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -533,7 +533,7 @@ _Hilft bei Keine Falschen Zugestaendnisse für Menschen mit Deutsch als Zweitspr
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -577,7 +577,7 @@ _Hilft bei Bescheid In Einfacher Sprache für Menschen mit Deutsch als Zweitspra
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -621,7 +621,7 @@ _Hilft bei Datenschutz Und Akteneinsicht für Menschen mit Deutsch als Zweitspra
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 
@@ -665,7 +665,7 @@ _Hilft bei Behördenpflichten Mitwirkung für Menschen mit Deutsch als Zweitspra
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 

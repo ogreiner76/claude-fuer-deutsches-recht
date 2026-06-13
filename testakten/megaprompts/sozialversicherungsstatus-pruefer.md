@@ -25,7 +25,7 @@ _Startet die Prüfung, ob eine Person abhängig beschäftigt oder selbständig i
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Sozialversicherungsstatus Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Sozialversicherungsstatus Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -88,7 +88,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `statusfeststellung-geschaeftsfuehrer-lehrer-freelancer`
 
-_Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Pruefer._
+_Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Prüfer._
 
 # Statusfeststellung: Geschäftsführer, Lehrende, Freelancer und Scheinselbstständigkeit
 
@@ -116,7 +116,7 @@ _Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgesch
 
 ## Skill: `rentenversicherungspflicht-selbststaendige`
 
-_Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige im Sozialversicherungsstatus Pruefer._
+_Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige im Sozialversicherungsstatus Prüfer._
 
 # Rentenversicherungspflicht Selbständiger
 
@@ -181,7 +181,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `hybride-beschaeftigung`
 
-_Prüft parallele Rollen bei demselben Unternehmen oder Konzern: Arbeitnehmer plus Freelancer, GF plus Berater, Dozent plus Angestellter im Sozialversicherungsstatus Pruefer._
+_Prüft parallele Rollen bei demselben Unternehmen oder Konzern: Arbeitnehmer plus Freelancer, GF plus Berater, Dozent plus Angestellter im Sozialversicherungsstatus Prüfer._
 
 # Hybride Beschäftigung und Selbständigkeit
 
@@ -247,7 +247,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `drv-selbstcheck-eigene-betriebsstaette`
 
-_Nutzt den DRV-Selbstcheck als strukturiertes Vorprüfungsraster ohne ihn mit einer verbindlichen Entscheidung zu verwechseln im Sozialversicherungsstatus Pruefer._
+_Nutzt den DRV-Selbstcheck als strukturiertes Vorprüfungsraster ohne ihn mit einer verbindlichen Entscheidung zu verwechseln im Sozialversicherungsstatus Prüfer._
 
 # DRV Selbstcheck Erwerbsstatus
 
@@ -313,7 +313,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `handwerker-solo`
 
-_Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit im Sozialversicherungsstatus Pruefer._
+_Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit im Sozialversicherungsstatus Prüfer._
 
 # Solo-Handwerker
 
@@ -378,7 +378,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `selbststaendige-lehrer-sozialgericht-klage`
 
-_Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Pruefer._
+_Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Prüfer._
 
 # Selbständige Lehrer § 2 SGB VI
 
@@ -443,7 +443,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `paragraf-7-sgbiv-abgrenzung`
 
-_Prüft Beschäftigung nach § 7 SGB IV: Weisungsgebundenheit, Eingliederung, persönliche Abhängigkeit und Gesamtwürdigung im Sozialversicherungsstatus Pruefer._
+_Prüft Beschäftigung nach § 7 SGB IV: Weisungsgebundenheit, Eingliederung, persönliche Abhängigkeit und Gesamtwürdigung im Sozialversicherungsstatus Prüfer._
 
 # § 7 SGB IV Grundabgrenzung
 

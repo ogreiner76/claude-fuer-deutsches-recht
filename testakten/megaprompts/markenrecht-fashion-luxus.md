@@ -319,7 +319,7 @@ _Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Markenrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Markenrecht Fashion Luxus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Markenrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Markenrecht Fashion Luxus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -839,8 +839,8 @@ Bevor das Anti-KI-Label entwickelt wird, kläre:
 
 - **KI-VO Art. 50:** Anwendbar ab 02.08.2026; Transparenzpflichten für Chatbots, Deepfakes, KI-generierten Text bei öffentlichem Interesse und Emotionserkennung. Quelle: VO (EU) 2024/1689, Art. 113 lit. c.
 - **EUIPO-Praxis zu KI-bezogenen Marken:** EUIPO hat 2024/2025 verstaerkt Anmeldungen mit "AI"/"KI"-Bezug zurueckgewiesen, sofern beschreibend oder freihaltebeduerftig. Live-Recherche im EUIPO eSearch plus erforderlich.
-- **DPMA-Praxis "Human Made" / Authentizitaetsmarken:** Aktuelle DPMA-/BPatG-Entscheidungen zu Authentizitaets- und Negativ-Marken ("AI Free", "ohne KI") live ueber dpma.de und bpatg.bund.de pruefen.
-- **UWG § 5 Abs. 1 / § 5a UWG bei KI-Marketing:** BGH-Linie zur Irrefuehrung durch unzureichende Kennzeichnung KI-generierter Werbung / Influencer-Inhalte live ueber dejure.org pruefen.
+- **DPMA-Praxis "Human Made" / Authentizitaetsmarken:** Aktuelle DPMA-/BPatG-Entscheidungen zu Authentizitaets- und Negativ-Marken ("AI Free", "ohne KI") live über dpma.de und bpatg.bund.de prüfen.
+- **UWG § 5 Abs. 1 / § 5a UWG bei KI-Marketing:** BGH-Linie zur Irrefuehrung durch unzureichende Kennzeichnung KI-generierter Werbung / Influencer-Inhalte live über dejure.org prüfen.
 
 ---
 
@@ -1292,7 +1292,7 @@ _Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Fashion Luxus Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Markenrecht Fashion Luxus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Fashion Luxus Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Markenrecht Fashion Luxus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 

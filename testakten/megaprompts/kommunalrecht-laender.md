@@ -25,7 +25,7 @@ _Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Kommunalrecht Laender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Kommunalrecht Laender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -49,8 +49,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -116,8 +116,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
@@ -161,8 +161,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
@@ -206,8 +206,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
@@ -251,8 +251,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
@@ -296,8 +296,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
@@ -341,8 +341,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
@@ -386,8 +386,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder

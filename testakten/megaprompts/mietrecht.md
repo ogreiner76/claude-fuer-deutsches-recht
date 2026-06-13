@@ -38,7 +38,7 @@ Dieser Einstieg routet **Mietrecht** vom ersten Sachverhalt zu Rollen, Fristen, 
 
 - `amtlichen-amtsgericht-sonderfall` — Amtlichen Amtsgericht Sonderfall
 - `amtsgericht-sonderfall-und-edge-case` — Amtsgericht Sonderfall und Edge Case
-- `ausschliesslich-dokumentenmatrix-und-lueckenliste` — Ausschliesslich Dokumentenmatrix und Lueckenliste
+- `ausschliesslich-dokumentenmatrix-und-lueckenliste` — Ausschließlich Dokumentenmatrix und Lueckenliste
 - `betriebskostenabrechnung-belege-und-formelpruefer` — Betriebskostenabrechnung Belege und Formelpruefer
 - `bundesland-datenerhebung-grossstadt` — Bundesland Datenerhebung Grossstadt
 - `datenerhebung-zahlen-schwellen-und-berechnung` — Datenerhebung Zahlen Schwellen und Berechnung
@@ -76,7 +76,7 @@ _Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrol
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Mietrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Mietrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Mietrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Mietrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -90,7 +90,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Arbeitsbereich
 
-Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung Modernisierung Nebenkostenabrechnung Mietkaution-Rückforderung Eigenbedarf Sanierung Räumung WEG-Beschluss WEG-Hausgeld-Klage). Fristen-Sofort-Check Kündigungs-Frist nach § 573c BGB Räumungs-Frist § 721 ZPO WEG-Klage ein Monat § 45 WEG Modernisierung-Ankündigung drei Monate vorher Mieterhoehung Zustimmungs-Frist zwei Monate § 558b BGB. Eskalation Telefon-Sofort bei Räumungstermin laufender Kündigungs-Frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentümer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung Modernisierung Nebenkostenabrechnung Mietkaution-Rückforderung Eigenbedarf Sanierung Räumung WEG-Beschluss WEG-Hausgeld-Klage). Fristen-Sofort-Check Kündigungs-Frist nach § 573c BGB Räumungs-Frist § 721 ZPO WEG-Klage ein Monat § 45 WEG Modernisierung-Ankündigung drei Monate vorher Mieterhoehung Zustimmungs-Frist zwei Monate § 558b BGB. Eskalation Telefon-Sofort bei Räumungstermin laufender Kündigungs-Frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -344,11 +344,11 @@ Vor Versand der Eigenbedarfskündigung: fachanwaltliche Prüfung. Risiko: Unwirk
 
 ## Aktuelle Rechtsprechung Eigenbedarfskündigung (Stand 05/2026, verifiziert dejure.org)
 
-- BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an die Begruendung nach § 573 Abs. 3 BGB sind nicht ueberzogen; Eigenbedarf bleibt wirksam auch wenn der Vermieter zunaechst Eigennutzung waehrend Umbau plant und spaetere Veraeusserung beabsichtigt. Konkretisierung des Massstabs „ernsthafter, vernuenftiger, nachvollziehbarer Eigennutzungswunsch". Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.09.2025&Aktenzeichen=VIII+ZR+289/23
+- BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an die Begruendung nach § 573 Abs. 3 BGB sind nicht ueberzogen; Eigenbedarf bleibt wirksam auch wenn der Vermieter zunaechst Eigennutzung waehrend Umbau plant und spaetere Veraeusserung beabsichtigt. Konkretisierung des Maßstabs „ernsthafter, vernuenftiger, nachvollziehbarer Eigennutzungswunsch". Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.09.2025&Aktenzeichen=VIII+ZR+289/23
 - BGH 14.12.2016, VIII ZR 232/15 — Schadensersatz bei vorgetaeuschtem Eigenbedarf (https://dejure.org/2016,46126)
 - BGH 10.05.2017, VIII ZR 292/15 — Mitteilungspflicht bei Wegfall des Eigenbedarfs (https://dejure.org/2017,15097)
-- BGH 22.05.2019, VIII ZR 180/18 — Haerteklausel § 574 BGB; Pflicht zur Abwaegung Vermieter-/Mieterinteressen, alters- oder krankheitsbedingte Haerten substantiiert pruefen (https://dejure.org/2019,12824)
-- BGH 11.12.2019, VIII ZR 144/19 — Haerteklausel: Hochbetagtes Alter und langjaehrige Verwurzelung koennen Vertragsfortsetzung tragen; nur ausnahmsweise unbefristete Fortsetzung (https://dejure.org/2019,49075)
+- BGH 22.05.2019, VIII ZR 180/18 — Haerteklausel § 574 BGB; Pflicht zur Abwaegung Vermieter-/Mieterinteressen, alters- oder krankheitsbedingte Haerten substantiiert prüfen (https://dejure.org/2019,12824)
+- BGH 11.12.2019, VIII ZR 144/19 — Haerteklausel: Hochbetagtes Alter und langjaehrige Verwurzelung können Vertragsfortsetzung tragen; nur ausnahmsweise unbefristete Fortsetzung (https://dejure.org/2019,49075)
 - BGH 09.05.2012, VIII ZR 238/11 — „Vorratskündigung"-Verbot; Eigenbedarf muss konkret-bevorstehend sein (https://dejure.org/2012,12036)
 
 Weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.
@@ -734,12 +734,12 @@ Vor Versand der fristlosen Kündigung: fachanwaltliche Prüfung der Rückstandsb
 - BGH, Urt. v. 09.07.2025 – Az. VIII ZR 287/23 — Schonfristzahlung nach § 569 Abs. 3 Nr. 2 BGB heilt nur die fristlose, nicht die ordentliche Kuendigung wegen Zahlungsverzugs. Klarstellung des Streits mit dem LG Berlin II. Folge: Doppelkuendigung (fristlos hilfsweise ordentlich) bleibt die strategisch sichere Loesung für den Vermieter. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.07.2025&Aktenzeichen=VIII+ZR+287/23
 - BGH, Urt. v. 01.07.2020 – Az. VIII ZR 323/18 — Schonfristzahlung (§ 569 Abs. 3 Nr. 2 BGB) beseitigt nur die fristlose Kuendigung wegen Zahlungsverzugs; eine hilfsweise erklaerte ordentliche Kuendigung nach § 573 Abs. 2 Nr. 1 BGB bleibt wirksam. Ein Ausschluss der Sozialklausel § 574 Abs. 1 Satz 2 BGB greift, weil ein Grund vorliegt, der den Vermieter zur fristlosen Kuendigung berechtigt hätte. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=01.07.2020&Aktenzeichen=VIII+ZR+323/18
 - BGH, Beschl. v. 08.12.2021 – Az. VIII ZR 32/20 — Erheblichkeit des Mietrueckstands im Sinne von § 573 Abs. 2 Nr. 1 BGB; massgeblich ist die Gesamthoehe des Rueckstands, nicht die Aufgliederung in einzelne Monatsbetraege. Bestaetigt die Wertungslinie zur ordentlichen Kuendigung neben der fristlosen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.12.2021&Aktenzeichen=VIII+ZR+32/20
-- Weitere Rechtsprechungslinien des VIII. ZS zu § 543, § 569 BGB vor Ausgabe ueber https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
+- Weitere Rechtsprechungslinien des VIII. ZS zu § 543, § 569 BGB vor Ausgabe über https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
 
 ## Basiszinssatz § 247 BGB und Verzug
 
 - Basiszinssatz zum 01.01.2026: 1,27 Prozent (Bundesbank-Bekanntmachung); B2C-Verzugszinssatz 6,27 Prozent. Quelle: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
-- Halbjaehrliche Pruefung am 01.01. und 01.07. erforderlich.
+- Halbjaehrliche Prüfung am 01.01. und 01.07. erforderlich.
 
 ## Paragrafenkette
 
@@ -915,7 +915,7 @@ Erzeuge ein höflich-bestimmtes Schreiben mit:
 - **BGH 21.11.2012, VIII ZR 46/12**: Wirksamkeit des Mieterhoehungsverlangens; Mietspiegelauszug muss beigefuegt sein, wenn das Verlangen darauf gestuetzt wird; sonst formal unwirksam. Quelle: dejure.org/2012,38221.
 - **BGH 18.10.2017, VIII ZR 28/17**: Mieterhoehung auf Grundlage Sachverstaendigengutachten — Gutachten muss konkrete Vergleichswohnungen heranziehen, nicht nur Pauschalmietspiegel-Daten. Quelle: dejure.org/2017,40850.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel-Beschluss): Landesrechtlicher Mietendeckel verfassungswidrig (Bundesrecht abschliessend; §§ 556d ff. BGB Bundeskompetenz). Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
-- **Gesetzeslage 2026:** Mietpreisbremse § 556d BGB durch Bundesgesetzgeber verlaengert; konkrete Geltungsdauer und Spannungs-Gebiets-Verordnungen der Länder vor Versand pruefen.
+- **Gesetzeslage 2026:** Mietpreisbremse § 556d BGB durch Bundesgesetzgeber verlaengert; konkrete Geltungsdauer und Spannungs-Gebiets-Verordnungen der Länder vor Versand prüfen.
 
 Vor Zitieren weiterer Aktenzeichen Live-Verifikation per dejure.org / bundesgerichtshof.de.
 
@@ -1016,15 +1016,15 @@ Erzeuge ein Schreiben mit:
 
 ## Hinweis zur Mietpreisbremse
 
-In Gebieten mit Mietpreisbremse darf eine Erhöhung bei bestehendem Mietverhältnis grundsaetzlich erfolgen — die Mietpreisbremse begrenzt nur die Neuvermietung. Aber: bei Neuvermietung ist eine Miete über ortsübliche Vergleichsmiete plus zehn Prozent unzulässig (§ 556d BGB). Bei Folgeerhöhungen im laufenden Verhältnis gilt nur die Kappungsgrenze.
+In Gebieten mit Mietpreisbremse darf eine Erhöhung bei bestehendem Mietverhältnis grundsätzlich erfolgen — die Mietpreisbremse begrenzt nur die Neuvermietung. Aber: bei Neuvermietung ist eine Miete über ortsübliche Vergleichsmiete plus zehn Prozent unzulässig (§ 556d BGB). Bei Folgeerhöhungen im laufenden Verhältnis gilt nur die Kappungsgrenze.
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 
 - **Berliner Mietendeckel nicht als BGH-Mietrecht zitieren:** Die Kompetenzfrage wurde durch BVerfG, Beschluss vom 25.03.2021 - 2 BvF 1/20, entschieden. Für Mietpreisbremse/Rückzahlung nach §§ 556d ff. BGB immer eine gesondert verifizierte BGH-Entscheidung mit Datum und Aktenzeichen heranziehen.
 - **BVerfG 25.03.2021, 2 BvF 1/20, 2 BvL 4/20, 2 BvL 5/20** (Berliner Mietendeckel-Beschluss): Landesrechtlicher Mietendeckel (Berlin) ist mangels Gesetzgebungskompetenz des Landes verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
 - **BGH 28.04.2021, VIII ZR 22/20**: Qualifizierter Mietspiegel — Anforderungen an wissenschaftliche Erstellung; Erschuetterung der Vermutungswirkung nur bei substantiierten Maengeln des Mietspiegel-Erstellungsverfahrens. Quelle: dejure.org/2021,15412.
-- **BGH 18.03.2020, VIII ZR 64/19** (Bauwerksmaengel als Mietminderungsgrund — vor Mieterhoehungsausgleich pruefen): Erhebliche Maengel mindern auch die Bezugsbasis der Vergleichsmiete. Quelle: dejure.org/2020,4895.
-- **Gesetzeslage Mai 2026:** Bei Erstellung Stand der Mietpreisbremsen-Verordnungen der Länder pruefen; Kappungsgrenzenverordnungen je Bundesland; § 556d BGB-Verlaengerung durch Bundesgesetzgeber (Beschluss 2025 — vor Ausgabe Bundesgesetzblatt-Verifikation).
+- **BGH 18.03.2020, VIII ZR 64/19** (Bauwerksmaengel als Mietminderungsgrund — vor Mieterhoehungsausgleich prüfen): Erhebliche Maengel mindern auch die Bezugsbasis der Vergleichsmiete. Quelle: dejure.org/2020,4895.
+- **Gesetzeslage Mai 2026:** Bei Erstellung Stand der Mietpreisbremsen-Verordnungen der Länder prüfen; Kappungsgrenzenverordnungen je Bundesland; § 556d BGB-Verlaengerung durch Bundesgesetzgeber (Beschluss 2025 — vor Ausgabe Bundesgesetzblatt-Verifikation).
 
 Vor Zitieren weiterer Entscheidungen Live-Verifikation per dejure.org / bundesgerichtshof.de mit Datum und Aktenzeichen.
 
@@ -1306,10 +1306,10 @@ Diese Quellensammlung ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Rec
 
 ## Aktueller Gesetzgebungsstand zur Mietpreisbremse (Bund)
 
-- **Verlängerungsgesetz vom 17.07.2025** — BGBl. 2025 I Nr. 163. § 556d Abs. 2 Satz 4 BGB wurde dahingehend geaendert, dass die Ermächtigung der Landesregierungen zum Erlass von Mietpreisbremse-Verordnungen bis zum 31.12.2029 verlängert wurde. Ohne diese Verlängerung wären die Landesverordnungen spätestens Ende 2025 ausgelaufen. Verfassungsgerichtliche Pruefung dieses Verlaengerungsgesetzes 2025 steht zum Stand Mai 2026 noch aus.
+- **Verlängerungsgesetz vom 17.07.2025** — BGBl. 2025 I Nr. 163. § 556d Abs. 2 Satz 4 BGB wurde dahingehend geaendert, dass die Ermächtigung der Landesregierungen zum Erlass von Mietpreisbremse-Verordnungen bis zum 31.12.2029 verlängert wurde. Ohne diese Verlängerung wären die Landesverordnungen spätestens Ende 2025 ausgelaufen. Verfassungsgerichtliche Prüfung dieses Verlaengerungsgesetzes 2025 steht zum Stand Mai 2026 noch aus.
 - **BVerfG, Nichtannahmebeschluss vom 08.01.2026 – Az. 1 BvR 183/25** — Wichtige Klarstellung: Diese Entscheidung betrifft **nicht** das Verlaengerungsgesetz 2025, sondern die **vorangegangene Verlaengerung von 2020** (§ 556d BGB in der Fassung vom 19.03.2020) sowie mittelbar die Berliner Mietenbegrenzungsverordnung vom 19.05.2020. Die Verfassungsbeschwerde einer Berliner Wohnungsgesellschaft blieb erfolglos. Das BVerfG haelt an seiner Linie aus 1 BvL 1/18 vom 18.07.2019 fest: §§ 556d ff. BGB sind mit Art. 14 GG vereinbar; die Mietpreisbremse stellt keinen unverhaeltnismäßigen Eingriff in die Eigentumsgarantie dar.
 - **Folgerung für das 2025er Gesetz**: Der Beschluss bestaetigt zwar die generelle verfassungsrechtliche Tragfaehigkeit der Mietpreisbremse-Konstruktion, traegt das 2025er Verlaengerungsgesetz jedoch nicht ausdruecklich mit. Aussagen wie "die Verlaengerung bis 2029 ist bereits verfassungsrechtlich gepruefte" sind unzutreffend; richtig ist nur, dass die Argumentationslinie aus 1 BvL 1/18 und 1 BvR 183/25 auf das 2025er Gesetz uebertragbar erscheint.
-- **Praxisfolge**: Für Neuvermietungen ab dem 01.01.2026 in Bundesländern mit Mietpreisbremse-Verordnung gilt die Begrenzung auf 110 Prozent der ortsueblichen Vergleichsmiete fort. Vor Beratung pruefen, ob die jeweilige Landesverordnung selbst noch in Kraft ist oder verlängert wurde — die Bundesregelung ermächtigt nur, sie verpflichtet nicht.
+- **Praxisfolge**: Für Neuvermietungen ab dem 01.01.2026 in Bundesländern mit Mietpreisbremse-Verordnung gilt die Begrenzung auf 110 Prozent der ortsueblichen Vergleichsmiete fort. Vor Beratung prüfen, ob die jeweilige Landesverordnung selbst noch in Kraft ist oder verlängert wurde — die Bundesregelung ermächtigt nur, sie verpflichtet nicht.
 - Quellen: BGBl. 2025 I Nr. 163 — https://www.recht.bund.de/bgbl/1/2025/163 ; BVerfG, Beschluss vom 08.01.2026 – 1 BvR 183/25 — https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260108_1bvr018325.html
 
 ## Aktuelle Rechtsprechung — Leitsaetze Mietspiegel
@@ -1577,7 +1577,7 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 - **BGH 16.07.2021, V ZR 284/19**: WEMoG-Uebergangsrecht — auch nach WEG-Reform 01.12.2020 ist die Wohnungseigentuemergemeinschaft prozessual aktiv-/passivlegitimiert (§ 9a Abs. 2 WEG n.F.). Quelle: dejure.org/2021,25770.
 - **BGH 17.09.2021, V ZR 12/21**: Bauliche Veraenderungen (§ 20 WEG n.F.) — Mehrheitsbeschluss genuegt; Anspruch des bauwilligen Eigentuemers gegen die GdW auf Beschlussfassung. Quelle: dejure.org/2021,30989.
 - **BGH 10.07.2020, V ZR 234/19**: Beschlussanfechtung — strikt einzuhaltende Klagefrist 1 Monat nach Beschlussfassung (§ 45 WEG n.F. / § 46 a.F.); materielle Ausschlussfrist. Quelle: dejure.org/2020,21566.
-- **BGH 27.10.2023, V ZR 43/23**: Anforderungen an ordnungsgemaesse Verwaltung; Beschluss ueber Sonderumlage muss verhaeltnismaessig und sachlich begruendet sein. Quelle: dejure.org/2023,30420.
+- **BGH 27.10.2023, V ZR 43/23**: Anforderungen an ordnungsgemaesse Verwaltung; Beschluss über Sonderumlage muss verhaeltnismaessig und sachlich begruendet sein. Quelle: dejure.org/2023,30420.
 - **BGH 13.01.2023, V ZR 43/22**: Stimmrecht und Beschlussfaehigkeit nach WEMoG; Mehrheitsprinzip § 25 WEG n.F. — keine besondere Beschlussfaehigkeitsschranke mehr. Quelle: dejure.org/2023,1112.
 
 **Gesetzeslage 2026:** WEMoG vom 16.10.2020 (BGBl. I 2187) in Kraft seit 01.12.2020 — Verfahrensrecht §§ 43-45 WEG, materielle Anforderungen §§ 18-21 WEG (bauliche Veraenderungen, Verwaltung).
@@ -1708,7 +1708,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `klageentwurf-amtsgericht` | Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine… |
 | `lage-und-ausstattung-erheben` | Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnungsausstattung Gebaeudeausstattung. Erfasst alle Merkmale die in qualifizierten Mietspiegeln als… |
 | `mahnung-zahlungsverzug-mieter` | Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug nach § 286 BGB Fälligkeit der Miete (§ 556b Abs. 1 BGB) Mahnschreiben Aufrechnungsverbot fristlose… |
-| `mandat-triage-mietrecht` | Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung… |
+| `mandat-triage-mietrecht` | Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentümer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung… |
 | `mieteranfragen-beantworten` | Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution… |
 | `mieterhoehung-pruefen-widersprechen` | Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begründung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung.… |
 | `mieterhoehungsverlangen-erstellen` | Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemäßer Begründung (Mietspiegel Sachverständigengutachten oder drei Vergleichswohnungen).… |
@@ -1725,19 +1725,19 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin unterstuetzt Mieter, Vermieter, Hausverwaltungen und deren Anwaelte bei allen praxisrelevanten Fragen des deutschen Mietrechts. Es deckt Wohnraummiete und Gewerberaummiete ab: Mieterhoehungsverlangen, Mietsenkungsverlangen nach Mietpreisbremse, Nebenkostenpruefung, Kuendigungsrecht (Eigenbedarf, Zahlungsverzug), Kautionsrueckforderung, WEG-Beschlussanfechtung und Klageentwurf zum Amtsgericht.
 
-Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen für Bundeslaender, Top- und Universitaetsstaedte. Es werden ausschliesslich amtliche Quellen verwendet; keine Schaetzdaten oder Onlineportale.
+Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen für Bundeslaender, Top- und Universitaetsstaedte. Es werden ausschließlich amtliche Quellen verwendet; keine Schaetzdaten oder Onlineportale.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie sind Vermieter und wollen ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete erstellen.
-- Sie sind Mieter und haben ein Mieterhoehungsverlangen erhalten und wollen pruefen, ob Sie Widerspruch einlegen koennen.
-- Sie pruefen eine Betriebskostenabrechnung auf Formfehler, Umlagefaehigkeit und rechnerische Richtigkeit.
+- Sie sind Mieter und haben ein Mieterhoehungsverlangen erhalten und wollen prüfen, ob Sie Widerspruch einlegen können.
+- Sie prüfen eine Betriebskostenabrechnung auf Formfehler, Umlagefaehigkeit und rechnerische Richtigkeit.
 - Sie benoetigen als Vermieter ein Kuendigungsschreiben wegen Eigenbedarfs oder Zahlungsverzugs.
 - Sie wollen eine Beschlussanfechtungsklage gegen einen WEG-Beschluss vorbereiten.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Ortsuebliche Vergleichsmiete** — Die uebliche Miete für Wohnungen vergleichbarer Art, Groesse, Ausstattung und Lage; Massstab für Mieterhoehungen nach § 558 BGB.
+- **Ortsuebliche Vergleichsmiete** — Die uebliche Miete für Wohnungen vergleichbarer Art, Groesse, Ausstattung und Lage; Maßstab für Mieterhoehungen nach § 558 BGB.
 - **Kappungsgrenze** — Maximale prozentuale Erhoehung innerhalb von drei Jahren; regelmaessig 20 %, in Spannungsgebieten 15 %.
 - **Mietpreisbremse** — §§ 556d ff. BGB; Neuvermietungsmiete darf in Gebieten mit angespanntem Wohnungsmarkt die ortsuebliche Vergleichsmiete um nicht mehr als 10 % uebersteigen.
 - **Qualifizierter Mietspiegel** — Mietspiegel, der nach wissenschaftlichen Grundsaetzen erstellt und anerkannt wurde (§ 558d BGB); hat Vermutungswirkung.
@@ -1760,10 +1760,10 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Vermieter oder Mieter, Wohnraum oder Gewerbe, Bestandsmiete oder Neuabschluss.
+1. Mandantenkonstellation klären: Vermieter oder Mieter, Wohnraum oder Gewerbe, Bestandsmiete oder Neuabschluss.
 2. Phase des Mandats bestimmen: Mieterhoehung, Nebenkostenstreit, Kuendigung, Kaution, WEG oder Klage.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: WEG-Anfechtungsklage (§ 45 WEG: ein Monat), Kuendigungsfristen (§ 573c BGB), Mieterhoehungs-Zustimmungsfrist (zwei Monate § 558b BGB).
+4. Eilfristen prüfen: WEG-Anfechtungsklage (§ 45 WEG: ein Monat), Kuendigungsfristen (§ 573c BGB), Mieterhoehungs-Zustimmungsfrist (zwei Monate § 558b BGB).
 5. Anschluss-Skill bestimmen: nach Mietspiegel-Ermittlung typischerweise Mieterhoehungsverlangen oder Widerspruch; nach Kuendigung ggf. Klageentwurf.
 
 ## Skill-Tour (was gibt es hier?)
@@ -1775,7 +1775,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 **Datenerhebung**
 
 - `lage-und-ausstattung-erheben` — Strukturierte Datenerhebung für Mietspiegel-Einordnung: Adresse, Baujahr, Wohnflaeche, Ausstattungsmerkmale.
-- `mietspiegel-quellen` — Prueft ortsuebliche Vergleichsmiete anhand amtlicher Mietspiegel-Quellen pro Bundesland und Stadttyp.
+- `mietspiegel-quellen` — Prüft ortsuebliche Vergleichsmiete anhand amtlicher Mietspiegel-Quellen pro Bundesland und Stadttyp.
 
 **Mieterhoehung (Vermieter)**
 
@@ -1783,14 +1783,14 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 **Mieterhoehung (Mieter)**
 
-- `mieterhoehung-pruefen-widersprechen` — Mieterhoehungsverlangen auf Form, Frist, Kappungsgrenze und Begruendung pruefen; Widerspruchs- oder Teilzustimmungs-Entwurf.
+- `mieterhoehung-pruefen-widersprechen` — Mieterhoehungsverlangen auf Form, Frist, Kappungsgrenze und Begruendung prüfen; Widerspruchs- oder Teilzustimmungs-Entwurf.
 - `mietpreisueberhoehung-wistrg-1954-mietwucher` — überhöhte Wohnraummiete dreistufig auf Mietpreisbremse, § 5 WiStrG 1954 und § 291 StGB prüfen.
 - `mietsenkungsverlangen` — Miete auf Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 und § 291 StGB prüfen; qualifizierte Rüge erstellen.
 
 **Nebenkostenabrechnung**
 
 - `nebenkostenabrechnung-erstellen` — Rechtssichere Betriebskostenabrechnung für Vermieter nach § 556 BGB und BetrKV.
-- `nebenkostenabrechnung-pruefen` — Betriebskostenabrechnung auf Frist, Form, Umlagefaehigkeit, Verteilerschluessel und HeizkostenV pruefen.
+- `nebenkostenabrechnung-pruefen` — Betriebskostenabrechnung auf Frist, Form, Umlagefaehigkeit, Verteilerschluessel und HeizkostenV prüfen.
 
 **Kuendigung**
 
@@ -1799,12 +1799,12 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 **Kaution**
 
-- `mietkaution-rueckforderung` — Prueft Rückforderungsanspruch: Hoechstgrenze, Anlagepflicht, Abrechnungsfrist, Einbehalt und Verjährung.
+- `mietkaution-rueckforderung` — Prüft Rückforderungsanspruch: Hoechstgrenze, Anlagepflicht, Abrechnungsfrist, Einbehalt und Verjährung.
 
 **Kommunikation und WEG**
 
 - `mieteranfragen-beantworten` — Beantwortung von Mieteranfragen sachlich und rechtlich korrekt für Vermieter und Hausverwaltungen.
-- `weg-beschluss-anfechten` — Prueft Beschlussanfechtungs- und Nichtigkeitsklage nach §§ 44 ff. WEG 2020 mit Monatsfrist.
+- `weg-beschluss-anfechten` — Prüft Beschlussanfechtungs- und Nichtigkeitsklage nach §§ 44 ff. WEG 2020 mit Monatsfrist.
 
 **Klage**
 
@@ -1812,8 +1812,8 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 ## Worauf besonders achten
 
-- **Ausschliesslich amtliche Mietspiegel verwenden.** Das Plugin nutzt nur offiziell anerkannte Quellen; Onlineportale sind keine zulaessige Begruendung für Mieterhoehungsverlangen.
-- **Kappungsgrenze gilt relativ zum letzten Mieterhoehungsverlangen.** Dreijahresfrist und prozentuale Grenze sind getrennt zu pruefen; Kappungsgrenze in Spannungsgebieten 15 % nach Landesrecht.
+- **Ausschließlich amtliche Mietspiegel verwenden.** Das Plugin nutzt nur offiziell anerkannte Quellen; Onlineportale sind keine zulaessige Begruendung für Mieterhoehungsverlangen.
+- **Kappungsgrenze gilt relativ zum letzten Mieterhoehungsverlangen.** Dreijahresfrist und prozentuale Grenze sind getrennt zu prüfen; Kappungsgrenze in Spannungsgebieten 15 % nach Landesrecht.
 - **Kuendigungsbegruendung bei Eigenbedarf muss konkret sein.** Zu abstrakte Begruendungen fuehren zur Unwirksamkeit der Kuendigung; Skill `eigenbedarfskuendigung-erstellen` sichert den Mindestinhalt.
 - **WEG-Anfechtungsfrist laeuft hart.** Ein Monat nach Beschlussfassung (§ 45 WEG); danach nur noch Nichtigkeitsklage bei gravierenden Maengeln.
 - **Nebenkostenabrechnung muss innerhalb von 12 Monaten zugehen.** Spaeterer Zugang fuehrt zur Unwirksamkeit der Abrechnung und Verlust von Nachzahlungsanspruechen.
@@ -1823,7 +1823,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 - Mieterhoehungsverlangen wird ohne ordnungsgemaesse Begruendung versandt; Mieter kann Zustimmung verweigern und Klage ist unbegrendet.
 - Fristlose Kuendigung wird ausgesprochen ohne hilfsweise ordentliche Kuendigung; hilfsweise Kuendigung sichert Rueckfall ab.
 - Betriebskostenabrechnung enthaelt nicht umlagefaehige Positionen (z.B. Verwaltungskosten); Mieter kann Rueckforderung geltend machen.
-- Mietkaution wird nicht getrennt vom Vermoegen des Vermieters angelegt; bei Insolvenz des Vermieters geht Mieter leer aus.
+- Mietkaution wird nicht getrennt vom Vermögen des Vermieters angelegt; bei Insolvenz des Vermieters geht Mieter leer aus.
 - WEG-Anfechtungsfrist wird verpasst; nur Nichtigkeitsklage bei sehr schweren Maengeln verbleibt als Option.
 
 ## Quellen und Aktualitaet
@@ -1842,7 +1842,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 _Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht._
 
-# Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung
+# Ausschließlich: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Arbeitsweg
 
@@ -1860,7 +1860,7 @@ _Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Mietrecht:
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung
+## Spezialwissen: Ausschließlich: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
@@ -1874,7 +1874,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ausschliesslich** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ausschließlich** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

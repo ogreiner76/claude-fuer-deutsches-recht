@@ -35,15 +35,15 @@ Dieser Einstieg routet **Insolvenzrecht** vom ersten Sachverhalt zu Rollen, Fris
 - `einstieg-schnelltriage-fallrouting` — Anschluss
 - `antragspflicht-15a-17-19` — Antragspflicht 15A 17 19
 - `antragspflicht-15a-inso` — Antragspflicht 15A Inso
-- `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Auslaendischer Insolvenzverwalter Register und Grundbuch
-- `auslaendischer-office-holder-register-und-grundbuch` — Auslaendischer Office Holder Register und Grundbuch
+- `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Ausländischer Insolvenzverwalter Register und Grundbuch
+- `auslaendischer-office-holder-register-und-grundbuch` — Ausländischer Office Holder Register und Grundbuch
 - `belegmatrix-formular-portal-und-einreichung` — Belegmatrix Formular Portal und Einreichung
 - `chronologie-internationaler-bezug-und-schnittstellen` — Chronologie Internationaler Bezug und Schnittstellen
 - `do-versicherung-manager-haftung` — DO Versicherung Manager Haftung
 - `einfuehrung-verhandlung-vergleich-und-eskalation` — Einfuehrung Verhandlung Vergleich und Eskalation
-- `feststellung-sonderfall-glaeubigerantrag-inso` — Feststellung Sonderfall Glaeubigerantrag Inso
-- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung Glaeubiger 174 177 Inso
-- `glaeubigerantrag-glaeubigerausschuss` — Glaeubigerantrag Glaeubigerausschuss
+- `feststellung-sonderfall-glaeubigerantrag-inso` — Feststellung Sonderfall Gläubigerantrag Inso
+- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung Gläubiger 174 177 Inso
+- `glaeubigerantrag-glaeubigerausschuss` — Gläubigerantrag Gläubigerausschuss
 - `dokumente-intake` — Dokumente Intake
 - `output-waehlen` — Output Waehlen
 
@@ -71,7 +71,7 @@ _Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsfü
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Insolvenzrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Insolvenzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Insolvenzrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Insolvenzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -645,57 +645,57 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin deckt die insolvenzrechtlichen Grundfragen ab, die in der taeaglichen Beratungspraxis vor und waehrend eines Insolvenzverfahrens entstehen. Im Mittelpunkt stehen die Eroeffnungsgruende (Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung), die Insolvenzantragspflicht des Geschaeftsleiters nach § 15a InsO, das Zahlungsverbot nach § 15b InsO, Anfechtungsrechte des Insolvenzverwalters, Forderungsanmeldung durch Glaeubiger, D-and-O-Haftungsfragen und die Koordination von Konzerninsolvenzen.
+Dieses Plugin deckt die insolvenzrechtlichen Grundfragen ab, die in der taeaglichen Beratungspraxis vor und waehrend eines Insolvenzverfahrens entstehen. Im Mittelpunkt stehen die Eroeffnungsgruende (Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung), die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, das Zahlungsverbot nach § 15b InsO, Anfechtungsrechte des Insolvenzverwalters, Forderungsanmeldung durch Gläubiger, D-and-O-Haftungsfragen und die Koordination von Konzerninsolvenzen.
 
-Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsberater und Unternehmensberater. Es ist ein strukturiertes Pruefwerkzeug für insolvenzrechtliche Triage-Situationen. Fuer vertiefte Planwerkstatt-Arbeit (Insolvenzplan, StaRUG) steht das Plugin `insolvenzplan-starug-planwerkstatt` zur Verfuegung.
+Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsberater und Unternehmensberater. Es ist ein strukturiertes Prüfwerkzeug für insolvenzrechtliche Triage-Situationen. Für vertiefte Planwerkstatt-Arbeit (Insolvenzplan, StaRUG) steht das Plugin `insolvenzplan-starug-planwerkstatt` zur Verfuegung.
 
 ## Wann brauchen Sie diese Skill?
 
-- Geschaeftsfuehrer fragt, ob er einen Insolvenzantrag stellen muss und bis wann die Dreiwochenfrist laeuft.
-- Glaeubiger moechte wissen, ob er einen Insolvenzantrag stellen kann und was dabei zu beachten ist.
+- Geschäftsführer fragt, ob er einen Insolvenzantrag stellen muss und bis wann die Dreiwochenfrist laeuft.
+- Gläubiger moechte wissen, ob er einen Insolvenzantrag stellen kann und was dabei zu beachten ist.
 - Arbeitnehmer eines insolventen Unternehmens fragt nach Insolvenzgeld.
-- Insolvenzverwalter prueft Anfechtungsansprueche gegen Zahlungen vor Verfahrenseroffnung.
-- Mandant ist Mitglied des Glaeubigerausschusses und fragt nach Rechten, Pflichten und Haftung.
+- Insolvenzverwalter prüft Anfechtungsansprueche gegen Zahlungen vor Verfahrenseroffnung.
+- Mandant ist Mitglied des Gläubigerausschusses und fragt nach Rechten, Pflichten und Haftung.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Zahlungsunfaehigkeit** — Schuldner kann faellige Zahlungspflichten nicht mehr erfuellen; § 17 InsO; BGH-Schema: zehn Prozent Liquiditaetslucke für mindestens drei Wochen.
-- **Drohende Zahlungsunfaehigkeit** — Schuldner wird voraussichtlich faellige Zahlungspflichten nicht erfuellen koennen; § 18 InsO; Grundlage für freiwilligen Antrag und StaRUG.
-- **Ueberschuldung** — Vermoegen des Schuldners deckt bestehende Verbindlichkeiten nicht, sofern keine positive Fortbestehensprognose (§ 19 InsO).
-- **Antragspflicht** — Geschaeftsfuehrer und Vorstand muessen bei Zahlungsunfaehigkeit oder Ueberschuldung ohne schuldhaftes Zoegern, spaetestens drei Wochen nach Eintreten, Antrag stellen (§ 15a InsO).
+- **Drohende Zahlungsunfaehigkeit** — Schuldner wird voraussichtlich faellige Zahlungspflichten nicht erfuellen können; § 18 InsO; Grundlage für freiwilligen Antrag und StaRUG.
+- **Ueberschuldung** — Vermögen des Schuldners deckt bestehende Verbindlichkeiten nicht, sofern keine positive Fortbestehensprognose (§ 19 InsO).
+- **Antragspflicht** — Geschäftsführer und Vorstand müssen bei Zahlungsunfaehigkeit oder Ueberschuldung ohne schuldhaftes Zoegern, spaetestens drei Wochen nach Eintreten, Antrag stellen (§ 15a InsO).
 - **Zahlungsverbot** — Nach Insolvenzreife sind Zahlungen nur noch zulasaig, die mit der Sorgfalt eines ordentlichen Kaufmanns vereinbar sind (§ 15b InsO).
 - **Insolvenzverschleppung** — Verspaetete Antragstellung; Haftung gegenueber Neuglaeubigeern und Altglaeubigern aus § 823 Abs. 2 BGB iVm § 15a InsO.
 - **Bargeschaeft** — Leistungsaustausch mit sofortiger Gegenleistung; schuetzt vor Insolvenzanfechtung nach § 142 InsO.
-- **Glaeubigerausschuss** — Kontrollorgan des Insolvenzverfahrens nach §§ 67 ff. InsO; prueft und beaufsichtigt den Insolvenzverwalter.
+- **Gläubigerausschuss** — Kontrollorgan des Insolvenzverfahrens nach §§ 67 ff. InsO; prüft und beaufsichtigt den Insolvenzverwalter.
 
 ## Rechtsgrundlagen
 
 - § 17 InsO — Zahlungsunfaehigkeit als Eroeffnungsgrund.
 - § 18 InsO — Drohende Zahlungsunfaehigkeit.
-- § 19 InsO — Ueberschuldung; zweistufige Pruefung.
-- § 14 InsO — Glaeubigerantrag.
-- § 15a InsO — Antragspflicht des Geschaeftsleiters; Dreiwochenfrist.
+- § 19 InsO — Ueberschuldung; zweistufige Prüfung.
+- § 14 InsO — Gläubigerantrag.
+- § 15a InsO — Antragspflicht des Geschäftsleiters; Dreiwochenfrist.
 - § 15b InsO — Zahlungsverbot nach Insolvenzreife.
-- §§ 67 ff. InsO — Glaeubigerausschuss.
+- §§ 67 ff. InsO — Gläubigerausschuss.
 - §§ 129 ff. InsO — Insolvenzanfechtung (Grundtatbestand, Deckungsanfechtung, Vorsatzanfechtung).
 - § 142 InsO — Bargeschaeftsprivileg.
 - §§ 165 ff. SGB III — Insolvenzgeld für Arbeitnehmer.
-- §§ 174 bis 179 InsO — Forderungsanmeldung, Pruefungstermin, Tabelle.
+- §§ 174 bis 179 InsO — Forderungsanmeldung, Prüfungstermin, Tabelle.
 - §§ 269a bis 269i InsO — Konzerninsolvenz.
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenrolle klaeren: Geschaeftsfuehrer, Glaeubiger, Arbeitnehmer, Ausschussmitglied?
+1. Mandantenrolle klären: Geschäftsführer, Gläubiger, Arbeitnehmer, Ausschussmitglied?
 2. Triage-Interview durchfuehren: Skill `mandat-triage-insolvenzrecht`.
 3. Sofort-Fristen sichern: Dreiwochenfrist § 15a InsO oder Anmeldefrist § 165 SGB III?
-4. Eroeffnungsgruende pruefen: `zahlungsunfaehigkeit-pruefung-17-inso` und/oder `ueberschuldung-pruefung-19-inso`.
+4. Eroeffnungsgruende prüfen: `zahlungsunfaehigkeit-pruefung-17-inso` und/oder `ueberschuldung-pruefung-19-inso`.
 5. Anschluss-Skill auswaehlen nach Ergebnis der Triage.
 
 ## Skill-Tour (was gibt es hier?)
 
 **Einstieg und Triage**
 
-- `mandat-triage-insolvenzrecht` — Eingangsabfrage; Mandantenrolle und Sofort-Fristen klaeren.
+- `mandat-triage-insolvenzrecht` — Eingangsabfrage; Mandantenrolle und Sofort-Fristen klären.
 - `insolvenzrecht-kaltstart-interview` — Kaltstart-Interview für Plugin-Profil und Praxiskonfiguration.
 
 **Eroeffnungsgruende und Liquiditaet**
@@ -709,20 +709,20 @@ Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsb
 - `antragspflicht-15a-inso` — Antragspflicht nach § 15a InsO; Dreiwochenfrist; Zahlungsverbot § 15b InsO; Insolvenzverschleppungshaftung.
 - `do-versicherung-manager-haftung` — D-and-O-Versicherungsdeckung bei Insolvenzhaftung; Claims-made-Prinzip; Ausschluesse.
 
-**Glaeubigerantrag und Glaeubigerrechte**
+**Gläubigerantrag und Gläubigerrechte**
 
-- `glaeubigerantrag-pruefung` — Zulaessigkeit und Begruendetheit des Glaeubigerantrags nach § 14 InsO.
-- `glaeubigerausschuss-mitwirkung` — Rechte, Pflichten und Haftung des Glaeubigerausschussmitglieds.
-- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung, Fristen, Form, Rang, Pruefungstermin.
+- `glaeubigerantrag-pruefung` — Zulaessigkeit und Begruendetheit des Gläubigerantrags nach § 14 InsO.
+- `glaeubigerausschuss-mitwirkung` — Rechte, Pflichten und Haftung des Gläubigerausschussmitglieds.
+- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung, Fristen, Form, Rang, Prüfungstermin.
 
 **Anfechtung**
 
-- `anfechtungsrechte-pruefen` — Uebersicht aller InsO-Anfechtungstatbestaende §§ 129 ff. InsO; Betrag, Verteidigungslinien.
+- `anfechtungsrechte-pruefen` — Übersicht aller InsO-Anfechtungstatbestaende §§ 129 ff. InsO; Betrag, Verteidigungslinien.
 - `vorsatzanfechtung-133-inso` — Vorsatzanfechtung nach § 133 InsO; Fassung seit 5. April 2017; Bargeschaeftsprivileg.
 
 **Sanierung und Sondersituationen**
 
-- `uebertragende-sanierung-und-asset-deals` — Unternehmensverkauf aus der Insolvenz; Asset-Deal, Glaeubigerausschuss-Zustimmung.
+- `uebertragende-sanierung-und-asset-deals` — Unternehmensverkauf aus der Insolvenz; Asset-Deal, Gläubigerausschuss-Zustimmung.
 - `konzerninsolvenz-koordination` — Koordination mehrerer Konzerngesellschaften nach §§ 269a bis 269i InsO.
 
 **Arbeitnehmer**
@@ -731,17 +731,17 @@ Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsb
 
 ## Worauf besonders achten
 
-- **Dreiwochenfrist laeuft ab Eintritt des Eroeffnungsgrundes** — Nicht ab Kenntnis des Geschaeftsfuehrers; bei unklarem Eintrittszeitpunkt ist das Risiko gross.
-- **Zahlungsverbot schon vor Antragstellung** — § 15b InsO greift mit Eintritt der Insolvenzreife, nicht erst mit Eroffnung; Einzelzahlungen muessen ab diesem Zeitpunkt geprueft werden.
-- **Glaeubigerantrag: Glaubhaftmachung reicht nicht immer** — § 14 InsO verlangt Nachweis der Forderung und des Eroeffnungsgrundes; bloss drohende ZU genuegt dem Glaeubiger nicht.
+- **Dreiwochenfrist laeuft ab Eintritt des Eroeffnungsgrundes** — Nicht ab Kenntnis des Geschäftsführers; bei unklarem Eintrittszeitpunkt ist das Risiko groß.
+- **Zahlungsverbot schon vor Antragstellung** — § 15b InsO greift mit Eintritt der Insolvenzreife, nicht erst mit Eroffnung; Einzelzahlungen müssen ab diesem Zeitpunkt geprueft werden.
+- **Gläubigerantrag: Glaubhaftmachung reicht nicht immer** — § 14 InsO verlangt Nachweis der Forderung und des Eroeffnungsgrundes; bloss drohende ZU genuegt dem Gläubiger nicht.
 - **Anfechtungsreform 2017 beachten** — § 133 InsO wurde durch das AnfRefG 2017 grundlegend geaendert; Fristen und Indizien unterscheiden sich für Sachverhalte vor und nach dem 5. April 2017.
 - **Insolvenzgeld: Zweimonatsfrist ab Insolvenz-Ereignis** — Arbeitnehmer verlieren den Anspruch, wenn Antrag zu spaet gestellt wird.
 
 ## Typische Fehler
 
-- Geschaeftsfuehrer errechnet Dreiwochenfrist ab dem Tag, an dem er Kenntnis erlangt, statt ab Eintritt der Insolvenzreife.
-- Glaeubiger stellt Antrag nach § 14 InsO ohne vollstreckbaren Titel und laeuft in Zulaessigkeitsproblem.
-- Forderungsanmeldung versaeumt, weil Anmeldefrist nicht im Blick war; nachtraegliche Anmeldung nach § 177 InsO noch moeglich, aber mit Kostenrisiko.
+- Geschäftsführer errechnet Dreiwochenfrist ab dem Tag, an dem er Kenntnis erlangt, statt ab Eintritt der Insolvenzreife.
+- Gläubiger stellt Antrag nach § 14 InsO ohne vollstreckbaren Titel und laeuft in Zulaessigkeitsproblem.
+- Forderungsanmeldung versaeumt, weil Anmeldefrist nicht im Blick war; nachtraegliche Anmeldung nach § 177 InsO noch möglich, aber mit Kostenrisiko.
 - D-and-O-Versicherung wird nicht informiert, bevor Insolvenzantrag gestellt wird; Claims-made-Risiko.
 - Koordinationsplan für Konzerninsolvenz wird nicht erwaogen, obwohl mehrere Schwestergesellschaften betroffen sind.
 
@@ -973,13 +973,13 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Antragspflicht § 15a InsO pruefend und Beratungsschreiben erstellen | Beratungsschreiben nach Pruefschema; Template unten |
+| Standard — Antragspflicht § 15a InsO prüfend und Beratungsschreiben erstellen | Beratungsschreiben nach Prüfschema; Template unten |
 | Variante A — Insolvenzreife strittig Gutachten noetig | Sachverstaendigen-Gutachten zuerst; Beratungsschreiben nach Klaerunm |
-| Variante B — Sanierung noch moeglich StaRUG als Alternative | StaRUG-Option parallel pruefen; Antrag nicht zwingend sofort |
+| Variante B — Sanierung noch möglich StaRUG als Alternative | StaRUG-Option parallel prüfen; Antrag nicht zwingend sofort |
 | Variante C — Gesellschafter kennen Lage bereits Haftungsrisiko | Haftungs-Beratung separat; Antragspflicht und Haftung unterscheiden |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -1118,7 +1118,7 @@ Bevor losgelegt wird, klaere:
 
 ## Output-Template Beratungsschreiben Antragspflicht
 
-**Adressat:** Geschaeftsfuehrung [FIRMA] — Tonfall: klar-warnend mit Handlungsempfehlung
+**Adressat:** Geschäftsführung [FIRMA] — Tonfall: klar-warnend mit Handlungsempfehlung
 
 ```
 VERTRAULICH — ANWALTLICHES SCHREIBEN
@@ -1147,13 +1147,13 @@ Bitte bestaetigen Sie schriftlich, dass Sie diesen Hinweis erhalten haben.
 [UNTERSCHRIFT ANWALT]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1742,14 +1742,14 @@ Schuldnerreaktionen und die rechtliche Bewertung:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Glaeubiger-Insolvenzantrag pruefend und Kurzgutachten erstellen | Kurzgutachten nach Pruefschema; Template unten |
+| Standard — Gläubiger-Insolvenzantrag prüfend und Kurzgutachten erstellen | Kurzgutachten nach Prüfschema; Template unten |
 | Variante A — Forderung noch nicht tituliert Antrag riskant | Titulierung zuerst; Insolvenzantrag nach Urteil oder Vollstreckungstitel |
-| Variante B — Schuldner bietet Zahlung an wenn Antrag zurueckgenommen | Rücknahme-Verhandlung pruefen; wirtschaftliches Ergebnis beachten |
-| Variante C — Mehrere Glaeubiger koordinierter Antrag moeglich | Koordinierter Sammelantrag pruefen; Hauptglaeubiger bestimmen |
+| Variante B — Schuldner bietet Zahlung an wenn Antrag zurueckgenommen | Rücknahme-Verhandlung prüfen; wirtschaftliches Ergebnis beachten |
+| Variante C — Mehrere Gläubiger koordinierter Antrag möglich | Koordinierter Sammelantrag prüfen; Hauptglaeubiger bestimmen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -1854,20 +1854,20 @@ zu belegen. Pinpoint-Angaben (Randnummer) sind Pflicht.
 
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
 
-## Triage — Glaeubigerantrag
+## Triage — Gläubigerantrag
 
 Bevor losgelegt wird, klaere:
 
 1. **Forderung vollstreckbar?** Titel oder Glaubhaftmachung § 14 Abs. 1 InsO; eidesstattliche Versicherung ausreichend.
 2. **Eröffnungsgrund glaubhaft?** Mindestens 2-3 Indizien für Zahlungsunfähigkeit iSd § 17 Abs. 2 S. 2 InsO oder Überschuldungsstatus iSd § 19 InsO.
 3. **Rechtliches Interesse aktuell?** Kein missbräuchlicher Druckantrag; echtes Eröffnungsinteresse zum Zeitpunkt der gerichtlichen Entscheidung erforderlich.
-4. **Sicherungsantrag § 21 InsO?** Sofort-Massnahmen bei Vermoegensgefaehrdung beantragen?
-5. **Kostenvorschuss § 26 InsO?** Glaeubigerinteresse an Verfahren trotz Massearmut?
+4. **Sicherungsantrag § 21 InsO?** Sofort-Maßnahmen bei Vermögensgefaehrdung beantragen?
+5. **Kostenvorschuss § 26 InsO?** Gläubigerinteresse an Verfahren trotz Massearmut?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Output-Template Kurzgutachten Glaeubigerantrag
+## Output-Template Kurzgutachten Gläubigerantrag
 
-**Adressat:** Mandant (Glaeubiger) — Tonfall: sachlich-empfehlend
+**Adressat:** Mandant (Gläubiger) — Tonfall: sachlich-empfehlend
 
 ```
 INTERNES GUTACHTEN — GLAEUBIGERANTRAG § 14 InsO
@@ -1885,13 +1885,13 @@ Kostenvorschuss: EUR [BETRAG] ggf. erforderlich (§ 26 InsO)
 NAECHSTER SCHRITT: [Antrag einreichen bis DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -2126,22 +2126,22 @@ Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewä
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - HK-InsO
 
-## Aktuelle Leitentscheidungen — Glaeubigerausschuss (Stand Mai 2026)
+## Aktuelle Leitentscheidungen — Gläubigerausschuss (Stand Mai 2026)
 
-- Konkrete BGH/LG-Linien zu Haftung und Pflichten des Gläubigerausschusses (§§ 67–73, 160 InsO), insbesondere zur Mitwirkung bei bedeutenden Massnahmen, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
+- Konkrete BGH/LG-Linien zu Haftung und Pflichten des Gläubigerausschusses (§§ 67–73, 160 InsO), insbesondere zur Mitwirkung bei bedeutenden Maßnahmen, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Bei AG-Insolvenzen mit großem Aktionärsanteil: Aktionärsforderungen sind nachrangig; Auswirkungen auf Stimmrechtsausübung und Ausschussbesetzung beachten.
 
-## Paragrafenkette Glaeubigerausschuss
+## Paragrafenkette Gläubigerausschuss
 
-§ 67 InsO (Einsetzung) → § 68 InsO (Mitglieder) → § 69 InsO (Pflichten und Rechte) → § 70 InsO (Entlassung) → § 71 InsO (Haftung) → § 72 InsO (Verguetung) → § 73 InsO (Verguetung) → § 160 InsO (besonders bedeutsame Rechtshandlungen)
+§ 67 InsO (Einsetzung) → § 68 InsO (Mitglieder) → § 69 InsO (Pflichten und Rechte) → § 70 InsO (Entlassung) → § 71 InsO (Haftung) → § 72 InsO (Vergütung) → § 73 InsO (Vergütung) → § 160 InsO (besonders bedeutsame Rechtshandlungen)
 
-## Triage — Glaeubigerausschuss
+## Triage — Gläubigerausschuss
 
 Bevor losgelegt wird, klaere:
-1. **Ausschuss obligatorisch?** § 67 Abs. 2 InsO: bei grossen Verfahren (>250 AN, >6 Mio. EUR Bilanzsumme oder >12 Mio. EUR Umsatz) ist vorläufiger Ausschuss zwingend.
-2. **Zustimmungspflicht § 160 InsO?** Welche Geschaefte benoetigen Ausschuss-Zustimmung (Betriebsveraesserung, ungewoehnlich hohe Verbindlichkeiten, Rechtsstreitigkeiten ueber EUR 10.000)?
-3. **Interessenkonflikt?** Ausschussmitglied ist gleichzeitig Glaeubiger und Bieter in Verwertung → § 71 InsO Haftungsrisiko.
-4. **Informations-Hol-Pflicht?** Mitglieder muessen aktiv Informationen vom IV anfordern; passives Warten genuegt nicht.
+1. **Ausschuss obligatorisch?** § 67 Abs. 2 InsO: bei großen Verfahren (>250 AN, >6 Mio. EUR Bilanzsumme oder >12 Mio. EUR Umsatz) ist vorläufiger Ausschuss zwingend.
+2. **Zustimmungspflicht § 160 InsO?** Welche Geschäfte benoetigen Ausschuss-Zustimmung (Betriebsveraesserung, ungewoehnlich hohe Verbindlichkeiten, Rechtsstreitigkeiten über EUR 10.000)?
+3. **Interessenkonflikt?** Ausschussmitglied ist gleichzeitig Gläubiger und Bieter in Verwertung → § 71 InsO Haftungsrisiko.
+4. **Informations-Hol-Pflicht?** Mitglieder müssen aktiv Informationen vom IV anfordern; passives Warten genuegt nicht.
 
 ---
 
@@ -2491,7 +2491,7 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 
 ## Paragrafenkette Insolvenzgeld
 
-§ 165 SGB III (Anspruchsvoraussetzungen) → § 166 SGB III (Hoehe) → § 167 SGB III (Vorfinanzierung) → § 168 SGB III (Erloesch-Gruende) → § 26 InsO (Abweisung mangels Masse als Insolvenzereignis) → § 113 InsO (Kuendigungsrecht des IV)
+§ 165 SGB III (Anspruchsvoraussetzungen) → § 166 SGB III (Höhe) → § 167 SGB III (Vorfinanzierung) → § 168 SGB III (Erloesch-Gruende) → § 26 InsO (Abweisung mangels Masse als Insolvenzereignis) → § 113 InsO (Kuendigungsrecht des IV)
 
 ## Triage — Insolvenzgeld
 
@@ -2510,7 +2510,7 @@ _Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil u
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Insolvenzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Insolvenzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 

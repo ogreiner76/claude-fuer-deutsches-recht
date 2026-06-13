@@ -199,19 +199,19 @@ Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klä
 
 ## Maßgebliche Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
 
-Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung live pruefen:
+Belegt über bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung live prüfen:
 
 **VIII. Zivilsenat — Wohnraummietrecht:**
-- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht zulaessig)
+- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht zulässig)
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (Haerteklausel § 574 BGB / Krankheit, Alter)
 - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn)
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (Untervermietung mit Gewinn nicht "berechtigtes Interesse")
 - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 u.a. (Modernisierungsmieterhoehung / Prognose Endenergieeinsparung)
-- BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren für Mieterhoehung)
+- BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbständiges Beweisverfahren für Mieterhoehung)
 
 **V. Zivilsenat — WEG-Recht:**
 - BGH, Urt. v. 14.02.2025 – V ZR 236/23 (Erstmalige Belastung mit Erhaltungskosten nur bei sachlichem Grund)
-- BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Aenderung Verteilungsschluessel auch für Erhaltungsruecklage)
+- BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Änderung Verteilungsschluessel auch für Erhaltungsruecklage)
 - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Waermepumpe; Vorbefassung und unzumutbarer Nachteil)
 - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Bauliche Veraenderung Klimaanlage; unbillige Benachteiligung)
 - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung der Anfechtungsklage)
@@ -220,7 +220,7 @@ Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 - BVerfG, Beschl. v. 08.01.2026 – 1 BvR 183/25 (Verfassungsbeschwerde gegen Verlaengerung der Mietpreisbremse erfolglos): https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260108_1bvr018325.html
 
 **Gesetzgebung:**
-- Gesetz zur Aenderung der Regelungen ueber die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): Verlaengerung Mietpreisbremse bis 31.12.2029; https://www.recht.bund.de/bgbl/1/2025/163/VO.html
+- Gesetz zur Änderung der Regelungen über die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): Verlaengerung Mietpreisbremse bis 31.12.2029; https://www.recht.bund.de/bgbl/1/2025/163/VO.html
 
 ## Fristen-Sofort-Check
 
@@ -236,13 +236,13 @@ Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 ## Triage — Bevor du loslegst, klaere
 
 1. **Vertragsart**: Wohnraummiete (§§ 549 ff. BGB), Gewerberaummiete (§§ 578 ff. BGB) oder WEG-Sache?
-2. **Mandantenrolle**: Vermieter, Mieter, WEG-Eigentuemer, Verwalter, Hausverwaltung?
+2. **Mandantenrolle**: Vermieter, Mieter, WEG-Eigentümer, Verwalter, Hausverwaltung?
 3. **Akute Fristen**: WEG-Anfechtungsklage 1 Monat, Kuendigung Frist, Schonfrist Zahlungsverzug?
 4. **Streitgegenstand**: Kuendigung, Mieterhoehung, Mietminderung, Betriebskosten, Schoenheitsreparaturen, WEG-Beschluss?
 
 ## Weiterfuehrende Leitsaetze BGH (Erweiterung)
 
-Verifizierte Aktenzeichen und Quellen-URLs sind im Abschnitt "Maßgebliche Rechtsprechung" enthalten. Volltexte ueber https://www.bundesgerichtshof.de (eigene Datenbank), https://dejure.org und https://openjur.de pruefen. Kommentare/Aufsaetze (Beck, juris) nur ueber lizenzierten Live-Zugriff zitieren.
+Verifizierte Aktenzeichen und Quellen-URLs sind im Abschnitt "Maßgebliche Rechtsprechung" enthalten. Volltexte über https://www.bundesgerichtshof.de (eigene Datenbank), https://dejure.org und https://openjur.de prüfen. Kommentare/Aufsaetze (Beck, juris) nur über lizenzierten Live-Zugriff zitieren.
 
 ## Übergabe
 
@@ -252,9 +252,9 @@ Verifizierte Aktenzeichen und Quellen-URLs sind im Abschnitt "Maßgebliche Recht
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie).
 
 <!-- AUDIT 29.05.2026
-Faktualitaets-Update: verifizierte BGH-Rspr. 2025/Q1-Q2 2026 (VIII. und V. Zivilsenat) ueber bundesgerichtshof.de
+Faktualitaets-Update: verifizierte BGH-Rspr. 2025/Q1-Q2 2026 (VIII. und V. Zivilsenat) über bundesgerichtshof.de
 und dejure.org eingepflegt. Mietpreisbremse-Verlaengerung BGBl. 2025 I Nr. 163 (in Kraft 23.07.2025) ergaenzt.
-GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht aufgenommen (nicht ueber offene Datenbanken zugaenglich).
+GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht aufgenommen (nicht über offene Datenbanken zugaenglich).
 -->
 
 ---
@@ -290,7 +290,7 @@ _Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Rec
 
 - Neue Anfrage aus dem Bereich Wohnraum-, Gewerberaum- und WEG-Recht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klaeren, Konflikt- und GwG-Pruefung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
@@ -298,15 +298,15 @@ _Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Rec
 
 Standard-Fragenraster für Wohnraum-, Gewerberaum- und WEG-Recht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Mietmangel, Eigenbedarf, Betriebskosten, WEG-Beschluss, Modernisierung
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Raeumungsklage, Mietminderungsklage, WEG-Anfechtungsklage). Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -315,7 +315,7 @@ Standard-Fragenraster für Wohnraum-, Gewerberaum- und WEG-Recht:
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -323,14 +323,14 @@ Standard-Streitwerte im Bereich Wohnraum-, Gewerberaum- und WEG-Recht:
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -353,9 +353,9 @@ Drei Weichen am Ende des Erstgespraechs:
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar -> später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 
@@ -391,7 +391,7 @@ Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fac
 
 ### Konstellation C: Interessenkonflikt-Naehe
 
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung:
+Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung:
 
 1. § 43a Abs. 4 BRAO und § 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
 2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
@@ -408,9 +408,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach § 3a RVG.
 - Erfolgshonorar nur in den engen Grenzen § 4a RVG.
-- Vorschuss in Hoehe der voraussichtlichen 1. Instanz.
+- Vorschuss in Höhe der voraussichtlichen 1. Instanz.
 - Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege moeglich sind.
+- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege möglich sind.
 
 ## Mandatsbogen-Muster (Mindestinhalt)
 
@@ -442,9 +442,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Aktuelle Rechtsprechung BGH Mietrecht — Triage-Relevante Leitsaetze (Stand 05/2026)
 
-Verifizierte Eckpunkte (Volltext jeweils ueber bundesgerichtshof.de / dejure.org pruefen):
+Verifizierte Eckpunkte (Volltext jeweils über bundesgerichtshof.de / dejure.org prüfen):
 
-- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf bei Umbau-/Verkaufsabsicht zulaessig (Wohnraummiete)
+- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf bei Umbau-/Verkaufsabsicht zulässig (Wohnraummiete)
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: Haerteklausel § 574 BGB, vollstaendige Beweiserhebung bei Krankheit/Alter
 - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25: Mietpreisbremse §§ 556d ff. BGB nur bei Mietbeginn, nicht bei spaeterer Mietsenkung
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: Gewinnbringende Untervermietung kein berechtigtes Interesse (§ 553 BGB)
@@ -457,7 +457,7 @@ Triage: bei akutem Schriftsatzbedarf konkrete Aktenzeichen vor Zitierung live ve
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ---
 
@@ -605,7 +605,7 @@ _Dokumentenintake für Fachanwalt Miet- und Wohnungseigentumsrecht: sortiert Mie
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Miet Wohnungseigentumsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Miet Wohnungseigentumsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 

@@ -9,18 +9,18 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `aktenaufbereiter-st
 1. **einstieg-routing** — Einstieg, Triage und Routing für Strafrechtliche Aktenaufbereitung: ordnet Rolle (Mandant/Beschuldigter, Staatsanwaltsch…
 2. **aktenaufbereiter-erstpruefung-und-mandatsziel** — Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel.
 3. **aktenaufbereiter-strafrecht** — Strafverteidiger erhaelt Strafakte nach § 147 StPO Akteneinsicht und will diese strukturiert aufbereiten. Wirtschaftsstr…
-4. **akteneinsicht-uebersicht-aktenvorblatt** — Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzah…
-5. **aktenvorblatt-erstellen** — Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, …
-6. **anklageschrift-zerlegen** — Anklageschrift in arbeitsfaehige Bausteine zerlegen: Tatvorwurf je Anklagepunkt, vorgeworfene Norm, wesentliche Tatsache…
-7. **aussageanalyse-aussagepsychologie** — Zeugenaussage mit aussagepsychologischen Realkennzeichen analysieren: logische Konsistenz, quantitative Detailfuelle, De…
-8. **beweismittel-katalog-beweisverwertungsverbote** — Beweismittel-Katalog für die Verteidigung: Urkunden, Augenschein, Zeugen, Sachverstaendige, Beschuldigtenaussage, Spuren…
-9. **beziehungsmatrix-personen-taten** — Beziehungen zwischen Personen und Tatkomplexen sichtbar machen: Wer hat wem etwas getan, wer war wann wo, wer sagt was z…
-10. **chronologie-strafverfahren** — Chronologie aller Verfahrensschritte: Tatzeitpunkt, Anzeige, Vernehmungen, Durchsuchungen, Festnahme, U-Haft-Befehle, An…
-11. **fristenliste-strafverfahren-aktenlektuere** — Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie §…
-12. **opferzeugen-besondere-faelle** — Opferzeugen bei Sexualdelikten, Kindern, Schutzschriftsachen behandeln: Nebenklage § 395 StPO, Verletztenrechte §§ 406d …
-13. **personenverzeichnis-aufbau** — Personenverzeichnis für eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachv…
-14. **revision-rechtsfehler-aktenaufbereiter** — Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typi…
-15. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Aktenaufbereiter Strafrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, R…
+4. **aktenvorblatt-erstellen** — Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, …
+5. **anklageschrift-zerlegen** — Anklageschrift in arbeitsfaehige Bausteine zerlegen: Tatvorwurf je Anklagepunkt, vorgeworfene Norm, wesentliche Tatsache…
+6. **aussageanalyse-aussagepsychologie** — Zeugenaussage mit aussagepsychologischen Realkennzeichen analysieren: logische Konsistenz, quantitative Detailfuelle, De…
+7. **beweismittel-katalog-beweisverwertungsverbote** — Beweismittel-Katalog für die Verteidigung: Urkunden, Augenschein, Zeugen, Sachverstaendige, Beschuldigtenaussage, Spuren…
+8. **beziehungsmatrix-personen-taten** — Beziehungen zwischen Personen und Tatkomplexen sichtbar machen: Wer hat wem etwas getan, wer war wann wo, wer sagt was z…
+9. **chronologie-strafverfahren** — Chronologie aller Verfahrensschritte: Tatzeitpunkt, Anzeige, Vernehmungen, Durchsuchungen, Festnahme, U-Haft-Befehle, An…
+10. **opferzeugen-besondere-faelle** — Opferzeugen bei Sexualdelikten, Kindern, Schutzschriftsachen behandeln: Nebenklage § 395 StPO, Verletztenrechte §§ 406d …
+11. **personenverzeichnis-aufbau** — Personenverzeichnis für eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachv…
+12. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Aktenaufbereiter Strafrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, R…
+13. **tatkomplexe-uebersicht** — Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Ta…
+14. **akteneinsicht-uebersicht-aktenvorblatt** — Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzah…
+15. **fristenliste-strafverfahren-aktenlektuere** — Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie §…
 
 ---
 
@@ -38,14 +38,14 @@ Dieser Einstieg routet **Aktenaufbereiter Strafrecht** vom ersten Sachverhalt zu
 
 - `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
-- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Uebersicht Aktenvorblatt
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Übersicht Aktenvorblatt
 - `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
 - `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
 - `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
 - `anklageschrift-zerlegen` — Anklageschrift Zerlegen
 - `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
 - `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
-- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Pruefen
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Prüfen
 - `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
 - `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
 - `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte
@@ -76,7 +76,7 @@ _Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Aktenaufbereiter Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Aktenaufbereiter Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Aktenaufbereiter Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Aktenaufbereiter Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -364,8 +364,8 @@ Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturie
 
 ## Rechtsprechung zur Aktenaufbereitung und Verwertungsverboten (Stand Mai 2026)
 
-- BVerfG 23.09.2025 — 2 BvR 625/25: Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation; Akten muessen die Auswertungs- und Authentifizierungskette nachvollziehbar machen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
-- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Beim Cannabis-Komplex Mengenangaben und Auswertungs-Protokolle in der Akte gezielt auf sanktionsfreie Eigenkonsummengen pruefen; daraus folgen Beweisverwertungs- und Tatverdachtsfragen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- BVerfG 23.09.2025 — 2 BvR 625/25: Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation; Akten müssen die Auswertungs- und Authentifizierungskette nachvollziehbar machen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Beim Cannabis-Komplex Mengenangaben und Auswertungs-Protokolle in der Akte gezielt auf sanktionsfreie Eigenkonsummengen prüfen; daraus folgen Beweisverwertungs- und Tatverdachtsfragen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Beweisverwertungsverbote nach §§ 136a, 100a–100e, 105 StPO: ständige Maßstabsentscheidungen vor Verwendung in dejure.org / openjur.de live verifizieren.
 
 ## Normen Aktenaufbereitung
@@ -376,81 +376,6 @@ Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturie
 - § 105 StPO — richterlicher Vorbehalt bei Durchsuchung; fehlende Anordnung fuehrt zum Verwertungsverbot
 - § 100a-100e StPO — TKU: Anordnungsvoraussetzungen, Katalogstraftaten, Verwendungsbeschrankung
 - § 108 StPO — Zufallsfunde; eingeschraenkte Verwertung
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 46b StGB
-- § 203 StGB
-- § 46 StGB
-- § 73a StGB
-- § 73c StGB
-- § 73e StGB
-- § 46a StGB
-- § 49 StGB
-- § 47 StGB
-- Art. 6 EMRK
-- § 27 StGB
-- § 244a StGB
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `akteneinsicht-uebersicht-aktenvorblatt`
-
-_Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten. Fuehrt Pruef-Checkliste und Nachforderungsschreiben an die Staatsanwaltsc..._
-
-# Akteneinsicht-Uebersicht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Akteneinsicht-Uebersicht
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ## Normen und Rechtsprechung
 
@@ -500,26 +425,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -552,26 +477,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -604,26 +529,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -656,26 +581,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -708,26 +633,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -760,82 +685,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `fristenliste-strafverfahren-aktenlektuere`
-
-_Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Pruefung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsopti..._
-
-# Fristenliste Strafverfahren
-
-## Arbeitsbereich
-
-Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Pruefung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsoptionen pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Fristenliste Strafverfahren
-- **Normen-/Quellenanker:** StPO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -872,26 +741,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -924,82 +793,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `revision-rechtsfehler-aktenaufbereiter`
-
-_Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit..._
-
-# Revision: Rechtsfehler-Katalog
-
-## Arbeitsbereich
-
-Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit Belegstellen in Urteil und Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Revision: Rechtsfehler-Katalog
-- **Normen-/Quellenanker:** StPO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -1132,6 +945,189 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 ---
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
+
+---
+
+## Skill: `tatkomplexe-uebersicht`
+
+_Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Tatort, Tathandlung, beteiligten Personen, Beweismitteln, Verfahrensstand. Fuer eine Anklageschrift werden die Anklagepunkte 1 / 2 / 3 ff. in Komplexe uebertragen. Zeigt Tatzeit-U..._
+
+# Tatkomplexe-Übersicht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
+- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Tatkomplexe-Übersicht
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `akteneinsicht-uebersicht-aktenvorblatt`
+
+_Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten. Fuehrt Prüf-Checkliste und Nachforderungsschreiben an die Staatsanwaltsc..._
+
+# Akteneinsicht-Übersicht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
+- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Akteneinsicht-Übersicht
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46b StGB
+- § 203 StGB
+- § 46 StGB
+- § 73a StGB
+- § 73c StGB
+- § 73e StGB
+- § 46a StGB
+- § 49 StGB
+- § 47 StGB
+- Art. 6 EMRK
+- § 27 StGB
+- § 244a StGB
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+---
+
+## Skill: `fristenliste-strafverfahren-aktenlektuere`
+
+_Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Prüfung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsopti..._
+
+# Fristenliste Strafverfahren
+
+## Arbeitsbereich
+
+Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Prüfung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsoptionen prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
+- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Fristenliste Strafverfahren
+- **Normen-/Quellenanker:** StPO.
+
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 

@@ -223,7 +223,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`word-legal-ai-plugin-and-skill-for-german-lawyers.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/word-legal-ai-plugin-and-skill-for-german-lawyers.md) (120 KB)
+- **Direkt-Download**: [`word-legal-ai-plugin-and-skill-for-german-lawyers.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/word-legal-ai-plugin-and-skill-for-german-lawyers.md) (103 KB)
 - Im Repo: [`testakten/megaprompts/word-legal-ai-plugin-and-skill-for-german-lawyers.md`](../testakten/megaprompts/word-legal-ai-plugin-and-skill-for-german-lawyers.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
