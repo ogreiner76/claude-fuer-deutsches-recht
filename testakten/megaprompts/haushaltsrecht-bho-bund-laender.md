@@ -25,7 +25,7 @@ _Haushaltsrecht BHO Bund und Länder: Kaltstart, Aktenlandkarte, Rollenklärung,
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Haushaltsrecht Bho Bund Laender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Haushaltsrecht Bho Bund Laender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -143,7 +143,7 @@ _Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unternehmen praktisc
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
@@ -203,7 +203,7 @@ _Haushaltsrecht BHO Bund und Länder: BHO § 1 Feststellung praktisch anwenden. 
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
@@ -263,7 +263,7 @@ _Haushaltsrecht BHO Bund und Länder: BHO § 10 Unterrichtung praktisch anwenden
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
@@ -323,7 +323,7 @@ _Haushaltsrecht BHO Bund und Länder: BHO § 11 Vollständigkeit praktisch anwen
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
@@ -383,7 +383,7 @@ _Haushaltsrecht BHO Bund und Länder: BHO § 114 Entlastung praktisch anwenden. 
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
@@ -443,7 +443,7 @@ _Haushaltsrecht BHO Bund und Länder: BHO § 12 Geltungsdauer praktisch anwenden
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
@@ -503,7 +503,7 @@ _Haushaltsrecht BHO Bund und Länder: BHO § 13 Gesamtplan Einzelplan. BHO § 13
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 

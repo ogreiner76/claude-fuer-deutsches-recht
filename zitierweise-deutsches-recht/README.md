@@ -155,7 +155,7 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`zitierweise-deutsches-recht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/zitierweise-deutsches-recht.md) (51 KB)
+- **Direkt-Download**: [`zitierweise-deutsches-recht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/zitierweise-deutsches-recht.md) (50 KB)
 - Im Repo: [`testakten/megaprompts/zitierweise-deutsches-recht.md`](../testakten/megaprompts/zitierweise-deutsches-recht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

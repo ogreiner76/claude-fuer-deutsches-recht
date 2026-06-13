@@ -7,20 +7,20 @@ Dieser Megaprompt enthaelt top-15 von 56 Skills des Plugins `insiderrecht-compli
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestand…
-2. **ins-055-incident-drill** — Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und Ba…
-3. **sanierung-insolvenzreife** — Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Z…
-4. **directors-closed** — Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwe…
-5. **employee-schulung** — Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, autom…
-6. **unlawful-disclosure** — Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationswei…
-7. **cyberangriff** — Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafve…
+2. **ins-055-incident-drill** — Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaF…
+3. **sanierung-insolvenzreife** — Prüft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Ze…
+4. **directors-closed** — Prüft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwel…
+5. **employee-schulung** — Prüft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automa…
+6. **unlawful-disclosure** — Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweit…
+7. **cyberangriff** — Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafver…
 8. **krisenfall-profit-warning** — Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhal…
 9. **datenraum-kapitalerh** — Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontroll…
 10. **analystencall** — Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln,…
-11. **aufsichtsratssonderpr** — Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfl…
-12. **produktzulassung-whistleblower** — Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritt…
-13. **ki-archivierung** — Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinfor…
-14. **spin-short** — Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Toch…
-15. **stimmrechtsmitteilung-social** — Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und In…
+11. **aufsichtsratssonderpr** — Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsflu…
+12. **produktzulassung-whistleblower** — Prüft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte…
+13. **spin-short** — Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Toch…
+14. **stimmrechtsmitteilung-social** — Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und In…
+15. **ki-archivierung** — Prüft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinform…
 
 ---
 
@@ -32,7 +32,7 @@ _Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Insiderrecht Compliance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Insiderrecht Compliance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -62,9 +62,9 @@ Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Ve
 
 ## Skill: `ins-055-incident-drill`
 
-_Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufs..._
+_Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufs..._
 
-# Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck.
+# Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck.
 
 
 ## Arbeitsweg
@@ -75,7 +75,7 @@ _Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck.
+**Fokus:** Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck.
 
 ### Incident Drill – Insiderrecht-Krisenübung (Tabletop Exercise)
 
@@ -158,7 +158,7 @@ Protokolliere für jede Drill-Entscheidung:
 
 ## Skill: `sanierung-insolvenzreife`
 
-_Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Glaeubiger-Informationsfluss im Insiderrecht Compliance._
+_Prüft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Gläubiger-Informationsfluss im Insiderrecht Compliance._
 
 # Sanierung und StaRUG – Insiderrecht bei Restrukturierung
 
@@ -232,7 +232,7 @@ ersten Restrukturierungsüberlegung bis zum abgeschlossenen Sanierungsplan.
 
 ## Skill: `directors-closed`
 
-_Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance._
+_Prüft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance._
 
 # Directors' Dealings nach Art. 19 MAR
 
@@ -312,7 +312,7 @@ Empfehlen (nicht gesetzlich zwingend, aber Best Practice):
 
 ## Skill: `employee-schulung`
 
-_Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten im Insiderrecht Compliance._
+_Prüft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten im Insiderrecht Compliance._
 
 # Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken
 
@@ -388,7 +388,7 @@ c) Keine diskretionären Handlungen nach Beginn der Insiderphasee
 
 ## Skill: `unlawful-disclosure`
 
-_Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab im Insiderrecht Compliance._
+_Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab im Insiderrecht Compliance._
 
 # Unzulässige Offenlegung nach Art. 10 MAR
 
@@ -468,7 +468,7 @@ Für jeden Weitergabevorgang außerhalb der Ad-hoc-Veröffentlichung:
 
 ## Skill: `cyberangriff`
 
-_Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik im Insiderrecht Compliance._
+_Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik im Insiderrecht Compliance._
 
 # Cyberangriff – Insiderrecht und Ad-hoc-Pflicht
 
@@ -692,7 +692,7 @@ Nach Abschluss des Prozesses (Signing, Closing, Abbruch):
 
 ## Skill: `analystencall`
 
-_Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll im Insiderrecht Compliance._
+_Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Prüfung und Post-Call-Protokoll im Insiderrecht Compliance._
 
 # Analysten-Calls und Investorenkommunikation – Selective Disclosure
 
@@ -789,7 +789,7 @@ Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
 
 ## Skill: `aufsichtsratssonderpr`
 
-_Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance._
+_Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance._
 
 # Aufsichtsrats-Sonderprüfung – Insiderrecht
 
@@ -861,7 +861,7 @@ Insiderinformation werden, und steuert die Ad-hoc-Entscheidung.
 
 ## Skill: `produktzulassung-whistleblower`
 
-_Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc im Insiderrecht Compliance._
+_Prüft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc im Insiderrecht Compliance._
 
 # Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen
 
@@ -929,79 +929,6 @@ auch wenn finale FDA/EMA-Entscheidung noch aussteht.
  Bekanntmachung durch Behörde)
 - Bei negativer Entscheidung: Ebenso unverzüglich
 - Koordination mit IR und Presse für simultane Kommunikation
-
----
-
-## Skill: `ki-archivierung`
-
-_Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen im Insiderrecht Compliance._
-
-# KI-Prognosemodelle und Insiderrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Rechtlicher Rahmen
-
-Der Einsatz von KI-Modellen (maschinelles Lernen, LLMs, Forecasting-Modelle) zur Prognose
-von Unternehmensergebnissen, Marktentwicklungen oder zur Entdeckung von Insiderinformationen
-ist insiderrechtlich nicht explizit geregelt. MAR Art. 7 gilt unabhängig davon, wie die
-Information gewonnen wurde. Wenn ein KI-Modell auf Basis nicht-öffentlicher Eingangsdaten
-eine kursrelevante Prognose generiert, kann der Modell-Output eine Insiderinformation sein.
-
-Rechtsgrundlagen:
-- Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- EuGH C-628/13 (Lafonta): https://curia.europa.eu/juris/document/document.jsf?docid=162388
-- KI-Verordnung (EU) 2024/1689 (AI Act): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689
-- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-
-## Ziel dieses Skills
-
-Kläre, unter welchen Umständen KI-generierte Prognosen oder Analysen
-Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolliert werden muss.
-
-## Arbeitsprogramm
-
-### Schritt 1 – KI-Modell-Input-Analyse
-
-- Welche Daten werden in das Modell eingespeist?
- - Ausschließlich öffentliche Daten: Kein Insiderrecht-Problem beim Output
- - Nicht-öffentliche Unternehmensdaten (interne Finanzdaten, Vertriebsdaten, Produktionsdaten):
- Modell-Output kann Insiderinformation sein
-
-### Schritt 2 – Modell-Output als Insiderinformation
-
-- Generiert das Modell eine Prognose, die erheblich von der veröffentlichten Guidance oder
- dem Analystenkonsensus abweicht?
-- Ist der Modell-Output hinreichend präzise? (nicht nur Wahrscheinlichkeiten, sondern
- konkrete Zahlenwerte)
-- Würde ein verständiger Anleger diesen Output bei seiner Investitionsentscheidung nutzen?
- Wenn ja → Modell-Output ist Insiderinformation
-
-### Schritt 3 – Zugangskontrollen
-
-- Wer hat Zugang zu dem KI-Modell und seinen Outputs?
-- Alle Zugangspersonen sind potenzielle Insider → Insiderliste, Handelsverbot
-- Chinese Walls: Handelsabteilung darf keinen Zugang zu internen Forecasting-Modellen haben
-
-### Schritt 4 – Modell-Governance und Dokumentation
-
-- AI-Act-Anforderungen für Hochrisiko-KI: Falls das Modell für Investitions- oder
- Finanzentscheidungen eingesetzt wird, können AI Act Art. 9 ff. gelten
-- Modell-Dokumentation: Input-Daten, Algorithmus-Beschreibung, Output-Interpretation
-- Audit-Trail: Wer hat wann welche Prognosen aus dem Modell abgerufen?
-
-### Schritt 5 – Compliance-Empfehlungen
-
-- Trennung: Internes Forecasting-System (Insiderinformation) vs. extern veröffentlichte Prognose
-- Ad-hoc-Pflicht: Wenn Modell-Output wesentliche Abweichung von Guidance signalisiert →
- Prüfung ob Profit-Warning-Ad-hoc erforderlich
-- Schulung der Modell-Nutzer auf Insiderrecht
 
 ---
 
@@ -1149,6 +1076,79 @@ sicher, dass Paketerwerbe und Meldungen rechtskonform ablaufen.
 - Meldung an BaFin und Emittent innerhalb von 4 Handelstagen (§ 40 WpHG)
 - Veröffentlichung durch Emittent nach Eingang der Meldung
 - Bei Fehler oder Nachmeldung: Korrekturmeldung mit Erklärung
+
+---
+
+## Skill: `ki-archivierung`
+
+_Prüft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen im Insiderrecht Compliance._
+
+# KI-Prognosemodelle und Insiderrecht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtlicher Rahmen
+
+Der Einsatz von KI-Modellen (maschinelles Lernen, LLMs, Forecasting-Modelle) zur Prognose
+von Unternehmensergebnissen, Marktentwicklungen oder zur Entdeckung von Insiderinformationen
+ist insiderrechtlich nicht explizit geregelt. MAR Art. 7 gilt unabhängig davon, wie die
+Information gewonnen wurde. Wenn ein KI-Modell auf Basis nicht-öffentlicher Eingangsdaten
+eine kursrelevante Prognose generiert, kann der Modell-Output eine Insiderinformation sein.
+
+Rechtsgrundlagen:
+- Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- EuGH C-628/13 (Lafonta): https://curia.europa.eu/juris/document/document.jsf?docid=162388
+- KI-Verordnung (EU) 2024/1689 (AI Act): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Kläre, unter welchen Umständen KI-generierte Prognosen oder Analysen
+Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolliert werden muss.
+
+## Arbeitsprogramm
+
+### Schritt 1 – KI-Modell-Input-Analyse
+
+- Welche Daten werden in das Modell eingespeist?
+ - Ausschließlich öffentliche Daten: Kein Insiderrecht-Problem beim Output
+ - Nicht-öffentliche Unternehmensdaten (interne Finanzdaten, Vertriebsdaten, Produktionsdaten):
+ Modell-Output kann Insiderinformation sein
+
+### Schritt 2 – Modell-Output als Insiderinformation
+
+- Generiert das Modell eine Prognose, die erheblich von der veröffentlichten Guidance oder
+ dem Analystenkonsensus abweicht?
+- Ist der Modell-Output hinreichend präzise? (nicht nur Wahrscheinlichkeiten, sondern
+ konkrete Zahlenwerte)
+- Würde ein verständiger Anleger diesen Output bei seiner Investitionsentscheidung nutzen?
+ Wenn ja → Modell-Output ist Insiderinformation
+
+### Schritt 3 – Zugangskontrollen
+
+- Wer hat Zugang zu dem KI-Modell und seinen Outputs?
+- Alle Zugangspersonen sind potenzielle Insider → Insiderliste, Handelsverbot
+- Chinese Walls: Handelsabteilung darf keinen Zugang zu internen Forecasting-Modellen haben
+
+### Schritt 4 – Modell-Governance und Dokumentation
+
+- AI-Act-Anforderungen für Hochrisiko-KI: Falls das Modell für Investitions- oder
+ Finanzentscheidungen eingesetzt wird, können AI Act Art. 9 ff. gelten
+- Modell-Dokumentation: Input-Daten, Algorithmus-Beschreibung, Output-Interpretation
+- Audit-Trail: Wer hat wann welche Prognosen aus dem Modell abgerufen?
+
+### Schritt 5 – Compliance-Empfehlungen
+
+- Trennung: Internes Forecasting-System (Insiderinformation) vs. extern veröffentlichte Prognose
+- Ad-hoc-Pflicht: Wenn Modell-Output wesentliche Abweichung von Guidance signalisiert →
+ Prüfung ob Profit-Warning-Ad-hoc erforderlich
+- Schulung der Modell-Nutzer auf Insiderrecht
 
 ---
 

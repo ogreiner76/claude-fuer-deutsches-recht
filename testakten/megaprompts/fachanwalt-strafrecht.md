@@ -92,7 +92,7 @@ _Strukturierte Eingangs-Abfrage für Strafmandate: Klaert Verfahrensstadium (Erm
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Plaedoyer Vorbereitung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Plaedoyer Vorbereitung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -324,7 +324,7 @@ _Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidi
 
 Plugin für Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
 
-## Zentrale Strafrecht-Normen im Ueberblick
+## Zentrale Strafrecht-Normen im Überblick
 
 - §§ 1-2 StGB — Gesetzlichkeitsprinzip; keine Strafe ohne Gesetz (nullum crimen)
 - §§ 13-16 StGB — Begehungs-/Unterlassungsdelikt, Vorsatz, Irrtum
@@ -381,7 +381,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sachliche Zuständigkeit GVG:**
  - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
  - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
- - **Grosse Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
+ - **Große Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
  - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
  - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
 - **Oertliche Zuständigkeit StPO:**
@@ -389,7 +389,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **§ 8 StPO:** Wohnsitz Beschuldigter.
  - **§ 9 StPO:** Ergreifungsort.
  - **§ 13 StPO:** Verbundene Verfahren.
-- **Fristen-Uebersicht (StPO):**
+- **Fristen-Übersicht (StPO):**
  - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
  - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
  - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
@@ -403,7 +403,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
 - **Rechtsweg:**
  - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
- - **Sprungrevision § 335 StPO** moeglich (Sprung Berufung).
+ - **Sprungrevision § 335 StPO** möglich (Sprung Berufung).
  - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
 - **EMRK Art. 6:** angemessene Verfahrensdauer als Korrektiv (Strafmilderung BGH-Linie).
 
@@ -432,7 +432,7 @@ _Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter o
 
 - Neue Anfrage aus dem Bereich Allgemeines und Wirtschaftsstrafrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; oft mit Vorladung, Strafbefehl, Durchsuchungsbeschluss, Anklageschrift, U-Haft-Anordnung, Anhörung als Zeuge oder Anklageschrift mit Nebenklage-Option.
-- Vor jeder weiteren Bearbeitung: erst Annahme klaeren, Rolle bestimmen (Beschuldigte/r, Verletzte/r oder Nebenklage, Zeuge/in mit Beistand), Konflikt- und GwG-Pruefung, Vollmacht, Gebührenvereinbarung, Fristen.
+- Vor jeder weiteren Bearbeitung: erst Annahme klären, Rolle bestimmen (Beschuldigte/r, Verletzte/r oder Nebenklage, Zeuge/in mit Beistand), Konflikt- und GwG-Prüfung, Vollmacht, Gebührenvereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
@@ -442,8 +442,8 @@ Erste Frage: Wofür braucht Mandantschaft Sie?
 
 - **Beschuldigte oder Angeklagte** - Verteidigung im Strafverfahren.
 - **Verletzte oder Anzeigeerstattende** - Beratung, Strafanzeige, Akteneinsicht der Verletzten, ggf. Nebenklage-Anschluss.
-- **Zeuginnen oder Zeugen** - Zeugenbeistand gemaess § 68b StPO, Auskunftsverweigerungsrecht gemaess § 55 StPO.
-- **Insolvenzverwalter/Geschaeftsfuehrung** mit StA-Berlin-Beruehrung - paralleles Insolvenz-/Strafverfahren.
+- **Zeuginnen oder Zeugen** - Zeugenbeistand gemäß § 68b StPO, Auskunftsverweigerungsrecht gemäß § 55 StPO.
+- **Insolvenzverwalter/Geschäftsführung** mit StA-Berlin-Beruehrung - paralleles Insolvenz-/Strafverfahren.
 
 Standard-Fragenraster:
 
@@ -453,21 +453,21 @@ Standard-Fragenraster:
 - Bisherige Korrespondenz (Vorladung, Anhörungsbogen, Durchsuchung, Bescheide).
 - **Fristenscreening sofort:** Einspruch gegen Strafbefehl 2 Wochen (§ 410 Abs. 1 StPO), Revisionseinlegung 1 Woche (§ 341 StPO), Revisionsbegruendung 1 Monat (§ 345 StPO), Klageerzwingung 1 Monat (§ 172 Abs. 2 StPO), Antrag auf gerichtliche Entscheidung (§ 23 EGGVG) 1 Monat, Beschwerdefristen § 311 StPO.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Mit-Beschuldigte, Verletzte, frueheres Mandat?
+- Konflikt-Check über Mandantsystem: Mit-Beschuldigte, Verletzte, frueheres Mandat?
 - Bei Mehrfach-Beschuldigten zwingend pro Person eigene Verteidigung (§ 146 StPO).
 - GwG-Identifizierung: amtlicher Lichtbildausweis, bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
-- Risikobewertung (niedrig/mittel/hoch) abhaengig von Auslandsbezug, Vermoegensherkunft, Tatvorwurf (insbesondere § 261 StGB Geldwaesche, § 370 AO Steuerhinterziehung).
+- Risikobewertung (niedrig/mittel/hoch) abhaengig von Auslandsbezug, Vermögensherkunft, Tatvorwurf (insbesondere § 261 StGB Geldwaesche, § 370 AO Steuerhinterziehung).
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG, BRAK-Identifizierungsleitfaden).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. Vollmacht und Akteneinsicht
 
 - Strafprozessvollmacht (§§ 137 ff. StPO, BORA, RVG).
-- Akteneinsichtsantrag gemaess § 147 StPO (Verteidigung) oder § 406e StPO (Verletzten-/Nebenklagevertretung) oder ohne Sondervorschrift für Zeugenbeistand.
-- Bei Pflichtverteidigerbestellung Antrag gemaess § 141 StPO frueh stellen (Belehrung gemaess § 136 Abs. 1 S. 3 StPO).
-- Bei Nebenklage: Anschlusserklaerung gemaess § 396 StPO und Pruefung der Nebenklage-Befugnis gemaess § 395 StPO.
+- Akteneinsichtsantrag gemäß § 147 StPO (Verteidigung) oder § 406e StPO (Verletzten-/Nebenklagevertretung) oder ohne Sondervorschrift für Zeugenbeistand.
+- Bei Pflichtverteidigerbestellung Antrag gemäß § 141 StPO frueh stellen (Belehrung gemäß § 136 Abs. 1 S. 3 StPO).
+- Bei Nebenklage: Anschlusserklaerung gemäß § 396 StPO und Prüfung der Nebenklage-Befugnis gemäß § 395 StPO.
 
 ### 4. Gebührenvereinbarung im Strafverfahren
 
@@ -475,11 +475,11 @@ Strafrechtsspezifische Gebührentatbestaende statt zivilrechtlicher Streitwert-L
 
 - **RVG-Strafsachen-Tatbestaende** (VV-RVG Teil 4 Abschnitt 1): Grundgebuehr Nr. 4100, Verfahrensgebuehr Ermittlungsverfahren Nr. 4104, Verfahrensgebuehr Gerichtsverfahren erster Instanz Nr. 4106 oder 4112 bzw. 4118 je nach Gericht, Terminsgebuehr Nr. 4108 bzw. Nr. 4114 bzw. Nr. 4120, Hauptverhandlungstag-Zuschlag bei Strafkammer.
 - **Bei Bussgeldverfahren:** VV-RVG Teil 5 (Nrn. 5100 ff.).
-- **Pflichtverteidigung:** Festgebuehren gemaess RVG-Tabelle Teil 4 Abschnitt 1 mit besonderem Gebührentatbestand für den bestellten Verteidiger.
-- **Vereinbarungshonorar / Stundenhonorar:** zulaessig nach § 3a RVG mit Schriftform und ausdruecklichem Hinweis; oberhalb der gesetzlichen Gebuehr ueblich bei Wirtschaftsstrafrecht.
-- **Erfolgshonorar:** nur in engen Grenzen gemaess § 4a RVG; im Strafverfahren regelmaessig problematisch (kein Erfolg im klassischen Sinne, Risiko des Wertungs-Widerspruchs).
+- **Pflichtverteidigung:** Festgebuehren gemäß RVG-Tabelle Teil 4 Abschnitt 1 mit besonderem Gebührentatbestand für den bestellten Verteidiger.
+- **Vereinbarungshonorar / Stundenhonorar:** zulässig nach § 3a RVG mit Schriftform und ausdruecklichem Hinweis; oberhalb der gesetzlichen Gebuehr ueblich bei Wirtschaftsstrafrecht.
+- **Erfolgshonorar:** nur in engen Grenzen gemäß § 4a RVG; im Strafverfahren regelmaessig problematisch (kein Erfolg im klassischen Sinne, Risiko des Wertungs-Widerspruchs).
 - **Vorschuss:** Vorschussanforderung nach § 9 RVG, in Strafsachen ueblich pro Instanz oder pro Hauptverhandlungstag.
-- **Bei Nebenklage:** Gebühren VV-RVG Teil 4 Abschnitt 2 (Nrn. 4124 ff.). Streitwert-Aequivalent nur für adhaesionsrechtliche Anspruche relevant.
+- **Bei Nebenklage:** Gebühren VV-RVG Teil 4 Abschnitt 2 (Nrn. 4124 ff.). Streitwert-Äquivalent nur für adhaesionsrechtliche Anspruche relevant.
 - **Bei Adhaesion (§§ 403 ff. StPO):** Gebühren VV-RVG Teil 4 Abschnitt 6 (Nrn. 4143-4147), berechnet nach Gegenstandswert des geltend gemachten Anspruchs.
 
 ### 5. Strategie-Erstskizze
@@ -493,7 +493,7 @@ Drei Weichen am Ende des Erstgespraechs:
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Rolle, Konflikt-Check, GwG-Status, Tatvorwurf, Aktenzeichen.
-2. **Frist-Liste** (Einspruch, Revisionseinlegung, Revisionsbegruendung, Beschwerdefristen, Anschluss-Frist Nebenklage, U-Haft-Pruefungsfristen § 121 StPO).
+2. **Frist-Liste** (Einspruch, Revisionseinlegung, Revisionsbegruendung, Beschwerdefristen, Anschluss-Frist Nebenklage, U-Haft-Prüfungsfristen § 121 StPO).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Bescheide, Schreiben, Anhörungsbogen).
 4. **Naechster-Schritt-Plan:** binnen 24 / 48 / 72 h, Owner, Output (Akteneinsicht stellen, Pflichtverteidigerbeiordnung beantragen, U-Haft-Beschwerde).
 5. **Honorarvereinbarung** unterschrieben oder Hinweis auf RVG-Festgebuehr / Pflichtverteidiger-Beiordnung.
@@ -512,14 +512,14 @@ Drei Weichen am Ende des Erstgespraechs:
 - Frist uebersehen, weil Mandantschaft sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen, insbesondere Strafbefehl mit Zustellungsdatum).
 - Pflichtverteidiger-Antrag erst spaet gestellt - Vergutungsrisiko für Wahlverteidiger bis Beiordnung.
 - Akteneinsicht zu spaet beantragt - Hauptverhandlungsvorbereitung leidet.
-- Honorarvereinbarung muendlich oder ohne § 3a-RVG-Form - Honorar nur in Hoehe der gesetzlichen Gebuehr durchsetzbar.
-- GwG-Pruefung verfehlt - Risiko § 261 StGB beim Honorar-Bezug aus inkriminierter Quelle.
+- Honorarvereinbarung muendlich oder ohne § 3a-RVG-Form - Honorar nur in Höhe der gesetzlichen Gebuehr durchsetzbar.
+- GwG-Prüfung verfehlt - Risiko § 261 StGB beim Honorar-Bezug aus inkriminierter Quelle.
 
 ## Praxis-Checkliste
 
 - [ ] Rolle der Mandantschaft eindeutig festgestellt
 - [ ] Personalien und Aktenzeichen aller Beteiligten erfasst
-- [ ] Konflikt-Check durchgefuehrt (auch Mit-Beschuldigte gemaess § 146 StPO)
+- [ ] Konflikt-Check durchgefuehrt (auch Mit-Beschuldigte gemäß § 146 StPO)
 - [ ] GwG: Identifizierung + Risikobewertung notiert
 - [ ] Strafprozessvollmacht unterschrieben
 - [ ] Akteneinsicht beantragt (§ 147 oder § 406e StPO)
@@ -554,7 +554,7 @@ Mandantschaft sitzt seit Wochen in U-Haft. Pflichtverteidiger noch nicht beantra
 Mandantschaft ist Opfer einer Sexualstraftat oder schweren Koerperverletzung.
 
 1. Akteneinsichtsantrag für Verletztenvertretung (§ 406e StPO).
-2. Pruefung Nebenklagebefugnis (§ 395 StPO).
+2. Prüfung Nebenklagebefugnis (§ 395 StPO).
 3. Antrag auf Beiordnung als Opferanwalt (§ 397a StPO).
 4. Adhaesion (§§ 403 ff. StPO) und psychosoziale Prozessbegleitung (§ 406g StPO) erwaegen.
 5. Cross-Ref: `fachanwalt-strafrecht-nebenklage-opfervertretung`.
@@ -563,25 +563,25 @@ Mandantschaft ist Opfer einer Sexualstraftat oder schweren Koerperverletzung.
 
 Mandantschaft hat Vorladung als Zeuge in einem Verfahren erhalten, ist aber selber Mit-Beschuldigte/r in anderer Sache.
 
-1. Pruefung § 55 StPO (Selbstbelastungsgefahr) und § 52 StPO (Angehoerigenstellung).
-2. Zeugenbeistand gemaess § 68b StPO; Beiordnung gemaess § 68b Abs. 2 StPO bei Bedrohung.
+1. Prüfung § 55 StPO (Selbstbelastungsgefahr) und § 52 StPO (Angehoerigenstellung).
+2. Zeugenbeistand gemäß § 68b StPO; Beiordnung gemäß § 68b Abs. 2 StPO bei Bedrohung.
 3. Vorbereitung der Aussage und Auskunftsverweigerung in der Vernehmung.
 4. Cross-Ref: `fachanwalt-strafrecht-zeugenbeistand`.
 
 ### Konstellation E: Wirtschaftsstrafverfahren mit Insolvenzantrag der StA
 
-Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemaess § 14 InsO gestellt, parallel laeuft Strafverfahren wegen Insolvenzverschleppung (§ 15a InsO) oder Untreue (§ 266 StGB).
+Mandantschaft ist Geschäftsführer/in einer GmbH; StA hat Insolvenzantrag gemäß § 14 InsO gestellt, parallel laeuft Strafverfahren wegen Insolvenzverschleppung (§ 15a InsO) oder Untreue (§ 266 StGB).
 
 1. Doppelgleisige Strategie: Strafverteidigung + Insolvenzverteidigung.
-2. Pruefung Anhörungsantraege im InsO-Verfahren.
-3. Vermoegensabschoepfung gemaess §§ 73 ff. StGB und Beschlagnahme gemaess § 111b StPO im Auge behalten.
+2. Prüfung Anhörungsantraege im InsO-Verfahren.
+3. Vermögensabschoepfung gemäß §§ 73 ff. StGB und Beschlagnahme gemäß § 111b StPO im Auge behalten.
 4. Cross-Ref: `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft`.
 
 ## Mandanten-Erwartungsmanagement
 
 - Realistische Strafmass- und Bewaehrungs-Prognose (nicht: "Wir bekommen sicher Freispruch").
 - Verfahrensdauer: Ermittlungsverfahren Wochen bis Monate, Hauptverhandlung Termine pro Instanz, Revision mehrere Monate.
-- Verstaendigungschance gemaess § 257c StPO und Einstellung gemaess § 153a StPO als Option offen halten.
+- Verstaendigungschance gemäß § 257c StPO und Einstellung gemäß § 153a StPO als Option offen halten.
 - Schriftliche Zusammenfassung des Erstgespraechs binnen 48 h.
 
 ## Mandatsbogen-Muster (Mindestinhalt für Strafsachen)
@@ -601,10 +601,10 @@ Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemae
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) für Verstaendigung gemaess § 257c StPO, Einstellung gemaess § 153a StPO und Adhaesion.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für Verstaendigung gemäß § 257c StPO, Einstellung gemäß § 153a StPO und Adhaesion.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für Verteidigungsschriftsaetze (Einspruch, Revision, Klageerzwingung).
 - `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) für Verletzten- und Nebenklagevertretung.
-- `fachanwalt-strafrecht-zeugenbeistand` (im selben Plugin) für Zeugenbeistand gemaess § 68b StPO.
+- `fachanwalt-strafrecht-zeugenbeistand` (im selben Plugin) für Zeugenbeistand gemäß § 68b StPO.
 - `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) für Adhaesion.
 - `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` (im selben Plugin) für parallelen Insolvenzantrag der StA.
 - `kanzlei-allgemein` für Konflikt-, GwG- und Aktenanlage-Routinen.
@@ -670,13 +670,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Klageerzwingung § 172 StPO:** Verletzter beantragt Erhebung der öffentlichen Klage.
 - **Verfahrensstand-Triage:**
  - **Ermittlungsverfahren:** Akteneinsicht § 147 StPO; Stellungnahme StA; Schweigerecht § 136 StPO.
- - **Zwischenverfahren §§ 199-211 StPO:** Eroeffnungsbeschluss-Pruefung; Einwaende § 201 StPO; Hilfsbeweisantraege.
+ - **Zwischenverfahren §§ 199-211 StPO:** Eroeffnungsbeschluss-Prüfung; Einwaende § 201 StPO; Hilfsbeweisantraege.
  - **Hauptverhandlung:** Beweisantraege § 244 StPO; Verstaendigung § 257c StPO; Schlussvortrag.
  - **Rechtsmittel:** Berufung § 314 StPO (1 Woche); Revision §§ 341, 345 StPO (1 Woche / 1 Monat); Beschwerde § 304 StPO.
  - **Vollstreckungsverfahren:** Strafrest § 57 StGB; Bewaehrungswiderruf § 56f StGB.
 - **Tatvorwurfsklasse:**
- - **Vergehen § 12 II StGB** (Mindeststrafe unter 1 Jahr): Strafbefehl § 407 StPO moeglich.
- - **Verbrechen § 12 I StGB** (Mindeststrafe 1 Jahr): notwendige Verteidigung § 140 I Nr. 2 StPO; Schwurgericht / grosse Strafkammer.
+ - **Vergehen § 12 II StGB** (Mindeststrafe unter 1 Jahr): Strafbefehl § 407 StPO möglich.
+ - **Verbrechen § 12 I StGB** (Mindeststrafe 1 Jahr): notwendige Verteidigung § 140 I Nr. 2 StPO; Schwurgericht / große Strafkammer.
 - **Mandantenziel-Hierarchie:**
  - Schuldspruch vermeiden (Freispruch).
  - Einstellung §§ 153, 153a StPO.
@@ -822,7 +822,7 @@ Weitere Entscheidungen vor Verwendung live in dejure.org/openjur.de mit Gericht,
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -937,7 +937,7 @@ des Strafprozesses sprengt.
 [Unterschrift Verteidigung]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

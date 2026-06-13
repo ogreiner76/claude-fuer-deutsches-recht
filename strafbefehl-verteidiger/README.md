@@ -157,7 +157,7 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`strafbefehl-verteidiger.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/strafbefehl-verteidiger.md) (115 KB)
+- **Direkt-Download**: [`strafbefehl-verteidiger.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/strafbefehl-verteidiger.md) (113 KB)
 - Im Repo: [`testakten/megaprompts/strafbefehl-verteidiger.md`](../testakten/megaprompts/strafbefehl-verteidiger.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

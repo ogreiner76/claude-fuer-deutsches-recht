@@ -37,8 +37,8 @@ Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Frist
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-uwg` — Abmahnung UWG
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
-- `agb-pruefung` — AGB Pruefung
+- `aenderungs-historie-agb-eskalations-marker` — Änderungs Historie AGB Eskalations Marker
+- `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router
 - `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall
@@ -76,7 +76,7 @@ _Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsrecht._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Vertragsrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Vertragsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Vertragsrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Vertragsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,10 +98,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -695,21 +695,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Rechtsanwaelte und Unternehmensjuristen bei der Pruefung, Verhandlung und Verwaltung von Vertraegen nach deutschem Recht. Schwerpunkte sind Lieferanten- und Dienstleistervertraege, AGB-Kontrolle nach §§ 305 ff. BGB, Nichtoffenbarungsvereinbarungen (NDA), SaaS- und Rahmenvertraege sowie das Widerrufsrecht im Fernabsatz.
+Dieses Plugin unterstuetzt Rechtsanwaelte und Unternehmensjuristen bei der Prüfung, Verhandlung und Verwaltung von Vertraegen nach deutschem Recht. Schwerpunkte sind Lieferanten- und Dienstleistervertraege, AGB-Kontrolle nach §§ 305 ff. BGB, Nichtoffenbarungsvereinbarungen (NDA), SaaS- und Rahmenvertraege sowie das Widerrufsrecht im Fernabsatz.
 
 Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standards (Roter Bereich, Gelber Bereich, Gruenes Licht) werden bei jeder Vertragspruefung konsistent angewendet. Ergebnisse werden entweder als juristisches Memo oder als vereinfachte Stakeholder-Zusammenfassung ausgegeben.
 
 ## Wann brauchen Sie diese Skill?
 
-- Die Rechtsabteilung erhaelt einen Lieferantenvertrag der Gegenseite und will ihn gegen das eigene Playbook pruefen.
-- Ein Unternehmen will ein NDA auf kritische Klauseln (Geheimhaltungsumfang, Laufzeit, Rueckgabe) pruefen lassen.
-- Ein SaaS-Anbieter oder -Kaeufer prueft einen Subscription Agreement auf AGB-Konformitaet und automatische Verlaengerungsklauseln.
+- Die Rechtsabteilung erhaelt einen Lieferantenvertrag der Gegenseite und will ihn gegen das eigene Playbook prüfen.
+- Ein Unternehmen will ein NDA auf kritische Klauseln (Geheimhaltungsumfang, Laufzeit, Rueckgabe) prüfen lassen.
+- Ein SaaS-Anbieter oder -Kaeufer prüft einen Subscription Agreement auf AGB-Konformitaet und automatische Verlaengerungsklauseln.
 - Eine UWG-Abmahnung ist eingegangen und muss beantwortet oder selbst verfasst werden.
 - Ein Vertrag laeuft aus und die Kuendigungs- oder Verlaengerungsfrist ist knapp.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **AGB** — Allgemeine Geschaeftsbedingungen; vorformulierte Vertragsbedingungen unterliegen der Inhaltskontrolle nach §§ 307-309 BGB.
+- **AGB** — Allgemeine Geschäftsbedingungen; vorformulierte Vertragsbedingungen unterliegen der Inhaltskontrolle nach §§ 307-309 BGB.
 - **NDA** — Non-Disclosure Agreement (Nichtoffenbarungsvereinbarung); verpflichtet Parteien zur Geheimhaltung vertraulicher Informationen.
 - **MSA** — Master Service Agreement; Rahmenvertrag für wiederkehrende Leistungsbeziehungen, ergaenzt durch spezifische Leistungsbeschreibungen.
 - **Playbook** — Internes Regelwerk der Rechtsabteilung mit Mindestanforderungen und Roten Linien für Vertragsverhandlungen.
@@ -720,19 +720,19 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 ## Rechtsgrundlagen
 
 - §§ 305-310 BGB (AGB-Kontrolle)
-- §§ 311-313 BGB (Schuldverhaeltnisse, culpa in contrahendo, Stoerung der Geschaeftsgrundlage)
+- §§ 311-313 BGB (Schuldverhaeltnisse, culpa in contrahendo, Stoerung der Geschäftsgrundlage)
 - §§ 631 ff. BGB (Werkvertrag), §§ 611 ff. BGB (Dienstvertrag)
 - §§ 312g, 355 BGB (Widerrufsrecht im Fernabsatz)
 - § 13 UWG (Abmahnung im Wettbewerbsrecht)
-- §§ 17-18 GeschGehG (Geschaeftsgeheimnisschutz, relevant für NDA)
+- §§ 17-18 GeschGehG (Geschäftsgeheimnisschutz, relevant für NDA)
 - § 307 BGB (Generalklausel Inhaltskontrolle)
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Vertragstyp, Vertragspartnerrolle (Lieferant, Auftraggeber, Lizenznehmer) und Rechtsabteilungs-Profil.
+1. Mandantenkonstellation klären: Vertragstyp, Vertragspartnerrolle (Lieferant, Auftraggeber, Lizenznehmer) und Rechtsabteilungs-Profil.
 2. Kanzlei-Profil aufnehmen oder aktualisieren (`vertragsrecht-kaltstart-interview` oder `vertragsrecht-anpassen`).
-3. Passenden Skill auswaehlen (z. B. NDA-Pruefung, Lieferantenvertrag, AGB, SaaS/MSA, Abmahnung).
-4. Eilfristen pruefen: Kuendigungsfristen, Verlaengerungsfristen, Abmahn-Fristen.
+3. Passenden Skill auswaehlen (z. B. NDA-Prüfung, Lieferantenvertrag, AGB, SaaS/MSA, Abmahnung).
+4. Eilfristen prüfen: Kuendigungsfristen, Verlaengerungsfristen, Abmahn-Fristen.
 5. Anschluss-Skill bestimmen: Gegenentwurf erstellen, Eskalation oder Stakeholder-Zusammenfassung?
 
 ## Skill-Tour (was gibt es hier?)
@@ -740,25 +740,25 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 - `vertragsrecht-kaltstart-interview` — Erstgespraech zur Mandatsaufnahme im Vertragsrecht; Kanzlei- oder Mandatsprofil anlegen.
 - `vertragsrecht-mandat-arbeitsbereich` — Mandatsarbeitsbereiche verwalten: neu anlegen, auflisten, wechseln oder abschliessen.
 - `vertragsrecht-anpassen` — Kanzleiprofil im Vertragsrecht gezielt anpassen ohne erneutes Erstgespraech.
-- `vertragspruefung` — Vertrag gegen das Kanzlei-Playbook nach deutschem Recht pruefen und Risikokategorien ausweisen.
-- `lieferantenvertrag-pruefung` — Eingehenden Lieferanten- oder Dienstleistervertrag gegen das Playbook pruefen (Werk-/Dienstvertrag, Haftungscaps).
+- `vertragspruefung` — Vertrag gegen das Kanzlei-Playbook nach deutschem Recht prüfen und Risikokategorien ausweisen.
+- `lieferantenvertrag-pruefung` — Eingehenden Lieferanten- oder Dienstleistervertrag gegen das Playbook prüfen (Werk-/Dienstvertrag, Haftungscaps).
 - `nda-pruefung` — Schnelle Triage eingehender NDA in Gruen/Gelb/Rot; nur auffaellige Vereinbarungen eskalieren.
-- `nda-durchsetzer` — NDA der Gegenseite konservativ im Aenderungsmodus ueberarbeiten ohne Struktur zu veraendern.
-- `agb-pruefung` — AGB auf Einbeziehung, Inhaltskontrolle nach §§ 305-310 BGB und unwirksame Klauseln pruefen.
-- `saas-msa-pruefung` — SaaS-Abonnement- und Rahmenvertraege pruefen (AGB-Kontrolle, automatische Verlaengerung, Datenschutzklauseln).
-- `abmahnung-uwg` — UWG-Abmahnung verfassen oder pruefen sowie modifizierte Unterlassungserklaerung entwerfen.
-- `widerruf-fernabsatz` — Widerrufsrecht im Fernabsatz nach §§ 312g und 355 BGB pruefen; Belehrungspflichten und Fristberechnungen.
+- `nda-durchsetzer` — NDA der Gegenseite konservativ im Änderungsmodus ueberarbeiten ohne Struktur zu veraendern.
+- `agb-pruefung` — AGB auf Einbeziehung, Inhaltskontrolle nach §§ 305-310 BGB und unwirksame Klauseln prüfen.
+- `saas-msa-pruefung` — SaaS-Abonnement- und Rahmenvertraege prüfen (AGB-Kontrolle, automatische Verlaengerung, Datenschutzklauseln).
+- `abmahnung-uwg` — UWG-Abmahnung verfassen oder prüfen sowie modifizierte Unterlassungserklaerung entwerfen.
+- `widerruf-fernabsatz` — Widerrufsrecht im Fernabsatz nach §§ 312g und 355 BGB prüfen; Belehrungspflichten und Fristberechnungen.
 - `eskalations-marker` — Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix zuordnen und Genehmigungsanfrage erstellen.
-- `stakeholder-zusammenfassung` — Vertragspruefungsmemo in eine Zusammenfassung für Geschaeftsfuehrung oder Einkauf uebersetzen.
-- `aenderungs-historie` — Veraenderungen eines Vertrags ueber Basisvertrag und Nachtraege hinweg nachvollziehen.
-- `vertragsverlaengerungs-monitor` — Vertraege mit ablaufenden Kuendigungsfristen anzeigen und rechtzeitig warnen.
-- `pruefungsvorschlaege` — Ausstehende Playbook-Aktualisierungsvorschlaege pruefen und genehmigen oder ablehnen.
+- `stakeholder-zusammenfassung` — Vertragspruefungsmemo in eine Zusammenfassung für Geschäftsführung oder Einkauf übersetzen.
+- `aenderungs-historie` — Veraenderungen eines Vertrags über Basisvertrag und Nachtraege hinweg nachvollziehen.
+- `vertragsverlaengerungs-monitor` — Verträge mit ablaufenden Kuendigungsfristen anzeigen und rechtzeitig warnen.
+- `pruefungsvorschlaege` — Ausstehende Playbook-Aktualisierungsvorschlaege prüfen und genehmigen oder ablehnen.
 
 ## Worauf besonders achten
 
-- AGB-Kontrolle im B2B-Verkehr: § 307 BGB gilt auch zwischen Kaufleuten; marktunuebliche Haftungsausschluesse koennen unwirksam sein.
-- Kuendigungsfristen in laufenden Vertraegen pruefen, bevor Verlaengerungsautomatik greift — besonders bei SaaS-Vertraegen.
-- NDA-Laufzeiten: Zeitlich unbeschraenkte Geheimhaltungspflichten koennen nach deutschem Recht problematisch sein.
+- AGB-Kontrolle im B2B-Verkehr: § 307 BGB gilt auch zwischen Kaufleuten; marktunuebliche Haftungsausschluesse können unwirksam sein.
+- Kuendigungsfristen in laufenden Vertraegen prüfen, bevor Verlaengerungsautomatik greift — besonders bei SaaS-Vertraegen.
+- NDA-Laufzeiten: Zeitlich unbeschraenkte Geheimhaltungspflichten können nach deutschem Recht problematisch sein.
 - Fernabsatz-Widerrufsrecht gilt auch im B2C-SaaS: 14 Tage Widerrufsfrist, Belehrungspflicht vor Vertragsschluss.
 - Abmahnungen nach UWG haben kurze Reaktionsfristen — Unterlassungserklaerung nicht vorschnell unterzeichnen.
 
@@ -766,9 +766,9 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 
 - Haftungsklauseln in AGB ohne Differenzierung nach Verschuldensgrad: Totalausschluss ist nach § 309 Nr. 7 BGB unwirksam.
 - NDA mit unklarem Schutzgegenstand: Was als vertraulich gilt, ist nicht hinreichend definiert — im Streitfall beweisbar schwach.
-- SaaS-Vertraege ohne Datenrueckgabeklausel: Mandant verliert Zugang zu Daten nach Vertragsende.
+- SaaS-Verträge ohne Datenrueckgabeklausel: Mandant verliert Zugang zu Daten nach Vertragsende.
 - Verlaengerungsklausel uebersehen: Vertrag verlaengert sich automatisch um ein Jahr, weil Kuendigungsfenster verpasst wurde.
-- Playbook nicht auf aktuellen Gesetzesstand gebracht: AGB-Aenderungen durch EuGH-Rechtsprechung oder BGH-Urteile werden nicht eingepflegt.
+- Playbook nicht auf aktuellen Gesetzesstand gebracht: AGB-Änderungen durch EuGH-Rechtsprechung oder BGH-Urteile werden nicht eingepflegt.
 
 ## Quellen und Aktualitaet
 
@@ -941,7 +941,7 @@ _'Führt das Erstgespräch zur Mandatsaufnahme im Vertragsrecht durch und schrei
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Vertragsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Vertragsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -1886,8 +1886,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Mindeststandard-Katalog
 
 Die folgenden zehn Bereiche sind in **jedem** NDA zu prüfen.
-Detaillierte Soll-Klauseln und rote Linien siehe
-[`references/mindeststandards.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/mindeststandards.md).
 
 1. **Definition `Confidential Information`** — weit gefasst, einschließlich auch mündlich übermittelter, nicht gekennzeichneter und nicht ausdrücklich als vertraulich bezeichneter Informationen, sofern erkennbar vertraulich.
 2. **Ausnahmen** — abschließend (öffentlich bekannt ohne Verschulden, vorbekannt, Dritter ohne Verschwiegenheitspflicht, eigenständig entwickelt; gesetzliche Offenlegungspflicht mit Vorabbenachrichtigung).
@@ -1911,7 +1909,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
  - Streichung einzelner kritischer Wörter (z. B. "**ausschließlich** schriftlich gekennzeichnete" → "schriftlich gekennzeichnete")
  - Ersetzung problematischer Begriffe durch minimale sprachliche Anpassung
 3. **Neue Absätze nur, wenn zwingend** — und dann möglichst als Unterabsatz innerhalb der nächstgelegenen bestehenden Klausel (z. B. `(neu) Im Übrigen gilt …`).
-4. **Mindeststandards integrieren** — gegen den Katalog (Abschnitt oben + `references/mindeststandards.md`) jede Klausel matchen und nur fehlende Bestandteile minimal ergänzen.
+4. **Mindeststandards integrieren** — gegen den Katalog (Abschnitt oben) jede Klausel matchen und nur fehlende Bestandteile minimal ergänzen.
 5. **Format und Look erhalten** — Schriftart, Aufzählungszeichen, Einrückungen, Schriftgrößen und Klauselbezeichnungen beibehalten.
 
 **Verbotene Eingriffe:**
@@ -1922,8 +1920,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
 
 ### B — Strukturierte Analyse (separates Dokument)
 
-Die Analyse folgt strikt der vorgegebenen Sechs-Abschnitts-Struktur
-(siehe [`references/analyse-vorlage.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/analyse-vorlage.md)):
+Die Analyse folgt strikt der vorgegebenen Sechs-Abschnitts-Struktur:
 
 1. **Executive Summary** — 3 bis 5 kritischste Abweichungen, Gesamtbewertung, Handlungsempfehlung (Redline & Verhandeln vs. eigenes NDA als Gegenvorschlag).
 2. **Struktureller Vergleich** — Tabellarische Gegenüberstellung aller Regelungsbereiche; fehlende Regelungen ausdrücklich kennzeichnen.
@@ -2251,13 +2248,13 @@ Zitierweise nach `../references/zitierweise.md`.
 
 Relevante Normen und Rspr.:
 - GeschGehG (in Kraft seit 26.04.2019; Umsetzung Richtlinie (EU) 2016/943): https://www.gesetze-im-internet.de/geschgehg/
-- § 2 Nr. 1 GeschGehG – Definition Geschaeftsgeheimnis; Angemessenheitsprinzip (Schutzmassnahmen-Erfordernis)
+- § 2 Nr. 1 GeschGehG – Definition Geschäftsgeheimnis; Angemessenheitsprinzip (Schutzmassnahmen-Erfordernis)
 - §§ 16-20 GeschGehG (prozessualer Geheimnisschutz)
-- **§ 273a ZPO** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): Erstreckung des prozessualen Geheimnisschutzes ueber den GeschGehG-Streit hinaus auf alle Zivilverfahren; Antrag jeder Partei moeglich; Ordnungsgeld bis 100.000 EUR bei Verstoss; § 6a ArbGG für Arbeitsgerichtsverfahren. https://www.gesetze-im-internet.de/zpo/__273a.html — Praxisfolge: NDA-Mechanik kann durch das prozessuale Schutzregime ergaenzt werden.
+- **§ 273a ZPO** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): Erstreckung des prozessualen Geheimnisschutzes über den GeschGehG-Streit hinaus auf alle Zivilverfahren; Antrag jeder Partei möglich; Ordnungsgeld bis 100.000 EUR bei Verstoss; § 6a ArbGG für Arbeitsgerichtsverfahren. https://www.gesetze-im-internet.de/zpo/__273a.html — Praxisfolge: NDA-Mechanik kann durch das prozessuale Schutzregime ergaenzt werden.
 - § 241 Abs. 2 BGB – Schutzpflichten im Schuldverhaeltnis
 - § 307 BGB – AGB-Inhaltskontrolle (bei vorformulierten Klauseln)
 - § 339 BGB – Vertragsstrafe; § 343 BGB – richterliche Herabsetzung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 2 GeschGehG Rn. 5 ff.

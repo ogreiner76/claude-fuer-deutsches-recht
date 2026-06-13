@@ -42,8 +42,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Mindeststandard-Katalog
 
 Die folgenden zehn Bereiche sind in **jedem** NDA zu prüfen.
-Detaillierte Soll-Klauseln und rote Linien siehe
-[`references/mindeststandards.md`](./references/mindeststandards.md).
 
 1. **Definition `Confidential Information`** — weit gefasst, einschließlich auch mündlich übermittelter, nicht gekennzeichneter und nicht ausdrücklich als vertraulich bezeichneter Informationen, sofern erkennbar vertraulich.
 2. **Ausnahmen** — abschließend (öffentlich bekannt ohne Verschulden, vorbekannt, Dritter ohne Verschwiegenheitspflicht, eigenständig entwickelt; gesetzliche Offenlegungspflicht mit Vorabbenachrichtigung).
@@ -67,7 +65,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
  - Streichung einzelner kritischer Wörter (z. B. "**ausschließlich** schriftlich gekennzeichnete" → "schriftlich gekennzeichnete")
  - Ersetzung problematischer Begriffe durch minimale sprachliche Anpassung
 3. **Neue Absätze nur, wenn zwingend** — und dann möglichst als Unterabsatz innerhalb der nächstgelegenen bestehenden Klausel (z. B. `(neu) Im Übrigen gilt …`).
-4. **Mindeststandards integrieren** — gegen den Katalog (Abschnitt oben + `references/mindeststandards.md`) jede Klausel matchen und nur fehlende Bestandteile minimal ergänzen.
+4. **Mindeststandards integrieren** — gegen den Katalog (Abschnitt oben) jede Klausel matchen und nur fehlende Bestandteile minimal ergänzen.
 5. **Format und Look erhalten** — Schriftart, Aufzählungszeichen, Einrückungen, Schriftgrößen und Klauselbezeichnungen beibehalten.
 
 **Verbotene Eingriffe:**
@@ -78,8 +76,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
 
 ### B — Strukturierte Analyse (separates Dokument)
 
-Die Analyse folgt strikt der vorgegebenen Sechs-Abschnitts-Struktur
-(siehe [`references/analyse-vorlage.md`](./references/analyse-vorlage.md)):
+Die Analyse folgt strikt der vorgegebenen Sechs-Abschnitts-Struktur:
 
 1. **Executive Summary** — 3 bis 5 kritischste Abweichungen, Gesamtbewertung, Handlungsempfehlung (Redline & Verhandeln vs. eigenes NDA als Gegenvorschlag).
 2. **Struktureller Vergleich** — Tabellarische Gegenüberstellung aller Regelungsbereiche; fehlende Regelungen ausdrücklich kennzeichnen.

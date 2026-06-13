@@ -7,17 +7,17 @@ Dieser Megaprompt enthaelt top-15 von 53 Skills des Plugins `subsumtions-pruefer
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studierender, Bearbeiter), markiert Frist (kei…
-2. **interaktiver-erstpruefung-und-mandatsziel** — Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Pruefer.
+2. **interaktiver-erstpruefung-und-mandatsziel** — Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Prüfer.
 3. **beweisbedarf-und-belege-erfassen** — Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, P…
-4. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Subsumtions Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken u…
-5. **eu-vorabentscheidung-falsche-wiese** — Prueft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausn…
-6. **rechtsprechung-recherche-strategie** — Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/…
-7. **triage-rechtsfrage-oder-norm** — Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm…
+4. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Subsumtions Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken un…
+5. **rechtsprechung-recherche-strategie** — Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/…
+6. **triage-rechtsfrage-oder-norm** — Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm…
+7. **eu-vorabentscheidung-falsche-wiese** — Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausna…
 8. **rechtsfolge-bestimmen-einreden-interaktiver** — Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-…
-9. **unbestimmte-rechtsbegriffe-ungeschriebene** — Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsma…
-10. **verjaehrung-fristen-pruefen** — Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfri…
-11. **einschlaegige-normen-vorschlagen-eu** — Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien…
-12. **kommentar-literatur-konkurrenzen** — Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. …
+9. **kommentar-literatur-konkurrenzen** — Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. …
+10. **unbestimmte-rechtsbegriffe-ungeschriebene** — Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsma…
+11. **verjaehrung-fristen-pruefen** — Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfri…
+12. **einschlaegige-normen-vorschlagen-eu** — Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien…
 13. **konkurrenzen-anspruchsgrundlagen** — Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, …
 14. **grundrechte-pruefung-de-und-grch** — Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterschei…
 15. **output-memo-und-mandantenbrief** — Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Mem…
@@ -47,8 +47,8 @@ Dieser Einstieg routet **Subsumtions Prüfer** vom ersten Sachverhalt zu Rollen,
 - `europarecht-fristen-form-und-zustaendigkeit` — Europarecht Fristen Form und Zustaendigkeit
 - `falsche-wiese-warnung` — Falsche Wiese Warnung
 - `fehlerklasse-bgb-at-training` — Fehlerklasse BGB AT Training
-- `generalklauseln-pruefen` — Generalklauseln Pruefen
-- `grundrechte-pruefung-de-und-grch` — Grundrechte Pruefung DE und Grch
+- `generalklauseln-pruefen` — Generalklauseln Prüfen
+- `grundrechte-pruefung-de-und-grch` — Grundrechte Prüfung DE und Grch
 - `dokumente-intake` — Dokumente Intake
 - `unterlagen-luecken` — Unterlagen Luecken
 
@@ -56,7 +56,7 @@ Dieser Einstieg routet **Subsumtions Prüfer** vom ersten Sachverhalt zu Rollen,
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Subsumtions Pruefer sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Fachpfad wählen: zentrale Anker im Subsumtions Prüfer sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
@@ -70,13 +70,13 @@ Dieser Einstieg routet **Subsumtions Prüfer** vom ersten Sachverhalt zu Rollen,
 
 ## Skill: `interaktiver-erstpruefung-und-mandatsziel`
 
-_Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Pruefer._
+_Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Prüfer._
 
 # Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Interaktiver Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Subsumtions Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Interaktiver Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Subsumtions Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,10 +98,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -359,9 +359,9 @@ BGH VI ZR 290/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht. Gesam
 
 ## Skill: `start-chronologie-fristen`
 
-_Einstieg, Schnelltriage und Fallrouting im Subsumtions Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständi..._
+_Einstieg, Schnelltriage und Fallrouting im Subsumtions Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständi..._
 
-# Subsumtions-Pruefer — Allgemein
+# Subsumtions-Prüfer — Allgemein
 
 ## Arbeitsweg
 
@@ -373,7 +373,7 @@ _Einstieg, Schnelltriage und Fallrouting im Subsumtions Pruefer-Plugin. Fragt Ro
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Subsumtions Pruefer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Subsumtions Prüfer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Interaktiver Subsumtions-für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
@@ -488,7 +488,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `output-juristisch-gestochen-de` | Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antrag-Begründung-Beweismittel-Struktur, Subsumtionsdarstellung im Vier-Schritt, Zitierweise nach BGH-Standard, Rubrum, Tenor. Für Schriftsaetze,… |
 | `output-memo-und-mandantenbrief` | Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher… |
 | `output-pruefungsdokument-mit-warnhinweisen` | Erzeugt das vollständige Prüfungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Prüfung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und… |
-| `rechtsfolge-bestimmen` | Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt… |
+| `rechtsfolge-bestimmen` | Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Höhe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt… |
 | `rechtsprechung-recherche-strategie` | Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur,… |
 | `subsumtion-obersatz-definition-untersatz-ergebnis` | Führt die klassische juristische Vier-Schritt-Subsumtion durch: Obersatz (Norm und Rechtsfolge), Definition (TBM-Inhalt aus h.M./Rspr.), Untersatz (Sachverhalt unter Definition), Ergebnis (TBM erfuellt… |
 | `triage-rechtsfrage-oder-norm` | Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill… |
@@ -500,25 +500,25 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin fuehrt Juristen, Referendare und rechtlich Interessierte durch den klassischen juristischen Pruefungsaufbau: Tatbestandsmerkmale werden systematisch zerlegt, jede Norm wird im Vier-Schritt (Obersatz — Definition — Untersatz — Ergebnis) durchlaufen, Einreden und Rechtsfolgen werden getrennt erarbeitet. Das Plugin deckt deutsches Recht (BGB, HGB, StGB, ZPO, VwGO, GG und zahlreiche Nebengesetze) sowie Europarecht (AEUV, EUV, GRCh, EU-Verordnungen, Richtlinien) ab.
+Dieses Plugin fuehrt Juristen, Referendare und rechtlich Interessierte durch den klassischen juristischen Prüfungsaufbau: Tatbestandsmerkmale werden systematisch zerlegt, jede Norm wird im Vier-Schritt (Obersatz — Definition — Untersatz — Ergebnis) durchlaufen, Einreden und Rechtsfolgen werden getrennt erarbeitet. Das Plugin deckt deutsches Recht (BGB, HGB, StGB, ZPO, VwGO, GG und zahlreiche Nebengesetze) sowie Europarecht (AEUV, EUV, GRCh, EU-Verordnungen, Richtlinien) ab.
 
-Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf freier Rechtsberatung. Alle Ausgaben enthalten einen Pflicht-Disclaimer, der auf die Grenzen automatisierter Pruefung hinweist.
+Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf freier Rechtsberatung. Alle Ausgaben enthalten einen Pflicht-Disclaimer, der auf die Grenzen automatisierter Prüfung hinweist.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben einen konkreten Lebenssachverhalt und wollen wissen, welche Normen einschlaegig sein koennten.
 - Sie wollen eine Norm systematisch in ihre Tatbestandsmerkmale zerlegen und Schritt für Schritt subsumieren.
-- Sie muessen Beweislast, Einreden oder Verjährung pruefen und suchen eine strukturierte Abarbeitungshilfe.
+- Sie müssen Beweislast, Einreden oder Verjährung prüfen und suchen eine strukturierte Abarbeitungshilfe.
 - Sie benoetigen eine Ausgabe für einen Schriftsatz, ein Memo oder einen Mandantenbrief in verschiedenen Sprachstilen.
-- Sie wollen eine Rechtsfrage mit EU-Bezug klaeren und pruefen, ob ein Vorabentscheidungsersuchen in Betracht kommt.
+- Sie wollen eine Rechtsfrage mit EU-Bezug klären und prüfen, ob ein Vorabentscheidungsersuchen in Betracht kommt.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Tatbestandsmerkmal (TBM)** — Einzelnes Element einer Rechtsnorm, das vorliegen muss, damit die Rechtsfolge eintritt.
 - **Subsumtion** — Der gedankliche Vorgang, bei dem der Sachverhalt unter die Definition des TBM eingeordnet wird.
 - **Obersatz** — Erster Schritt der Vier-Schritt-Subsumtion; nennt die Norm und die daran geknuepfte Rechtsfolge.
-- **Anspruchskonkurrenz** — Mehrere Normen begruenden nebeneinander denselben Anspruch; jede wird selbstaendig geprueft.
-- **Sekundaere Darlegungslast** — Erleichterung der Beweislast der beweispflichtigen Partei, wenn die andere Partei Tatsachen aus ihrem Bereich klaeren koennte.
+- **Anspruchskonkurrenz** — Mehrere Normen begruenden nebeneinander denselben Anspruch; jede wird selbständig geprueft.
+- **Sekundaere Darlegungslast** — Erleichterung der Beweislast der beweispflichtigen Partei, wenn die andere Partei Tatsachen aus ihrem Bereich klären koennte.
 - **Anwendungsvorrang** — Europarecht geht im Kollisionsfall nationalem Recht vor; nationales Recht wird verdraengt, nicht nichtig.
 - **Vorabentscheidungsverfahren** — Verfahren nach Art. 267 AEUV: nationale Gerichte legen dem EuGH Auslegungsfragen des Unionsrechts vor.
 
@@ -535,10 +535,10 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Handelt es sich um eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung?
+1. Mandantenkonstellation klären: Handelt es sich um eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung?
 2. Phase des Mandats bestimmen: Normensuche, Tatbestandsanalyse, Subsumtion, Rechtsfolge oder Output-Erstellung.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Verjährungsfristen (§ 195 BGB), prozessuale Notfristen.
+4. Eilfristen prüfen: Verjährungsfristen (§ 195 BGB), prozessuale Notfristen.
 5. Anschluss-Skill bestimmen: nach Subsumtion typischerweise Rechtsfolge bestimmen und dann Output-Skill auswaehlen.
 
 ## Skill-Tour (was gibt es hier?)
@@ -554,16 +554,16 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `einschlaegige-normen-vorschlagen-de` — Schlaegt einschlaegige Normen des deutschen Rechts zu einem Lebenssachverhalt vor.
 - `einschlaegige-normen-vorschlagen-eu` — Schlaegt einschlaegige Normen des Unionsrechts vor mit EuGH-Judikatur und curia-Fundstellen.
 - `de-eu-recht-abgrenzung` — Klaert wann nationales Recht und wann Unionsrecht unmittelbar gilt oder richtlinienkonforme Auslegung greift.
-- `eu-vorabentscheidung-pruefen` — Prueft Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV.
-- `norm-historie-und-aenderungen` — Prueft Norm-Geltungsfassung, Uebergangsvorschriften und intertemporales Recht.
+- `eu-vorabentscheidung-pruefen` — Prüft Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV.
+- `norm-historie-und-aenderungen` — Prüft Norm-Geltungsfassung, Uebergangsvorschriften und intertemporales Recht.
 
 **Tatbestandsanalyse**
 
-- `norm-zerlegen-in-tatbestandsmerkmale` — Zerlegt eine Norm systematisch in TBM mit Definitionen und Pruefungsreihenfolge.
-- `unbestimmte-rechtsbegriffe-pruefen` — Prueft unbestimmte Rechtsbegriffe mit Auslegungsmasssstaeben und Fallgruppen aus Rechtsprechung.
+- `norm-zerlegen-in-tatbestandsmerkmale` — Zerlegt eine Norm systematisch in TBM mit Definitionen und Prüfungsreihenfolge.
+- `unbestimmte-rechtsbegriffe-pruefen` — Prüft unbestimmte Rechtsbegriffe mit Auslegungsmasssstaeben und Fallgruppen aus Rechtsprechung.
 - `ungeschriebene-merkmale-judikatur` — Identifiziert judicativ entwickelte ungeschriebene TBM, Verkehrspflichten und teleologische Reduktion.
-- `generalklauseln-pruefen` — Prueft Generalklauseln (§ 242 BGB, § 138 BGB) mit Indizien und Fallgruppen.
-- `grundrechte-pruefung-de-und-grch` — Prueft Grundrechte nach GG und GRCh im Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung.
+- `generalklauseln-pruefen` — Prüft Generalklauseln (§ 242 BGB, § 138 BGB) mit Indizien und Fallgruppen.
+- `grundrechte-pruefung-de-und-grch` — Prüft Grundrechte nach GG und GRCh im Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung.
 - `falsche-wiese-warnung` — Warnt vor typischen Falschverortungen (Vertrag statt Delikt, Verwaltungsakt vs. Realakt usw.).
 
 **Subsumtion**
@@ -571,13 +571,13 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `subsumtion-obersatz-definition-untersatz-ergebnis` — Fuehrt den klassischen Vier-Schritt je TBM durch.
 - `beweisbedarf-und-belege-erfassen` — Erfasst pro TBM den Beweisbedarf mit Beweismittel-Katalog und Belegen.
 - `darlegungs-und-beweislast-verteilen` — Verteilt Darlegungs- und Beweislast nach Grundregel, Beweislastumkehr und Anscheinsbeweis.
-- `verjaehrung-fristen-pruefen` — Prueft Verjährungsfristen inklusive Hemmung, Neubeginn und EU-Verjährungsregeln.
+- `verjaehrung-fristen-pruefen` — Prüft Verjährungsfristen inklusive Hemmung, Neubeginn und EU-Verjährungsregeln.
 
 **Gegenrechte und Rechtsfolgen**
 
-- `gegen-tbm-und-einreden-pruefen` — Prueft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden.
-- `konkurrenzen-anspruchsgrundlagen` — Klaert Anspruchskonkurrenz, Spezialitaet, Subsidiaritaet und Verhaeltnis Vertrags- zu Deliktsrecht.
-- `rechtsfolge-bestimmen` — Bestimmt Anspruchsinhalt, Hoehe, Tenor und Nebenforderungen nach erfolgreicher Subsumtion.
+- `gegen-tbm-und-einreden-pruefen` — Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden.
+- `konkurrenzen-anspruchsgrundlagen` — Klaert Anspruchskonkurrenz, Spezialitaet, Subsidiaritaet und Verhältnis Vertrags- zu Deliktsrecht.
+- `rechtsfolge-bestimmen` — Bestimmt Anspruchsinhalt, Höhe, Tenor und Nebenforderungen nach erfolgreicher Subsumtion.
 
 **Output und Recherche**
 
@@ -585,8 +585,8 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `output-memo-und-mandantenbrief` — Erstellt Aktennotiz oder Mandantenbrief mit Pflicht-Haftungshinweis.
 - `output-alltagssprache-de` — Gibt Subsumtionsergebnis in verstaendlicher Alltagssprache ohne Fachbegriffe aus.
 - `output-antrag-beschwerde-klageschrift` — Erzeugt Tenor-Bausteine und Pflichtangaben für Klageschriften und Beschwerden.
-- `output-fremdsprachig-en-fr` — Ausgabe auf Englisch oder Franzoesisch mit Hinweis auf nicht-amtliche Uebersetzung.
-- `output-pruefungsdokument-mit-warnhinweisen` — Vollstaendiges Pruefungsdokument mit Pflicht-Kopfhinweis und Disclaimern.
+- `output-fremdsprachig-en-fr` — Ausgabe auf Englisch oder Franzoesisch mit Hinweis auf nicht-amtliche Übersetzung.
+- `output-pruefungsdokument-mit-warnhinweisen` — Vollstaendiges Prüfungsdokument mit Pflicht-Kopfhinweis und Disclaimern.
 - `rechtsprechung-recherche-strategie` — Strategie für die Rechtsprechungsrecherche mit Fundstellen-Hinweisen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
@@ -596,17 +596,17 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 ## Worauf besonders achten
 
-- **Disclaimer ist Pflicht.** Alle Ausgaben enthalten den Hinweis, dass es sich um mechanische Pruefung handelt, kein Rechtsgutachten und kein Rechtsrat.
-- **Normen koennen veraendert sein.** Immer Skill `norm-historie-und-aenderungen` konsultieren, wenn der Geltungszeitpunkt unklar ist.
+- **Disclaimer ist Pflicht.** Alle Ausgaben enthalten den Hinweis, dass es sich um mechanische Prüfung handelt, kein Rechtsgutachten und kein Rechtsrat.
+- **Normen können veraendert sein.** Immer Skill `norm-historie-und-aenderungen` konsultieren, wenn der Geltungszeitpunkt unklar ist.
 - **Generalklauseln und unbestimmte Rechtsbegriffe sind fehleranfaellig.** Automatisierte Subsumtion bei § 242 BGB und aehnlichen Normen immer mit Vorbehalt behandeln.
-- **Anspruchskonkurrenz nicht vergessen.** Mehrere Anspruchsgrundlagen koennen nebeneinander greifen; jede separat pruefen.
+- **Anspruchskonkurrenz nicht vergessen.** Mehrere Anspruchsgrundlagen können nebeneinander greifen; jede separat prüfen.
 - **Vorabentscheidungspflicht letzter Instanz.** Bei EU-Rechtsfragen vor dem BGH oder BVerwG besteht ggf. Vorlagepflicht; Skill `eu-vorabentscheidung-pruefen` einschalten.
 
 ## Typische Fehler
 
 - Sachverhalt wird direkt unter Normen subsumiert ohne vorherige Zerlegung in TBM; fuehrt zu Subsumtionsspruengen.
 - Einreden und Einwendungen werden vergessen; geprueft wird nur die anspruchsbegruendende Seite.
-- Verjährung wird als gegeben angenommen ohne Pruefung von Hemmungstatbestaenden (§§ 203 ff. BGB).
+- Verjährung wird als gegeben angenommen ohne Prüfung von Hemmungstatbestaenden (§§ 203 ff. BGB).
 - Deutsches Recht wird angewendet obwohl Unionsrecht Anwendungsvorrang hat; Skill `de-eu-recht-abgrenzung` hilft.
 - Output wird ohne Pflicht-Disclaimer weitergegeben; das koennte als Rechtsberatung missverstanden werden.
 
@@ -618,104 +618,9 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 ---
 
-## Skill: `eu-vorabentscheidung-falsche-wiese`
-
-_Prueft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen im Subsumtions Pruefer._
-
-# EU-Vorabentscheidung prüfen (Art. 267 AEUV)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. Ist die Auslegung von Unionsrecht entscheidungserheblich?
-2. Ist das vorlegende Gericht ein "Gericht eines Mitgliedstaats" iSd Art. 267 AEUV?
-3. Ist das Gericht letztinstanzlich (Vorlagepflicht) oder fakultativ (Vorlagebefugnis)?
-4. Ist eine CILFIT-Ausnahme denkbar (acte clair / acte éclairé)?
-5. Ist eine Gültigkeitsfrage involviert (nur EuGH kann Sekundärrecht für ungültig erklären)?
-
-## Voraussetzungen Art. 267 AEUV
-
-### 1. Vorlagebefugnis (Art. 267 Abs. 2 AEUV)
-
-Berechtigt zur Vorlage ist jedes "Gericht eines Mitgliedstaats". Der Begriff ist unionsrechtlich autonom auszulegen; er setzt voraus:
-- Gesetzliche Grundlage des Spruchkörpers
-- Ständiger Charakter
-- Obligatorische Gerichtsbarkeit
-- Kontradiktorisches Verfahren
-- Anwendung von Rechtsnormen
-
-In Deutschland: alle ordentlichen Gerichte, Verwaltungsgerichte, Finanzgerichte, Sozialgerichte, Arbeitsgerichte. Schiedsgerichte grundsätzlich nicht.
-
-### 2. Vorlagepflicht (Art. 267 Abs. 3 AEUV)
-
-Letztinstanzliche Gerichte (kein Rechtsmittel im nationalen Recht mehr möglich) sind zur Vorlage verpflichtet, wenn die Auslegung des Unionsrechts entscheidungserheblich ist.
-
-In Deutschland: BGH, BVerwG, BAG, BSG, BFH, BVerfG (wenn Unionsrecht berührt).
-
-### 3. Entscheidungserheblichkeit
-
-Die Vorlagefrage muss für den Ausgang des Rechtsstreits erheblich sein. Hypothetische oder rein akademische Fragen sind unzulässig. Zulässig auch bei offensichtlicher Unionsrechtskonformität, wenn das vorlegende Gericht unsicher ist.
-
-### 4. Auslegungsfrage oder Gültigkeitsfrage
-
-Vorlage möglich für:
-- Auslegung von Primärrecht (AEUV, EUV, GRCh)
-- Auslegung von Sekundärrecht (Verordnungen, Richtlinien, Beschlüsse)
-- Gültigkeit von Sekundärrecht (nur EuGH kann Sekundärrecht für ungültig erklären)
-
-**Nicht zulässig:** Vorlage zur Auslegung nationalen Rechts.
-
-## CILFIT-Ausnahmen (Befreiung von der Vorlagepflicht)
-
-Rechtsprechung live prüfen unter curia.europa.eu (Rs. 283/81 — CILFIT; Rs. C-561/19 — Consorzio).
-
-1. **Acte clair:** Die Auslegung ist so offenkundig, dass kein vernünftiger Zweifel verbleibt; das Gericht muss sich vergewissern, dass andere Mitgliedstaaten und der EuGH dieselbe Auffassung teilen würden. Sprachliche Fassungen aller Amtssprachen sind zu berücksichtigen.
-
-2. **Acte éclairé:** Der EuGH hat die betreffende Frage bereits in identischer Konstellation entschieden.
-
-**Consorzio-Erweiterung (2021):** Das letztinstanzliche Gericht ist von der Vorlagepflicht entbunden, wenn es in einem schwebenden Fall eine offensichtlich unhaltbare Auslegung vermeidet und die Nichtvorlageentscheidung begründet.
-
-## Formulierung der Vorlagefrage
-
-Merkmale einer zulässigen und präzisen Vorlagefrage:
-- Klar und präzise formuliert
-- Auf die Auslegung oder Gültigkeit des Unionsrechts beschränkt
-- Kein Verweis auf nationales Recht in der Frage selbst
-- Entscheidungserheblichkeit im Vorlagekontext erkennbar
-
-Muster: "Ist Art. X der Verordnung/Richtlinie Y dahin auszulegen, dass [Sachverhaltskonstellation Z] [Rechtsfolge A] auslöst, wenn [Bedingung B]?"
-
-## Verfahrensablauf und Fristen
-
-- Aussetzung des nationalen Verfahrens nach Vorlagebeschluss (§ 148 ZPO analog oder sonderrechtliche Aussetzung)
-- Dauer EuGH-Verfahren: ca. 15–24 Monate (Standardverfahren)
-- Beschleunigtes Verfahren (Art. 105 VerfO EuGH): bei besonderer Dringlichkeit; Antrag beim EuGH
-- Eilvorabentscheidungsverfahren (PPU, Art. 107 VerfO EuGH): bei Freiheitsentzug oder Fragen zu JI-Zusammenarbeit
-
-## Folgen einer Nichtvorlage
-
-Verletzung der Vorlagepflicht kann staatshaftungsrechtliche Konsequenzen haben, wenn dem Einzelnen durch die fehlerhafte Nichtvorlage ein Schaden entsteht (EuGH Rs. C-224/01 — Köbler; live zu prüfen unter curia.europa.eu).
-
-## Ausgabe
-
-Vorlage-Checkliste: Befugnis/Pflicht, Entscheidungserheblichkeit, CILFIT-Ausnahmen, Formulierungsentwurf, Verfahrensfolgen. Empfehlung: Aktuellen Stand in curia.europa.eu prüfen (Suchfunktion nach Artikel und Rechtssachennummer).
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
-
----
-
 ## Skill: `rechtsprechung-recherche-strategie`
 
-_Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de im Subsumtions Pruefer._
+_Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de im Subsumtions Prüfer._
 
 # Rechtsprechung-Recherche-Strategie
 
@@ -801,13 +706,13 @@ Hinweis: Keine Rechtsberatung. Systemwissen ersetzt keine Live-Recherche.
 
 ## Skill: `triage-rechtsfrage-oder-norm`
 
-_Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern im Subsumtions Pruefer._
+_Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern im Subsumtions Prüfer._
 
 # Triage: Rechtsfrage oder Norm?
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Triage Rechtsfrage Oder Norm** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Subsumtions Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Triage Rechtsfrage Oder Norm** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Subsumtions Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -910,9 +815,104 @@ Bitte bestätigen Sie, dass ich den Sachverhalt richtig erfasst habe.
 
 ---
 
+## Skill: `eu-vorabentscheidung-falsche-wiese`
+
+_Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen im Subsumtions Prüfer._
+
+# EU-Vorabentscheidung prüfen (Art. 267 AEUV)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+
+1. Ist die Auslegung von Unionsrecht entscheidungserheblich?
+2. Ist das vorlegende Gericht ein "Gericht eines Mitgliedstaats" iSd Art. 267 AEUV?
+3. Ist das Gericht letztinstanzlich (Vorlagepflicht) oder fakultativ (Vorlagebefugnis)?
+4. Ist eine CILFIT-Ausnahme denkbar (acte clair / acte éclairé)?
+5. Ist eine Gültigkeitsfrage involviert (nur EuGH kann Sekundärrecht für ungültig erklären)?
+
+## Voraussetzungen Art. 267 AEUV
+
+### 1. Vorlagebefugnis (Art. 267 Abs. 2 AEUV)
+
+Berechtigt zur Vorlage ist jedes "Gericht eines Mitgliedstaats". Der Begriff ist unionsrechtlich autonom auszulegen; er setzt voraus:
+- Gesetzliche Grundlage des Spruchkörpers
+- Ständiger Charakter
+- Obligatorische Gerichtsbarkeit
+- Kontradiktorisches Verfahren
+- Anwendung von Rechtsnormen
+
+In Deutschland: alle ordentlichen Gerichte, Verwaltungsgerichte, Finanzgerichte, Sozialgerichte, Arbeitsgerichte. Schiedsgerichte grundsätzlich nicht.
+
+### 2. Vorlagepflicht (Art. 267 Abs. 3 AEUV)
+
+Letztinstanzliche Gerichte (kein Rechtsmittel im nationalen Recht mehr möglich) sind zur Vorlage verpflichtet, wenn die Auslegung des Unionsrechts entscheidungserheblich ist.
+
+In Deutschland: BGH, BVerwG, BAG, BSG, BFH, BVerfG (wenn Unionsrecht berührt).
+
+### 3. Entscheidungserheblichkeit
+
+Die Vorlagefrage muss für den Ausgang des Rechtsstreits erheblich sein. Hypothetische oder rein akademische Fragen sind unzulässig. Zulässig auch bei offensichtlicher Unionsrechtskonformität, wenn das vorlegende Gericht unsicher ist.
+
+### 4. Auslegungsfrage oder Gültigkeitsfrage
+
+Vorlage möglich für:
+- Auslegung von Primärrecht (AEUV, EUV, GRCh)
+- Auslegung von Sekundärrecht (Verordnungen, Richtlinien, Beschlüsse)
+- Gültigkeit von Sekundärrecht (nur EuGH kann Sekundärrecht für ungültig erklären)
+
+**Nicht zulässig:** Vorlage zur Auslegung nationalen Rechts.
+
+## CILFIT-Ausnahmen (Befreiung von der Vorlagepflicht)
+
+Rechtsprechung live prüfen unter curia.europa.eu (Rs. 283/81 — CILFIT; Rs. C-561/19 — Consorzio).
+
+1. **Acte clair:** Die Auslegung ist so offenkundig, dass kein vernünftiger Zweifel verbleibt; das Gericht muss sich vergewissern, dass andere Mitgliedstaaten und der EuGH dieselbe Auffassung teilen würden. Sprachliche Fassungen aller Amtssprachen sind zu berücksichtigen.
+
+2. **Acte éclairé:** Der EuGH hat die betreffende Frage bereits in identischer Konstellation entschieden.
+
+**Consorzio-Erweiterung (2021):** Das letztinstanzliche Gericht ist von der Vorlagepflicht entbunden, wenn es in einem schwebenden Fall eine offensichtlich unhaltbare Auslegung vermeidet und die Nichtvorlageentscheidung begründet.
+
+## Formulierung der Vorlagefrage
+
+Merkmale einer zulässigen und präzisen Vorlagefrage:
+- Klar und präzise formuliert
+- Auf die Auslegung oder Gültigkeit des Unionsrechts beschränkt
+- Kein Verweis auf nationales Recht in der Frage selbst
+- Entscheidungserheblichkeit im Vorlagekontext erkennbar
+
+Muster: "Ist Art. X der Verordnung/Richtlinie Y dahin auszulegen, dass [Sachverhaltskonstellation Z] [Rechtsfolge A] auslöst, wenn [Bedingung B]?"
+
+## Verfahrensablauf und Fristen
+
+- Aussetzung des nationalen Verfahrens nach Vorlagebeschluss (§ 148 ZPO analog oder sonderrechtliche Aussetzung)
+- Dauer EuGH-Verfahren: ca. 15–24 Monate (Standardverfahren)
+- Beschleunigtes Verfahren (Art. 105 VerfO EuGH): bei besonderer Dringlichkeit; Antrag beim EuGH
+- Eilvorabentscheidungsverfahren (PPU, Art. 107 VerfO EuGH): bei Freiheitsentzug oder Fragen zu JI-Zusammenarbeit
+
+## Folgen einer Nichtvorlage
+
+Verletzung der Vorlagepflicht kann staatshaftungsrechtliche Konsequenzen haben, wenn dem Einzelnen durch die fehlerhafte Nichtvorlage ein Schaden entsteht (EuGH Rs. C-224/01 — Köbler; live zu prüfen unter curia.europa.eu).
+
+## Ausgabe
+
+Vorlage-Checkliste: Befugnis/Pflicht, Entscheidungserheblichkeit, CILFIT-Ausnahmen, Formulierungsentwurf, Verfahrensfolgen. Empfehlung: Aktuellen Stand in curia.europa.eu prüfen (Suchfunktion nach Artikel und Rechtssachennummer).
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
+
+---
+
 ## Skill: `rechtsfolge-bestimmen-einreden-interaktiver`
 
-_Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt Berechnungshinweise für Schadensersatz und Vertragsstrafen im Subsumtions Pruefer._
+_Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt Berechnungshinweise für Schadensersatz und Vertragsstrafen im Subsumtions Prüfer._
 
 # Rechtsfolge bestimmen
 
@@ -1002,9 +1002,75 @@ Tatbestand erfüllt → Rechtsfolge bestimmen
 
 ---
 
+## Skill: `kommentar-literatur-konkurrenzen`
+
+_Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. Markiert, welche Normen vertieft in Literatur oder Datenbanken zu prüfen sind, und fordert Nutzerquellen oder lizenzierten Live-Zugriff an im Subsumtions Pruefer._
+
+# Quellenhinweis ohne Blindzitate
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Quellenklassen und Umgang
+
+### Klasse 1 — Gesetzestext (frei prüfbar, höchste Verlässlichkeit)
+
+- **Bundesrecht:** gesetze-im-internet.de (amtlich, tagesaktuell)
+- **EU-Recht:** eur-lex.europa.eu (konsolidierte Fassungen)
+- **Landesrecht:** jeweilige Landesrechtsdatenbanken (z. B. landesrecht.nrw.de)
+- **Nutzung:** Norm direkt zitieren mit Fassungsstand; kein "nach h. M. gilt §..." ohne eigene Prüfung
+
+### Klasse 2 — Verifizierte Rechtsprechung (frei prüfbar bei Aktenzeichen-Angabe)
+
+- **BGH:** bgh.de, dejure.org, openjur.de
+- **BVerfG:** bverfg.de
+- **BAG, BVerwG, BSG, BFH:** jeweilige Behördenwebseiten; dejure.org als Querverweisquelle
+- **EuGH/EuG:** curia.europa.eu
+- **Nutzung:** Gericht + Entscheidungsform + Datum + Aktenzeichen + tragender Rechtssatz; immer als Prüfpunkt markieren, wenn nicht live verifiziert
+
+### Klasse 3 — Nutzerbereitgestellte Literatur (erlaubt mit Kennzeichnung)
+
+- Kommentare (Palandt/Grüneberg, MüKo, Staudinger, Schönke/Schröder etc.), die der Nutzer als Text einstellt
+- Aufsätze, Handbücher, Gutachten aus lizenzierter Datenbank, wenn der Nutzer den Volltext bereitstellt
+- **Nutzung:** Zitierung mit Fundstelle (Autor, Werk, Auflage, Rn.); als "aus Nutzerquelle" kennzeichnen; nicht als frei verifizierbarer Nachweis behandeln
+
+### Klasse 4 — Modellwissen (verboten für Zitate)
+
+- BeckRS-, juris-, NJW-, NZA-, NJW-RR-Blindzitate aus dem Modellwissen
+- Randnummern, die nicht live geprüft wurden
+- "nach allgemeiner Ansicht" oder "h. M." ohne konkrete Quelle
+
+## Ausgabe-Tabelle
+
+| Punkt | Prüfbedarf | Quelle |
+|---|---|---|
+| Norm/TBM | Welche dogmatische Frage ist offen? | Gesetz (gesetze-im-internet.de) oder verifizierte Rechtsprechung oder Nutzerquelle |
+
+## Recherche-Strategie für offene Fragen
+
+Wenn Nutzer keine Literatur bereithält und eine Frage literaturbedürftig ist:
+
+1. **Gesetzestext zuerst:** Wortlaut, systematischer Kontext, Überschriften, Legaldefinitionen
+2. **Rechtsprechungsrecherche:** dejure.org (Suchfeld Norm + Stichworte); bgh.de (Volltext); curia.europa.eu (EU-Fragen)
+3. **Suchstrategie-Hinweis:** Konkrete Suchbegriffe benennen (z. B. "§ 280 BGB Pflichtverletzung Unterlassen Verkehrssicherung") für kostenpflichtige Datenbanken (beck-online, juris)
+4. **Offene Frage markieren:** Was ist noch zu klären, bevor der Schriftsatz finalisiert wird?
+
+## Schneller Arbeitsmodus
+
+- Dieses Fachmodul als Quellenhygiene-Gate: keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Frage nach vorhandenen lizenzierten Quellen oder frei zugänglichen Materialien. Wenn keine vorliegen, liefere nur Normen, Rechtsprechungs-Recherchefragen und Suchstrategie.
+- Trenne sauber zwischen gesichertem Gesetzestext, verifizierter Rechtsprechung, Nutzerquelle und offenem Literaturbedarf.
+
+---
+
 ## Skill: `unbestimmte-rechtsbegriffe-ungeschriebene`
 
-_Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen im Subsumtions Pruefer._
+_Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen im Subsumtions Prüfer._
 
 # Unbestimmte Rechtsbegriffe prüfen
 
@@ -1095,7 +1161,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## Skill: `verjaehrung-fristen-pruefen`
 
-_Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich im Subsumtions Pruefer._
+_Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich im Subsumtions Prüfer._
 
 # Verjährung und Fristen prüfen
 
@@ -1204,7 +1270,7 @@ Anspruch entstanden wann?
 
 ## Skill: `einschlaegige-normen-vorschlagen-eu`
 
-_Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien (Sekundaerrecht). Gibt Hinweise auf EuGH-Judikatur und Fundstellen bei curia.europa.eu. Klaert unmittelbare Wirkung und Anwendungsvorrang im Subsumtions Pruefer._
+_Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien (Sekundaerrecht). Gibt Hinweise auf EuGH-Judikatur und Fundstellen bei curia.europa.eu. Klaert unmittelbare Wirkung und Anwendungsvorrang im Subsumtions Prüfer._
 
 # Einschlägige Normen vorschlagen — Unionsrecht
 
@@ -1292,75 +1358,9 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ---
 
-## Skill: `kommentar-literatur-konkurrenzen`
-
-_Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. Markiert, welche Normen vertieft in Literatur oder Datenbanken zu prüfen sind, und fordert Nutzerquellen oder lizenzierten Live-Zugriff an im Subsumtions Pruefer._
-
-# Quellenhinweis ohne Blindzitate
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Quellenklassen und Umgang
-
-### Klasse 1 — Gesetzestext (frei prüfbar, höchste Verlässlichkeit)
-
-- **Bundesrecht:** gesetze-im-internet.de (amtlich, tagesaktuell)
-- **EU-Recht:** eur-lex.europa.eu (konsolidierte Fassungen)
-- **Landesrecht:** jeweilige Landesrechtsdatenbanken (z. B. landesrecht.nrw.de)
-- **Nutzung:** Norm direkt zitieren mit Fassungsstand; kein "nach h. M. gilt §..." ohne eigene Prüfung
-
-### Klasse 2 — Verifizierte Rechtsprechung (frei prüfbar bei Aktenzeichen-Angabe)
-
-- **BGH:** bgh.de, dejure.org, openjur.de
-- **BVerfG:** bverfg.de
-- **BAG, BVerwG, BSG, BFH:** jeweilige Behördenwebseiten; dejure.org als Querverweisquelle
-- **EuGH/EuG:** curia.europa.eu
-- **Nutzung:** Gericht + Entscheidungsform + Datum + Aktenzeichen + tragender Rechtssatz; immer als Prüfpunkt markieren, wenn nicht live verifiziert
-
-### Klasse 3 — Nutzerbereitgestellte Literatur (erlaubt mit Kennzeichnung)
-
-- Kommentare (Palandt/Grüneberg, MüKo, Staudinger, Schönke/Schröder etc.), die der Nutzer als Text einstellt
-- Aufsätze, Handbücher, Gutachten aus lizenzierter Datenbank, wenn der Nutzer den Volltext bereitstellt
-- **Nutzung:** Zitierung mit Fundstelle (Autor, Werk, Auflage, Rn.); als "aus Nutzerquelle" kennzeichnen; nicht als frei verifizierbarer Nachweis behandeln
-
-### Klasse 4 — Modellwissen (verboten für Zitate)
-
-- BeckRS-, juris-, NJW-, NZA-, NJW-RR-Blindzitate aus dem Modellwissen
-- Randnummern, die nicht live geprüft wurden
-- "nach allgemeiner Ansicht" oder "h. M." ohne konkrete Quelle
-
-## Ausgabe-Tabelle
-
-| Punkt | Prüfbedarf | Quelle |
-|---|---|---|
-| Norm/TBM | Welche dogmatische Frage ist offen? | Gesetz (gesetze-im-internet.de) oder verifizierte Rechtsprechung oder Nutzerquelle |
-
-## Recherche-Strategie für offene Fragen
-
-Wenn Nutzer keine Literatur bereithält und eine Frage literaturbedürftig ist:
-
-1. **Gesetzestext zuerst:** Wortlaut, systematischer Kontext, Überschriften, Legaldefinitionen
-2. **Rechtsprechungsrecherche:** dejure.org (Suchfeld Norm + Stichworte); bgh.de (Volltext); curia.europa.eu (EU-Fragen)
-3. **Suchstrategie-Hinweis:** Konkrete Suchbegriffe benennen (z. B. "§ 280 BGB Pflichtverletzung Unterlassen Verkehrssicherung") für kostenpflichtige Datenbanken (beck-online, juris)
-4. **Offene Frage markieren:** Was ist noch zu klären, bevor der Schriftsatz finalisiert wird?
-
-## Schneller Arbeitsmodus
-
-- Dieses Fachmodul als Quellenhygiene-Gate: keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Frage nach vorhandenen lizenzierten Quellen oder frei zugänglichen Materialien. Wenn keine vorliegen, liefere nur Normen, Rechtsprechungs-Recherchefragen und Suchstrategie.
-- Trenne sauber zwischen gesichertem Gesetzestext, verifizierter Rechtsprechung, Nutzerquelle und offenem Literaturbedarf.
-
----
-
 ## Skill: `konkurrenzen-anspruchsgrundlagen`
 
-_Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG im Subsumtions Pruefer._
+_Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG im Subsumtions Prüfer._
 
 # Konkurrenzen und Anspruchsgrundlagen
 
@@ -1450,7 +1450,7 @@ Das System erstellt eine Konkurrenz-Tabelle:
 
 ## Skill: `grundrechte-pruefung-de-und-grch`
 
-_Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit im Subsumtions Pruefer._
+_Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit im Subsumtions Prüfer._
 
 # Grundrechte prüfen — GG und GRCh
 
@@ -1527,7 +1527,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## Skill: `output-memo-und-mandantenbrief`
 
-_Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis im Subsumtions Pruefer._
+_Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis im Subsumtions Prüfer._
 
 # Output: Memo und Mandantenbrief
 

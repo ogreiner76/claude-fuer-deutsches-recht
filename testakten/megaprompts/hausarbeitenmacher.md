@@ -45,7 +45,7 @@ Dieser Einstieg routet **Hausarbeitenmacher** vom ersten Sachverhalt zu Rollen, 
 - `durch-schriftsatz-brief-und-memo-bausteine` — Durch Schriftsatz Brief und Memo Bausteine
 - `europarecht-anwendbarkeit-hausarbeiten` — Europarecht Anwendbarkeit Hausarbeiten
 - `europarecht-interessen-fertigen-sonderfall` — Europarecht Interessen Fertigen Sonderfall
-- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Oeffentlich Straf
+- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Öffentlich Straf
 - `fertigen-sonderfall-und-edge-case` — Fertigen Sonderfall und Edge Case
 - `fuehrt-risikoampel-und-gegenargumente` — Fuehrt Risikoampel und Gegenargumente
 - `gliederung-mit-tiefenstruktur` — Gliederung mit Tiefenstruktur
@@ -76,7 +76,7 @@ _Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Hausarbeitenmache
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Didaktisches Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Hausarbeitenmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Didaktisches Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Hausarbeitenmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,10 +98,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -158,7 +158,7 @@ _Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturie
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 133, 157 BGB — Auslegung von Willenserklärungen und Vertraegen: Massstab für Sachverhaltswuerdigung
+- §§ 133, 157 BGB — Auslegung von Willenserklärungen und Vertraegen: Maßstab für Sachverhaltswuerdigung
 - § 195 BGB — Regelverjaehrung 3 Jahre: Zeitstrahl-Relevanz bei Klage/Mahnung/Verjährungsbeginn
 - § 199 BGB — Verjährungsbeginn: Kenntnis und grob fahrlässige Unkenntnis
 - § 204 BGB — Hemmung der Verjährung durch Rechtsverfolgung
@@ -1183,17 +1183,17 @@ _Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Welches Fachgebiet und wie viele Anspruchsgrundlagen/Pruefungspunkte sind zu erwarten?
+1. Welches Fachgebiet und wie viele Anspruchsgrundlagen/Prüfungspunkte sind zu erwarten?
 2. Wie ist die gewuenschte Tiefe der Gliederung (Anfaenger: A.I.1.a), Examen: tiefer)?
-3. Gibt es Konkurrenzen zwischen Anspruchsgrundlagen, die in der Gliederung sichtbar sein muessen?
-4. Sollen Hilfsweise-Pruefungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
+3. Gibt es Konkurrenzen zwischen Anspruchsgrundlagen, die in der Gliederung sichtbar sein müssen?
+4. Sollen Hilfsweise-Prüfungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
 
 ## Aktuelle Rechtsprechung und Methodik
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben: Gliederung muss die rechtlichen Beziehungen vollstaendig abbilden
-- § 308 ZPO — Bindung an Antraege: Gliederung darf nicht ueber den Bearbeitungsvermerk hinausgehen
+- § 308 ZPO — Bindung an Antraege: Gliederung darf nicht über den Bearbeitungsvermerk hinausgehen
 - §§ 195 ff. BGB — Verjährung als eigener Gliederungspunkt bei Anspruchs-Erloesung
 - § 362 BGB — Erfuellung als erster Erloeschungsgrund in Gliederungs-Unterebene
 
@@ -1458,7 +1458,7 @@ _Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachte
 ## Triage zu Beginn
 1. Handelt es sich um eine Hausarbeit (immer Gutachtenstil) oder einen Schriftsatz (Urteilsstil)?
 2. Welcher Punkt ist streitig und erfordert volle Vier-Schritte-Subsumtion?
-3. Welche Punkte sind offensichtlich klar und duerfen im gedraengten Stil behandelt werden?
+3. Welche Punkte sind offensichtlich klar und dürfen im gedraengten Stil behandelt werden?
 4. Wurde der Obersatz hypothetisch formuliert ("koennte", "duerfte") oder verrät er schon das Ergebnis?
 
 ## Aktuelle Rechtsprechung und Methodik
@@ -1701,7 +1701,7 @@ _Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodisch
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 195 BGB — Regelverjaehrung: haeufig vergessener Pruefungspunkt, fuehrt zu Fehler 19
+- § 195 BGB — Regelverjaehrung: haeufig vergessener Prüfungspunkt, fuehrt zu Fehler 19
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: mahnende Analogie für korrekte Sachverhaltserfassung
 - § 242 BGB — Treu und Glauben: verhindert uebertrieben formalistische Fehler
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab für Definitionen und Subsumtion
@@ -2059,15 +2059,15 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Student muss eine Gliederung für eine zivilrechtliche, strafrechtliche oder verwaltungsrechtliche Hausarbeit erstellen.
 - Student ist unsicher, ob Gutachtenstil oder Urteilsstil anzuwenden ist und wann gewechselt werden soll.
 - Student will einen Meinungsstreit mit eigenem Standpunkt methodisch korrekt darstellen.
-- Student prueft Hausarbeit kurz vor Abgabe auf inhaltliche und formale Vollstaendigkeit.
+- Student prüft Hausarbeit kurz vor Abgabe auf inhaltliche und formale Vollstaendigkeit.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Gutachtenstil** — Pruefungsstil der juristischen Ausbildung: Obersatz, Definitionen, Subsumtion, Ergebnis (O-D-S-E).
-- **Urteilsstil** — Ergebnis zuerst, dann Begruendung; in der Hausarbeit nur bei eindeutigen Vorfragen zulaessig.
+- **Gutachtenstil** — Prüfungsstil der juristischen Ausbildung: Obersatz, Definitionen, Subsumtion, Ergebnis (O-D-S-E).
+- **Urteilsstil** — Ergebnis zuerst, dann Begruendung; in der Hausarbeit nur bei eindeutigen Vorfragen zulässig.
 - **Subsumtion** — Unterordnung des Sachverhalts unter den Tatbestand einer Norm; zentrales Handwerk juristischer Arbeit.
-- **Anspruchsgrundlage** — Norm, die einen Anspruch gewaehrt; Ausgangspunkt jeder zivilrechtlichen Pruefung (z. B. § 433 Abs. 2 BGB).
-- **Pruefungsschema** — Vorgegebene Reihenfolge der zu pruefenden Tatbestandsmerkmale; z. B. Tatbestand-Rechtswidrigkeit-Schuld im Strafrecht.
+- **Anspruchsgrundlage** — Norm, die einen Anspruch gewaehrt; Ausgangspunkt jeder zivilrechtlichen Prüfung (z. B. § 433 Abs. 2 BGB).
+- **Prüfungsschema** — Vorgegebene Reihenfolge der zu prüfenden Tatbestandsmerkmale; z. B. Tatbestand-Rechtswidrigkeit-Schuld im Strafrecht.
 - **Meinungsstreit** — Kontroverse Rechtsfrage mit herrschender Meinung und Mindermeinungen; erfordert Argumentation und eigene Stellungnahme.
 - **Sokratischer Dialog** — Lernmethode durch gezielte Fragen statt vorgefertigter Antworten; Grundprinzip des Plugins.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -2077,7 +2077,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - §§ 241-853 BGB (Schuldrecht, Sachenrecht — Grundlage zivilrechtlicher Hausarbeiten)
 - §§ 1-37 StGB (Allgemeiner Teil Strafrecht — Tatbestand, Rechtswidrigkeit, Schuld)
 - §§ 40 ff. VwGO (Verwaltungsgerichtsordnung — Statthaftigkeit und Zulaessigkeit)
-- Art. 1-19 GG (Grundrechte — Grundlage verfassungsrechtlicher Pruefungen)
+- Art. 1-19 GG (Grundrechte — Grundlage verfassungsrechtlicher Prüfungen)
 - Art. 267 AEUV (Vorabentscheidungsverfahren EuGH — bei Europarecht-Bezug)
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
@@ -2095,22 +2095,22 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - `bearbeitungsplan-erstellen` — Zeitplan und Arbeitsplan für Recherche, Gliederung, Rohfassung, Endfassung und Korrektur erstellen.
 - `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet der Hausarbeit bestimmen: Zivilrecht, öffentliches Recht, Strafrecht oder Mix.
 - `gliederung-mit-tiefenstruktur` — Gliederung mit korrekter Tiefenstruktur (A, Roemisch, Arabisch, Kleinbuchstabe) erstellen.
-- `gutachtenstil-vs-urteilsstil` — Klaeren, wann Gutachtenstil und wann Urteilsstil anzuwenden ist.
+- `gutachtenstil-vs-urteilsstil` — Klären, wann Gutachtenstil und wann Urteilsstil anzuwenden ist.
 - `subsumtion-schritt-für-schritt` — Subsumtion Schritt für Schritt ueben: Tatbestandsmerkmal, Definition, Sachverhalt, Ergebnis.
 - `meinungsstreit-darstellen` — Meinungsstreit mit herrschender Meinung, Mindermeinungen und eigenem Standpunkt darstellen.
-- `methodenlehre-auslegung` — Vier Auslegungsmethoden erlaeutern: grammatikalisch, systematisch, historisch, teleologisch.
-- `zivilrecht-anspruchsgrundlagen-pruefung` — Zivilrechtliche Ansprueche pruefen: V-C-G-D-D-B-Reihenfolge (Vertrag, culpa in contrahendo, GoA, Delikt, Bereicherung).
+- `methodenlehre-auslegung` — Vier Auslegungsmethoden erläutern: grammatikalisch, systematisch, historisch, teleologisch.
+- `zivilrecht-anspruchsgrundlagen-pruefung` — Zivilrechtliche Ansprueche prüfen: V-C-G-D-D-B-Reihenfolge (Vertrag, culpa in contrahendo, GoA, Delikt, Bereicherung).
 - `strafrecht-tatbestand-rechtswidrigkeit-schuld` — Drei-Stufen-Schema Strafrecht: Tatbestand, Rechtswidrigkeit, Schuld.
-- `öffentliches-recht-statthaft-zulaessig-begruendet` — Verwaltungsrechtliche Klagen pruefen: Statthaftigkeit, Zulaessigkeit, Begruendetheit.
-- `verfassungsrecht-grundrechtspruefung` — Grundrechte pruefen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung, Verhaeltnismaessigkeit.
-- `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — Europarecht-Bezug klaeren: Anwendungsvorrang, direkte Wirkung, Vorlagepflicht EuGH.
+- `öffentliches-recht-statthaft-zulaessig-begruendet` — Verwaltungsrechtliche Klagen prüfen: Statthaftigkeit, Zulaessigkeit, Begruendetheit.
+- `verfassungsrecht-grundrechtspruefung` — Grundrechte prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung, Verhältnismäßigkeit.
+- `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — Europarecht-Bezug klären: Anwendungsvorrang, direkte Wirkung, Vorlagepflicht EuGH.
 - `rechtstheorie-rechtsphilosophie-anbindung` — Rechtstheoretische Bezuege einbauen: Positivismus, Naturrecht, Kelsen, Hart, Dworkin.
 - `quellenrecherche-rechtsprechung-literatur` — Juristische Quellen finden: amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, dejure, openJur, EUR-Lex.
 - `zitierweise-jura-fundstellen` — Richtig zitieren in Hausarbeiten: Rechtsprechung, Kommentare, Aufsaetze, Lehrbuecher.
 - `haeufige-fehler-vermeiden` — Typische methodische, stilistische und formale Fehler in Hausarbeiten vermeiden.
 - `professor-erkennen-und-strategie` — Lehrmeinung des betreuenden Professors erkennen und Argumentationsstrategie ableiten.
 - `behutsame-frech-wertschaetzende-rueckfragen` — Stil-Anleitung für den Dialogton des Plugins.
-- `selbstkontrolle-vor-abgabe` — Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit pruefen.
+- `selbstkontrolle-vor-abgabe` — Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit prüfen.
 - `seminararbeit-modus` — Seminararbeit mit Forschungsfrage, Literaturschau und eigener These verfassen.
 
 ## Worauf besonders achten
@@ -2118,7 +2118,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Gutachtenstil konsequent einhalten: Ergebnis darf nicht im Obersatz vorweggenommen werden.
 - Meinungsstrei vollstaendig darstellen: Eigene Stellungnahme ohne Argumente ist ein Benotungsmangel.
 - Zitierregeln professorsensitiv: Manche Lehrstuehle bevorzugen andere Zitierstile als allgemein ueblich.
-- Subsumtion lueckenlos: Jedes Tatbestandsmerkmal einzeln pruefen, auch wenn das Ergebnis offensichtlich erscheint.
+- Subsumtion lueckenlos: Jedes Tatbestandsmerkmal einzeln prüfen, auch wenn das Ergebnis offensichtlich erscheint.
 - Zeitmanagement: Hausarbeiten werden unter Unterschaetzung der Recherchephase haeufig nicht fertig.
 
 ## Typische Fehler
@@ -2126,7 +2126,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Obersatz anticipiert das Ergebnis: Im Gutachtenstil verboten; korrekte Form ist hypothetisch.
 - Streitstand nicht aufgegriffen: Kontroverse Fragen werden als gesetzt behandelt statt eigenstaendig diskutiert.
 - Quellen ohne Seiten- oder Randnummern zitiert: Nachpruefbarkeit fehlt; im Jura-Zitierstandard Pflichtangabe.
-- Gliederung zu flach: Nur zwei Ebenen genuegen nicht; tiefe Pruefungsschritte muessen strukturiert werden.
+- Gliederung zu flach: Nur zwei Ebenen genügen nicht; tiefe Prüfungsschritte müssen strukturiert werden.
 - Keine Selbstkontrolle vor Abgabe: Formfehler (Seitenanzahl, Deckblatt, eidesstattliche Erklaerung) kosten Punkte.
 
 ## Quellen und Aktualitaet

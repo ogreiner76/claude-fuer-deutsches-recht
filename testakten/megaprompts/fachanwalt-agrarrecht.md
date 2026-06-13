@@ -8,14 +8,14 @@ Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `fachanwalt-agrarrec
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Agrarrecht: ordnet Rolle (Landwirt, Verpächter/Pächter, Behörde), markiert F…
 2. **mandat-triage-agrarrecht** — Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Förderung Tierhaltungs-Genehmig…
-3. **orientierung-fachanwaltschaft-mandat** — Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierun…
+3. **orientierung-fachanwaltschaft-mandat** — Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung…
 4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- …
 5. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
 6. **milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg** — Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis …
 7. **agrar-foerderung-gap-strategieplan** — GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen EL…
 8. **agrar-mandantenfragen-typisch** — Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, …
-9. **agrar-paechterbetrieb-spezial** — Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des P…
-10. **agrar-wolfsschaden-spezial** — Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Ant…
+9. **agrar-wolfsschaden-spezial** — Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Ant…
+10. **sammelantrag-gap-checkliste** — Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vol…
 
 ---
 
@@ -229,9 +229,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `orientierung-fachanwaltschaft-mandat`
 
-_Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung HoefeO Anerbenrecht Landpa..._
+_Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung HoefeO Anerbenrecht Landpa..._
 
-# Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten
+# Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten
 
 
 ## Arbeitsweg
@@ -242,7 +242,7 @@ _Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg.
+**Fokus:** Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg.
 
 ### Fachanwalt für Agrarrecht — Orientierung
 
@@ -366,7 +366,7 @@ _Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrech
 
 - Neue Anfrage aus dem Bereich Agrar-, Forst- und Lebensmittelrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klaeren, Konflikt- und GwG-Pruefung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
@@ -374,15 +374,15 @@ _Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrech
 
 Standard-Fragenraster für Agrar-, Forst- und Lebensmittelrecht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Hofnachfolge, GAP-Direktzahlungen, Landpachtvertrag, Tierhaltung/TierSchG, Lebensmittelrecht
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess). Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -391,7 +391,7 @@ Standard-Fragenraster für Agrar-, Forst- und Lebensmittelrecht:
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -399,14 +399,14 @@ Standard-Streitwerte im Bereich Agrar-, Forst- und Lebensmittelrecht:
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -429,9 +429,9 @@ Drei Weichen am Ende des Erstgespraechs:
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar -> später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 
@@ -467,7 +467,7 @@ Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fac
 
 ### Konstellation C: Interessenkonflikt-Naehe
 
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung:
+Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung:
 
 1. § 43a Abs. 4 BRAO und § 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
 2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
@@ -484,9 +484,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach § 3a RVG.
 - Erfolgshonorar nur in den engen Grenzen § 4a RVG.
-- Vorschuss in Hoehe der voraussichtlichen 1. Instanz.
+- Vorschuss in Höhe der voraussichtlichen 1. Instanz.
 - Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege moeglich sind.
+- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege möglich sind.
 
 ## Mandatsbogen-Muster (Mindestinhalt)
 
@@ -506,7 +506,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ## Vertiefung — Normenkette und Rechtsprechung Erstgespräch Agrarrecht
 
@@ -585,13 +585,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg`
 
-_Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Pruefraster fuer den typischen Fall verpachtete Milchquote vor 2015 mit nachtraeglicher EU-Rueckforderung._
+_Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Prüfraster fuer den typischen Fall verpachtete Milchquote vor 2015 mit nachtraeglicher EU-Rueckforderung._
 
 # Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg
 
 ## Einsatzlage
 
-Verpaechter A hatte bis 2015 Milchquoten an Paechter B verpachtet. Nach Auslaufen der EU-Milchquotenregelung mahnt die Bundesanstalt fuer Landwirtschaft und Ernaehrung BLE 2024 Rueckforderungen aus angeblicher Ueberlieferung 2013/14 an. Wer haftet?
+Verpaechter A hatte bis 2015 Milchquoten an Paechter B verpachtet. Nach Auslaufen der EU-Milchquotenregelung mahnt die Bundesanstalt für Landwirtschaft und Ernaehrung BLE 2024 Rueckforderungen aus angeblicher Ueberlieferung 2013/14 an. Wer haftet?
 
 ## Normenanker
 
@@ -618,9 +618,9 @@ Verpaechter A hatte bis 2015 Milchquoten an Paechter B verpachtet. Nach Auslaufe
 ## Arbeitsergebnis
 
 1. Quoteninhaber 2013/14 = formell Eingetragener.
-2. Verpachtungsvertrag pruefen: Klausel zur Superabgabe vorhanden?
+2. Verpachtungsvertrag prüfen: Klausel zur Superabgabe vorhanden?
 3. Wenn ja: Innenregress gegen Paechter aus Vertrag.
-4. Wenn nein: Pruefe Paragraf 313 BGB Wegfall der Geschaeftsgrundlage; Quotenmarkt 2015 weggefallen.
+4. Wenn nein: Prüfe Paragraf 313 BGB Wegfall der Geschäftsgrundlage; Quotenmarkt 2015 weggefallen.
 5. Verjaehrung: 3 Jahre Paragraf 195 BGB ab Ueberlieferungsjahr.
 
 ## Belege und Aktenlücken
@@ -646,7 +646,7 @@ _GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Ei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg ueber Bewilligungsstelle des Landes, Cross-Compliance, GLOEZ. Pruefraster und Mustertexte.
+**Fokus:** GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg über Bewilligungsstelle des Landes, Cross-Compliance, GLOEZ. Prüfraster und Mustertexte.
 
 ### Agrar: GAP-Förderung
 
@@ -659,26 +659,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -716,111 +716,32 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `agrar-paechterbetrieb-spezial`
-
-_Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung: Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre..._
-
-# Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung. Schnittstelle Erbrecht beim Generationenwechsel. Pruefraster mit Belegen.
-
-### Agrar: Paechterbetrieb
-
-## Spezialwissen: Agrar: Paechterbetrieb
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 2 LPachtVG
-- § 45a BNatSchG
-- § 23 LwVG
-- § 80 VwG
-- § 70 VwG
-- § 45 BNatSchG
-- § 4 LPachtVG
-- § 4 BImSchG
-- § 74 VwG
-- § 67 OWiG
-- § 68 VwG
-- § 10 BImSchG
-
-### Leitentscheidungen
-
-- EuGH C-543/16
-- EuGH C-275/05
 
 ---
 
@@ -852,32 +773,278 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `sammelantrag-gap-checkliste`
+
+_Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind: Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben volls..._
+
+# Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
+- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Möglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung für Widerspruch gegen Foerderbescheid.
+
+### Sammelantrag GAP — Checkliste
+
+## Mandantenfragen — Kaltstart
+
+1. **Werden Pachtflächen bewirtschaftet?** — Pachtverträge müssen auf Antragsteller laufen, Anzeige nach § 2 LPachtVG erforderlich; fehlende Pachtdokumentation kann zum Flächen-Aberkennung führen.
+2. **Haben sich Flächenzuschnitte oder Kulturarten gegenüber dem Vorjahr geändert?** — Neue Feldblock-IDs oder Flächenverkleinerungen müssen korrekt eingetragen werden; häufigste Fehlerquelle.
+3. **Wird Dauergrünland bewirtschaftet?** — GLÖZ 1 verlangt Erhaltung, Umbruch nur mit Genehmigung; Verstoß führt zu Kürzungen und ggf. Rückforderung mehrerer Jahre.
+4. **Plant der Betrieb Öko-Regelungen zu beantragen?** — Freiwillig, aber erst bis Antragstellung wählbar; Rücknahme nach Stichtag mit Kürzungsrisiko.
+5. **Ist der Betriebsinhaber unter 40 Jahre alt?** — Junglandwirts-Förderung: Prüfung Erstmäßigkeit der Niederlassung und Antrag zeitgebunden.
+6. **Haben Vor-Ort-Kontrollen im Vorjahr stattgefunden?** — Befunde aus Vorjahr beeinflussen Risikoklassifizierung und Sanktionshöhe in laufendem Jahr.
+7. **Gibt es laufende Förderverpflichtungen ELER (Agrarumweltmaßnahmen, Vertragsnaturschutz)?** — Auflagen sind im Sammelantrag zu bestätigen; Abweichungen führen zu Rückzahlungspflichten.
+8. **Wurde die Düngeverordnung vollständig eingehalten?** — GAB 1 (Grundanforderungen Betriebsführung) knüpft an Düngeverordnung; Verstoß = Konditionalitäts-Kürzung.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+### Europäische Verordnungen
+
+- **VO (EU) 2021/2115** — GAP-Strategieplan-VO: Grundlage der neuen GAP ab 2023; Direktzahlungen (Basisprämie, Umverteilungsprämie, Junglandwirts-Prämie), Öko-Regelungen (Art. 31), Konditionalität (Art. 11–13), GLÖZ-Standards (Anhang III).
+- **VO (EU) 2021/2116** — Horizontale VO: InVeKoS-System, Vor-Ort-Kontrollen, Sanktionen, Verspätungskürzungen (Art. 40: 1 % pro Werktag bis 25 Tage, danach vollständiger Ausschluss).
+- **VO (EU) 2022/126** — Delegierte VO zu GLÖZ-Standards.
+
+### Nationales Recht
+
+- **GAPDZG** (GAP-Direktzahlungengesetz) — Umsetzung der Direktzahlungen in Deutschland, Struk­turierung Basisprämie, Umverteilungsprämie, Junglandwirts-Zuschuss.
+- **GAPInVeKoSG** (GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz) — Durchführung InVeKoS, Beihilfeanträge, Kontrollen.
+- **GAPKondV** (GAP-Konditionalitätsverordnung) — Konkretisierung GLÖZ-Standards und GAB für Deutschland.
+- **§§ 40 ff. LwG (Landesrecht)** — Ergänzende Landesvorschriften, insb. zu Widerspruchsverfahren.
+- **§ 41 VwVfG** — Bekanntgabefiktion (vier Tage nach Aufgabe zur Post seit PostModG 1.1.2025; vorher drei Tage): relevant für Fristberechnung Widerspruch.
+
+### Leitentscheidungen
+
+| Gericht | Aktenzeichen | Kernaussage |
+|---|---|---|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+
+## Prüfschema Sammelantrag
+
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+
+| Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
+|---|---|---|---|
+| 1 | Antragsfrist — Eingang bis 15. Mai? | Art. 40 VO 2021/2116 | 1 % Kürzung je Werktag |
+| 2 | Flächen vollständig — alle Feldblock-IDs vorhanden? | § 5 GAPInVeKoSG | Aberkennung nicht gemeldeter Flächen |
+| 3 | Pachtflächen mit Pachtvertrag unterlegt? | § 2 LPachtVG | Fläche nicht anerkennungsfähig |
+| 4 | Kulturarten korrekt codiert? | Art. 4 VO 2021/2116 | Systemfehler, automatische Sanktion |
+| 5 | GLÖZ 1 Dauergrünland erhalten / kein Umbruch? | Anhang III VO 2021/2115 | Kürzung bis 100 % Direktzahlung |
+| 6 | GLÖZ 8 Nicht-produktive Fläche ≥ 4 %? | GAPKondV § 8 | Konditionalitäts-Kürzung 5 % |
+| 7 | Öko-Regelungen ausgewählt und bedingungsgerecht? | Art. 31 VO 2021/2115 | Rückforderung Öko-Prämie |
+| 8 | Junglandwirts-Status: unter 40 Jahre + Erstmäßigkeit? | Art. 30 VO 2021/2115 | Verlust Junglandwirts-Zuschuss |
+| 9 | HIT-Eintrag Tierdaten korrekt zum Stichtag? | § 27 ViehVerkV | Aberkennung tierbezogener Prämien |
+| 10 | ELER-Verpflichtungen bestätigt? | § 65 GAPInVeKoSG | Rückzahlungspflicht 5-Jahres-Förderung |
+| 11 | GAB-Anforderungen (Düngung, Pflanzenschutz, Tierschutz) eingehalten? | GAPKondV §§ 3–10 | GAB-Kürzung bis 5 % |
+| 12 | Korrekturfrist 31. Mai beachtet falls Fehler erkannt? | Art. 40 VO 2021/2116 | Nachkorrektur ohne Kürzung nur bis 31.5. |
+
+## Konditionalität (Cross Compliance neu) — GLÖZ-Standards
+
+### Guter Landwirtschaftlicher und Ökologischer Zustand
+
+| GLÖZ | Inhalt | Prüfpunkt |
+|---|---|---|
+| GLÖZ 1 | Erhaltung Dauergrünland (max. 5 % Rückgang national) | Umbruch nur mit LWK-Genehmigung |
+| GLÖZ 2 | Schutz Feuchtgebiete und Torfböden | Keine Neudrainierung |
+| GLÖZ 3 | Verbot Verbrennung von Stoppeln | Nach Ernte Mulchen oder Einarbeitung |
+| GLÖZ 4 | Mindestbodenbedeckung in sensiblen Zeiträumen | Winterbegrünung oder Mulchauflage |
+| GLÖZ 5 | Bodenerosions-Management | Hanglage: Schlaglänge begrenzen |
+| GLÖZ 6 | Mindestbodenbedeckung Herbst/Winter | Winterbegrünung ab 1.11. |
+| GLÖZ 7 | Fruchtwechsel (mind. zwei Kulturen jährlich) | Ausnahmen Dauergrünland und bestimmte Ökobetriebe |
+| GLÖZ 8 | Nicht-produktive Fläche ≥ 4 % (ab 2025 tatsächlich 3 % mit Öko-Bonus) | Stilllegung, Brache, Blühstreifen |
+| GLÖZ 9 | Erhalt Landschaftselemente (Hecken, Bäume, Teiche) | Keine Beseitigung ohne Genehmigung |
+
+### Grundanforderungen Betriebsführung (GAB 1–10)
+
+- GAB 1: Nitratrichtlinie / Düngeverordnung
+- GAB 4: Tierschutz Nutztierhaltung
+- GAB 7/8: Pflanzenschutzmittelrecht
+- GAB 10: Wasserrahmenrichtlinie / Gewässerschutz
+
+### Sanktionen bei Verstoß
+
+- Erstverstoß: 3 % Standard (kann auf 1 % reduziert oder auf 5 % erhöht werden nach Schwere)
+- Wiederholung: dreifache Erhöhung (bis 15 %)
+- Vorsatz: bis 100 % der Gesamtzahlung
+
+## Öko-Regelungen 2023 (freiwillig, Art. 31 VO 2021/2115)
+
+| Öko-Regelung | Inhalt | Prämie ca. |
+|---|---|---|
+| ÖR 1 | Nicht-produktive Flächen / Landschaftselemente ≥ 10 % | ~45 EUR/ha |
+| ÖR 2 | Vielfältige Kulturen (mind. 4) mind. 10 % je Kultur | ~38 EUR/ha |
+| ÖR 3 | Agroforst beibehalten (Bäume auf Ackerland) | ~60 EUR/ha |
+| ÖR 4 | Extensivierung Dauergrünland — kein Grünland-Umbruch | ~115 EUR/ha |
+| ÖR 5 | Ergebnisorientierte Extensivierung (Blütenindex) | variabel |
+| ÖR 6 | Verzicht auf chemisch-synthetische Pflanzenschutzmittel | ~75 EUR/ha |
+| ÖR 7 | Streuobstflächen | ~600 EUR/ha |
+
+**Wichtig:** ÖR und GLÖZ können bei Überschneidung kumuliert werden. Kombination mit ELER-Agrarumweltmaßnahmen nur soweit keine Doppelförderung.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GAP-Sammelantrag prüfen und unterstuetzen | Prüfschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
+| Variante A — Widerspruch gegen Bescheid noetig | Schriftsatzbaustein unten; Frist 1 Monat ab Bekanntgabe |
+| Variante B — erstmaliger Antrag ohne Vorjahr-Erfahrung | Vollstaendiges Checklistenprogramm; keine Elemente weglassen |
+| Variante C — Sanktionsbescheid nach GLOEEZ-Verstoss | Stufige Argumentation; Verhältnismäßigkeit prüfen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatzbaustein — Widerspruch gegen Förderbescheid
+
+```
+An das Amt für Agrarordnung / Landwirtschaftskammer [Land]
+[Anschrift] [Ort, Datum]
+
+Widerspruch gegen Förderbescheid
+
+Bescheid: Nr. [Bescheid-Nr.] vom [Datum], zugestellt am [Datum]
+Mandant/in: [Name, Betriebsnummer]
+
+In dem vorbezeichneten Verfahren lege ich namens und in
+Vollmacht meines Mandanten
+
+ Widerspruch
+
+ein und bitte um Aussetzung der sofortigen Vollziehung, soweit
+der Bescheid bereits Kürzungen vorsieht.
+
+Begründung:
+
+1. Flächenanerkennung [Feldblock-ID]:
+ Der Bescheid erkennt [Fläche] ha weniger an als beantragt.
+ Die beantragte Fläche entspricht der im aktuellen
+ Liegenschaftskataster eingetragenen Größe von [ha].
+ Beigefügt: Katasterauszug, Pachtvertrag, GPS-Messung.
+
+2. GLÖZ-Kürzung:
+ Die Kürzung wegen angeblichem GLÖZ-[Nr.]-Verstoß ist
+ unbegründet. Konkret: [Sachverhalt; Nachweis Einhaltung].
+
+3. Verspätungskürzung:
+ Der Antrag ist am [Datum] eingegangen. Die Frist endete am
+ [15. Mai]. Die Verzögerung beruht auf [Krankheit/Höhere
+ Gewalt]. Wir beantragen Verlängerung gemäß Art. 40 Abs. 4
+ VO (EU) 2021/2116.
+
+Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
+
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
+```
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Beweislast und Darlegungslast
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Bei Vor-Ort-Kontrolle: Protokollinhalt hat faktische Beweiskraft — Widerspruch ohne Gegengutachten selten erfolgreich.
+
+## Fristen
+
+| Frist | Datum / Dauer | Rechtsgrundlage |
+|---|---|---|
+| Sammelantrag einreichen | 15. Mai (länderspezifisch) | Art. 40 VO 2021/2116 |
+| Korrektur ohne Kürzung | 31. Mai | Art. 40 VO 2021/2116 |
+| Anpassungskorrektur | 30. September | Art. 40 VO 2021/2116 |
+| Widerspruch gegen Bescheid | 1 Monat ab Bekanntgabe | § 68 VwGO, § 41 VwVfG |
+| Klage bei Untätigkeit | 3 Monate nach Widerspruchseingang | § 75 VwGO |
+| Aufbewahrungsfrist | 6 Jahre (steuerlich 10 Jahre) | § 30 LwG, § 147 AO |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument Behörde | Reaktion Anwalt |
+|---|---|
+| Fläche zu klein — InVeKoS-Messung | GPS-Gegenmessung beauftragen, Katasterauszug beibringen |
+| GLÖZ-Verstoß bei Dauergrünland | Zeitstrahl der Bewirtschaftung, Fotos mit Datum, ggf. Satellitenbild |
+| Kulturart-Code falsch | Agrarbericht Landwirtschaftskammer, Flächennutzungsplan |
+| Vor-Ort-Kontrolle negativ | Begehungsprotokoll im Detail anfechten; eigenen Sachverständigen hinzuziehen |
+| Junglandwirts-Bedingung nicht erfüllt | Gesellschaftsvertrag, Handelsregistereintrag, Notarielle Erklärung zur Geschäftsführung |
+
+## Streitwert und Kosten
+
+- **Streitwert**: Differenz zwischen beantragter und anerkannter Förderung (typisch 500 bis 20.000 EUR).
+- **RVG**: Außergerichtlich nach §§ 13, 14 RVG nach Gegenstandswert; Widerspruchsverfahren kostenlos (§ 80 VwVfG).
+- **Verwaltungsgerichts-Verfahren**: Gerichtsgebühren nach GKG, Anwaltsvergütung nach RVG (1,3-facher Gebührensatz).
+- **Wirtschaftlichkeitsprüfung**: Bei Streitwerten unter 3.000 EUR übersteigen Kosten häufig den Nutzen — Widerspruch prüfen, Klage selten sinnvoll.
+
+## Strategische Empfehlung
+
+| Konstellation | Empfehlung |
+|---|---|
+| Verspätung um 1–3 Werktage | Sofortige Korrektureinreichung + Höhere-Gewalt-Begründung; Widerspruch vorbereiten |
+| GLÖZ-Kürzung < 5 % | Widerspruch mit Beweismitteln; außergerichtliche Einigung anstreben |
+| Kürzung > 20 % oder Komplettablehnung | Widerspruch + VG-Klage; einstweiligen Rechtsschutz § 80 Abs. 5 VwGO prüfen |
+| Wiederholte Kontrolle mit Befund | Sanierungsberatung Betriebsstruktur; ggf. ELER-Agrarumweltprogramm neu ausrichten |
+| Neue Betriebsübernahme | Antrag Junglandwirts-Förderung frühzeitig, Hofübernahme-Zeitpunkt dokumentieren |
+
+## Anschluss-Skills
+
+- `landpacht-und-hoferbfolge-pruefen` — Pachtvertrags-Grundlage für Flächenanträge
+- `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` — parallele Behördenverfahren Naturschutz
+- `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei tierbezogenen Förderungen
+
+## Quellen
+
+- VO (EU) 2021/2115 GAP-Strategieplan
+- VO (EU) 2021/2116 Horizontale Verordnung
+- GAPDZG, GAPInVeKoSG, GAPKondV
+- § 41 VwVfG (Bekanntgabefiktion), § 68 VwGO (Widerspruch)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+## Ergänzung — Aktuelle Rechtsprechung 2022-2024
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026
+-->
 
 ---
 

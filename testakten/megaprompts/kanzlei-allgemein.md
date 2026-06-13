@@ -41,7 +41,7 @@ Dieser Einstieg routet **Kanzlei Allgemein** vom ersten Sachverhalt zu Rollen, F
 - `aktenbestand-pflege-bea-versand` — Aktenbestand Pflege BEA Versand
 - `aktenzeichen` — Aktenzeichen
 - `bea-journal` — BEA Journal
-- `bea-versand-pruefen` — BEA Versand Pruefen
+- `bea-versand-pruefen` — BEA Versand Prüfen
 - `buchhaltung-konten-kanzlei-erechnung` — Buchhaltung Konten Kanzlei Erechnung
 - `erechnung` — Erechnung
 - `freundlicher-copilot-kanzlei` — Freundlicher Copilot Kanzlei
@@ -560,9 +560,9 @@ Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen
 
 ## Triage zu Beginn
 1. Liegt ein frischer beA-Zugriff oder ein archivierter ZIP-Export vor?
-2. Welche Nachrichten muessen der Akte zugeordnet werden (Eingang und Ausgang)?
+2. Welche Nachrichten müssen der Akte zugeordnet werden (Eingang und Ausgang)?
 3. Gibt es Empfangsbekenntnisse (EB), die aktuell zur Entscheidung anstehen?
-4. Sind fristwahrende Dokumente dabei, die sofort ins Fristenbuch muessen?
+4. Sind fristwahrende Dokumente dabei, die sofort ins Fristenbuch müssen?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -680,7 +680,7 @@ Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Ueber welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persönliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
+1. Über welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persönliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
 2. Liegt eine beA-Versandquittung oder Eingangsbestaetigung vor, die die Fristwahrung belegt?
 3. Gibt es Anzeichen für eine beA-Stoerung oder technische Uebermittlungspanne (§ 130a Abs. 6 ZPO Wiedereinsetzung)?
 4. Muss ein elektronisches Empfangsbekenntnis (EB) erteilt werden?
@@ -812,7 +812,7 @@ _Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten Debitoren Kreditoren und
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermoegen
+- § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermögen
 - §§ 238-241 HGB — Buchfuehrungspflicht: Grundsaetze ordnungsmäßiger Buchfuehrung
 - § 147 AO — Aufbewahrungspflichten für Buchungsbelege (10 Jahre)
 - § 286 BGB — Verzug: Voraussetzungen und Verzugszinsen bei offenen Posten
@@ -1283,7 +1283,7 @@ _Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders e
 1. Liegt eine Einwilligung des Empfaengers vor, oder wird auf berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO) gestuetzt?
 2. Sollen postalische Karten, E-Mails oder digitale Nachrichten versandt werden?
 3. Gibt es einen Widerspruch (Art. 21 DSGVO) einzelner Empfaenger zu beruecksichtigen?
-4. Betrifft der Versand Verbraucher (strenger Datenschutz) oder Geschaeftskunden?
+4. Betrifft der Versand Verbraucher (strenger Datenschutz) oder Geschäftskunden?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -1291,7 +1291,7 @@ _Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders e
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. f DSGVO — Berechtigtes Interesse als Rechtsgrundlage für Mandantenpflege-Kontakte
-- Art. 21 DSGVO — Widerspruchsrecht: muss ohne Schranken moeglich sein
+- Art. 21 DSGVO — Widerspruchsrecht: muss ohne Schranken möglich sein
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten speichern
 - § 7 UWG — Unzumutbare Belaestigung bei Werbung ohne Einwilligung
 
@@ -1411,7 +1411,7 @@ _Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mand
 ## Triage zu Beginn
 1. Was ist der Zweck des Abrufs: Vertretungspruefung, KYC/GwG, Zustellungsanschrift, Vertragspartei-Identifikation?
 2. Ist der Eintrag beim Handelsregister aktuell (letzter Abruf-Zeitstempel noetig für Nachweis)?
-3. Gibt es Verdachtsmomente für Sitzverlegung, Geschaeftsfuehreraenderung oder Insolvenzen?
+3. Gibt es Verdachtsmomente für Sitzverlegung, Geschäftsführeraenderung oder Insolvenzen?
 4. Ist eine Gesellschafterliste (GmbH) oder Prokura-Eintragung relevant?
 
 ## Aktuelle Rechtsprechung
@@ -1421,7 +1421,7 @@ _Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mand
 - § 15 HGB — Registerpublizitaet: Eintragungen und deren Wirkung
 - § 8 HGB — Inhalt und Pflichtangaben des Handelsregisters
 - § 40 GmbHG — Gesellschafterliste: Hinterlegung und Wirkung als Nachweis der Mitgliedschaft
-- § 3 GwG — Sorgfaltspflichten für risikobasierte KYC-Pruefung (Handelsregister als Beleg)
+- § 3 GwG — Sorgfaltspflichten für risikobasierte KYC-Prüfung (Handelsregister als Beleg)
 
 ## Offizielle Quellen
 
@@ -1510,7 +1510,7 @@ _Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Hr Personal Kanzlei Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Hr Personal Kanzlei Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -1531,9 +1531,9 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Geht es um Neueinstellung (Vertrag, Onboarding), laufendes Beschaeftigungsverhaeltnis (Urlaub, Krankenstand) oder Beendigung (Kündigung, Offboarding)?
-2. Welche Beschaeftigungsart liegt vor: Vollzeit, Teilzeit, Minijob, Werkstudent, freie Mitarbeit?
-3. Ist ein Betriebsrat vorhanden (unwahrscheinlich bei Kleinkanzlei, aber pruefenswert ab 5 Beschaeftigten)?
+1. Geht es um Neueinstellung (Vertrag, Onboarding), laufendes Beschäftigungsverhaeltnis (Urlaub, Krankenstand) oder Beendigung (Kündigung, Offboarding)?
+2. Welche Beschäftigungsart liegt vor: Vollzeit, Teilzeit, Minijob, Werkstudent, freie Mitarbeit?
+3. Ist ein Betriebsrat vorhanden (unwahrscheinlich bei Kleinkanzlei, aber prüfenswert ab 5 Beschäftigten)?
 4. Sind datenschutzrechtliche Anforderungen (Art. 88 DSGVO, § 26 BDSG) bei der Personalaktenfuehrung beachtet?
 
 ## Aktuelle Rechtsprechung
@@ -1541,9 +1541,9 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Zentrale Normen
 - §§ 620-630 BGB — Dienstvertrag: Kuendigung, Zeugnis, Grundpflichten
-- § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschaeftigte
+- § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschäftigte
 - § 3 BUrlG — Gesetzlicher Mindesturlaub (24 Werktage)
-- § 26 BDSG — Datenverarbeitung für Zwecke des Beschaeftigungsverhaeltnisses
+- § 26 BDSG — Datenverarbeitung für Zwecke des Beschäftigungsverhaeltnisses
 
 ## Personalakte
 
@@ -1600,7 +1600,7 @@ _Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. A
 ## Triage zu Beginn
 1. Welche Integration ist konkret gemeint: E-Mail/Outlook, beA, Word, DMS, Buchhaltung, Fax, Messenger?
 2. Ist die Integration echt angeschlossen oder soll ein Simulationsmodus aktiv werden?
-3. Welche Daten duerfen in den Simulationsmodus eingegeben werden (Anonymisierung von Mandantendaten)?
+3. Welche Daten dürfen in den Simulationsmodus eingegeben werden (Anonymisierung von Mandantendaten)?
 4. Soll der Simulationsmodus für Training, Demo oder als dauerhafter Fallback genutzt werden?
 
 ## Aktuelle Rechtsprechung
@@ -1608,7 +1608,7 @@ _Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. A
 
 ## Zentrale Normen
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag für externe Systemanbieter
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen auch für Simulationsumgebungen
+- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen auch für Simulationsumgebungen
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch im Simulationsmodus mit echten Daten
 - § 203 StGB — Verletzung der Berufsgeheimnisse bei unerlaubter Datenweitergabe
 

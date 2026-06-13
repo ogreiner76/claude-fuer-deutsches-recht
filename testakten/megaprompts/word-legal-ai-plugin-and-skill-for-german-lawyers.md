@@ -13,14 +13,14 @@ Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `word-legal-ai-plugi
 5. **anwaltsschreiben-aussergerichtlich** — Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verz…
 6. **b2b-vs-b2c-klausel-strategie** — Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB…
 7. **bedingungen-aufschiebend-aufloesend-fristen** — Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesend…
-8. **bilingual-drafting-cowork-cloud** — Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual,…
-9. **boilerplate-klauseln-definitionen** — Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behande…
-10. **cowork-cloud-kollaboration-drafting** — Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 4…
-11. **defensive-drafting-deutscher-kanzleistil** — Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellun…
-12. **definitionen-klauseln-stringent** — Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich…
-13. **deutscher-kanzleistil-kalibrieren** — Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, I…
-14. **dokumentarchitektur-vertrag-englischer** — Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistung…
-15. **drafting-prinzipien-finaler-writing** — Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumti…
+8. **boilerplate-klauseln-definitionen** — Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behande…
+9. **cowork-cloud-kollaboration-drafting** — Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 4…
+10. **definitionen-klauseln-stringent** — Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich…
+11. **deutscher-kanzleistil-kalibrieren** — Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, I…
+12. **dokumentarchitektur-vertrag-englischer** — Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistung…
+13. **englischer-vertrag-deutsches-recht** — Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import v…
+14. **finaler-writing-quality-gate** — Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zit…
+15. **force-majeure-geheimhaltung-nda** — Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definiti…
 
 ---
 
@@ -39,7 +39,7 @@ Dieser Einstieg routet **Word Legal Ai Plugin And Skill For German Lawyers** vom
 - `anspruchsgrundlage-rechtsfolgen-b2b-vs` — Anspruchsgrundlage Rechtsfolgen B2b Vs
 - `anwaltsschreiben-aussergerichtlich-argumentationsarchitektur` — Anwaltsschreiben Aussergerichtlich Argumentationsarchitektur
 - `bilingual-drafting-cowork-cloud` — Bilingual Drafting Cowork Cloud
-- `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Vertraege
+- `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Verträge
 - `boilerplate-klauseln-definitionen-klauseln` — Boilerplate Klauseln Definitionen Klauseln
 - `defensive-drafting-deutscher-kanzleistil` — Defensive Drafting Deutscher Kanzleistil
 - `dokumentarchitektur-vertrag-englischer-vertrag` — Dokumentarchitektur Vertrag Englischer Vertrag
@@ -304,14 +304,14 @@ _Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von 
 ## Rechtlicher und methodischer Rahmen
 
 - BGB-Anspruchsgrundlagenpruefung als Vorbild. Tatbestand und Rechtsfolge sind die zwei Saeulen jeder Norm.
-- § 280 Abs. 1 BGB: "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Glaeubiger Ersatz des hierdurch entstehenden Schadens verlangen." Vorbild für Drafting.
+- § 280 Abs. 1 BGB: "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Gläubiger Ersatz des hierdurch entstehenden Schadens verlangen." Vorbild für Drafting.
 - § 281 BGB, § 286 BGB: Verzug und Schadensersatz statt der Leistung.
 - § 437 BGB, § 634 BGB: Rechte des Kaeufers und des Bestellers bei Mangel.
 - AGB-Recht: Klauselverbote § 308, § 309 BGB. Bei B2B § 307 BGB.
 
 ## Ablauf / Checkliste
 
-1. **Tatbestand zerlegen.** Welche Voraussetzungen muessen kumulativ vorliegen?
+1. **Tatbestand zerlegen.** Welche Voraussetzungen müssen kumulativ vorliegen?
 2. **Rechtsfolge formulieren.** Was ist die genaue Pflicht oder das Recht?
 3. **Frist setzen.** Innerhalb welcher Frist gilt die Rechtsfolge?
 4. **Beweislast bedenken.** Wer muss was darlegen?
@@ -338,7 +338,7 @@ ES SEI DENN [Ausnahme].
 | Ruecktritt | Nacherfuellung erfolglos | Ruecktritt durch Besteller | nach erfolgloser Frist |
 | Verzug | Faelligkeit, Mahnung | Verzugszinsen | ab Mahnung |
 | Kuendigung wichtiger Grund | Pflichtverletzung, Abmahnung | Ausserordentliche Kuendigung | 14 Tage nach Kenntnis |
-| Aufrechnung | unbestrittene oder rechtskraeftig festgestellte Forderung | Aufrechnung zulaessig | jederzeit |
+| Aufrechnung | unbestrittene oder rechtskraeftig festgestellte Forderung | Aufrechnung zulässig | jederzeit |
 
 ### Beispiel 1: Maengelhaftungsklausel (B2B-Lieferantenvertrag)
 
@@ -454,7 +454,7 @@ Mit Zugang der Kuendigung endet der Vertrag. § 9 Abs. 3 (Folgen) gilt.
 ## Quellen (Stand 05/2026)
 
 - § 280 BGB, § 281 BGB, § 286 BGB, § 288 BGB, § 308 BGB, § 309 BGB, § 437 BGB, § 634 BGB; § 377 HGB. gesetze-im-internet.de.
-- AGB-Rechtsprechung des BGH zu Mantelklauseln: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+- AGB-Rechtsprechung des BGH zu Mantelklauseln: vom Nutzer mit konkretem Aktenzeichen über bundesgerichtshof.de zu verifizieren.
 
 ## Normen und Rechtsprechung
 
@@ -796,7 +796,7 @@ Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Lon
 ## Rechtlicher und methodischer Rahmen
 
 - § 158 BGB: Aufschiebende und aufloesende Bedingung. Die Wirkung tritt mit dem Eintritt der Bedingung ein bzw. faellt mit ihm weg.
-- § 159 BGB: Rueckbeziehung der Wirkung durch Parteivereinbarung moeglich.
+- § 159 BGB: Rueckbeziehung der Wirkung durch Parteivereinbarung möglich.
 - § 161 BGB: Schwebende Wirksamkeit bei Verfuegungen.
 - § 162 BGB: Treuwidrige Verhinderung oder Herbeifuehrung der Bedingung.
 - § 163 BGB: Bestimmung der Zeit. Befristung im Gegensatz zur Bedingung.
@@ -804,12 +804,12 @@ Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Lon
 
 ## Ablauf / Checkliste
 
-1. **Klaeren: Bedingung oder Befristung?** Ungewisses Ereignis = Bedingung. Sicheres zeitliches Ereignis = Befristung.
+1. **Klären: Bedingung oder Befristung?** Ungewisses Ereignis = Bedingung. Sicheres zeitliches Ereignis = Befristung.
 2. **Aufschiebend oder aufloesend?** Tritt die Wirkung mit Bedingungseintritt ein oder faellt sie weg?
 3. **Potestativ oder Drittbedingung?** Liegt der Eintritt in der Macht einer Partei?
 4. **Long Stop Date setzen.** Ohne zeitliche Grenze schwebt die Bedingung unbestimmt lange.
 5. **Faelligkeit der Hauptpflichten bestimmen.** Mit oder ohne Eintritt?
-6. **Fristberechnung pruefen.** §§ 187 bis 193 BGB anwenden. Sonn- und Feiertagsregel beachten.
+6. **Fristberechnung prüfen.** §§ 187 bis 193 BGB anwenden. Sonn- und Feiertagsregel beachten.
 7. **Doppelt-negative Formulierungen vermeiden.**
 
 ### Tabelle Bedingungstyp zu Beispielklausel
@@ -817,7 +817,7 @@ Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Lon
 | Typ | § BGB | Wirkung | Beispielklausel |
 |---|---|---|---|
 | Aufschiebende Bedingung | § 158 Abs. 1 | Wirksamkeit tritt erst mit Eintritt ein | "Dieser Vertrag wird wirksam mit Eintragung der Verschmelzung im Handelsregister." |
-| Aufloesende Bedingung | § 158 Abs. 2 | Wirksamkeit endet mit Eintritt | "Dieser Vertrag endet mit Insolvenzeroeffnung ueber das Vermoegen des Bestellers." |
+| Aufloesende Bedingung | § 158 Abs. 2 | Wirksamkeit endet mit Eintritt | "Dieser Vertrag endet mit Insolvenzeroeffnung über das Vermögen des Bestellers." |
 | Befristung | § 163 BGB | Zeitlich gewisses Ereignis | "Der Vertrag endet am 31. Dezember 2028." |
 | Potestativbedingung | § 158 BGB | Eintritt von einer Partei kontrollierbar | "Sofern der Besteller das Angebot annimmt, ..." |
 | Closing Condition (CP) | § 158 Abs. 1 | Aufschiebende Bedingung im M&A | "Bedingung des Vollzugs ist die kartellrechtliche Freigabe." |
@@ -950,164 +950,6 @@ investition auf dem Konto der Gesellschaft (§ 187 Abs. 1 BGB).
 
 ---
 
-## Skill: `bilingual-drafting-cowork-cloud`
-
-_Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boi..._
-
-# Bilinguales Drafting Deutsch-Englisch
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Vertragstyp und Branche
-- Sprachen der Parteien (Muttersprache, Vertragsverhandlungssprache)
-- Streitloesungsforum (deutsches Gericht, US-Court, ICC, DIS, neutraler dritter Staat)
-- Vorgabe zur Verbindlichkeit der Fassungen
-- Bestehende Vorlagen oder Mustervertraege
-
-## Rechtlicher und methodischer Rahmen
-
-- **Vertragssprache**: Privatautonomie. Parteien koennen frei waehlen.
-- **Anwendbares Recht**: Rom I-VO. Bei B2C-Vertraegen Verbraucherschutz im Land des gewoehnlichen Aufenthalts (Art. 6 Rom I-VO).
-- **§ 184 GVG**: Gerichtssprache deutscher Gerichte ist Deutsch. Bei englischen Vertraegen vor deutschen Gerichten: Uebersetzung erforderlich, Kosten regelmaessig zulasten der vorlegenden Partei. Vereinzelte Spezialkammern für englischsprachige Verfahren (Hamburg, Frankfurt, Stuttgart).
-- **§ 293 ZPO**: Auslaendisches Recht muss bewiesen werden. Sachverstaendigengutachten regelmaessig erforderlich, Kosten 10.000 EUR aufwaerts.
-- **CISG (UN-Kaufrecht)**: Bei grenzueberschreitendem Warenkauf automatisch anwendbar, soweit nicht ausgeschlossen.
-
-## Drei Anwendungsfaelle
-
-### True bilingual (beide Fassungen gleichwertig)
-
-- Beide Sprachen rechtlich verbindlich.
-- Bei Widerspruch: Auslegung nach Treu und Glauben (§§ 133, 157 BGB) oder vereinbarter Auslegungsregel.
-- Hoechster Drafting-Aufwand: jede Aenderung in beiden Fassungen.
-- Sinnvoll bei symmetrischen Partnerschaften, internationalen Joint Ventures.
-
-**Sprachklausel:** "Dieser Vertrag ist in deutscher und englischer Sprache abgefasst. Beide Fassungen sind gleichermassen verbindlich. Im Falle eines Widerspruchs zwischen den beiden Fassungen sind die Bestimmungen so auszulegen, wie sie dem gemeinsamen wirtschaftlichen Zweck am besten entsprechen. // This Agreement is executed in both German and English. Both versions shall be equally binding. In the event of a conflict between the two versions, the provisions shall be interpreted in a manner that best reflects the common commercial purpose."
-
-### Sovereign language (eine verbindlich, eine nachrangig)
-
-- Standard im deutschen Wirtschaftsrecht: deutsche Fassung verbindlich, englische Fassung Nachrang.
-- Bei US/UK-Vertragspartnern oft umgekehrt.
-- Bei Widerspruch: Vorrang der bezeichneten Fassung.
-- Sinnvoll bei klarer Verhandlungsmacht oder klarem Forum.
-
-**Sprachklausel (deutsch verbindlich):** "Dieser Vertrag ist in deutscher und englischer Sprache abgefasst. Im Falle eines Widerspruchs zwischen den beiden Fassungen ist die deutsche Fassung verbindlich. // This Agreement is executed in both German and English. In the event of a conflict between the two versions, the German version shall prevail."
-
-### Courtesy translation (eine nur informativ)
-
-- Eine Sprache ist verbindlich, die andere wird ausschliesslich zur Information beigefuegt.
-- Niedriger Drafting-Aufwand bei Aenderungen (nur die verbindliche Fassung ist relevant).
-- Risiko: Uebersetzung kann irrefuehrend sein, der Mandant unterschreibt im Vertrauen auf die Uebersetzung.
-
-**Sprachklausel:** "Dieser Vertrag ist in deutscher Sprache verbindlich. Die englische Fassung ist eine reine Hoeflichkeitsuebersetzung ohne Rechtswirkung. // This Agreement is binding in its German version. The English version is a courtesy translation only and has no legal effect."
-
-## Layout
-
-### Tabelle zweispaltig (Side-by-Side)
-
-| Vorteil | Nachteil |
-|---|---|
-| Direkte Vergleichbarkeit | Schwierig bei langen Saetzen |
-| Sauber druckbar | Word-Tabellen werden bei Track Changes unuebersichtlich |
-| Klarheit für Verhandler | Hoeher Drafting-Aufwand |
-
-Wenn Side-by-Side, dann zweispaltige Tabelle ohne Rahmen, Spaltenbreite 50:50, Zeilenabstand 1,15. Jeder Vertragsabschnitt ist eine Tabellenzeile.
-
-### Gestapelt (Stacked)
-
-| Vorteil | Nachteil |
-|---|---|
-| Track Changes-tauglich | Lesefluss zweimal unterbrochen |
-| Word-natives Layout | Manchmal Verlust der Querreferenz |
-| Standard bei DIS, ICC | Lange Vertraege werden unhandlich |
-
-Gestapelt: Jeder Abschnitt erst auf Deutsch, dann auf Englisch. Englische Abschnitte in kursivem Schnitt oder mit "EN:"-Prefix.
-
-**Empfehlung:** Side-by-Side bei kurzen Vertraegen (bis 30 Seiten) und symmetrischen Partnerschaften. Stacked bei langen Vertraegen (M&A SPAs, Lizenzvertraege mit vielen Anlagen).
-
-## False Friends Deutsch-Englisch
-
-Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. Pruefen Sie jede Klausel.
-
-| Englisch | Falsche dt. Uebersetzung | Korrekte dt. Uebersetzung | Anmerkung |
-|---|---|---|---|
-| **Indemnify** | Versichern | Freistellen | Konzept des § 257 BGB, weiter als dt. Schadensersatz |
-| **Hold harmless** | Schadlos halten | Freistellen | Synonym zu indemnify in UK/US-Verstaendnis |
-| **Reasonable** | Vernuenftig | Angemessen / verkehrsueblich | Common-Law-Standard, kein deutscher Begriff |
-| **Best efforts** | Beste Bemuehungen | Aeusserste / hoechstmoegliche Anstrengungen | Im US-Recht haerter als "reasonable efforts" |
-| **Reasonable best efforts** | (oft falsch uebersetzt) | Angemessene Anstrengungen | Verhandlungsformel zwischen "best" und "commercially reasonable" |
-| **Consequential damages** | Folgeschaeden | Indirekte oder mittelbare Schaeden | Begriff im US-Recht enger als dt. mittelbarer Schaden |
-| **Punitive damages** | Strafzahlungen | Strafschadensersatz | Im dt. Recht unbekannt, ordre public-relevant (§ 328 ZPO) |
-| **Liquidated damages** | Verfluessigte Schaeden | Pauschalierter Schadensersatz | Naeher an § 309 Nr. 5 BGB als an Vertragsstrafe |
-| **Penalty** | Strafe | Vertragsstrafe | Im US-Recht oft unzulaessig, in dt. Recht Pflicht zur Begrenzung |
-| **Severability** | Trennbarkeit | Salvatorische Klausel | Erfordert in dt. Recht zwingend salvatorische Klausel im Vertrag |
-| **Entire agreement** | Gesamte Vereinbarung | Vollstaendigkeitsklausel / Schlussklausel | Im dt. Recht: Pruefung an § 305b BGB |
-| **No waiver** | Kein Verzicht | Kein Verzicht durch Untaetigkeit | Im dt. Recht: § 242 BGB Verwirkung trotzdem moeglich |
-| **Force majeure** | Hoehere Gewalt | Hoehere Gewalt | OK, aber Reichweite oft anders verstanden |
-| **Counterparts** | Gegenstuecke | Mehrere Ausfertigungen | Standardklausel bei US/UK-Vertraegen |
-| **Notice** | Mitteilung | Zugang einer rechtsverbindlichen Erklaerung | § 130 BGB Zugang ist enger |
-| **Arbitration** | Schiedsverfahren | Schiedsverfahren | OK, aber Schiedsfaehigkeit pruefen § 1030 ZPO |
-| **Setoff** | Aufrechnung | Aufrechnung | Im US-Recht weiter, im dt. Recht § 387 BGB |
-| **Assignment** | Abtretung | Forderungsabtretung oder Vertragsuebernahme | Im US-Recht oft beides, im dt. Recht § 398 ff. BGB vs. § 414 ff. BGB |
-| **Subsidiary** | Tochter | Tochtergesellschaft / Beherrschtes Unternehmen | Pruefung an § 17 AktG |
-| **Affiliate** | Affiliierter | Verbundenes Unternehmen | § 15 AktG verwenden |
-| **Material adverse change (MAC)** | Materielle nachteilige Veraenderung | Wesentliche nachteilige Veraenderung | Kein dt. Standardbegriff, im Vertrag zu definieren |
-| **Representations and warranties** | Erklaerungen und Gewaehrleistungen | Garantien | Im dt. Recht selbststaendige Garantien § 311 BGB |
-| **Conditions precedent** | Vorhergehende Bedingungen | Aufschiebende Bedingungen (Closing Conditions) | § 158 BGB |
-| **Conditions subsequent** | Folgende Bedingungen | Aufloesende Bedingungen | § 158 II BGB |
-
-## Synchron halten
-
-- Definitionen-Verzeichnis: parallel pflegen, gleiche Nummerierung in beiden Sprachen.
-- Querverweise: in beiden Sprachen, gleiche Paragraphennummer.
-- Anlagen: gleiche Bezeichnung (Anlage 1 / Schedule 1).
-- Bei Aenderung einer Klausel: andere Sprache sofort mitziehen. Niemals nur eine Sprache bearbeiten.
-- Pruefung am Ende: Word-Vergleich beider Sprachen (manuell) auf Synchronitaet.
-
-## Ablauf / Checkliste
-
-1. Anwendungsfall klaeren (true bilingual / sovereign / courtesy).
-2. Layout entscheiden (Side-by-Side oder Stacked).
-3. Sprachklausel formulieren (s. o.).
-4. Definitionenverzeichnis aufbauen, beide Sprachen synchron.
-5. Vertrag in der verbindlichen Sprache zuerst draften.
-6. Uebersetzung erstellen, dabei jede der oben aufgefuehrten False Friends pruefen.
-7. Konsistenz-Pruefung: jeder definierte Begriff in beiden Sprachen identisch.
-8. Forum-Pruefung: Kosten und Risiken bei Streitfall im vereinbarten Gericht (§ 184 GVG, § 293 ZPO).
-9. Versand mit beiden Fassungen im selben Word-Dokument.
-
-## Beispiel: Sprachklausel mit Forum-Hinweis
-
-> ### § 28 Sprache, Anwendbares Recht, Gerichtsstand
->
-> (1) Dieser Vertrag ist in deutscher und englischer Sprache abgefasst. Die deutsche Fassung ist verbindlich. Die englische Fassung dient ausschliesslich der Information.
->
-> (2) Auf diesen Vertrag findet ausschliesslich das Recht der Bundesrepublik Deutschland Anwendung. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
->
-> (3) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist Frankfurt am Main. Die Parteien koennen davon abweichend ein Schiedsverfahren nach der Schiedsordnung der DIS (Deutsche Institution für Schiedsgerichtsbarkeit) vereinbaren; Schiedsort ist in diesem Fall Frankfurt am Main, Schiedssprache Deutsch.
->
-> ### Section 28 Language, Governing Law, Jurisdiction
->
-> (1) This Agreement is executed in both German and English. The German version shall be binding. The English version is for information only.
->
-> (2) This Agreement shall be exclusively governed by the laws of the Federal Republic of Germany. The application of the UN Convention on Contracts for the International Sale of Goods (CISG) is hereby excluded.
->
-> (3) The exclusive place of jurisdiction for all disputes arising out of or in connection with this Agreement shall be Frankfurt am Main, Germany. The parties may agree on arbitration pursuant to the rules of the DIS (German Arbitration Institute); in such case, the seat of arbitration shall be Frankfurt am Main, Germany, and the language of arbitration shall be German.
-
-## Quellen (Stand 05/2026)
-
-- Art. 3, 6 Rom I-VO; §§ 133, 157, 158, 257, 305b, 309 Nr. 5, 387, 398, 414 BGB; §§ 17 AktG, 184 GVG, 293 ZPO, 328 ZPO, 1030 ZPO; § 15 AktG; CISG (UN-Kaufrechtsuebereinkommen).
-- Zitierweise: `references/zitierweise.md`.
-
----
-
 ## Skill: `boilerplate-klauseln-definitionen`
 
 _Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuell..._
@@ -1135,7 +977,7 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 
 ## Rechtlicher und methodischer Rahmen
 
-- § 38 ZPO: Gerichtsstandsvereinbarung. Nur unter Kaufleuten oder mit Auslandsbezug zulaessig.
+- § 38 ZPO: Gerichtsstandsvereinbarung. Nur unter Kaufleuten oder mit Auslandsbezug zulässig.
 - Rom-I-VO: Verordnung (EG) Nr. 593/2008. Rechtswahl bei vertraglichen Schuldverhaeltnissen.
 - § 126 BGB, § 127 BGB: Schriftform und gewillkuerte Schriftform.
 - § 139 BGB: Teilnichtigkeit. Salvatorische Klausel als Modifikation der gesetzlichen Folge.
@@ -1143,7 +985,7 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 
 ## Ablauf / Checkliste
 
-1. **Klauselbedarf pruefen.** Im B2C-AGB sind viele Boilerplate-Klauseln unwirksam. Pruefen Sie pro Klausel.
+1. **Klauselbedarf prüfen.** Im B2C-AGB sind viele Boilerplate-Klauseln unwirksam. Prüfen Sie pro Klausel.
 2. **Klauseltyp waehlen.** Individualabrede oder AGB.
 3. **Mustertext anpassen.** Pauschalmuster sind Ausgangspunkt, kein Endpunkt.
 4. **AGB-Risiko bewerten.** Ist die Klausel im B2B noch wirksam? Im B2C oft nicht.
@@ -1153,7 +995,7 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 
 **Voraussetzung:** Modifikation des § 139 BGB (Gesamtnichtigkeit als Default). Praxisrelevant in nahezu jedem Vertrag.
 
-**AGB-Risiko:** Im B2B nach BGH grundsaetzlich wirksam, aber nicht als Generalheilmittel. Sie kehrt nicht die Darlegungslast um; im Streit muss die Partei, die sich auf Teilnichtigkeit beruft, die Auslegung tragen.
+**AGB-Risiko:** Im B2B nach BGH grundsätzlich wirksam, aber nicht als Generalheilmittel. Sie kehrt nicht die Darlegungslast um; im Streit muss die Partei, die sich auf Teilnichtigkeit beruft, die Auslegung tragen.
 
 **Mustertext (Individualvertrag, B2B):**
 
@@ -1168,7 +1010,7 @@ Entsprechendes gilt für den Fall, dass dieser Vertrag eine Luecke enthaelt.
 
 ### Klausel 2: Schriftformklausel (§ 126 BGB)
 
-**Voraussetzung:** Gewillkuerte Schriftform nach § 127 BGB. Vorsicht: doppelte Schriftformklausel im B2B grundsaetzlich wirksam (Aenderung dieser Klausel selbst nur in Schriftform), im B2C nach AGB-Recht angreifbar.
+**Voraussetzung:** Gewillkuerte Schriftform nach § 127 BGB. Vorsicht: doppelte Schriftformklausel im B2B grundsätzlich wirksam (Änderung dieser Klausel selbst nur in Schriftform), im B2C nach AGB-Recht angreifbar.
 
 **Mustertext (Doppelte Schriftform, B2B):**
 
@@ -1178,11 +1020,11 @@ Dies gilt auch für die Aufhebung dieser Schriftformklausel selbst.
 Muendliche Nebenabreden bestehen nicht.
 ```
 
-**Hinweis:** Der BGH hat in mehreren Entscheidungen klargestellt, dass eine doppelte Schriftformklausel in AGB die mittels Individualabrede vorgenommene Aenderung nicht ausschliessen kann. Vor Verwendung im B2C aktuelle BGH-Rspr. pruefen.
+**Hinweis:** Der BGH hat in mehreren Entscheidungen klargestellt, dass eine doppelte Schriftformklausel in AGB die mittels Individualabrede vorgenommene Änderung nicht ausschliessen kann. Vor Verwendung im B2C aktuelle BGH-Rspr. prüfen.
 
 ### Klausel 3: Gerichtsstandsvereinbarung (§ 38 ZPO)
 
-**Voraussetzung:** Beide Parteien Kaufleute, juristische Personen des öffentlichen Rechts oder oeffentlich-rechtliche Sondervermoegen (§ 38 Abs. 1 ZPO), oder Auslandsbezug. Im B2C unzulaessig (§ 38 Abs. 2, Abs. 3 ZPO).
+**Voraussetzung:** Beide Parteien Kaufleute, juristische Personen des öffentlichen Rechts oder öffentlich-rechtliche Sondervermoegen (§ 38 Abs. 1 ZPO), oder Auslandsbezug. Im B2C unzulaessig (§ 38 Abs. 2, Abs. 3 ZPO).
 
 **Mustertext (B2B):**
 
@@ -1243,10 +1085,10 @@ Faellt unter Klausel 1 (Salvatorische).
 ## Typische Drafting-Fehler
 
 - **Salvatorische Klausel als Allzweckwaffe.** Sie heilt nicht jede Klausellucke und kehrt nicht die Darlegungslast um.
-- **Doppelte Schriftform im B2C.** Vorsicht. Im AGB-Verhaeltnis schwer wirksam zu halten.
+- **Doppelte Schriftform im B2C.** Vorsicht. Im AGB-Verhältnis schwer wirksam zu halten.
 - **Gerichtsstand mit Verbraucher.** Unzulaessig nach § 38 Abs. 2, Abs. 3 ZPO.
 - **Rechtswahl ohne CISG-Ausschluss.** Bei internationalem Warenkauf gilt CISG automatisch, falls nicht ausgeschlossen.
-- **Mitteilungsklausel ohne Empfangsadresse.** Macht keine Zustellung pruefbar.
+- **Mitteilungsklausel ohne Empfangsadresse.** Macht keine Zustellung prüfbar.
 - **Abtretungsverbot ohne § 354a HGB.** Bei Geldforderungen aus Handelsgeschaeft unwirksam.
 
 ## Beispiel
@@ -1275,7 +1117,7 @@ Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
 
 - § 139 BGB, § 126 BGB, § 127 BGB, § 269 BGB, § 399 BGB, § 354a HGB. gesetze-im-internet.de.
 - § 38 ZPO; Rom-I-VO (Verordnung (EG) Nr. 593/2008). eur-lex.europa.eu.
-- BGH-Rspr. zu salvatorischer Klausel und doppelter Schriftformklausel: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+- BGH-Rspr. zu salvatorischer Klausel und doppelter Schriftformklausel: vom Nutzer mit konkretem Aktenzeichen über bundesgerichtshof.de zu verifizieren.
 
 ---
 
@@ -1400,177 +1242,6 @@ Ein Anwalt schickt einen NDA-Entwurf für einen prominenten Mandanten über sein
 
 ---
 
-## Skill: `defensive-drafting-deutscher-kanzleistil`
-
-_Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Re..._
-
-# Defensive Drafting und Fallen-Erkennung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Fremder Vertragsentwurf (Lieferant, Kunde, M&A-Gegenseite, IT-Anbieter)
-- Rolle des Mandanten (Kaeufer, Verkaeufer, Auftraggeber, Auftragnehmer)
-- Verhandlungsmacht (oben, gleichauf, unten)
-- Branche und Vertragswert (bestimmt Risikoschwelle)
-
-## Rechtlicher und methodischer Rahmen
-
-- § 43a BRAO Sorgfaltspflicht: Mandant ist auf einseitige Klauseln hinzuweisen, auch wenn rechtlich wirksam.
-- §§ 305-310 BGB: AGB-Recht als erste Verteidigungslinie, vgl. `agb-konforme-klauseln-305-310-bgb`.
-- § 138 BGB Sittenwidrigkeit und § 242 BGB Treu und Glauben: Auffangnormen jenseits des AGB-Rechts.
-- Verhandlungsdoktrin: Streichen, ersetzen, gegen-ersetzen. Nicht jede Falle wird gestrichen; manche werden gespiegelt.
-
-## Die zwoelf Fallen
-
-### Falle 1: Kaschierte Haftungsfreistellung
-
-**Rote-Flaggen-Wortliste:** "Schadensersatz nur bei Vorsatz", "Haftung ist auf den vertragstypischen Schaden begrenzt", "indirekte Folgeschaeden sind ausgeschlossen", "Mangelfolgeschaeden sind ausgeschlossen", "Haftung der Hoehe nach begrenzt auf den Auftragswert".
-
-**Wirkung:** Begrenzt die Haftung des Vertragspartners auf einen Teil seines Verschuldens. In AGB regelmaessig unwirksam nach § 309 Nr. 7 BGB; im Individualvertrag wirksam.
-
-**Verteidigung:**
-- Pruefen, ob Klausel in AGB: dann oft § 309 Nr. 7 BGB einschlaegig.
-- Ausnahmen einfuegen: "Die Haftungsbegrenzung gilt nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, für Schaeden aus vorsaetzlicher oder grob fahrlaessiger Pflichtverletzung und für Schaeden aus der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten)."
-- Hoehe an Versicherungssumme koppeln statt an Auftragswert.
-
-### Falle 2: Verschobene Beweislast
-
-**Rote-Flaggen-Wortliste:** "Der Auftragnehmer haftet, wenn er die Schadensursache nicht widerlegt", "Der Besteller hat die Mangelfreiheit zu beweisen", "Im Zweifel gilt", "Die Lieferung gilt als genehmigt".
-
-**Wirkung:** Kehrt die gesetzliche Beweislast um. In AGB oft Verstoss gegen § 309 Nr. 12 BGB.
-
-**Verteidigung:** Klausel streichen und die gesetzliche Beweislastverteilung herstellen. Wenn nicht durchsetzbar, Beweislast spiegeln (gilt für beide Seiten).
-
-### Falle 3: Einseitiger Gerichtsstand
-
-**Rote-Flaggen-Wortliste:** "Ausschliesslicher Gerichtsstand ist Muenchen", "Der Auftragnehmer kann auch am Sitz des Auftraggebers klagen", "Gerichtsstand für alle Streitigkeiten ist Hamburg".
-
-**Wirkung:** Belastet den Mandanten mit hohen Reisekosten und unbekannter Gerichtsbarkeit. Im B2C oft unwirksam nach § 38 ZPO, im B2B regelmaessig wirksam.
-
-**Verteidigung:** Wechselseitig: Klaeger klagt am Sitz des Beklagten. Oder neutraler dritter Gerichtsstand (z. B. Frankfurt am Main).
-
-### Falle 4: Unfairer Aenderungsvorbehalt
-
-**Rote-Flaggen-Wortliste:** "Der Anbieter behaelt sich vor, die Leistungen jederzeit anzupassen", "Preisaenderungen werden mit einer Frist von vier Wochen wirksam", "Aenderungen dieser AGB werden per E-Mail mitgeteilt und gelten als angenommen".
-
-**Wirkung:** Vertragsumgestaltung waehrend der Laufzeit. AGB-Verstoss gegen § 308 Nr. 4, § 309 Nr. 1, § 307 BGB.
-
-**Verteidigung:**
-- Aenderungen nur mit beidseitiger Schriftform.
-- Preisanpassung an objektiven Index (z. B. Verbraucherpreisindex Statistisches Bundesamt) koppeln.
-- Schweigen ist keine Annahme: explizite Zustimmung.
-- Sonderkuendigungsrecht bei jeder einseitigen Aenderung.
-
-### Falle 5: Kurze Verjährungsverkuerzung
-
-**Rote-Flaggen-Wortliste:** "Maengelansprueche verjaehren in zwoelf Monaten ab Lieferung", "Ansprueche verjaehren spaetestens nach einem Jahr".
-
-**Wirkung:** Verkuerzt die regulaere Verjährung von zwei Jahren (§ 438 BGB) oder fuenf Jahren (Bauwerk). In B2C nichtig bei Neuware (§ 476 II BGB neu); in B2B grundsaetzlich zulaessig, in AGB Pruefung nach § 307 BGB.
-
-**Verteidigung:** Verjährungsregelung auf gesetzliches Mass zurueckfuehren. Bei Software und IT-Werken auf zwei Jahre. Bei Bauwerken auf fuenf Jahre.
-
-### Falle 6: Nachhaftung der Geschaeftsfuehrung
-
-**Rote-Flaggen-Wortliste:** "Die Geschaeftsfuehrer haften persoenlich gesamtschuldnerisch", "Die Geschaeftsfuehrung garantiert die Richtigkeit der Angaben", "buergt persoenlich".
-
-**Wirkung:** Durchgriffshaftung der Organe. Wirksam, aber regelmaessig nicht gewollt. Steuerlich problematisch.
-
-**Verteidigung:** Geschaeftsfuehrerhaftung streichen oder durch D&O-Versicherung deckeln. Garantien nur für Sachverhalte, nicht für Rechtsfolgen.
-
-### Falle 7: Lock-in durch Auto-Renewal
-
-**Rote-Flaggen-Wortliste:** "Der Vertrag verlaengert sich automatisch um ein Jahr, sofern nicht drei Monate vor Ablauf gekuendigt wird", "stillschweigende Verlaengerung", "Kuendigung muss schriftlich erfolgen, sonst Verlaengerung".
-
-**Wirkung:** Mandant haengt im Vertrag, weil Kuendigungsfrist verpasst wurde. In B2C teilweise nichtig nach FairCV-Gesetz; in B2B AGB-rechtlich problematisch nach § 309 Nr. 9 BGB.
-
-**Verteidigung:**
-- Erinnerungspflicht des Anbieters einbauen: "Der Anbieter erinnert den Kunden spaetestens drei Monate vor Ablauf an die Kuendigungsmoeglichkeit. Unterlaesst er dies, verlaengert sich der Vertrag nicht."
-- Kuendigungsfrist auf maximal einen Monat.
-- Verlaengerung maximal um sechs Monate (nicht ein Jahr).
-
-### Falle 8: Schiedsklauseln mit Kostenrisiko
-
-**Rote-Flaggen-Wortliste:** "Streitigkeiten werden durch Schiedsgericht der ICC entschieden", "ICDR Arbitration in New York", "DIS Schiedsgerichtsordnung", "der unterlegene Teil traegt die Schiedskosten".
-
-**Wirkung:** Hohes Kostenrisiko (Schiedskosten teilweise sechsstellig) und Ausschluss der staatlichen Gerichte. Wirksam.
-
-**Verteidigung:**
-- Wertgrenze für Schiedsklausel: erst ab Streitwert X.
-- Mediationsstufe vorgeschaltet.
-- DIS Sport-Schiedsordnung statt ICC bei kleineren Werten.
-- Schiedsort am Sitz des Mandanten.
-
-### Falle 9: Closing-Bedingungen unter Gegnerkontrolle
-
-**Rote-Flaggen-Wortliste:** "Closing erfolgt nach Erteilung kartellrechtlicher Freigaben durch den Kaeufer", "Voraussetzung des Closings ist die Zustimmung des Aufsichtsrats des Kaeufers", "Material Adverse Change nach billigem Ermessen des Kaeufers".
-
-**Wirkung:** Kaeufer hat einseitiges Exit-Recht zwischen Signing und Closing.
-
-**Verteidigung:**
-- "Reasonable best efforts" zur Beseitigung der Bedingungen.
-- Hell-or-High-Water-Klausel: Kaeufer muss bestimmte Auflagen akzeptieren.
-- Long-Stop-Date: harte Frist, sonst Vertragsbruch.
-- MAC-Klausel auf objektive Kriterien beschraenken (z. B. EBITDA-Drop > 25 Prozent).
-
-### Falle 10: Service-Level ohne Sanktion
-
-**Rote-Flaggen-Wortliste:** "Verfuegbarkeit von 99 Prozent angestrebt", "Bearbeitung erfolgt zeitnah", "Reaktionszeit nach besten Kraeften".
-
-**Wirkung:** Soft-Verpflichtung ohne Konsequenz bei Verstoss. Kein Rechtsanspruch auf Einhaltung.
-
-**Verteidigung:**
-- SLA mit Service-Credits: Bei Unterschreitung anteilige Verguetungsrueckgabe.
-- Eskalationsstufen (gelb, rot) mit definierten Folgen.
-- Ausserordentliches Kuendigungsrecht bei wiederholtem Verstoss.
-
-### Falle 11: Audit-Rechte ohne Reziprozitaet
-
-**Rote-Flaggen-Wortliste:** "Der Anbieter ist berechtigt, die Nutzung der Software zu auditieren", "Die Lizenznehmerin gestattet der Lizenzgeberin Zutritt zu ihren Raeumen".
-
-**Wirkung:** Einseitige Pruefrechte. Bei Auftragsverarbeitung nach DSGVO eigene Kategorie (Art. 28 III lit. h).
-
-**Verteidigung:**
-- Reziprozitaet: Auch der Auftraggeber darf den Auftragnehmer auditieren (vgl. DSGVO).
-- Vorankuendigung mindestens vier Wochen.
-- Geheimhaltungspflicht des Auditors.
-- Kosten beim Audierenden.
-
-### Falle 12: Sprachklausel und Gerichtsstandsklausel divergierend
-
-**Rote-Flaggen-Wortliste:** "Vertragssprache ist Englisch, Gerichtsstand Frankfurt", "Im Streitfall gilt die englische Fassung", "Auslegungsfragen unterliegen dem Recht von New York".
-
-**Wirkung:** Deutscher Richter muss englisches Recht anwenden. Hohe Beweisanforderungen an auslaendisches Recht (§ 293 ZPO). Verlangsamung und Kostensteigerung.
-
-**Verteidigung:**
-- Vertragssprache und Rechtswahl synchronisieren.
-- Bei Bilingualismus: deutsche Fassung als verbindlich erklaeren.
-- Schiedsklausel statt staatlichem Gericht erwaegen.
-
-## Ablauf / Checkliste
-
-1. Vertragsentwurf zwoelf-mal durchgehen, jede Falle aktiv suchen.
-2. Treffer in einer Risiko-Tabelle erfassen (Klausel, Falle, Risiko, Empfehlung, Verhandelbarkeit).
-3. Verteidigungsklauseln als Markup einarbeiten.
-4. Reihenfolge der Verhandlung priorisieren: zuerst Hochrisiko-Fallen (1, 5, 9), dann mittleres Risiko (3, 4, 7, 10), dann Detail (12).
-5. Pro Klausel den Fallback definieren (was, wenn Gegenseite nicht nachgibt).
-
-## Quellen (Stand 05/2026)
-
-- §§ 305, 305c, 306, 307, 308, 309, 310 BGB; §§ 38, 293 ZPO; § 138, § 242 BGB; § 43a BRAO.
-- DSGVO Art. 28 für Audit-Reziprozitaet.
-- BGH-Rechtsprechung zur AGB-Inhaltskontrolle und MAC-Klauseln vom Nutzer fundstellengenau zu verifizieren.
-- Zitierweise: `references/zitierweise.md`.
-
----
-
 ## Skill: `definitionen-klauseln-stringent`
 
 _Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispiel..._
@@ -1594,7 +1265,7 @@ _Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal def
 ## Rechtlicher und methodischer Rahmen
 
 - § 305c Abs. 2 BGB: Unklarheitenregel zulasten des Verwenders. Inkonsistente Begriffe gehen zulasten des AGB-Verwenders.
-- § 307 Abs. 1 Satz 2 BGB: Transparenzgebot. Defined Terms muessen klar verstaendlich definiert sein.
+- § 307 Abs. 1 Satz 2 BGB: Transparenzgebot. Defined Terms müssen klar verstaendlich definiert sein.
 - §§ 133, 157 BGB: Vertragsauslegung. Defined Terms binden die Auslegung.
 - Konvention: Defined Terms grossschreiben oder kursiv setzen, damit sie im Text sichtbar sind.
 
@@ -1602,7 +1273,7 @@ _Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal def
 
 1. **Begriffe identifizieren.** Welche Konzepte tauchen mehr als einmal auf? Welche tragen Rechtsfolgen?
 2. **Zentral oder inline?** Faustregel: mehr als zehn Begriffe oder Verwendung in mehreren Klauseln, dann zentraler Definitionen-Abschnitt.
-3. **Definitionsstruktur waehlen.** Alphabetisch (Default) oder thematisch (bei sehr grossen Vertraegen).
+3. **Definitionsstruktur waehlen.** Alphabetisch (Default) oder thematisch (bei sehr großen Vertraegen).
 4. **Defined Term auszeichnen.** Grossschreibung des Anfangs ("Vertrag", "Vertragspartei", "Closing", "Long Stop Date") oder kursiv ("Vertrag").
 5. **Definition formulieren.** Knapp, eindeutig, ohne andere Defined Terms zu verschachteln, wo unnoetig.
 6. **Konsistenzpruefung durchfuehren.** Volltextsuche, jeder Defined Term im Dokument identisch geschrieben.
@@ -1649,7 +1320,7 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 | 1 | "Vertragspartei" | nicht vorhanden, wenn "Partei" definiert ist |
 | 2 | "Vereinbarung" | nicht vorhanden im operativen Text, wenn "Vertrag" definiert ist |
 | 3 | "vorliegender Kontrakt" | streichen |
-| 4 | "Liefergegenstand" und "Ware" | nur einer als Defined Term zulaessig |
+| 4 | "Liefergegenstand" und "Ware" | nur einer als Defined Term zulässig |
 | 5 | "Besteller" und "Auftraggeber" | nur einer |
 
 ### Anti-Pattern
@@ -1670,7 +1341,7 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 
 ## Beispiel
 
-**Aufgabe:** "Bauen Sie aus folgendem Term Sheet einen Definitionen-Abschnitt: Lieferant ist eine GmbH, Besteller eine AG, Liefergegenstand sind Industrieventile, Closing erfolgt am Long Stop Date oder spaeter, Anlage 1 enthaelt die technische Spezifikation."
+**Aufgabe:** "Bauen Sie aus folgendem Term Sheet einen Definitionen-Abschnitt: Lieferant ist eine GmbH, Besteller eine AG, Liefergegenstand sind Industrieventile, Closing erfolgt am Long Stop Date oder später, Anlage 1 enthaelt die technische Spezifikation."
 
 **Loesung:**
 
@@ -1697,7 +1368,7 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 ## Quellen (Stand 05/2026)
 
 - § 305c Abs. 2 BGB, § 307 Abs. 1 Satz 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
-- Konvention zur Defined-Terms-Auszeichnung folgt internationaler M&A-Praxis und ist in deutscher Wirtschaftsvertragsgestaltung etabliert. Konkretes Hauskonvention je Kanzlei pruefen.
+- Konvention zur Defined-Terms-Auszeichnung folgt internationaler M&A-Praxis und ist in deutscher Wirtschaftsvertragsgestaltung etabliert. Konkretes Hauskonvention je Kanzlei prüfen.
 
 ---
 
@@ -1784,16 +1455,16 @@ _Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteie
 
 - § 253 Abs. 2 ZPO: Pflichtbestandteile der Klageschrift.
 - § 130 ZPO: Allgemeiner Schriftsatz-Inhalt.
-- § 311b BGB: Beurkundungspflicht für bestimmte Vertraege (Grundstueck, GmbH-Geschaeftsanteile).
+- § 311b BGB: Beurkundungspflicht für bestimmte Verträge (Grundstueck, GmbH-Geschäftsanteile).
 - § 126 BGB, § 126a BGB, § 126b BGB: Schriftform, elektronische Form, Textform.
-- § 305 Abs. 1 BGB: AGB-Begriff. Vertraege mit AGB-Anteil brauchen zusaetzliche Strukturelemente.
+- § 305 Abs. 1 BGB: AGB-Begriff. Verträge mit AGB-Anteil brauchen zusaetzliche Strukturelemente.
 
 ## Ablauf / Checkliste
 
 1. **Dokumenttyp wahlen.** Vertrag, Klage, Klageerwiderung, AGB, Memo, Anwaltsschreiben.
 2. **Standardstruktur waehlen.** Siehe Tabellen unten.
 3. **Anpassen.** Streichen Sie nicht benoetigte Bloecke, ergaenzen Sie Sonderkapitel.
-4. **Nummerierung festlegen.** § (Paragraph) oder Ziffer. M&A-Vertraege ueblich mit Ziffern, BGB-Vertraege ueblich mit Paragraphen.
+4. **Nummerierung festlegen.** § (Paragraph) oder Ziffer. M&A-Verträge ueblich mit Ziffern, BGB-Verträge ueblich mit Paragraphen.
 5. **Inhaltsverzeichnis und Gliederung pragmatisch prüfen.** Bei längeren Dokumenten eine lesbare Übersicht vorsehen; technische Word-Automatisierung ist nicht Gegenstand dieses Skills.
 6. **Querverweise vorbereiten.** Siehe `verweis-und-querverweis-technik`.
 
@@ -1807,7 +1478,7 @@ _Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteie
 | Vertragsgegenstand | Hauptleistungspflicht in einer Klausel | nein |
 | Hauptleistungspflichten | Pflichten der Parteien im Detail | nein |
 | Nebenpflichten | Mitwirkung, Information, Schutz | je nach Vertragstyp |
-| Verguetung | Hoehe, Faelligkeit, Zahlweise, Verzug | nein, wenn entgeltlich |
+| Vergütung | Höhe, Faelligkeit, Zahlweise, Verzug | nein, wenn entgeltlich |
 | Maengelhaftung | Pflichten bei Mangel, Fristen, Rechte | je nach Vertragstyp |
 | Haftung | Begrenzung, Ausschluss, Versicherung | siehe `haftungsausschluss-und-haftungsbegrenzung` |
 | Geheimhaltung | NDA-Baustein oder Verweis auf NDA | je nach Mandat |
@@ -1897,15 +1568,11 @@ Anlage 3: Lieferplan
 
 ---
 
-## Skill: `drafting-prinzipien-finaler-writing`
+## Skill: `englischer-vertrag-deutsches-recht`
 
-_Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beis..._
+_Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik..._
 
-# Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision
-
-## Arbeitsbereich
-
-Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+# Englischer Vertrag nach Deutschem Recht
 
 ## Arbeitsweg
 
@@ -1915,85 +1582,157 @@ Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Ad
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
+## Kernfragen
 
-Drei Werte tragen jedes juristische Dokument: Klarheit, Bestimmtheit und Praezision. Sie sind keine Stilvorlieben, sondern Wirksamkeitsfaktoren. Eine unklare Vertragsklausel ist nach § 305c Abs. 2 BGB im Zweifel gegen den Verwender auszulegen. Ein unbestimmter Klageantrag ist nach § 253 Abs. 2 Nr. 2 ZPO unzulaessig. Eine intransparente AGB-Klausel ist nach § 307 Abs. 1 Satz 2 BGB unwirksam.
+1. Ist der Vertrag vollständig auf Englisch oder bilingual?
+2. Gilt deutsches Recht wirklich?
+3. Soll ein deutsches Gericht, ein Schiedsgericht oder ein ausländisches Forum entscheiden?
+4. Sind Begriffe wie indemnity, warranty, representation, best efforts, liquidated damages und penalty funktional definiert?
+5. Gibt es deutsche AGB-Kontrolle?
+6. Ist die Vertragssprache zugleich Verhandlungssprache oder nur Mandantenkomfort?
 
-Dieser Skill operationalisiert die drei Werte als pruefbare Anforderungen. Sie liefern keine philosophische Begruendung, sondern eine Checkliste pro Satz, pro Klausel, pro Antrag. Er verweist auf die Fachmodule, sobald die Pruefung Schwerpunkte ergibt.
+## Begriffskontrolle
+
+| Begriff | Risiko bei deutschem Recht | Empfehlung |
+|---|---|---|
+| representation | kann als Garantie oder Wissenserklärung missverstanden werden | definieren, ob selbstständige Garantie gemeint ist |
+| warranty | nicht schlicht Gewährleistung | bei deutschem Recht als contractual guarantee oder Beschaffenheitsvereinbarung strukturieren |
+| indemnity | weiter als Schadensersatz | als Freistellung mit Auslöser, Umfang und Verfahren formulieren |
+| best efforts | unklarer Maßstab | konkreten Handlungsmaßstab definieren |
+| liquidated damages | Nähe zu pauschaliertem Schadensersatz | AGB-Risiko und Gegenbeweisöffnung prüfen |
+| penalty | im Common Law kritisch, im deutschen Recht Vertragsstrafe möglich | bewusst als contractual penalty unter deutschem Recht formulieren |
+| entire agreement | kollidiert praktisch mit Individualabrede-Vorrang | § 305b BGB mitdenken |
+
+## Ablauf
+
+1. Governing Law und Forum prüfen.
+2. Sprach- und Auslegungsklausel festlegen.
+3. Deutsche Rechtsinstitute identifizieren.
+4. Common-Law-Begriffe entweder vermeiden oder definieren.
+5. Haftung, Freistellung, Gewährleistung und Garantien separat strukturieren.
+6. AGB-Risiko prüfen.
+7. Word- und Anlagenlogik prüfen.
+
+---
+
+## Skill: `finaler-writing-quality-gate`
+
+_Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste im W..._
+
+# Finaler Writing Quality Gate
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Ampelprüfung
+
+| Ampel | Bedeutung |
+|---|---|
+| Grün | sendefähig nach kleiner Schlusskontrolle |
+| Gelb | sendefähig nach konkreten Reparaturen |
+| Rot | nicht versenden; Risiko, Fehler oder Lücke zu groß |
+
+## Prüfungslinien
+
+1. **Zweck:** Ist klar, was der Text erreichen soll?
+2. **Adressat:** Passt Ton und Tiefe?
+3. **Rechtsanker:** Sind Normen, Klauseln und Begriffe korrekt und nötig?
+4. **Zitate:** Gibt es nur überprüfbare Rechtsprechung mit Gericht, Datum und Aktenzeichen?
+5. **Sachverhalt:** Stimmen Namen, Daten, Beträge, Fristen und Rollen?
+6. **Belege:** Stimmen Anlagenverweise und Beweisangebote?
+7. **Struktur:** Ergebnis vorne, keine Wiederholungen, sinnvolle Überschriften.
+8. **Sprache:** Keine Polemik, keine Platzhalter, keine leeren Floskeln.
+9. **Word:** Formatvorlagen, Nummerierung, Track Changes, Kommentare, Metadaten.
+10. **Versand:** richtige Fassung, richtiger Dateiname, richtige Anlagen.
+
+## Harte Stopper
+
+- Platzhalter im Text.
+- Unverifizierte Rechtsprechungsfundstelle.
+- Falscher Mandantenname oder falsche Parteirolle.
+- Unklare Frist.
+- Sichtbare interne Kommentare, wenn Clean Version versendet werden soll.
+- Widerspruch zwischen Antrag und Begründung.
+- Anlagenverweis auf nicht vorhandene Anlage.
+
+---
+
+## Skill: `force-majeure-geheimhaltung-nda`
+
+_Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderun..._
+
+# Force Majeure und § 313 BGB (Wegfall der Geschäftsgrundlage)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
 
-- Klausel-, Antrags- oder Satzentwurf, der gepruefet werden soll
-- Kontext: Vertrag (B2B oder B2C), AGB-Verwender, Klageantrag, Anwaltsschreiben
-- Optional: Adressat (Mandant, Gegenseite, Gericht)
+- Vertragstyp (Lieferung, Werkleistung, Dienstleistung, langfristiger Bezug).
+- Lieferketten- und Logistik-Profil.
+- Regelungsziel der Klausel (vollständige Allokation oder Hilfsregel?).
+- Erwartete Ereignistypen (Naturereignisse, Pandemie, Krieg, Sanktionen, Streik, Cyberangriff, regulatorische Eingriffe).
+- Mandatsumfeld (B2B oder B2C, internationale Lieferkette, INCOTERMS-Bezug).
 
 ## Rechtlicher und methodischer Rahmen
 
-- § 253 Abs. 2 Nr. 2 ZPO: Bestimmtheit des Klageantrags. Wer einen unbestimmten Antrag stellt, riskiert die Unzulaessigkeit.
-- § 307 Abs. 1 Satz 2 BGB: Transparenzgebot. AGB-Klauseln muessen klar und verstaendlich sein.
-- § 305c Abs. 2 BGB: Unklarheitenregel zulasten des Verwenders.
-- § 138 Abs. 2 ZPO: Substantiierungslast im Prozess; Praezision dient der Substantiierungslast.
-- Methode: Gutachtenstil verlangt Begruendung, Urteilsstil verlangt Knappheit. Beide verlangen Bestimmtheit.
+- **Vertragliche Risikoallokation:** Ohne Klausel greifen §§ 275 (Unmöglichkeit), 326 (Folgen), 313 BGB (Geschäftsgrundlage). Force Majeure ist kein gesetzlicher Begriff im BGB; die Klausel definiert ihn vertraglich.
+- **§ 313 BGB:** Voraussetzungen sind (i) schwerwiegende Veränderung der Geschäftsgrundlage, (ii) hypothetischer Wille zum anderen Vertragsschluss bei Kenntnis, (iii) Unzumutbarkeit der Festhaltung, (iv) Risiko nicht vertraglich allokiert. Rechtsfolge ist Anpassung; Rücktritt nur, wenn Anpassung nicht möglich oder zumutbar (§ 313 III BGB).
+- **Verhältnis zur Force-Majeure-Klausel:** Existiert eine ausdrückliche Klausel, geht sie als spezielle Risikoallokation der allgemeinen Regel des § 313 BGB grundsätzlich vor.
+- **Anzeige- und Mitwirkungspflichten:** Eine Force-Majeure-Klausel sollte eine Anzeigepflicht mit Frist, Inhalt und Form regeln; Versäumnis kann zum Verlust der Berufung auf höhere Gewalt führen.
+- **Folgen:** Suspendierung der Leistungspflicht für die Dauer des Ereignisses, kein Verzug, ggf. Rücktrittsrecht (Long Stop) nach festgelegter Dauer.
+- **COVID-Erfahrung:** BGH hat zu Mietverträgen während Pandemie § 313 BGB herangezogen (Vertragsanpassung mit Halbierung der Miete nicht pauschal, sondern Einzelfall). Die Linie ist nicht auf alle Pandemiefolgen übertragbar; die Entscheidungen sind vom Nutzer fundstellengenau zu verifizieren.
 
 ## Ablauf / Checkliste
 
-1. **Klarheit pruefen.** Versteht der Adressat den Satz beim ersten Lesen? Ohne Rueckfrage? Wenn nicht, umformulieren.
-2. **Bestimmtheit pruefen.** Ist der Tatbestand subsumtionsfaehig? Sind die Rechtsfolgen eindeutig?
-3. **Praezision pruefen.** Streichen Sie jedes Wort, das nichts traegt. "Saemtliche Vertragsparteien" ist nicht praeziser als "die Parteien".
-4. **Satzlaenge messen.** Faustregel: maximal 25 Woerter pro Satz. Ueberlange Saetze trennen.
-5. **Aktiv vor Passiv.** "Der Verkaeufer liefert" statt "es wird vom Verkaeufer geliefert".
-6. **Defined Terms anwenden.** Ein Begriff einmal definieren, dann konsistent verwenden. Siehe `definitionen-klauseln-stringent`.
-7. **Doppelte Negation streichen.** "Nicht ausgeschlossen ist" wird zu "moeglich ist".
-8. **Konjunktiv vermeiden.** Operative Klauseln im Indikativ. Konjunktiv nur für Bedingungssaetze.
-
-### Anti-Beispiele und Umformulierung
-
-| Schwammig | Praezise |
-|---|---|
-| "Die Parteien werden bestrebt sein, sich zu verstaendigen." | "Die Parteien verhandeln innerhalb von 14 Tagen nach schriftlicher Anzeige." |
-| "Soweit moeglich, ist die Leistung rechtzeitig zu erbringen." | "Die Leistung ist bis zum 31. Maerz 2027 zu erbringen." |
-| "Eine angemessene Frist." | "Eine Frist von 14 Tagen." |
-| "Im Falle des Falles." | "Bei Eintritt der in § 5 genannten Bedingung." |
-| "Alle damit zusammenhaengenden Kosten." | "Saemtliche Kosten der Vertragsdurchfuehrung, einschliesslich Steuern und Notarkosten." |
-| "Es wird darauf hingewiesen, dass" | streichen |
-| "Es ist zu beachten, dass" | streichen |
-
-### Bestimmtheitsmuster
-
-Jeder operative Satz traegt Antwort auf vier Fragen:
-
-1. Wer (Subjekt der Pflicht)
-2. Was (Leistungspflicht oder Unterlassungspflicht)
-3. Wann (Frist oder Bedingung)
-4. Wie (Form, Ort, Modalitaet)
+1. Klären, ob die Klausel allokativ-vollständig sein soll oder neben § 313 BGB stehen darf.
+2. Definition höherer Gewalt entwerfen: katalogartig mit "insbesondere", inhaltlich Ereignisse außerhalb des Einflussbereichs und nicht vorhersehbar bei Vertragsschluss.
+3. Pflichten festlegen: unverzügliche Anzeige (Frist, Form), Beschreibung des Ereignisses, voraussichtliche Dauer, Mitigation.
+4. Rechtsfolge: Suspendierung der Leistungspflicht, kein Verzug, kein Schadensersatz wegen Leistungsstörung, jedoch ggf. Pflicht zur Mitigation.
+5. Long-Stop-Kündigungsrecht ab definierter Dauer (z. B. 30, 60, 90 Tage).
+6. Anpassungs- bzw. Neuverhandlungspflicht: nach welchem Maßstab und mit welcher Frist?
+7. Verhältnis zu § 313 BGB klären: vorrangig Klausel, ergänzend § 313 BGB? Vollständiger Ausschluss von § 313 BGB ist in B2B-Individualabreden zulässig, in AGB regelmäßig nach § 307 BGB problematisch.
+8. AGB-Check: keine pauschale Risikoabwälzung auf den Verwender oder den Vertragspartner.
+9. Internationaler Bezug: ICC Force Majeure Clause 2020 oder ähnliches Muster als Referenz nutzbar; immer prüfen, ob das anwendbare Recht überlagert.
+10. Beweisthemen vorbereiten: Anzeige, Kausalität, Mitigation.
 
 ## Typische Drafting-Fehler
 
-- **Floskel-Inflation.** "Saemtliche im Vorstehenden bezeichneten" tut nichts. Streichen.
-- **Modalfehler.** "kann" statt "muss"; "soll" statt "ist verpflichtet". Modalverben sind keine Stilfrage.
-- **Schwammige Standards.** "angemessen", "ortsueblich", "branchenueblich" nur dort, wo gesetzlich vorgegeben oder unausweichlich.
-- **Verkettete Konjunktive.** "wuerde", "haette", "koennte" in operativen Klauseln.
-- **Substantivketten.** "Vertragsdurchfuehrungskostenuebernahmeverpflichtung" zerlegen.
-- **Mehrfach-Negationen.** "nicht ohne vorherige Zustimmung" wird zu "nur mit vorheriger Zustimmung".
+- Pauschaler Force-Majeure-Verweis ohne Anzeige und Long Stop: führt zu unbegrenzter Suspendierung, Vertrag verharrt im Schwebezustand.
+- Übernahme angloamerikanischer Muster ohne Anpassung an deutsches Recht: insbesondere "frustration"-Logik passt nicht.
+- Vollständiger Ausschluss von § 313 BGB in AGB: regelmäßig § 307 BGB unwirksam.
+- Definition zu eng (nur Naturereignisse): Sanktionen, regulatorische Eingriffe oder Cyberangriffe fallen heraus.
+- Definition zu weit (jeder "ungewöhnliche Umstand"): keine Trennschärfe, Auslegungsstreit.
+- Keine Mitigation: Vertragspartner darf untätig bleiben.
+- Anpassung nach § 313 II BGB nicht beachtet: Klausel springt direkt zum Rücktritt.
 
 ## Beispiel
 
-**Original:** "Im Falle, dass die Lieferung nicht ordnungsgemaess erfolgt, koennen vom Besteller alle ihm hieraus erwachsenden Anspruechee gegenueber dem Lieferanten geltend gemacht werden, wobei der Lieferant darauf hingewiesen wird, dass derartige Anspruechee insbesondere auch Schadensersatzanspruechee umfassen koennen."
+Mustertext (Force-Majeure-Klausel, B2B-Lieferrahmen):
 
-**Pruefung:**
-- Klarheit: schlecht. 41 Woerter, mehrere Einschuebe.
-- Bestimmtheit: schwach. "nicht ordnungsgemaess" ohne Definition. "alle Anspruechee" ohne Aufzaehlung.
-- Praezision: schlecht. "wobei der Lieferant darauf hingewiesen wird" ist Lehrbuchprosa, keine Klausel.
-
-**Umformulierung:** "Liefert der Lieferant mangelhaft oder verspaetet, kann der Besteller die Rechte aus § 7 (Maengelhaftung) und § 8 (Verzug) geltend machen. Schadensersatzanspruechee bleiben unberuehrt."
-
-**Resultat:** 31 Woerter in zwei Saetzen. Tatbestand und Rechtsfolge sind getrennt. Verweise sind eindeutig.
+> § X Höhere Gewalt
+> (1) Höhere Gewalt im Sinne dieses Vertrages ist ein Ereignis außerhalb des Einflussbereichs der betroffenen Partei, das bei Vertragsschluss nicht vorhersehbar war und trotz zumutbarer Sorgfalt nicht abgewendet werden konnte. Hierzu zählen insbesondere Naturkatastrophen, Krieg, Aufruhr, Embargos und Sanktionen, behördliche Maßnahmen mit allgemeiner Wirkung, flächendeckende Energie- oder Telekommunikationsausfälle und Pandemien mit hoheitlichen Beschränkungen, soweit sie die Vertragserfüllung unmittelbar verhindern.
+> (2) Die betroffene Partei zeigt das Ereignis der anderen Partei unverzüglich, spätestens innerhalb von zehn Werktagen nach Kenntnis, in Textform an und beschreibt Ursache, voraussichtliche Dauer und betroffene Leistungspflichten. Sie unternimmt zumutbare Anstrengungen zur Schadensbegrenzung (Mitigation) und unterrichtet die andere Partei über deren Stand.
+> (3) Für die Dauer der höheren Gewalt sind die betroffenen Leistungspflichten suspendiert. Ein Verzug oder Anspruch auf Schadensersatz wegen der suspendierten Pflichten besteht nicht. Pflichten, die nicht betroffen sind, bleiben bestehen.
+> (4) Dauert das Ereignis länger als sechzig Tage an, kann jede Partei den Vertrag mit Wirkung zum Monatsende durch Erklärung in Textform kündigen, soweit die andere Partei nicht zuvor eine zumutbare Anpassung anbietet.
+> (5) Das Recht zur Anpassung oder zum Rücktritt nach § 313 BGB bleibt unberührt; vorrangig ist diese Klausel.
 
 ## Quellen (Stand 05/2026)
 
-- § 253 Abs. 2 Nr. 2 ZPO; § 305c Abs. 2 BGB; § 307 Abs. 1 Satz 2 BGB; § 138 Abs. 2 ZPO; siehe gesetze-im-internet.de.
-- Rechtsprechung zum AGB-Transparenzgebot: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
-- `references/zitierweise.md` für Belegpflicht.
+- §§ 275, 313, 326, 307 BGB.
+- BGH-Urteile zu pandemiebedingten Anpassungen nach § 313 BGB sind vom Nutzer fundstellengenau zu verifizieren.
+- ICC Force Majeure Clause 2020 (als internationale Vorlage; nicht deutsches Recht).
+- Zitierweise: `references/zitierweise.md`.
 
 ---
 

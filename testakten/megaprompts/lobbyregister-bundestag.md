@@ -30,7 +30,7 @@ _Einstieg, Schnelltriage und Fallrouting im Lobbyregister Bundestag-Plugin. Frag
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Lobbyregister Bundestag** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Lobbyregister Bundestag** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -191,24 +191,24 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Lobbyregister-Bundestag-Plugin unterstuetzt Unternehmen, Verbaende, Agenturen und deren Berater bei der vollstaendigen Erfullung der Pflichten nach dem Lobbyregistergesetz (LobbyRG). Es begleitet den gesamten Lebenszyklus eines Registereintrags: von der Registrierungspflichtpruefung ueber die Erstregistrierung und laufende Aktualisierung bis zur Meldung von Verstoessen und der Erstellung interner Compliance-Strukturen.
+Das Lobbyregister-Bundestag-Plugin unterstuetzt Unternehmen, Verbaende, Agenturen und deren Berater bei der vollstaendigen Erfullung der Pflichten nach dem Lobbyregistergesetz (LobbyRG). Es begleitet den gesamten Lebenszyklus eines Registereintrags: von der Registrierungspflichtpruefung über die Erstregistrierung und laufende Aktualisierung bis zur Meldung von Verstoessen und der Erstellung interner Compliance-Strukturen.
 
-Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Materialien wie das Handbuch der registerfuehrenden Stelle (Bundestag-Verwaltung). Es ist kein Rechtsberatungsersatz, sondern ein strukturiertes Pruefwerkzeug.
+Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Materialien wie das Handbuch der registerfuehrenden Stelle (Bundestag-Verwaltung). Es ist kein Rechtsberatungsersatz, sondern ein strukturiertes Prüfwerkzeug.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen pruefen, ob Ihre Organisation ueberhaupt registrierungspflichtig ist (§ 2 LobbyRG).
+- Sie wollen prüfen, ob Ihre Organisation ueberhaupt registrierungspflichtig ist (§ 2 LobbyRG).
 - Sie stehen am Anfang eines neuen Lobbyregister-Mandats und suchen den richtigen Einstiegspunkt.
 - Sie wollen verstehen, welcher der 50 Skills für Ihre aktuelle Fragestellung zuständig ist.
-- Sie haben eine Frist (unverzuegliche Aktualisierung, Quartalsfrist, Jahresbestaetigung) und muessen schnell handeln.
+- Sie haben eine Frist (unverzuegliche Aktualisierung, Quartalsfrist, Jahresbestaetigung) und müssen schnell handeln.
 - Sie sind Public-Affairs-Agentur oder Kanzlei und verwalten mehrere Mandate gleichzeitig.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **LobbyRG** — Lobbyregistergesetz; Bundesgesetz, das Interessenvertreter verpflichtet, sich beim Deutschen Bundestag zu registrieren.
 - **Interessenvertretung** — Jede Kontaktaufnahme zur unmittelbaren oder mittelbaren Einflussnahme auf Willensbildungs- oder Entscheidungsprozesse nach § 1 LobbyRG.
-- **Registrierungspflicht** — Besteht bei regelmäßiger, auf Dauer angelegter oder geschaeftsmäßiger Interessenvertretung oder mehr als 30 Kontakten in drei Monaten (§ 2 Abs. 1 LobbyRG).
-- **Registerfuehrende Stelle (RfS)** — Die Verwaltung des Deutschen Bundestags; sie prueft Eintraege, fuehrt Bussgeldverfahren durch und ist Ansprechpartnerin bei Korrekturen.
+- **Registrierungspflicht** — Besteht bei regelmäßiger, auf Dauer angelegter oder geschäftsmäßiger Interessenvertretung oder mehr als 30 Kontakten in drei Monaten (§ 2 Abs. 1 LobbyRG).
+- **Registerfuehrende Stelle (RfS)** — Die Verwaltung des Deutschen Bundestags; sie prüft Eintraege, fuehrt Bussgeldverfahren durch und ist Ansprechpartnerin bei Korrekturen.
 - **Verhaltenskodex** — Verpflichtende Selbstverpflichtung nach § 5 LobbyRG zu Offenheit, Transparenz und Integritaet bei jedem Kontakt mit Adressaten.
 - **Drehtuer** — Regelung, die frueheres Amt oder Mandat in Bundestag oder Bundesregierung offenzulegen verlangt (§ 3 LobbyRG).
 - **Finanzielle Aufwendungen** — Alle Personal- und Sachkosten im Bereich Interessenvertretung; Angabepflicht in Bandbreiten nach § 3 LobbyRG.
@@ -226,9 +226,9 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Unternehmenstyp, Kontaktplaene, Auftraggeber, bestehender Portaleintrag oder Erstregistrierung.
-2. Registrierungspflicht pruefen: Skill `registrierungspflicht-schwellen` und `interessenvertretung-begriff` verwenden.
-3. Falls Ausnahme moeglich: `ausnahmen-bundestag` oder `ausnahmen-bundesregierung` pruefen.
+1. Mandantenkonstellation klären: Unternehmenstyp, Kontaktplaene, Auftraggeber, bestehender Portaleintrag oder Erstregistrierung.
+2. Registrierungspflicht prüfen: Skill `registrierungspflicht-schwellen` und `interessenvertretung-begriff` verwenden.
+3. Falls Ausnahme möglich: `ausnahmen-bundestag` oder `ausnahmen-bundesregierung` prüfen.
 4. Passendes Themen-Cluster auswaehlen (siehe Skill-Tour unten).
 5. Eilfristen beachten: unverzuegliche Aktualisierung oder Quartalsfrist via `fristen-und-quartalsmonitor`.
 
@@ -236,23 +236,23 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 
 **Pflicht und Abgrenzung**
 
-- `registrierungspflicht-schwellen` — Prueft § 2 Abs. 1 LobbyRG: Schwellen für Registrierungspflicht (regelmaessig, auf Dauer, 30-Kontakte-Regel).
+- `registrierungspflicht-schwellen` — Prüft § 2 Abs. 1 LobbyRG: Schwellen für Registrierungspflicht (regelmaessig, auf Dauer, 30-Kontakte-Regel).
 - `interessenvertretung-Begriff` — Klaert, ob ein Kontakt ueberhaupt Interessenvertretung nach § 1 LobbyRG ist.
-- `ausnahmen-bundestag` — Prueft Ausnahmen von der Registrierungspflicht gegenueber Bundestagsadressaten.
-- `ausnahmen-bundesregierung` — Prueft Ausnahmen gegenueber Bundesregierung und Ministerien.
+- `ausnahmen-bundestag` — Prüft Ausnahmen von der Registrierungspflicht gegenueber Bundestagsadressaten.
+- `ausnahmen-bundesregierung` — Prüft Ausnahmen gegenueber Bundesregierung und Ministerien.
 - `freiwillige-registrierung` — Beraet zu Rechten und Pflichten bei freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG.
 - `adressatenkreis-bundestag-bundesregierung` — Kartiert, wer Adressat nach § 1 LobbyRG ist.
 
 **Erstregistrierung und Portalworkflow**
 
-- `lobbyregister-intake-mandat` — Strukturiertes Erstgespraech vor jeder Lobbyregister-Pruefung.
+- `lobbyregister-intake-mandat` — Strukturiertes Erstgespraech vor jeder Lobbyregister-Prüfung.
 - `lobbyregister-kommandocenter` — Master-Routing für alle Lobbyregister-Mandate.
 - `end-to-end-registrierungswizard` — Gefuehrter Gesamtfür die komplette Registrierungsmappe.
 - `erstregistrierung-ausfuellen` — Schritt-für-Schritt durch den Portal-Ersteintrag.
 - `portal-account-rollen` — Plant Administrationskonto, Rollen und Zugriffsschutz.
 - `personen-organisationstyp` — Bestimmt, welcher Organisationstyp einzutragen ist.
 - `bestaetigungsdokument-freigabe` — Unterzeichner, Leitungsperson und Freigabe vor Eintragung.
-- `registereintrag-finalcheck` — Prueft vor Freigabe Vollstaendigkeit, Richtigkeit und Aktualitaet.
+- `registereintrag-finalcheck` — Prüft vor Freigabe Vollstaendigkeit, Richtigkeit und Aktualitaet.
 
 **Stammdaten und Inhalt**
 
@@ -262,48 +262,48 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 - `betraute-personen` — Ermittelt Personen, die mit Interessenvertretung betraut sind.
 - `vertretungsberechtigte-personen` — Ermittelt gesetzliche Vertretungen und Zeichnungsberechtigte.
 - `mitgliedschaften-mitgliederzahl` — Erfasst Mitgliederzahl und relevante Mitgliedschaften.
-- `hauptstadtrepraesentanz` — Prueft, ob eine Berliner Geschaeftsstelle anzugeben ist.
+- `hauptstadtrepraesentanz` — Prüft, ob eine Berliner Geschäftsstelle anzugeben ist.
 
 **Finanzdaten**
 
 - `finanzaufwendungen-berechnen` — Berechnet finanzielle Aufwendungen nach § 3 LobbyRG.
 - `hauptfinanzierungsquellen` — Strukturiert Hauptfinanzierungsquellen und grenzt Einnahmearten ab.
-- `öffentliche-zuwendungen` — Prueft Zuwendungen der öffentlichen Hand mit Schwellenwerten.
-- `schenkungen-sponsoring` — Prueft Schenkungen und Zuwendungen Dritter.
-- `jahresabschluss-rechenschaftsbericht` — Prueft Bereitstellungspflicht für Jahresabschluss oder Rechenschaftsbericht.
+- `öffentliche-zuwendungen` — Prüft Zuwendungen der öffentlichen Hand mit Schwellenwerten.
+- `schenkungen-sponsoring` — Prüft Schenkungen und Zuwendungen Dritter.
+- `jahresabschluss-rechenschaftsbericht` — Prüft Bereitstellungspflicht für Jahresabschluss oder Rechenschaftsbericht.
 
 **Spezialkonstellationen**
 
 - `auftraggeber-ermitteln` — Erfasst Auftraggeber bei Interessenvertretung für Dritte.
 - `fremdmandat-agenturfall` — Spezialfür Public-Affairs-Agenturen mit mehreren Mandanten.
 - `konzern-netzwerk-plattform` — Lobbyregisterfragen bei Konzernen, Verbaenden, Netzwerken.
-- `unterauftragnehmer-erfassen` — Prueft Unterauftragsverhaeltnisse und eingesetzte Personen.
+- `unterauftragnehmer-erfassen` — Prüft Unterauftragsverhaeltnisse und eingesetzte Personen.
 - `drehtuer-angaben` — Fuehrt durch Angaben zu frueherem Amt oder Mandat in Politik und Verwaltung.
-- `anonymisierung-schutzantrag` — Prueft Beschraenkung der Veroeffentlichung bei schutzwuerdigen Interessen.
+- `anonymisierung-schutzantrag` — Prüft Beschraenkung der Veroeffentlichung bei schutzwuerdigen Interessen.
 - `datenschutz-nichtöffentliche-angaben` — Ordnet öffentliche und nicht öffentliche Angaben.
 
 **Aktualisierung und Fristen**
 
 - `aktualisierung-unverzueglich` — Steuert unverzuegliche Updates bei Stammdaten und Personenaenderungen.
-- `geschaeftsjahresaktualisierung` — Jaehrliche vollstaendige Ueberpruefung und Bestaetigung.
+- `geschaeftsjahresaktualisierung` — Jaehrliche vollstaendige Überprüfung und Bestaetigung.
 - `fristen-und-quartalsmonitor` — Baut Fristenkalender für alle Updatepflichten und Nachholfristen.
-- `nicht-aktualisiert-risiko` — Prueft Kennzeichnung nicht aktualisiert und Rettungsplan.
+- `nicht-aktualisiert-risiko` — Prüft Kennzeichnung nicht aktualisiert und Rettungsplan.
 
 **Stellungnahmen und Gutachten**
 
-- `stellungnahmen-gutachten-upload` — Prueft Bereitstellungspflicht und Quartalsfrist für Stellungnahmen.
+- `stellungnahmen-gutachten-upload` — Prüft Bereitstellungspflicht und Quartalsfrist für Stellungnahmen.
 
 **Verhaltenskodex und Compliance**
 
 - `verhaltenskodex-integritaet` — Operationalisiert Offenheit, Transparenz und Integritaet nach § 5 LobbyRG.
 - `erstkontakt-offenlegung` — Formuliert Offenlegung beim erstmaligen Kontakt mit Adressaten.
-- `hausausweis-und-anhoerung` — Prueft Auswirkungen des Registerstatus auf Tagesausweis und Anhörungen.
+- `hausausweis-und-anhoerung` — Prüft Auswirkungen des Registerstatus auf Tagesausweis und Anhörungen.
 - `interne-lobbyregister-richtlinie` — Erstellt interne Richtlinie für Rollen, Meldewege und Schulung.
 - `visitenkarte-und-nachweise` — Nutzt Registerauszug und interne Nachweise für Compliance-Akte.
 
 **Sanktionen und Meldungen**
 
-- `bussgeld-und-pruefverfahren` — Reaktionsbei RfS-Pruefung, Anhörung und Bussgeldrisiko.
+- `bussgeld-und-pruefverfahren` — Reaktionsbei RfS-Prüfung, Anhörung und Bussgeldrisiko.
 - `verstoesse-melden` — Fuehrt durch Meldung moeglicher Verstoesse an die registerfuehrende Stelle.
 - `registerfuehrende-stelle-kontakt` — Bereitet Anfragen an die RfS und Korrekturen vor.
 
@@ -319,10 +319,10 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 
 ## Worauf besonders achten
 
-- **Unverzueglichkeitspflicht** — Jede wesentliche Aenderung (Personen, Taetigkeitsbeschreibung, Auftraggeber) muss ohne schuldhaftes Zoegern im Portal aktualisiert werden; Versaeumnisse erzeugen Bussgeldrisiko nach § 7 LobbyRG.
+- **Unverzueglichkeitspflicht** — Jede wesentliche Änderung (Personen, Taetigkeitsbeschreibung, Auftraggeber) muss ohne schuldhaftes Zoegern im Portal aktualisiert werden; Versaeumnisse erzeugen Bussgeldrisiko nach § 7 LobbyRG.
 - **Ausnahmepruefung zuerst** — Viele Kanzleien und Beratungen gehen reflexartig von Registrierungspflicht aus; eine sorgfaeltige Ausnahmepruefung nach § 2 Abs. 2 und 3 LobbyRG spart Aufwand.
-- **Irrefuehrungs-Verbot** — Eintraege muessen pruefbar und nicht irrefuehrend formuliert sein; zu allgemeine Taetigkeitsbeschreibungen koennen als Verschleierung gewertet werden.
-- **Agenturfall trennen** — Bei Fremdmandaten muessen Auftraggeber und die jeweils beauftragte Interessenvertretung klar getrennt sein; das Vermischen von Mandaten im selben Eintrag ist ein klassischer Fehler.
+- **Irrefuehrungs-Verbot** — Eintraege müssen prüfbar und nicht irrefuehrend formuliert sein; zu allgemeine Taetigkeitsbeschreibungen können als Verschleierung gewertet werden.
+- **Agenturfall trennen** — Bei Fremdmandaten müssen Auftraggeber und die jeweils beauftragte Interessenvertretung klar getrennt sein; das Vermischen von Mandaten im selben Eintrag ist ein klassischer Fehler.
 - **Bereitstellung Stellungnahmen** — Grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben sind nach § 3 LobbyRG registertauglich bereitzustellen; Frist und Portalpraxis vor Ausgabe live prüfen.
 
 ## Typische Fehler
@@ -330,13 +330,13 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 - Kontakte, die tatsaechlich Serviceanfragen oder rein lokale Anliegen sind, werden faelschlicherweise als registrierungspflichtige Interessenvertretung behandelt.
 - Die Drehtuer-Angaben werden vergessen oder zu eng ausgelegt (nur letzter Job statt alle relevanten fuenf Jahre).
 - Schutzantraege werden nicht gestellt, obwohl schutzwuerdige Interessen von Personen vorliegen.
-- Finanzdaten werden ohne Pruefung der aktuellen Schwellenwerte und Bandbreiten eingetragen.
+- Finanzdaten werden ohne Prüfung der aktuellen Schwellenwerte und Bandbreiten eingetragen.
 - Portal-Konten werden ohne Zwei-Personen-Freigabeprozess betrieben, was bei Personalwechseln zu Kontrollverlust fuehrt.
 
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
-- Lobbyregistergesetz (LobbyRG) in der Fassung nach dem Aenderungsgesetz vom 15.01.2024 (in Kraft 01.03.2024). Wesentliche Neuerungen: Adressatenkreis ab Referatsleiterebene; konkrete Angabe der Regelungsvorhaben und betroffenen Bereiche; Upload-Pflicht für Stellungnahmen und Gutachten von grundsaetzlicher Bedeutung; Uebergangsfrist Bestandseintraege 01.03.2024 bis 30.06.2024.
+- Lobbyregistergesetz (LobbyRG) in der Fassung nach dem Änderungsgesetz vom 15.01.2024 (in Kraft 01.03.2024). Wesentliche Neuerungen: Adressatenkreis ab Referatsleiterebene; konkrete Angabe der Regelungsvorhaben und betroffenen Bereiche; Upload-Pflicht für Stellungnahmen und Gutachten von grundsaetzlicher Bedeutung; Uebergangsfrist Bestandseintraege 01.03.2024 bis 30.06.2024.
 - Konsolidierte Fassung LobbyRG 2024: https://www.bundestag.de/resource/blob/991838/Konsolidierte-Fassung-LobbyRG-2024.pdf
 - Handbuch der registerfuehrenden Stelle des Deutschen Bundestags
 - Bundestag Hinweise zur Rechtslage ab 01.03.2024: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-zur-neuen-rechtslage-ab-dem-1-maerz-2024-955618
@@ -421,7 +421,7 @@ _Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrierung, Aktuali
 | Unklar, ob LobbyRG ueberhaupt greift | `interessenvertretung-begriff` |
 | Kontaktperson oder Stelle unklar | `adressatenkreis-bundestag-bundesregierung` |
 | Registrierungspflicht fraglich | `registrierungspflicht-schwellen` |
-| Ausnahme moeglich | `ausnahmen-bundestag` oder `ausnahmen-bundesregierung` |
+| Ausnahme möglich | `ausnahmen-bundestag` oder `ausnahmen-bundesregierung` |
 | Neue Registrierung | `erstregistrierung-ausfuellen` |
 | Bestehender Eintrag mit Aenderung | `aktualisierung-unverzueglich` |
 | Jahrespruefung | `geschaeftsjahresaktualisierung` |
@@ -471,7 +471,7 @@ _Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Po
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Intake Mandat Lobbyregister** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Lobbyregister Bundestag** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Intake Mandat Lobbyregister** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Lobbyregister Bundestag** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -763,7 +763,7 @@ _Führt durch Anzeige, dass keine registrierungspflichtige Interessenvertretung 
 
 1. Wurde die Interessenvertretung dauerhaft eingestellt?
 2. Welche Auftraege, Vorhaben und Kontakte laufen noch aus?
-3. Welche Dokumente muessen archiviert werden?
+3. Welche Dokumente müssen archiviert werden?
 
 ## Quellenanker
 
@@ -852,7 +852,7 @@ _Prüft die Ausnahmen von der Registrierungspflicht bei Interessenvertretung geg
 ## Leitfragen
 
 1. Geht es um persönliche Interessen, Petition, öffentliche Anhörung oder Ersuchen um Sachinformation?
-2. Ist das Anliegen ausschliesslich lokal?
+2. Ist das Anliegen ausschließlich lokal?
 3. Handelt eine Koerperschaft öffentlichen Rechts oder ein Sozialpartner?
 
 ## Ausnahmekatalog § 2 II LobbyRG (Bundestag)
@@ -1056,7 +1056,7 @@ _Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungna
 
 ## API-Wiedervorlagen
 
-Fuer jede Portalfrist soll der Monitor eine zweite Kontrollfrist setzen: Nach Veroeffentlichung API/API-Export abrufen, `sourceDate` und Version sichern, `updateMissing`, Stellungnahmen, Regelungsvorhaben und Finanzdaten gegen die Freigabeakte pruefen. Bleibt die erwartete Aenderung oeffentlich aus, Eskalation an Portalverantwortliche und Dokumentation im Fristenbuch.
+Für jede Portalfrist soll der Monitor eine zweite Kontrollfrist setzen: Nach Veroeffentlichung API/API-Export abrufen, `sourceDate` und Version sichern, `updateMissing`, Stellungnahmen, Regelungsvorhaben und Finanzdaten gegen die Freigabeakte prüfen. Bleibt die erwartete Aenderung öffentlich aus, Eskalation an Portalverantwortliche und Dokumentation im Fristenbuch.
 
 ## Quellenanker
 
@@ -1101,7 +1101,7 @@ _Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibun
 1. Welche Angabe hat sich wann geaendert?
 2. Ist die Aenderung registerrelevant?
 3. Wer muss Text, Beleg und Freigabe liefern?
-4. Welche veroeffentlichten API-Felder muessen nach der Portalaktion kontrolliert werden?
+4. Welche veroeffentlichten API-Felder müssen nach der Portalaktion kontrolliert werden?
 
 ## API-Nachkontrolle
 
@@ -1110,7 +1110,7 @@ Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage für den öffe
 1. Vorherige API-Antwort oder PDF-Version aus der Akte ziehen.
 2. Nach Veroeffentlichung `GET /registerentries/{registerNumber}?format=json` abrufen.
 3. Wenn die Version geaendert wurde, alte und neue Version gegenueberstellen.
-4. `lastUpdateDate`, `validFromDate`, `fiscalYearUpdate.updateMissing`, `refusedAnything`, Regelungsvorhaben, Stellungnahmen, Personen und Finanzdaten pruefen.
+4. `lastUpdateDate`, `validFromDate`, `fiscalYearUpdate.updateMissing`, `refusedAnything`, Regelungsvorhaben, Stellungnahmen, Personen und Finanzdaten prüfen.
 5. Abweichungen in `assets/templates/registerexport-diff.md` dokumentieren.
 
 ## Normen und Rechtsprechung

@@ -20,7 +20,7 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `kanzlei-builder-hub
 12. **paralegal-rollen-automatisieren** — Spezialfall paralegale Routineaufgaben automatisieren: Aktenneuanlage, Erstkontakt, Standardanschreiben, Vorlagepruefung…
 13. **skill-installierer** — Neue Skills in der KI-Anwaltskanzlei installieren: Verfuegbarkeitscheck, Abhaengigkeiten, Konfiguration. Normen: technis…
 14. **deaktivieren** — Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengig…
-15. **skill-templating-praxis** — Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Qu…
+15. **skill-templating-praxis** — Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Prüfraster, Que…
 
 ---
 
@@ -193,7 +193,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Der Kanzlei-Builder-Hub ist die Steuerzentrale für Installation, Verwaltung und Qualitaetssicherung von Skills und Plugins in der KI-gestuetzten Kanzleiumgebung. Er fuehrt vor dem Deployment ein Security-Review-Gate durch, das Community-Skills auf Sicherheit, Normkonformitaet und Qualitaet prueft, bevor sie produktiv genutzt werden.
+Der Kanzlei-Builder-Hub ist die Steuerzentrale für Installation, Verwaltung und Qualitaetssicherung von Skills und Plugins in der KI-gestuetzten Kanzleiumgebung. Er fuehrt vor dem Deployment ein Security-Review-Gate durch, das Community-Skills auf Sicherheit, Normkonformitaet und Qualitaet prüft, bevor sie produktiv genutzt werden.
 
 Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhandenen Musterdokumenten sowie die gezielte Suche und Verwaltung des Skill-Verzeichnisses. Er richtet sich an Kanzleiinhaber, IT-Verantwortliche und Kanzleimanager, die ihre KI-Kanzleiumgebung strukturiert aufbauen und pflegen wollen.
 
@@ -207,26 +207,26 @@ Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhan
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Security-Review-Gate** — Strukturiertes Pruefverfahren, das vor der Freigabe eines Community-Skills Sicherheit, Normverankerung und Qualitaet bewertet.
+- **Security-Review-Gate** — Strukturiertes Prüfverfahren, das vor der Freigabe eines Community-Skills Sicherheit, Normverankerung und Qualitaet bewertet.
 - **Plugin** — Zusammenschluss mehrerer thematisch verwandter Skills zu einem Funktionspaket für ein Rechtsgebiet oder einen Workflow.
 - **Skill** — Einzelne spezialisierte Anleitung in einer SKILL.md-Datei, die einen definierten Arbeitsschritt abdeckt.
-- **Playbook** — Kanzleispezifischer Pruef- und Arbeitskatalog, der aus eigenen Musterdokumenten automatisch erstellt wird.
+- **Playbook** — Kanzleispezifischer Prüf- und Arbeitskatalog, der aus eigenen Musterdokumenten automatisch erstellt wird.
 - **Kaltstart-Interview** — Strukturiertes Erstgespraech zur Erfassung von Kanzleiprofil, Rechtsgebieten und Konfigurationsparametern.
-- **Fundstelle** — Normzitat oder Rechtsprechungsnachweis; der Hub prueft deren einheitliche Zitierweise.
+- **Fundstelle** — Normzitat oder Rechtsprechungsnachweis; der Hub prüft deren einheitliche Zitierweise.
 
 ## Rechtsgrundlagen
 
 - § 43a BRAO — Allgemeine Berufspflichten des Rechtsanwalts (Sorgfalt, Verschwiegenheit)
 - § 43e BRAO — Dienstleister-Regelung: Berufsrechtliche Anforderungen an IT-Dienstleister der Kanzlei
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei externen Dienstleistern
-- Art. 32 DSGVO — Technische und organisatorische Massnahmen
+- Art. 32 DSGVO — Technische und organisatorische Maßnahmen
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kanzleiprofil und Rechtsgebiete im Kaltstart-Interview erfassen.
 2. Gewuenschte Skills oder Plugins im Verzeichnis suchen.
 3. Security-Review-Gate vor Installation durchlaufen lassen.
-4. Skill installieren und Abhaengigkeiten pruefen.
+4. Skill installieren und Abhaengigkeiten prüfen.
 5. Qualitaetspruefung nach Installation; bei Bedarf anpassen oder deaktivieren.
 
 ## Skill-Tour (was gibt es hier?)
@@ -239,23 +239,23 @@ Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhan
 - `kanzlei-builder-hub-kaltstart-interview` — Kaltstart-Interview: Kanzleiprofil, Rechtsgebiete und gewuenschte Plugins erfassen.
 - `playbook-aus-eigenen-daten` — Kanzleieigenes Playbook aus vorhandenen Musterdokumenten automatisch generieren.
 - `skill-installierer` — Neue Skills installieren mit Verfuegbarkeitscheck, Abhaengigkeitspruefung und Konfiguration.
-- `skill-verwalter` — Uebersicht und Verwaltung aller installierten Skills nach Status, Version und Abhaengigkeiten.
-- `skills-qualitaetspruefung` — Installierte Skills auf Normaktualitaet, Description-Qualitaet und Strukturkonformitaet pruefen.
+- `skill-verwalter` — Übersicht und Verwaltung aller installierten Skills nach Status, Version und Abhaengigkeiten.
+- `skills-qualitaetspruefung` — Installierte Skills auf Normaktualitaet, Description-Qualitaet und Strukturkonformitaet prüfen.
 - `verwandte-skills-vorschlag` — Verwandte Skills zu einem Mandat oder Rechtsproblem als Ergaenzungsempfehlung vorschlagen.
 - `verzeichnis-durchsuchen` — Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchsuchen.
 
 ## Worauf besonders achten
 
-- **Security-Review-Gate zwingend**: Community-Skills ohne Pruefung koennen falsche Normen, erfundene Aktenzeichen oder datenschutzrechtliche Schwachstellen enthalten.
-- **Abhaengigkeitspruefung vor Deinstallation**: Andere Skills oder Workflows koennen auf dem zu entfernenden Skill aufbauen.
-- **Normaktualitaet regelmaessig pruefen**: Gesetze und Rechtsprechung aendern sich; veraltete Skills sind ein Haftungsrisiko.
+- **Security-Review-Gate zwingend**: Community-Skills ohne Prüfung können falsche Normen, erfundene Aktenzeichen oder datenschutzrechtliche Schwachstellen enthalten.
+- **Abhaengigkeitspruefung vor Deinstallation**: Andere Skills oder Workflows können auf dem zu entfernenden Skill aufbauen.
+- **Normaktualitaet regelmaessig prüfen**: Gesetze und Rechtsprechung ändern sich; veraltete Skills sind ein Haftungsrisiko.
 - **Datensicherung vor Deinstallation**: Kanzleieigene Anpassungen gehen bei Deinstallation ohne Sicherung unwiederbringlich verloren.
 - **Kaltstart nicht ueberspringen**: Ohne vollstaendiges Kanzleiprofil sind Rechtsgebiet-Filter und Kompatibilitaetspruefungen unzuverlaessig.
 
 ## Typische Fehler
 
 - Community-Skills ohne Security-Review direkt in die Produktion uebernehmen.
-- Bei der Deinstallation nicht auf abhaengige Workflows pruefen, was zu Folgefehlern fuehrt.
+- Bei der Deinstallation nicht auf abhaengige Workflows prüfen, was zu Folgefehlern fuehrt.
 - Kanzleiprofil nach Rechtsgebietswechsel nicht aktualisieren, sodass Skill-Vorschlaege nicht mehr passen.
 - Fundstellen verschiedener Zitierweisen im selben Schriftsatz mischen (z. B. BGH-Aktenzeichen ohne einheitliches Format).
 - Qualitaetspruefung nur bei Neuinstallation, nicht nach Gesetzesaenderungen durchfuehren.
@@ -815,7 +815,7 @@ _Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete,
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Kanzlei Builder Hub** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Kanzlei Builder Hub** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -840,7 +840,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Art. 28 DSGVO — AVV mit KI-Infrastrukturanbieter: Pflicht bei jeder Auftragsverarbeitung
 - Art. 35 DSGVO — Datenschutz-Folgenabschaetzung bei hohem Risiko für Mandantendaten
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag und erfordern strukturierte Kanzleiorganisation
-- § 203 StGB — Verletzung von Privatgeheimnissen: KI-Skills muessen mandatsgeheimnis-konform konfiguriert sein
+- § 203 StGB — Verletzung von Privatgeheimnissen: KI-Skills müssen mandatsgeheimnis-konform konfiguriert sein
 
 ## Eingaben
 
@@ -1183,16 +1183,16 @@ _Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugin
 1. Welcher Abschnitt des Kanzleiprofils soll angepasst werden: Rechtsgebiete, Positivliste, TOM-Dokumentation, Registries oder Update-Einstellungen?
 2. Liegt ein konkreter Anlass vor (neue Rechtsgebiet-Erweiterung, Datenschutzaenderung, Teamaenderung)?
 3. Ist die bestehende Konfiguration vollstaendig und ohne Platzhalter (sonst Kaltstart-Interview noetig)?
-4. Betrifft die Aenderung datenschutzrechtlich relevante Konfiguration (TOM, AVV, Verarbeitungsverzeichnis)?
+4. Betrifft die Änderung datenschutzrechtlich relevante Konfiguration (TOM, AVV, Verarbeitungsverzeichnis)?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen muessen Datenschutz beruecksichtigen
+- Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen müssen Datenschutz beruecksichtigen
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer KI-Infrastruktur
-- Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Aenderung des Verarbeitungsumfangs zu aktualisieren
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen: TOM-Dokumentation nach jeder relevanten Aenderung
+- Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Änderung des Verarbeitungsumfangs zu aktualisieren
+- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen: TOM-Dokumentation nach jeder relevanten Änderung
 
 ## Eingaben
 
@@ -1702,26 +1702,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -1754,26 +1754,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -2180,7 +2180,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Skill: `skill-templating-praxis`
 
-_Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept im Kanzlei Builder Hub._
+_Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Prüfraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept im Kanzlei Builder Hub._
 
 # Skill-Templating Praxis
 
@@ -2201,26 +2201,26 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

@@ -27,7 +27,7 @@ _Einstieg und Routing für alle Behörden-, Gerichts-, Antrags-, Bescheid- und V
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Buerokratieversteher Entbuerokratisierer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Buerokratieversteher Entbuerokratisierer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -127,7 +127,7 @@ _Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Er
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum geht es konkret
-Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der Norm, sondern im **Ermessen** der Behörde (Kennzeichen: "kann", "soll", "kann anordnen"). Ermessen erlaubt Spielraum — verlangt aber Pruefung der Belange und Begruendung. Wer Ermessen versteht, kann gezielt argumentieren.
+Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der Norm, sondern im **Ermessen** der Behörde (Kennzeichen: "kann", "soll", "kann anordnen"). Ermessen erlaubt Spielraum — verlangt aber Prüfung der Belange und Begruendung. Wer Ermessen versteht, kann gezielt argumentieren.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Steht im Gesetz "kann" oder "soll" (= Ermessen)?
@@ -138,20 +138,20 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 
 ## Rechtlicher Rahmen
 - **VwVfG § 40** Ermessen, "entsprechend dem Zweck der Ermaechtigung, in den gesetzlichen Grenzen".
-- **VwGO § 114** gerichtliche Ueberpruefung nur eingeschraenkt.
+- **VwGO § 114** gerichtliche Überprüfung nur eingeschraenkt.
 - **VwVfG § 39** Begruendungspflicht; § 39 Abs. 1 S. 3 Ermessensgruende.
 - **GG Art. 3 Abs. 1** Gleichbehandlung — Selbstbindung der Verwaltung durch Verwaltungspraxis.
 - **VwGO § 114 S. 2** Nachholung der Ermessensbegruendung im verwaltungsgerichtlichen Verfahren.
 
 ## / Schritt für Schritt
-1. **Norm pruefen:** "Kann" = Ermessen; "soll" = intendiertes Ermessen (Regelfall Ermessen ausgeuebt); "ist" = gebunden.
-2. **Ermessensspielraum kartieren:** Welche Belange muss die Behörde abwaegen (privat/oeffentlich, Verhaeltnismaessigkeit)?
-3. **Begruendung pruefen:** Sind die abgewogenen Belange erkennbar? § 39 VwVfG.
+1. **Norm prüfen:** "Kann" = Ermessen; "soll" = intendiertes Ermessen (Regelfall Ermessen ausgeuebt); "ist" = gebunden.
+2. **Ermessensspielraum kartieren:** Welche Belange muss die Behörde abwaegen (privat/öffentlich, Verhältnismäßigkeit)?
+3. **Begruendung prüfen:** Sind die abgewogenen Belange erkennbar? § 39 VwVfG.
 4. **Ermessensfehler suchen:**
  - **Ermessensnichtgebrauch** (Behörde glaubt gebunden zu sein)
  - **Ermessensueberschreitung** (Ergebnis ausserhalb gesetzlicher Grenze)
  - **Ermessensfehlgebrauch** (sachfremde Erwaegung, fehlende Belange)
-5. **Selbstbindung pruefen:** Gleichbehandlung mit aehnlichen Faellen (Art. 3 GG); Verwaltungsvorschriften.
+5. **Selbstbindung prüfen:** Gleichbehandlung mit aehnlichen Faellen (Art. 3 GG); Verwaltungsvorschriften.
 6. **Argumentation:** Ermessensfehler explizit benennen; mildere Mittel vorschlagen.
 
 ## Trade-off-Matrix
@@ -164,15 +164,15 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 | Ermessensreduzierung auf Null | nur eine richtige Entscheidung | Beweisen, dass Behörde keinen Spielraum hatte |
 
 ## Praxistipps
-- Bei Ermessensentscheidungen ist Verhaeltnismaessigkeit zentral: Geeignetheit, Erforderlichkeit, Angemessenheit.
+- Bei Ermessensentscheidungen ist Verhältnismäßigkeit zentral: Geeignetheit, Erforderlichkeit, Angemessenheit.
 - Selbstbindung der Verwaltung wirkt zugunsten des Buergers (Art. 3 GG): Wenn die Behörde in aehnlichen Faellen anders entschieden hat, muss sie das begruenden.
 - Ermessensnichtgebrauch ist haeufig: Behörde meint, sie habe keinen Spielraum — dann ist der Bescheid fehlerhaft.
-- Gericht prueft Ermessen nur eingeschraenkt (§ 114 VwGO) — Sachvortrag bei der Behörde ist entscheidend.
+- Gericht prüft Ermessen nur eingeschraenkt (§ 114 VwGO) — Sachvortrag bei der Behörde ist entscheidend.
 - Bei intendiertem Ermessen ("soll") substanziieren, warum atypische Lage vorliegt.
 
 ## Mustertexte
 **Argumentation Ermessensfehler:**
-> Die angefochtene Verfuegung beruht auf einem Ermessensfehler. § … erlaubt der Behörde nach pflichtgemaessem Ermessen [Massnahme]. Die Begruendung des Bescheids laesst nicht erkennen, dass folgende Belange beruecksichtigt wurden: [Liste]. Damit liegt Ermessensnichtgebrauch / Ermessensfehlgebrauch vor.
+> Die angefochtene Verfuegung beruht auf einem Ermessensfehler. § … erlaubt der Behörde nach pflichtgemaessem Ermessen [Maßnahme]. Die Begruendung des Bescheids lässt nicht erkennen, dass folgende Belange beruecksichtigt wurden: [Liste]. Damit liegt Ermessensnichtgebrauch / Ermessensfehlgebrauch vor.
 
 **Vortrag atypische Lage:**
 > Die Voraussetzungen für ein Abweichen vom Regelfall (intendiertes Ermessen) liegen vor: [Tatsachen]. Die Behörde hat den Ausnahmecharakter nicht hinreichend gewuerdigt; die Entscheidung ist im Wege der Ermessensreduzierung zu meinen Gunsten zu treffen.
@@ -181,13 +181,13 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 - "Kann" nicht als Ermessen erkannt.
 - Begruendung als formelhafte Standardphrase akzeptiert.
 - Gleichbehandlungsfrage uebersehen.
-- Bei Klage Ermessen nicht detailliert angegriffen — Gericht prueft nur eingeschraenkt.
+- Bei Klage Ermessen nicht detailliert angegriffen — Gericht prüft nur eingeschraenkt.
 
 ## Quellen Stand 06/2026
 - VwVfG §§ 39, 40.
 - VwGO § 114.
 - GG Art. 3 Abs. 1.
-- BVerwG, staend. Rspr. zu Ermessensfehlern und Verhaeltnismaessigkeit.
+- BVerwG, staend. Rspr. zu Ermessensfehlern und Verhältnismäßigkeit.
 - Landes-VwVfG (Live-Check Landesministerien).
 
 ---
@@ -207,11 +207,11 @@ _Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausnahmen, Inhalt 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum geht es konkret
-Vor jedem belastenden Verwaltungsakt muss die Behörde grundsaetzlich anhoeren — § 28 VwVfG. Die Anhörung ist die letzte Chance, Sachverhalt und Argumente einzubringen, bevor der Bescheid ergeht. Wer nicht reagiert, kann meist nur noch im Widerspruch/Klage agieren.
+Vor jedem belastenden Verwaltungsakt muss die Behörde grundsätzlich anhoeren — § 28 VwVfG. Die Anhörung ist die letzte Chance, Sachverhalt und Argumente einzubringen, bevor der Bescheid ergeht. Wer nicht reagiert, kann meist nur noch im Widerspruch/Klage agieren.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt ein Anhörungsschreiben mit Frist vor?
-- Welcher Bescheid wird angekuendigt (Rueckforderung, Aufhebung, Bussgeld, Massnahme)?
+- Welcher Bescheid wird angekuendigt (Rueckforderung, Aufhebung, Bussgeld, Maßnahme)?
 - Welche Sachverhaltsfeststellung wird zugrunde gelegt? Stimmt sie?
 - Welche Frist setzt die Behörde? Standard 2-4 Wochen.
 - Welche Beweismittel kann ich beifuegen?
@@ -222,7 +222,7 @@ Vor jedem belastenden Verwaltungsakt muss die Behörde grundsaetzlich anhoeren �
 - **VwVfG § 46** Aufhebbarkeit bei Verfahrensfehlern.
 - **SGB X § 24** entsprechende Vorschrift für Sozialverwaltungsverfahren.
 - **Landes-VwVfG** weitgehend bundesgleich.
-- **DSGVO Art. 13/14** Information ueber Datenverarbeitung — kein Anhörungsersatz.
+- **DSGVO Art. 13/14** Information über Datenverarbeitung — kein Anhörungsersatz.
 
 ## / Schritt für Schritt
 1. **Schreiben lesen:** Welche Tatsachen behauptet die Behörde? Welche Rechtsfolge wird angekuendigt?
@@ -238,7 +238,7 @@ Vor jedem belastenden Verwaltungsakt muss die Behörde grundsaetzlich anhoeren �
 |---|---|---|
 | substantiierte Stellungnahme | Bescheid abwenden/abmildern | Aufwand |
 | Schweigen | kein Aufwand | Bescheid ergeht ungestoert |
-| Schweigen + spaeter Widerspruch | nichts riskiert | Sachvortrag oft schwer nachzuholen |
+| Schweigen + später Widerspruch | nichts riskiert | Sachvortrag oft schwer nachzuholen |
 | Anwalt einschalten | Qualitaet | Kosten, ggf. Beratungshilfe |
 
 ## Praxistipps
@@ -246,19 +246,19 @@ Vor jedem belastenden Verwaltungsakt muss die Behörde grundsaetzlich anhoeren �
 - Beweismittel beifuegen, nicht nur ankuendigen.
 - Schreiben sachlich, ohne Schuldzuweisung; "Sehr geehrte Damen und Herren" + klarer Aufbau.
 - Ausnahmen § 28 Abs. 2 VwVfG (Eile, öffentliches Interesse, Allgemeinverfuegung) restriktiv auslegen.
-- Heilung § 45 Abs. 1 Nr. 3 ist moeglich, deshalb fehlende Anhörung allein selten erfolgreicher Klagegrund.
+- Heilung § 45 Abs. 1 Nr. 3 ist möglich, deshalb fehlende Anhörung allein selten erfolgreicher Klagegrund.
 - DSGVO-Datenauskunft (Art. 15) kann ergaenzend zur Anhörung helfen, um den Sachverhalt der Behörde zu kennen.
 
 ## Mustertexte
 **Stellungnahme zur Anhörung (allgemein):**
 > Sehr geehrte Damen und Herren, zu Ihrer Anhörung vom [Datum], Aktenzeichen [Az.], nehme ich wie folgt Stellung.
 > 1. Sachverhalt: Die in Ihrem Schreiben dargestellten Tatsachen treffen [teilweise/nicht] zu. Tatsaechlich verhaelt es sich so: …. Anlagen [Belege].
-> 2. Rechtsfolge: Eine [Rueckforderung/Aufhebung/Massnahme] erscheint unverhaeltnismaessig, weil …
+> 2. Rechtsfolge: Eine [Rueckforderung/Aufhebung/Maßnahme] erscheint unverhaeltnismaessig, weil …
 > 3. Hilfsweise: Sollten Sie an Ihrer Auffassung festhalten, beantragen wir …. (Stundung, Teilrueckforderung, Ratenzahlung).
 > Ich bitte um wohlwollende Beruecksichtigung.
 
 **Fristverlaengerungsantrag:**
-> Sehr geehrte Damen und Herren, bezueglich Ihrer Anhörung vom [Datum], Aktenzeichen [Az.], bitte ich um Fristverlaengerung bis [Datum]. Begruendung: …
+> Sehr geehrte Damen und Herren, bezüglich Ihrer Anhörung vom [Datum], Aktenzeichen [Az.], bitte ich um Fristverlaengerung bis [Datum]. Begruendung: …
 
 ## Typische Fehler
 - Schweigen — Bescheid ergeht ohne Gegenposition.
@@ -333,18 +333,18 @@ Behörden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 ## / Schritt für Schritt
 1. **Dokument datieren:** Bescheiddatum, Datum Posteingang/Zustellung.
 2. **Zugang ermitteln:** Bei einfachem Brief Zugangsfiktion 3 Werktage nach Absendung (§ 41 Abs. 2 VwVfG). Bei Zustellung: tatsaechlicher Tag der Zustellung.
-3. **Rechtsbehelfsbelehrung pruefen:** Vorhanden? Inhaltlich korrekt (Form, Frist, Behörde/Gericht)? Bei Fehlern Jahresfrist § 58 Abs. 2 VwGO.
+3. **Rechtsbehelfsbelehrung prüfen:** Vorhanden? Inhaltlich korrekt (Form, Frist, Behörde/Gericht)? Bei Fehlern Jahresfrist § 58 Abs. 2 VwGO.
 4. **Fristlauf berechnen:** Monatsfrist beginnt mit dem Tag nach Zugang (§ 187 BGB); Ende mit Ablauf des entsprechenden Tages im Folgemonat (§ 188 BGB). Faellt der Ablauftag auf Sa/So/Feiertag, verschiebt sich auf naechsten Werktag (§ 31 Abs. 3 VwVfG).
 5. **Sofortmassnahmen:** Fristwahrenden Widerspruch/Klage formulieren, Begruendung kann nachgereicht werden.
 6. **Wiedereinsetzungspruefung** bei abgelaufener Frist: unverschuldetes Versaeumnis, Antrag binnen 2 Wochen ab Wegfall des Hindernisses.
 
 ## Trade-off-Matrix
 
-| Lage | Massnahme | Effekt |
+| Lage | Maßnahme | Effekt |
 |---|---|---|
 | Frist klar, 1 Monat | Widerspruch/Klage einlegen | Erhalt Rechtsbehelf |
 | Rechtsbehelfsbelehrung fehlt/fehlerhaft | Jahresfrist nutzen, aber zuegig handeln | rechtssicher |
-| Frist abgelaufen | Wiedereinsetzung pruefen | unsicher, oft scheitert |
+| Frist abgelaufen | Wiedereinsetzung prüfen | unsicher, oft scheitert |
 | Anhörungsfrist | Stellungnahme einreichen | Bescheid abwenden |
 | Zustellungsfrage offen | Beweissicherung Postfach/Briefkasten | Beweisproblem |
 
@@ -363,13 +363,13 @@ Behörden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 > Bescheiddatum 03.06.2026, abgesendet 03.06., Zugang fiktiv 06.06.2026 (3 Werktage). Monatsfrist beginnt 07.06.2026. Fristablauf 06.07.2026 (Mo). Letzter Tag für Widerspruch: 06.07.2026 24:00 Uhr.
 
 **Wiedereinsetzungsantrag:**
-> Hilfsweise wird Wiedereinsetzung in den vorigen Stand gemaess § 60 VwGO beantragt. Begruendung: …. Wir versichern an Eides Statt, dass …. Antrag binnen 2 Wochen ab Wegfall des Hindernisses.
+> Hilfsweise wird Wiedereinsetzung in den vorigen Stand gemäß § 60 VwGO beantragt. Begruendung: …. Wir versichern an Eides Statt, dass …. Antrag binnen 2 Wochen ab Wegfall des Hindernisses.
 
 ## Typische Fehler
 - Bescheiddatum mit Zugang gleichsetzen.
-- Drei-Tages-Fiktion ueber Wochenende falsch berechnet.
+- Drei-Tages-Fiktion über Wochenende falsch berechnet.
 - Rechtsbehelfsbelehrung nicht gepruegt (Fehler → 1-Jahresfrist).
-- Widerspruch bei Behörde eingereicht, die nicht zuständig ist (zur Niederschrift bei jeder Behörde moeglich, aber Zuständigkeitsweiterleitung sicherer).
+- Widerspruch bei Behörde eingereicht, die nicht zuständig ist (zur Niederschrift bei jeder Behörde möglich, aber Zuständigkeitsweiterleitung sicherer).
 - Nachts vor Mitternacht eingeworfen, ohne Zeugen — Beweisproblem.
 
 ## Quellen Stand 06/2026

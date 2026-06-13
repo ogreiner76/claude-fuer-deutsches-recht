@@ -15,12 +15,12 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `krisenfrueherkennun
 7. **insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist** — Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen:…
 8. **integrierte-planung-kennzahlenset-ampelsystem** — Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsist…
 9. **kennzahlenset-und-ampelsystem-starug-konform** — StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellen…
-10. **krisenstadien-stakeholder-strategie-ergebnis-liquiditaet** — IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende …
-11. **paragraph-1-starug-pflichten-und-24-monats-horizont** — § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG ko…
-12. **restrukturierungsbeauftragter-und-sachwalter** — Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben.…
-13. **restrukturierungsplan-architektur-rollierende** — StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanieru…
-14. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung Starug-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, R…
-15. **gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg** — Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Ent…
+10. **paragraph-1-starug-pflichten-und-24-monats-horizont** — § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG ko…
+11. **restrukturierungsbeauftragter-und-sachwalter** — Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben.…
+12. **restrukturierungsplan-architektur-rollierende** — StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanieru…
+13. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung Starug-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, R…
+14. **gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg** — Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Ent…
+15. **krisenstadien-stakeholder-strategie-ergebnis-liquiditaet** — IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende …
 
 ---
 
@@ -39,13 +39,13 @@ Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu
 - `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
 - `berater-drohende-fruehwarnsystem` — Berater Drohende Fruehwarnsystem
 - `cross-class-cram-down-und-absolute-priority` — Cross Class Cram Down und Absolute Priority
-- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschaeftsfuehrung
+- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschäftsführung
 - `drohende-zahlen-schwellen-und-berechnung` — Drohende Zahlen Schwellen und Berechnung
 - `drohende-zahlungsunfaehigkeit` — Drohende Zahlungsunfaehigkeit
 - `fortbestehensprognose-zweistufig` — Fortbestehensprognose Zweistufig
 - `fruehwarnsystem-architektur-zwei-jahres-horizont` — Fruehwarnsystem Architektur Zwei Jahres Horizont
 - `fruehwarnsystem-behoerden-gericht-und-registerweg` — Fruehwarnsystem Behoerden Gericht und Registerweg
-- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschaeftsfuehrerhaftung Quellenkarte Check
+- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschäftsführerhaftung Quellenkarte Check
 - `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF Haftung Paragraph 43 GMBHG und Paragraph 93 AKTG
 - `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Insolvenzantragspflicht Paragraph 15A Inso und Drei Wochen Frist
 - `integrierte-interessen-kennzahlenset` — Integrierte Interessen Kennzahlenset
@@ -222,7 +222,7 @@ ERGEBNIS:
 1. **Ablehnende Klasse identifiziert?** Welche Klasse/Gruppe wird ablehnen?
 2. **Best-Interest-Test berechnet?** Liquidationsquote als untere Grenze für ablehnende Klasse.
 3. **Mehrheit der Klassen vorhanden?** Mindestens Haelfte aller Klassen muss zugestimmt haben.
-4. **Gleichbehandlung?** Kein Glaeubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
+4. **Gleichbehandlung?** Kein Gläubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
 
 ## Normen und Rechtsprechung
 
@@ -1538,201 +1538,6 @@ Bevor losgelegt wird, klaere:
 
 ---
 
-## Skill: `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet`
-
-_IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Prüfraster: Erkennungsmerkmale je Stadiu..._
-
-# Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem § 1 StaRUG greift, ab dem Berater warnen müssen und ab dem der Geschäftsführer sein Pflichtenprofil neu kalibrieren muss. Wer das Stadium falsch einschätzt, handelt zu spät — und verliert den Zugang zu den effektiven Sanierungswerkzeugkästen.
-
----
-
-## Rechtsgrundlagen
-
-- IDW S 6 Tz. 12 ff. (Stadienmodell der Unternehmenskrise)
-- § 1 StaRUG (Früherkennungspflicht — schon ab Stakeholderkrise relevant)
-- § 18 InsO (drohende Zahlungsunfähigkeit — Liquiditätskrise als Schwelle)
-- § 17 InsO (eingetretene Zahlungsunfähigkeit)
-- § 19 InsO (Überschuldung)
-- § 29 Abs. 2 StaRUG (Zugangsschwelle: drohende ZU muss vorliegen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Pflichten
-
-### 1. Das fünfstufige Stadienmodell
-
-IDW S 6 unterscheidet fünf Krisenstadien, die in der Praxis selten trennscharf sind und sich überlappen können:
-
-```
-STADIUM 1: STAKEHOLDERKRISE
- Definition: Vertrauensverlust bei wesentlichen Stakeholdern
- (Gesellschafter, Banken, Schlüsselkunden, Lieferanten, Mitarbeiter)
- Zeitlicher Vorlauf vor Insolvenz: typisch 3-8 Jahre
- StaRUG-Relevanz: § 1 StaRUG grundsätzlich schon auslösbar
-
-STADIUM 2: STRATEGIEKRISE
- Definition: Erosion des strategischen Wettbewerbsvorteils
- (Marktposition, Technologievorsprung, Kundenloyalität)
- Zeitlicher Vorlauf: typisch 2-6 Jahre
- StaRUG-Relevanz: § 1 StaRUG-Pflicht klar ausgelöst, wenn existenzgefährdend
-
-STADIUM 3: PRODUKT-/ABSATZKRISE
- Definition: Nachfragerückgang, Marktanteilsverlust, Preisverfall
- ohne korrigierende strategische Reaktion
- Zeitlicher Vorlauf: typisch 1-4 Jahre
- StaRUG-Relevanz: Erhöhte Eskalationspflicht, § 102 StaRUG für Berater
-
-STADIUM 4: ERTRAGSKRISE
- Definition: Nachhaltig negatives EBIT/EBITDA, Verlustakkumulation,
- Eigenkapitalverzehr
- Zeitlicher Vorlauf: typisch 6-24 Monate
- StaRUG-Relevanz: Drohende ZU oft in Sichtweite, StaRUG-Zugang prüfen
-
-STADIUM 5: LIQUIDITÄTSKRISE
- Definition: Zahlungsunfähigkeit droht oder ist eingetreten;
- Kreditlinien erschöpft, Zulieferer auf Vorkasse
- Zeitlicher Vorlauf: Wochen bis Monate
- StaRUG-Relevanz: Letztes Fenster für StaRUG; danach InsO-Pflicht
-```
-
-### 2. Die kritische Schwelle: Wann wird aus Krise ein Insolvenzgrund?
-
-```
-ERTRAGSKRISE → Überschuldungsrisiko (§ 19 InsO):
- Wenn Verluste das Eigenkapital aufgezehrt haben und negative
- Fortführungsprognose vorliegt.
-
-LIQUIDITÄTSKRISE → Drohende ZU (§ 18 InsO):
- Wenn die Liquiditätsplanung (24 Monate) zeigt, dass Verbindlichkeiten
- überwiegend wahrscheinlich nicht bedient werden können.
-
-LIQUIDITÄTSKRISE → Eingetretene ZU (§ 17 InsO):
- Wenn fällige Verbindlichkeiten nicht beglichen werden können
- und dies nicht nur vorübergehend ist.
-```
-
----
-
-## Vorgehen
-
-### Schritt 1: Stadien-Schnelldiagnose (Checkliste)
-
-**Stadium 1 — Stakeholderkrise:**
-- [ ] Gesellschafter äußern grundsätzliche Kritik am Management?
-- [ ] Bank hat Kreditgespräch intensiviert oder Konditionen verschlechtert?
-- [ ] Schlüsselkunden haben Aufträge reduziert oder Rahmenverträge nicht verlängert?
-- [ ] Schlüsselmitarbeiter haben das Unternehmen verlassen?
-- [ ] Lieferanten verlangen verschärfte Zahlungsbedingungen?
-
-**Stadium 2 — Strategiekrise:**
-- [ ] Marktanteil sinkt seit mind. zwei Jahren?
-- [ ] Wettbewerber haben technologischen Vorsprung aufgeholt oder überholt?
-- [ ] Kundenzufriedenheitswerte (NPS, Reklamationsquote) verschlechtern sich?
-- [ ] Kernprodukte/Dienstleistungen haben keine klare Differenzierungsstrategie mehr?
-- [ ] Das Geschäftsmodell wurde in den letzten fünf Jahren nicht adaptiert?
-
-**Stadium 3 — Absatzkrise:**
-- [ ] Umsatzrückgang > 10 % in zwei aufeinanderfolgenden Quartalen?
-- [ ] Auftragsbestand sinkt unter Normalreichweite?
-- [ ] Preisreduzierungen erforderlich, um Aufträge zu gewinnen?
-- [ ] Produktionsauslastung unter 70 %?
-
-**Stadium 4 — Ertragskrise:**
-- [ ] EBIT seit mehr als zwei Quartalen negativ?
-- [ ] EBITDA-Marge unter Branchendurchschnitt?
-- [ ] Eigenkapitalquote unter 15 %?
-- [ ] Verlustvorträge übersteigen 25 % des Stammkapitals?
-- [ ] Working Capital steigt trotz sinkender Umsätze?
-
-**Stadium 5 — Liquiditätskrise:**
-- [ ] Kreditlinien zu mehr als 80 % ausgelastet?
-- [ ] Finanzamt oder Sozialversicherungsträger werden verzögert bezahlt?
-- [ ] Lieferanten auf Vorkasse oder Avale?
-- [ ] Liquiditätsreichweite unter sechs Monate?
-- [ ] Covenant-Verletzung eingetreten oder droht?
-
-### Schritt 2: Stadium einordnen und Handlungsprogramm ableiten
-
-| Stadium | Sofortmaßnahmen | Sanierungsträger | StaRUG-Werkzeug |
-|---|---|---|---|
-| Stakeholderkrise | Kommunikation, Governance | Management, ggf. PE | Nicht nötig |
-| Strategiekrise | Strategieüberprüfung, Restrukturierung | Management + Berater | Nicht nötig |
-| Absatzkrise | Vertrieb, Pricing, Portfolio | Management + Berater | Präventiv prüfen |
-| Ertragskrise | Kostenstruktur, Working Capital | GF + Restrukt.-Berater | § 1 StaRUG aktiv |
-| Liquiditätskrise | Cash-Management, Notfallplan, Gläubiger | GF + RA + Insolvenzrechtler | §§ 29 ff. StaRUG oder § 15a InsO |
-
-### Schritt 3: Diagnose dokumentieren
-
-```
-STADIUM-DIAGNOSE-PROTOKOLL
-Gesellschaft: [Firma]
-Datum: [TT.MM.JJJJ]
-Erstellt: [GF / Berater]
-
-Erkanntes Krisenstadium: [Stadium 1-5]
-Grundlage der Einschätzung:
- [ ] Analyse BWA / Liquiditätsplan
- [ ] Kundengespräche
- [ ] Bankgespräch
- [ ] Berater-Einschätzung (IDW S 6)
- [ ] Sonstiges: [___]
-
-Überlappende Stadien: [ja / nein] — Details: [___]
-
-Handlungsmaßnahmen:
- 1. [Maßnahme, verantwortlich, Frist]
- 2. [Maßnahme, verantwortlich, Frist]
-
-Eskalation:
- Gesellschafter informiert: [ja / nein / geplant bis]
- Berater einbezogen: [ja / nein / geplant]
- StaRUG-Prüfung initiiert: [ja / nein / geplant]
-
-Unterschrift GF: ___________________ Datum: ___________
-```
-
----
-
-## Fallstricke
-
-1. **Stadium zu spät erkannt** — die häufigste und teuerste Fehlleistung. Stakeholder- und Strategiekrise werden als "normales Marktgeschehen" abgetan, bis die Liquiditätskrise plötzlich da ist.
-
-2. **Stadiensprünge unterschätzen** — in wirtschaftlich turbulenten Phasen kann ein Unternehmen mehrere Stadien in wenigen Monaten überspringen (z.B. externe Schocks wie Lieferkettenkrisen).
-
-3. **Keine Aktualisierung der Diagnose** — das Stadium ist dynamisch. Was heute Ertragskrise ist, kann in drei Monaten Liquiditätskrise sein. Monatliche Re-Diagnose ist Pflicht.
-
-4. **Beschönigung gegenüber Gesellschaftern** — wer das Stadium herunterstuft, um schlechte Nachrichten zu vermeiden, verletzt § 1 StaRUG (Unterrichtungspflicht) und riskiert die persönliche Haftung.
-
-5. **Verwechslung mit Insolvenzeröffnungsgrund** — das Stadium der Krise ist nicht dasselbe wie ein Insolvenzeröffnungsgrund. Auch in Stadium 4 kann noch keine Insolvenzantragspflicht bestehen, wenn die Fortführungsprognose positiv ist.
-
----
-
-## Weitere Leitentscheidungen — Krisenstadien und Stakeholder
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Triage — Krisenstadien-Einordnung
-
-1. **Krisenstadium?** Stakeholderkrise (Vertrauen) → Erfolgskrise (EBIT) → Liquiditaetskrise (Cashflow) → Insolvenzgefahr.
-2. **Fruehzeitige Stakeholder-Einbindung?** Bank, Hauptlieferanten, FA, PSV frueizeitig kontaktieren.
-3. **Vertraulichkeit?** Stakeholder-Informationen ohne NDA riskant (Weitergabe, Bonitaetsschaden).
-4. **Eskalationskette?** GF → Aufsichtsrat → Anwalt → Bank → FA je nach Stadium.
-
----
-
 ## Skill: `paragraph-1-starug-pflichten-und-24-monats-horizont`
 
 _§ 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungsho..._
@@ -2272,7 +2077,7 @@ ANLAGEN
 
 ## Triage — Plan-Architektur Check
 
-1. **Darstellender Teil vollstaendig?** Ausgangslage, Krisenursachen, Sanierungskonzept, Massnahmen, Vergleichsrechnung.
+1. **Darstellender Teil vollstaendig?** Ausgangslage, Krisenursachen, Sanierungskonzept, Maßnahmen, Vergleichsrechnung.
 2. **Gestaltender Teil praezise?** Forderungstabelle, Quoten, Stundungen, Sicherheiten klar bezeichnen.
 3. **Gruppen korrekt?** Homogenitaet je Gruppe sichergestellt?
 4. **Anlagen?** Integrierten Finanzplan, Sanierungsgutachten, Beteiligten-Listen als Anlagen.
@@ -2398,7 +2203,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` | Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als… |
 | `integrierte-planung-guv-bilanz-cashflow` | Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB… |
 | `kennzahlenset-und-ampelsystem-starug-konform` | StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F.… |
-| `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` | IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-,… |
+| `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` | IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-,… |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als… |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
@@ -2410,24 +2215,24 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) verpflichtet Geschaeftsfuehrer und Vorstande, ein Fruehwarnsystem mit 24-Monats-Horizont zu unterhalten (§ 1 StaRUG). Daneben trifft Rechtsberater (Steuerberater, Wirtschaftspruefer, Rechtsanwaelte) bei Anzeichen einer Unternehmenskrise eine eigenstaendige Hinweis- und Warnpflicht nach § 102 StaRUG.
+Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) verpflichtet Geschäftsführer und Vorstande, ein Fruehwarnsystem mit 24-Monats-Horizont zu unterhalten (§ 1 StaRUG). Daneben trifft Rechtsberater (Steuerberater, Wirtschaftspruefer, Rechtsanwaelte) bei Anzeichen einer Unternehmenskrise eine eigenstaendige Hinweis- und Warnpflicht nach § 102 StaRUG.
 
-Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem und der Krisenstadien-Diagnose ueber Insolvenzantragspflicht und Fortbestehensprognose bis hin zur Restrukturierungsplan-Architektur, dem Cross-Class-Cram-Down und der Stabilisierungsanordnung. Zielgruppe sind Restrukturierungsberater, Steuerberater, Wirtschaftspruefer und Unternehmensjuristen.
+Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem und der Krisenstadien-Diagnose über Insolvenzantragspflicht und Fortbestehensprognose bis hin zur Restrukturierungsplan-Architektur, dem Cross-Class-Cram-Down und der Stabilisierungsanordnung. Zielgruppe sind Restrukturierungsberater, Steuerberater, Wirtschaftspruefer und Unternehmensjuristen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Ein Mandant zeigt erste Krisenzeichen (sinkende Liquiditaetsreichweite, Covenant-Verletzung, Umsatzeinbruch) und Sie wollen das Krisenstadium nach IDW S 6 einordnen.
-- Ein Geschaeftsfuehrer fragt, ob und bis wann er Insolvenz anmelden muss (§ 15a InsO, Drei-Wochen-Frist).
+- Ein Geschäftsführer fragt, ob und bis wann er Insolvenz anmelden muss (§ 15a InsO, Drei-Wochen-Frist).
 - Als Steuerberater oder Anwalt wollen Sie Ihre Warnpflicht nach § 102 StaRUG dokumentieren, um eigene Haftungsrisiken zu begrenzen.
-- Ein Restrukturierungsplan soll nach §§ 7 ff. StaRUG aufgestellt werden und das Gericht soll den Plan gegen ablehnende Glaeubiger bestaetigen.
+- Ein Restrukturierungsplan soll nach §§ 7 ff. StaRUG aufgestellt werden und das Gericht soll den Plan gegen ablehnende Gläubiger bestaetigen.
 - Ein Schuldner benoetigt eine Stabilisierungsanordnung nach §§ 49 ff. StaRUG, um Vollstreckungsversuche zu stoppen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Drohende Zahlungsunfaehigkeit** — Zugangsberechtigung zum StaRUG: Wahrscheinlichkeit, dass das Unternehmen kuenftig nicht mehr zahlen kann (§ 18 InsO), abzugrenzen von der aktuellen ZU nach § 17 InsO.
-- **Fortbestehensprognose** — zweistufige Pruefung nach IDW S 11 (Fortfuehrungswille + Fortfuehrungsfaehigkeit), die bei Ueberschuldung (§ 19 InsO) die Insolvenzantragspflicht ausloesen oder verhindern kann.
-- **Cram-Down** — gerichtliche Planbestaetigung gegen ablehnende Glaeubiger-Gruppen nach § 26 StaRUG (Cross-Class-Cram-Down).
-- **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentuemer-Interesse zum Glaeubiger-Interesse bei drohender Insolvenz.
+- **Fortbestehensprognose** — zweistufige Prüfung nach IDW S 11 (Fortfuehrungswille + Fortfuehrungsfaehigkeit), die bei Ueberschuldung (§ 19 InsO) die Insolvenzantragspflicht ausloesen oder verhindern kann.
+- **Cram-Down** — gerichtliche Planbestaetigung gegen ablehnende Gläubiger-Gruppen nach § 26 StaRUG (Cross-Class-Cram-Down).
+- **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentümer-Interesse zum Gläubiger-Interesse bei drohender Insolvenz.
 - **Restrukturierungsbeauftragter** — vom Gericht bestellter Sachwalter nach § 73 StaRUG; Pflicht-Bestellung bei bestimmten Plantypen.
 - **DSCR** — Debt Service Coverage Ratio; einer der zentralen Krisenfruehindikator-KPIs.
 - **IDW S 6** — Standard des Instituts der Wirtschaftspruefer für Sanierungskonzepte.
@@ -2442,15 +2247,15 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - §§ 49-59 StaRUG — Stabilisierungsanordnung
 - § 73 StaRUG — Restrukturierungsbeauftragter
 - § 102 StaRUG — Warnpflicht bei Rechtsberatern
-- § 43 GmbHG — Sorgfaltspflicht und Haftung des GmbH-Geschaeftsfuehrers
+- § 43 GmbHG — Sorgfaltspflicht und Haftung des GmbH-Geschäftsführers
 - § 93 AktG — Vorstandshaftung
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Geschaeftsfuehrer/Vorstand, Rechtsberater, Glaeubiger oder Restrukturierungsberater?
+1. Mandantenkonstellation klären: Geschäftsführer/Vorstand, Rechtsberater, Gläubiger oder Restrukturierungsberater?
 2. Phase des Mandats bestimmen: Fruehwarnung (Krisenstadium Eins bis Drei), drohende ZU/StaRUG-Zugangsberechtigung, Restrukturierungsplan oder Insolvenznaehe (§ 15a InsO)?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: § 15a InsO — maximale Antragsfrist drei Wochen bei ZU oder Ueberschuldung; kein Aufschub moeglich.
+4. Eilfristen prüfen: § 15a InsO — maximale Antragsfrist drei Wochen bei ZU oder Ueberschuldung; kein Aufschub möglich.
 5. Anschluss-Skill bestimmen: Nach Krisenstadium-Diagnose zu Liquiditaetsplanung und ggf. Warnbrief; bei StaRUG-Zugang zu Planarchitektur.
 
 ## Skill-Tour (was gibt es hier?)
@@ -2458,19 +2263,19 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - `paragraph-1-starug-pflichten-und-24-monats-horizont` — Erklaert § 1 StaRUG: Adressatenkreis, Planungshorizont und Haftungsfolgen bei Pflichtverletzung.
 - `fruehwarnsystem-architektur-zwei-jahres-horizont` — StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont, KPI-Kaskade und Eskalationsstufen aufbauen.
 - `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Dashboard-Template mit numerischen Schwellenwerten und gruen/gelb/rot-Ampel.
-- `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW-S-6-Krisenstadien diagnostizieren und Massnahmenkorridore bestimmen.
-- `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — StaRUG-Zugangsberechtigung nach § 18 InsO pruefen und dokumentieren.
+- `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW-S-6-Krisenstadien diagnostizieren und Maßnahmenkorridore bestimmen.
+- `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — StaRUG-Zugangsberechtigung nach § 18 InsO prüfen und dokumentieren.
 - `fortbestehensprognose-zweistufig` — Zweistufige Fortbestehensprognose nach IDW S 11 (Fortfuehrungswille + Faehigkeit) erstellen.
 - `integrierte-planung-guv-bilanz-cashflow` — Konsistentes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen.
 - `rollierende-liquiditaetsplanung-24-monate-template` — 24-Monats-Liquiditaets-Forecast mit woechentlicher Granularitaet und Stresstests.
 - `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Triggerlogik § 15a InsO, Maximalfrist drei Wochen, Handlungsoptionen.
 - `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsrisiken des GF bei Krisenversagen und Enthaftungsstrategien.
 - `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Krisenprotokoll-Templates und Sitzungsvorlagen für Haftungsschutz.
-- `pflichtenkollision-und-shift-of-fiduciary-duties` — Shift of Fiduciary Duties: wann Glaeubigerinteressen Vorrang haben.
+- `pflichtenkollision-und-shift-of-fiduciary-duties` — Shift of Fiduciary Duties: wann Gläubigerinteressen Vorrang haben.
 - `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — Eigene Haftungsrisiken des Beraters bei Krisenmandat und Warnpflicht-Ausloeser.
 - `mandantenbrief-warnung-paragraph-102-starug-template` — Warnbrief-Templates für alle drei Eskalationsstufen nach § 102 StaRUG.
 - `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG-Restrukturierungsplan aufbauen: Planbestandteile, Gruppenbildung, Mehrheiten.
-- `cross-class-cram-down-und-absolute-priority` — Gerichtliche Planbestaetigung gegen ablehnende Glaeubiger-Gruppen nach § 26 StaRUG.
+- `cross-class-cram-down-und-absolute-priority` — Gerichtliche Planbestaetigung gegen ablehnende Gläubiger-Gruppen nach § 26 StaRUG.
 - `stabilisierungsanordnung-und-vollstreckungssperre` — Vollstreckungsschutz nach §§ 49-59 StaRUG beantragen.
 - `restrukturierungsbeauftragter-und-sachwalter` — Bestellung, Aufgaben und Honorar des Restrukturierungsbeauftragten nach § 73 StaRUG.
 - `restructuring-lounge-impulsvortrag-toolkit` — Toolkit für Impulsvortraege zu Krisenfrueherkennung und StaRUG.
@@ -2481,13 +2286,13 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - **StaRUG setzt drohende ZU voraus**: Der Zugang zum StaRUG-Verfahren benoetigt § 18 InsO als Tatbestand; bei bereits eingetretener ZU ist § 17 InsO gegeben und nur InsO anwendbar.
 - **Beraterneutralitaet vs. Berater-Warnpflicht**: § 102 StaRUG verpflichtet den Berater zur eigenen Warnung; Schweigen aus Mandantenruecksicht ist eine Pflichtverletzung.
 - **Business Judgment Rule in der Krise eingeschraenkt**: Die BJR (§ 93 AktG) schuetzt den Vorstand nur bei informierter Entscheidung auf Basis vollstaendiger Dokumentation.
-- **Absolute-Priority-Rule beim Cram-Down**: Das Gericht bestaetigt den Plan nur, wenn kein Glaeubiger schlechter gestellt ist als bei der besten Alternativentscheidung (§ 30 StaRUG).
+- **Absolute-Priority-Rule beim Cram-Down**: Das Gericht bestaetigt den Plan nur, wenn kein Gläubiger schlechter gestellt ist als bei der besten Alternativentscheidung (§ 30 StaRUG).
 
 ## Typische Fehler
 
-- Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage für das Massnahmenkonzept; Gerichte und Glaeubigerausschuesse erwarten die Stadien-Einordnung.
+- Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage für das Maßnahmenkonzept; Gerichte und Gläubigerausschuesse erwarten die Stadien-Einordnung.
 - Fruehwarnsystem nur auf dem Papier: § 1 StaRUG verlangt ein funktionierendes System, nicht nur ein Dokument; fehlende Protokolle belegen die Pflichtverletzung.
-- Warnbrief ohne Quittung: Ohne Empfangsbestaetigung laesst sich die Pflichterfuellung nach § 102 StaRUG im Haftungsprozess nicht beweisen.
+- Warnbrief ohne Quittung: Ohne Empfangsbestaetigung lässt sich die Pflichterfuellung nach § 102 StaRUG im Haftungsprozess nicht beweisen.
 - Liquiditaetsplanung zu grob: Monatliche Granularitaet genuegt für die naechsten drei Monate nicht; woechentliche Granularitaet ist Mindeststandard in der akuten Krise.
 - Cram-Down ohne Schlechterstellungsverbot-Nachweis beantragt: Das Gericht wird den Antrag zurueckweisen, wenn der Schlechterstellungstest nicht dokumentiert ist.
 
@@ -2708,6 +2513,201 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+
+---
+
+## Skill: `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet`
+
+_IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Prüfraster: Erkennungsmerkmale je Stadiu..._
+
+# Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem § 1 StaRUG greift, ab dem Berater warnen müssen und ab dem der Geschäftsführer sein Pflichtenprofil neu kalibrieren muss. Wer das Stadium falsch einschätzt, handelt zu spät — und verliert den Zugang zu den effektiven Sanierungswerkzeugkästen.
+
+---
+
+## Rechtsgrundlagen
+
+- IDW S 6 Tz. 12 ff. (Stadienmodell der Unternehmenskrise)
+- § 1 StaRUG (Früherkennungspflicht — schon ab Stakeholderkrise relevant)
+- § 18 InsO (drohende Zahlungsunfähigkeit — Liquiditätskrise als Schwelle)
+- § 17 InsO (eingetretene Zahlungsunfähigkeit)
+- § 19 InsO (Überschuldung)
+- § 29 Abs. 2 StaRUG (Zugangsschwelle: drohende ZU muss vorliegen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Pflichten
+
+### 1. Das fünfstufige Stadienmodell
+
+IDW S 6 unterscheidet fünf Krisenstadien, die in der Praxis selten trennscharf sind und sich überlappen können:
+
+```
+STADIUM 1: STAKEHOLDERKRISE
+ Definition: Vertrauensverlust bei wesentlichen Stakeholdern
+ (Gesellschafter, Banken, Schlüsselkunden, Lieferanten, Mitarbeiter)
+ Zeitlicher Vorlauf vor Insolvenz: typisch 3-8 Jahre
+ StaRUG-Relevanz: § 1 StaRUG grundsätzlich schon auslösbar
+
+STADIUM 2: STRATEGIEKRISE
+ Definition: Erosion des strategischen Wettbewerbsvorteils
+ (Marktposition, Technologievorsprung, Kundenloyalität)
+ Zeitlicher Vorlauf: typisch 2-6 Jahre
+ StaRUG-Relevanz: § 1 StaRUG-Pflicht klar ausgelöst, wenn existenzgefährdend
+
+STADIUM 3: PRODUKT-/ABSATZKRISE
+ Definition: Nachfragerückgang, Marktanteilsverlust, Preisverfall
+ ohne korrigierende strategische Reaktion
+ Zeitlicher Vorlauf: typisch 1-4 Jahre
+ StaRUG-Relevanz: Erhöhte Eskalationspflicht, § 102 StaRUG für Berater
+
+STADIUM 4: ERTRAGSKRISE
+ Definition: Nachhaltig negatives EBIT/EBITDA, Verlustakkumulation,
+ Eigenkapitalverzehr
+ Zeitlicher Vorlauf: typisch 6-24 Monate
+ StaRUG-Relevanz: Drohende ZU oft in Sichtweite, StaRUG-Zugang prüfen
+
+STADIUM 5: LIQUIDITÄTSKRISE
+ Definition: Zahlungsunfähigkeit droht oder ist eingetreten;
+ Kreditlinien erschöpft, Zulieferer auf Vorkasse
+ Zeitlicher Vorlauf: Wochen bis Monate
+ StaRUG-Relevanz: Letztes Fenster für StaRUG; danach InsO-Pflicht
+```
+
+### 2. Die kritische Schwelle: Wann wird aus Krise ein Insolvenzgrund?
+
+```
+ERTRAGSKRISE → Überschuldungsrisiko (§ 19 InsO):
+ Wenn Verluste das Eigenkapital aufgezehrt haben und negative
+ Fortführungsprognose vorliegt.
+
+LIQUIDITÄTSKRISE → Drohende ZU (§ 18 InsO):
+ Wenn die Liquiditätsplanung (24 Monate) zeigt, dass Verbindlichkeiten
+ überwiegend wahrscheinlich nicht bedient werden können.
+
+LIQUIDITÄTSKRISE → Eingetretene ZU (§ 17 InsO):
+ Wenn fällige Verbindlichkeiten nicht beglichen werden können
+ und dies nicht nur vorübergehend ist.
+```
+
+---
+
+## Vorgehen
+
+### Schritt 1: Stadien-Schnelldiagnose (Checkliste)
+
+**Stadium 1 — Stakeholderkrise:**
+- [ ] Gesellschafter äußern grundsätzliche Kritik am Management?
+- [ ] Bank hat Kreditgespräch intensiviert oder Konditionen verschlechtert?
+- [ ] Schlüsselkunden haben Aufträge reduziert oder Rahmenverträge nicht verlängert?
+- [ ] Schlüsselmitarbeiter haben das Unternehmen verlassen?
+- [ ] Lieferanten verlangen verschärfte Zahlungsbedingungen?
+
+**Stadium 2 — Strategiekrise:**
+- [ ] Marktanteil sinkt seit mind. zwei Jahren?
+- [ ] Wettbewerber haben technologischen Vorsprung aufgeholt oder überholt?
+- [ ] Kundenzufriedenheitswerte (NPS, Reklamationsquote) verschlechtern sich?
+- [ ] Kernprodukte/Dienstleistungen haben keine klare Differenzierungsstrategie mehr?
+- [ ] Das Geschäftsmodell wurde in den letzten fünf Jahren nicht adaptiert?
+
+**Stadium 3 — Absatzkrise:**
+- [ ] Umsatzrückgang > 10 % in zwei aufeinanderfolgenden Quartalen?
+- [ ] Auftragsbestand sinkt unter Normalreichweite?
+- [ ] Preisreduzierungen erforderlich, um Aufträge zu gewinnen?
+- [ ] Produktionsauslastung unter 70 %?
+
+**Stadium 4 — Ertragskrise:**
+- [ ] EBIT seit mehr als zwei Quartalen negativ?
+- [ ] EBITDA-Marge unter Branchendurchschnitt?
+- [ ] Eigenkapitalquote unter 15 %?
+- [ ] Verlustvorträge übersteigen 25 % des Stammkapitals?
+- [ ] Working Capital steigt trotz sinkender Umsätze?
+
+**Stadium 5 — Liquiditätskrise:**
+- [ ] Kreditlinien zu mehr als 80 % ausgelastet?
+- [ ] Finanzamt oder Sozialversicherungsträger werden verzögert bezahlt?
+- [ ] Lieferanten auf Vorkasse oder Avale?
+- [ ] Liquiditätsreichweite unter sechs Monate?
+- [ ] Covenant-Verletzung eingetreten oder droht?
+
+### Schritt 2: Stadium einordnen und Handlungsprogramm ableiten
+
+| Stadium | Sofortmaßnahmen | Sanierungsträger | StaRUG-Werkzeug |
+|---|---|---|---|
+| Stakeholderkrise | Kommunikation, Governance | Management, ggf. PE | Nicht nötig |
+| Strategiekrise | Strategieüberprüfung, Restrukturierung | Management + Berater | Nicht nötig |
+| Absatzkrise | Vertrieb, Pricing, Portfolio | Management + Berater | Präventiv prüfen |
+| Ertragskrise | Kostenstruktur, Working Capital | GF + Restrukt.-Berater | § 1 StaRUG aktiv |
+| Liquiditätskrise | Cash-Management, Notfallplan, Gläubiger | GF + RA + Insolvenzrechtler | §§ 29 ff. StaRUG oder § 15a InsO |
+
+### Schritt 3: Diagnose dokumentieren
+
+```
+STADIUM-DIAGNOSE-PROTOKOLL
+Gesellschaft: [Firma]
+Datum: [TT.MM.JJJJ]
+Erstellt: [GF / Berater]
+
+Erkanntes Krisenstadium: [Stadium 1-5]
+Grundlage der Einschätzung:
+ [ ] Analyse BWA / Liquiditätsplan
+ [ ] Kundengespräche
+ [ ] Bankgespräch
+ [ ] Berater-Einschätzung (IDW S 6)
+ [ ] Sonstiges: [___]
+
+Überlappende Stadien: [ja / nein] — Details: [___]
+
+Handlungsmaßnahmen:
+ 1. [Maßnahme, verantwortlich, Frist]
+ 2. [Maßnahme, verantwortlich, Frist]
+
+Eskalation:
+ Gesellschafter informiert: [ja / nein / geplant bis]
+ Berater einbezogen: [ja / nein / geplant]
+ StaRUG-Prüfung initiiert: [ja / nein / geplant]
+
+Unterschrift GF: ___________________ Datum: ___________
+```
+
+---
+
+## Fallstricke
+
+1. **Stadium zu spät erkannt** — die häufigste und teuerste Fehlleistung. Stakeholder- und Strategiekrise werden als "normales Marktgeschehen" abgetan, bis die Liquiditätskrise plötzlich da ist.
+
+2. **Stadiensprünge unterschätzen** — in wirtschaftlich turbulenten Phasen kann ein Unternehmen mehrere Stadien in wenigen Monaten überspringen (z.B. externe Schocks wie Lieferkettenkrisen).
+
+3. **Keine Aktualisierung der Diagnose** — das Stadium ist dynamisch. Was heute Ertragskrise ist, kann in drei Monaten Liquiditätskrise sein. Monatliche Re-Diagnose ist Pflicht.
+
+4. **Beschönigung gegenüber Gesellschaftern** — wer das Stadium herunterstuft, um schlechte Nachrichten zu vermeiden, verletzt § 1 StaRUG (Unterrichtungspflicht) und riskiert die persönliche Haftung.
+
+5. **Verwechslung mit Insolvenzeröffnungsgrund** — das Stadium der Krise ist nicht dasselbe wie ein Insolvenzeröffnungsgrund. Auch in Stadium 4 kann noch keine Insolvenzantragspflicht bestehen, wenn die Fortführungsprognose positiv ist.
+
+---
+
+## Weitere Leitentscheidungen — Krisenstadien und Stakeholder
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Triage — Krisenstadien-Einordnung
+
+1. **Krisenstadium?** Stakeholderkrise (Vertrauen) → Erfolgskrise (EBIT) → Liquiditaetskrise (Cashflow) → Insolvenzgefahr.
+2. **Fruehzeitige Stakeholder-Einbindung?** Bank, Hauptlieferanten, FA, PSV frueizeitig kontaktieren.
+3. **Vertraulichkeit?** Stakeholder-Informationen ohne NDA riskant (Weitergabe, Bonitaetsschaden).
+4. **Eskalationskette?** GF → Aufsichtsrat → Anwalt → Bank → FA je nach Stadium.
 
 ---
 

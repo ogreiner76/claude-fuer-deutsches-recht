@@ -109,7 +109,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`juristische-sprache-deutsch-als-zweitsprache.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/juristische-sprache-deutsch-als-zweitsprache.md) (41 KB)
+- **Direkt-Download**: [`juristische-sprache-deutsch-als-zweitsprache.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/juristische-sprache-deutsch-als-zweitsprache.md) (40 KB)
 - Im Repo: [`testakten/megaprompts/juristische-sprache-deutsch-als-zweitsprache.md`](../testakten/megaprompts/juristische-sprache-deutsch-als-zweitsprache.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

@@ -34,7 +34,7 @@ Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Frist
 - `anwaltliche-quellenhygiene-robotik` — Anwaltliche Quellenhygiene Robotik
 - `arbeitsschutz-betrsichv-autonome` — Arbeitsschutz Betrsichv Autonome
 - `arbeitsschutz-betrsichv-robotik` — Arbeitsschutz Betrsichv Robotik
-- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Oeffentlich
+- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Öffentlich
 - `arbeitswelt-cobot-check` — Arbeitswelt Cobot Check
 - `art-3-ki-system-robotik` — ART 3 KI System Robotik
 - `art-6-hochrisiko-robotik` — ART 6 Hochrisiko Robotik
@@ -77,7 +77,7 @@ _Robotik-Recht-Kompass für Deutschland und EU: Einstieg, Rollenklärung, Produk
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Robotik Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Robotik Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -211,7 +211,7 @@ Dieses Anschluss-Routing für **Robotik Recht** wählt nach dem ersten Ergebnis 
 - `anwaltliche-quellenhygiene-robotik` — Anwaltliche Quellenhygiene Robotik
 - `arbeitsschutz-betrsichv-autonome` — Arbeitsschutz Betrsichv Autonome
 - `arbeitsschutz-betrsichv-robotik` — Arbeitsschutz Betrsichv Robotik
-- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Oeffentlich
+- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Öffentlich
 - `arbeitswelt-cobot-check` — Arbeitswelt Cobot Check
 - `art-3-ki-system-robotik` — ART 3 KI System Robotik
 - `art-6-hochrisiko-robotik` — ART 6 Hochrisiko Robotik

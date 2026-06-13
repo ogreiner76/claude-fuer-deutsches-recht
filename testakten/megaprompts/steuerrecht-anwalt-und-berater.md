@@ -12,8 +12,8 @@ Dieser Megaprompt enthaelt top-8 von 355 Skills (gekuerzt fuer Chat-Fenster) des
 4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur V…
 5. **akteneinsicht-steuerakte** — Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FG…
 6. **anteilstausch-21-umwstg** — Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolge…
-7. **aussenpruefung-anordnung-pruefung** — Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprech…
-8. **aussenpruefung-strategien** — Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsan…
+7. **aussenpruefung-strategien** — Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsan…
+8. **aussetzung-vollziehung** — Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfal…
 
 ---
 
@@ -23,7 +23,7 @@ _Einstieg, Schnelltriage und Fallrouting im Steuerrecht Anwalt Und Berater-Plugi
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Steuerrecht Anwalt Und Berater** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Steuerrecht Anwalt Und Berater** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -146,7 +146,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `anw-dac7-dac8-plattformen-krypto` | Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach… |
 | `anw-defi-lending-yield-farming-bmf-22-11-2024` | Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt… |
 | `anw-einspruch-finanzamt` | Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei… |
-| `anw-fristenbuch-steuerrecht` | Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen… |
+| `anw-fristenbuch-steuerrecht` | Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen müssen sofort eingetragen und ueberwacht werden. Standardfristen… |
 | `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern` | Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persönlichen Haftungsbescheid des Finanzamts für… |
 | `anw-grunderwerbsteuer-share-deal-90-prozent` | Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht… |
 | `anw-grest-kaltstart-asset-share-deal` | GrESt-Kaltstart bei Immobilien- und M&A-Transaktionen: Asset Deal oder Share Deal, Signing/Closing, Tatbestand, Steuerschuldner, Anzeige und Bescheidroute sortieren. |
@@ -182,23 +182,23 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `anw-verbindliche-auskunft` | Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder… |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech… |
 | `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für aktuelle Steuerrechtsfragen: E-Rechnung, BFH/BMF zu Krypto, Grundsteuer-Bundesmodell, § 23 EStG, § 20 EStG, Umsatzsteuer/Vorsteuer und Verfahrensrecht. Vor streitentscheidenden Aussagen laden. |
-| `schriftsatzkern-substantiierung` | Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begründet und mit Beweisen unterfuettert werden.… |
+| `schriftsatzkern-substantiierung` | Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag müssen begründet und mit Beweisen unterfuettert werden.… |
 | `stb-addison-bwa-konfiguration-tipps` | Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison. |
 | `stb-belegtransfer-datev-unternehmen-online` | Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematischer Belegfluss Mandant zu StB Beleg-Scan App Mailpostfach Bank-Anbindung. Methodik Konfiguration Workflow. Output Belegfluss-Standard. |
 | `stb-buchhaltungsbutler-mandantencloud` | BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV.… |
-| `stb-bwa-aufbau-grundlagen` | Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse… |
+| `stb-bwa-aufbau-grundlagen` | Aufbau der Standard-BWA für Steuerberater erläutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse… |
 | `stb-bwa-betriebsergebnis-deckungsbeitrag` | Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruktur in der BWA. Anwendungsfall analytische BWA mit Stufendeckungsbeitrag EBITDA EBIT EBT Mandant aus Industrie Handel Dienstleistung. Methodik fixe und… |
 | `stb-bwa-betriebsuebersicht-erstellen` | Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsfall ausführliche Monats- oder Quartalsauswertung mit allen Sachkonten-Salden ergaenzend zur kompakten BWA. Methodik Konfiguration in DATEV oder Addison… |
 | `stb-bwa-bewegungsbilanz-erstellen` | Bewegungsbilanz aus BWA und SuSa erstellen. Anwendungsfall Veranschaulichung Geld- und Mittelfluss zwischen zwei Stichtagen Vermögens- und Kapitalbewegung. Methodik Aktiva und Passiva Vergleich Mittelherkunft… |
 | `stb-bwa-branchenvergleich-bbe-datev` | Branchenvergleich BWA auf Basis BBE-Datenbank über DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen… |
 | `stb-bwa-cashflow-laienverstaendlich` | Cashflow-Darstellung für Mandant in laienverstaendlicher Form. Anwendungsfall Quartals-BWA mit vereinfachter Cashflow-Aufstellung für GF ohne Finanz-Hintergrund. Methodik einfache Mittelfluss-Tabelle… |
-| `stb-bwa-erlaeuterungstext-mandant` | Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung… |
+| `stb-bwa-erlaeuterungstext-mandant` | Erläuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erläuterung… |
 | `stb-bwa-fehlerquellen-haeufig` | Typische Fehlerquellen in der BWA. Anwendungsfall Qualitaetsprüfung BWA durch Berufstraeger interne Stichprobe Fehler in Periodenabgrenzung Buchungsfehler Bestandsveraenderung Lohnbuchungen. Methodik Checkliste… |
 | `stb-bwa-jahres-bwa-erstellen` | Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit… |
 | `stb-bwa-kapitalflussrechnung-iduk` | Kapitalflussrechnung nach indirekter Methode aus BWA und Bilanz. Anwendungsfall Jahresabschluss Bankreporting Sanierungskonzept Konzernabschluss. Methodik DRS 21 indirekte Ableitung aus Jahresueberschuss Mittelfluss… |
 | `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` | Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung… |
 | `stb-bwa-kontenrahmen-skr03-skr04` | Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess… |
-| `stb-bwa-mandantengespraech-uebergabe` | BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation.… |
+| `stb-bwa-mandantengespraech-uebergabe` | BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klärung der Abweichungen Steuerungsempfehlungen Risikoeskalation.… |
 | `stb-bwa-mandantenreport-monatlich` | Monatlicher Mandantenreport zusammenführend aus BWA SuSa OPOS Lohn Liquiditaet. Anwendungsfall standardisierter Monatsreport an Mandant per Mail oder Portal. Methodik 4-Seiten-Vorlage Cover BWA Kennzahlen Empfehlung.… |
 | `stb-bwa-monatsabschluss-routine` | Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme… |
 | `stb-bwa-soll-ist-vergleich` | Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit… |
@@ -207,18 +207,18 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-bwa-vorläufiges-ergebnis-darstellung` | Darstellung vorläufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung… |
 | `stb-bwa-zeitlicher-vergleich-jahresvergleich` | Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum… |
 | `stb-bwa-zeitvergleich-vorjahr-darstellung` | Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwendungsfall optische Aufbereitung der Vorjahresvergleichsdaten für Mandantengespraech mit Liniendiagrammen Balkengrafik. Methodik Standard-Tabelle plus… |
-| `stb-datentransfer-mandant-cloud-dsgvo` | Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik… |
+| `stb-datentransfer-mandant-cloud-dsgvo` | Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Maßnahmen Drittlandtransfer. Methodik… |
 | `stb-datev-bwa-modul-bedienen-tipps` | DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall Erstellung BWA in DATEV Auswahl Form Konfiguration Periodenvergleich Branchenvergleich. Methodik Workflow-Tipps. Output BWA-konfiguriert. |
 | `stb-datev-lohn-modul-lodas-luh` | DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm… |
 | `stb-dba-ansaessigkeit-tie-breaker-rules` | Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und… |
 | `stb-dba-belgien` | DBA Deutschland Belgien aktuelle Fassung. Anwendungsfall Eupen Malmedy Grenzgaenger Pendler Beteiligungen Lizenzen. Anwendungsbereich Sprachgrenze. Loehne mit 183-Tage-Regelung. Pensionen mit Spezialregelung. Output… |
-| `stb-dba-betriebsstaette-art-5-musterabkommen` | Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette… |
+| `stb-dba-betriebsstaette-art-5-musterabkommen` | Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob ausländische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette… |
 | `stb-dba-bulgarien` | DBA Deutschland Bulgarien 2010. Anwendungsfall Outsourcing IT Pflege Holding Beteiligungen. EU-MTRL ergaenzend. Niedrige KSt 10 Prozent. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel… |
 | `stb-dba-daenemark` | DBA Deutschland Daenemark aktuelle Fassung. Anwendungsfall Pendler Schleswig-Holstein Daenemark Beteiligungen Pensionen Sozialversicherung Lizenzen. Methodenartikel Freistellung mit Anrechnungswahl. Sonderregelungen… |
 | `stb-dba-dividenden-quellensteuer-art-10` | Dividenden nach Art. 10 OECD-MA und EU-Mutter-Tochter-Richtlinie. Anwendungsfall Ausschuettungen über Grenze Quellensteuer im Quellenstaat Hoechstsatz Schachtelhoehe. § 43b EStG MTRL § 8b KStG Schachtelprivileg.… |
 | `stb-dba-estland` | DBA Deutschland Estland 1996. Anwendungsfall IT-Branche E-Residency Holding Beteiligungen. EU-MTRL ergaenzend. Besonderheit estnisches Steuersystem mit Besteuerung nur bei Ausschuettung. Output Mandanten-Memo… |
 | `stb-dba-finnland` | DBA Deutschland Finnland 2016. Anwendungsfall Maschinenbau IT Telekommunikation Pensionen Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
-| `stb-dba-frankreich-1959` | DBA Deutschland Frankreich aus 1959 mit Aenderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen… |
+| `stb-dba-frankreich-1959` | DBA Deutschland Frankreich aus 1959 mit Änderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen… |
 | `stb-dba-grenzgaenger-frankreich-vor-allem-elsass` | Grenzgaengerregelung DBA Frankreich mit Schwerpunkt Elsass-Lothringen und 20-km-Zone. Anwendungsfall Arbeitnehmer Wohnsitz und Tätigkeit in Grenzgemeinde. Arbeitstaegliche Rückkehr 45-Tage-Schaedlichkeit. Beweismittel… |
 | `stb-dba-grenzgaenger-oesterreich-rueckkehr` | Grenzgaengerregelung DBA Oesterreich mit Wohnsitz in der Grenznaehe und arbeitstaeglicher Rückkehr. Anwendungsfall Arbeitnehmer Wohnsitz Bayern oder Salzburg/Tirol Tätigkeit auf der anderen Seite.… |
 | `stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr` | Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichkeit. Anwendungsfall Arbeitnehmer Wohnsitz Suedbaden Baden-Wuerttemberg Bayern Tätigkeit Schweiz. Arbeitstaegliche Rückkehr maximal 60 Nicht-Rückkehrtage… |
@@ -236,16 +236,16 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-dba-lettland` | DBA Deutschland Lettland 1997. Anwendungsfall Mittelstand IT Holding Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
 | `stb-dba-litauen` | DBA Deutschland Litauen 1997. Anwendungsfall Mittelstand Logistik Holding Beteiligungen Fintech. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
 | `stb-dba-lizenzgebuehren-art-12-bzst` | Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung.… |
-| `stb-dba-luxemburg-2012` | DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz… |
+| `stb-dba-luxemburg-2012` | DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Änderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz… |
 | `stb-dba-malta-2001` | DBA Deutschland Malta 2001 mit Protokollen. Anwendungsfall Holding REIT-Strukturen Schifffahrt Online-Glueckspiel. EU-MTRL ergaenzend. Substanz Anti-Treaty-Shopping. Methodenartikel Anrechnung Aktivitaetsklausel.… |
 | `stb-dba-methodenartikel-anrechnung-vs-freistellung` | Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und… |
 | `stb-dba-niederlande-2012` | DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit… |
 | `stb-dba-norwegen` | DBA Deutschland Norwegen. Anwendungsfall Oel und Gas Offshore Schifffahrt Mittelstand Pensionen Beteiligungen. EWR-Status keine MTRL. Methodenartikel Freistellung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
-| `stb-dba-oesterreich` | DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung… |
+| `stb-dba-oesterreich` | DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschäftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung… |
 | `stb-dba-polen` | DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeitnehmer Entsendung Pendler Beteiligungen Lizenzen Bauausführung. EU-MTRL EU-ZinsLizenzRL ergaenzend. Methodenartikel Anrechnungsmethode mit… |
 | `stb-dba-portugal` | DBA Deutschland Portugal. Anwendungsfall Pensionen Algarve NHR-Status Beteiligungen Lizenzen Immobilien. EU-MTRL Madeira-Sondersteuergebiet. Methodenartikel Anrechnung mit Sonderregelungen. Output Mandanten-Memo… |
-| `stb-dba-quellensteuer-erstattung-bzst-50c-estg` | Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder… |
-| `stb-dba-rentner-pensionen-art-18` | Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder auslaendische Rente bei Wohnsitz… |
+| `stb-dba-quellensteuer-erstattung-bzst-50c-estg` | Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall ausländischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder… |
+| `stb-dba-rentner-pensionen-art-18` | Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder ausländische Rente bei Wohnsitz… |
 | `stb-dba-rumaenien` | DBA Deutschland Rumaenien 2001. Anwendungsfall Automotive-Produktion IT Pflege Holding Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
 | `stb-dba-russland-suspendierung-2024` | DBA Deutschland Russland Suspendierung wesentlicher Verguenstigungen. Russische Verbalnote vom 08.08.2023 suspendiert von russischer Seite Art. 5 bis 22 und 24. Deutsche Gegenmassnahme nach § 1 Abs. 3 Satz 2 StAbwG mit… |
 | `stb-dba-schweden` | DBA Deutschland Schweden 1992. Anwendungsfall Mittelstand Maschinenbau Pendler Pensionen Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Freistellung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
@@ -281,10 +281,10 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-lohn-abfindungen-besteuerung-funftel-regel` | Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kündigung mit Abfindung Prüfung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS.… |
 | `stb-lohn-arbeitgeber-arbeitnehmer-anteile` | Arbeitgeber- und Arbeitnehmer-Anteile in der SV. Anwendungsfall Verteilung der SV-Beitraege zwischen AG und AN PV-Zuschlag Kinderlose KV-Zusatzbeitrag Sonderbeitraege Lohnabrechnung. Methodik AG-AN-Aufteilung in DATEV… |
 | `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` | Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik… |
-| `stb-lohn-aufzeichnungspflichten-milog` | Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der… |
+| `stb-lohn-aufzeichnungspflichten-milog` | Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschäftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der… |
 | `stb-lohn-ausgleichszahlungen-altersteilzeit` | Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Prüfung AltTZG… |
 | `stb-lohn-bav-doppelversorgung-foerderung` | bAV bei mehreren Durchführungswegen Doppelversorgung Förderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Prüfung Hoechstforderung. Methodik kumulierte… |
-| `stb-lohn-berufsgenossenschaft-bg-meldung-jahresende` | Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schluesseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder… |
+| `stb-lohn-berufsgenossenschaft-bg-meldung-jahresende` | Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schlüsseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder… |
 | `stb-lohn-betriebliche-altersversorgung-grundlagen` | Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche… |
 | `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro` | Aufmerksamkeiten 60 EUR-Freigrenze pro persönlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output… |
 | `stb-lohn-betriebsveranstaltung-110-euro-freibetrag` | Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Prüfung Belege. Output… |
@@ -292,7 +292,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-lohn-direktversicherung-3-nr-63-estg` | Direktversicherung Steuerfreiheit § 3 Nr 63 EStG bis 8 Prozent BBG SV-frei bis 4 Prozent BBG. Anwendungsfall Entgeltumwandlung Direktversicherung Konfiguration Mandant AG-Zuschuss 15 Prozent. Methodik… |
 | `stb-lohn-elternzeit-mutterschutz` | Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG… |
 | `stb-lohn-firmenrad-leasing-jobrad` | JobRad Dienstrad Leasingmodell steuerliche Behandlung. Anwendungsfall AG-Leasing eines Fahrrads oder E-Bikes Überlassung an AN durch Gehaltsumwandlung Sachbezug von einem Viertel Prozent. Methodik Prüfung Konfiguration… |
-| `stb-lohn-gesellschafter-geschaeftsfuehrer-sv` | Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung… |
+| `stb-lohn-gesellschafter-geschaeftsfuehrer-sv` | Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschäftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung… |
 | `stb-lohn-jahresmeldungen-ahn-asn-besondere` | Jahresmeldungen DEUEV Jahreslohnsumme Abmelde- und Sondermeldungen. Anwendungsfall Jahresende-Meldungen 15. Februar Folgejahr AN-Jahresarbeitsentgelt-Meldung Sondermeldungen Lohnsteuerbescheinigung. Methodik… |
 | `stb-lohn-jobticket-mobilitaet-deutschlandticket` | Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall AG erstattet AN Mobilitaetsticket OePNV oder bietet Jobticket steuerfrei nach § 3 Nr 15 EStG Auswirkung auf Entfernungspauschale. Methodik Prüfung… |
 | `stb-lohn-krankheit-entgeltfortzahlung-efzg` | Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik… |
@@ -301,11 +301,11 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-lohn-lohnsteuer-monatsabschluss` | Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Abrechnungsschritte 39e… |
 | `stb-lohn-mandantenaufnahme-onboarding` | Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme Stammdaten Arbeitnehmer-Liste Sozialversicherungs-Anmeldung Mandantenstamm DATEV LODAS oder Lohn und Gehalt. Methodik Checkliste Datenerfassung… |
 | `stb-lohn-mehrarbeit-zuschlaege-39b-estg` | Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsfall Lohnabrechnung mit Schichtzuschlaegen Gastronomie Pflege Sicherheitsdienst LSt-Freiheit SV-Freiheit in Grenzen. Methodik Prüfung Begrenzung Grundlohn… |
-| `stb-lohn-meldungen-sv-elstam-zugang` | SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschaeftigungsbeginn und Beendigung Anmeldung Abmeldung Aenderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik… |
+| `stb-lohn-meldungen-sv-elstam-zugang` | SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschäftigungsbeginn und Beendigung Anmeldung Abmeldung Änderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik… |
 | `stb-lohn-midi-job-uebergangsbereich-2000-euro` | Midi-Job-Übergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output… |
 | `stb-lohn-mindestlohn-aktuell-2026-anpassung` | Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen… |
 | `stb-lohn-mini-midi-grenzen-2026-stand` | Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche… |
-| `stb-lohn-minijob-538-euro-2024-anpassung` | Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538… |
+| `stb-lohn-minijob-538-euro-2024-anpassung` | Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschäftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538… |
 | `stb-lohn-monatsende-meldepflichten-checkliste` | Lohn-Meldepflichten zum Monatsende Checkliste LSt-Anmeldung SV-Beitragsnachweis DEUEV BG-Lohnnachweis. Anwendungsfall standardisierter Prüfablauf vor Monatsende und Fristen Auswertung. Methodik Prüfliste… |
 | `stb-lohn-praktikanten-azubis-loehne` | Praktikanten und Azubis lohnrelevante Sonderregeln. Anwendungsfall Pflichtpraktikum freiwilliges Praktikum Berufsausbildung BBiG Berufsausbildungsbeihilfe SV-Behandlung Vergueteung. Methodik Unterscheidung Pflicht- vs… |
 | `stb-lohn-pruefungen-drv-bp-haftung-stb` | Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Haftung. Anwendungsfall DRV-Prüfer kommt Prüfkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Prüfbericht… |
@@ -317,7 +317,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-lohn-ueberstunden-abbau-arbeitszeitkonto` | Überstunden Arbeitszeitkonto Stundenkonto Auszahlung. Anwendungsfall AN haeuft Überstunden an Bilanzierung im Arbeitszeitkonto Abbau in Freizeit oder Auszahlung lohn- und sv-rechtliche Behandlung. Methodik Aufzeichnung… |
 | `stb-lohn-umlage-u1-u2-insogeld-umlage` | Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Prüfung Pflicht Kleinunternehmer 30 AN. Output… |
 | `stb-lohn-vermoegenswirksame-leistungen` | Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Prüfung Antrag AN-Sparzulage Beratung. Output… |
-| `stb-lohn-werkstudent-pauschalen` | Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche… |
+| `stb-lohn-werkstudent-pauschalen` | Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschäftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche… |
 | `stb-mandanten-onboarding-checkliste-vollservice` | Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchführung Lohn Steuererklärung. Methodik strukturierter Checkliste.… |
 | `stb-mandantenanfrage-reaktion-frist-laufend` | Mandantenanfragen Reaktionsfristen Servicelevel. Anwendungsfall Standardisierte Reaktion auf Mandantenanfragen klare Service-Versprechen Eskalation. Methodik SLA-Festlegung. Output Service-Standard-Dokument. |
 | `stb-mandantenfragebogen-jahresabschluss` | Mandantenfragebogen zum Jahresabschluss. Anwendungsfall JA-Vorbereitung systematische Datenerhebung vom Mandanten Bestaende Forderungen Verbindlichkeiten Rückstellungen Sondervorgaenge. Methodik strukturierter… |
@@ -358,13 +358,13 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## Skill: `mandat-triage-steuerrecht`
 
-_Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbesche..._
+_Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Änderungsbescheid Schaetzungsbesche..._
 
 # Mandat-Triage Steuerrecht
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Steuerrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Steuerrecht Anwalt Und Berater** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Steuerrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Steuerrecht Anwalt Und Berater** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -384,7 +384,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fachkern: Mandat-Triage Steuerrecht
 
-- **Spezialfrage (Mandat-Triage Steuerrecht):** Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration.
+- **Spezialfrage (Mandat-Triage Steuerrecht):** Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Änderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 ## Aktuelle Rechtsprechung (Orientierung)
@@ -647,7 +647,7 @@ _Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsanna
 
 - Neue Anfrage aus dem Bereich Steuerrecht (Beratung und Prozess) (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klaeren, Konflikt- und GwG-Pruefung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
@@ -655,15 +655,15 @@ _Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsanna
 
 Standard-Fragenraster für Steuerrecht (Beratung und Prozess):
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Bescheid, Einspruch, AdV, Aussenpruefung, BFH-Revision, Selbstanzeige
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Einspruch, Klage FG, Revision BFH, Stundungs-/Erlassantrag). Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -672,7 +672,7 @@ Standard-Fragenraster für Steuerrecht (Beratung und Prozess):
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -680,14 +680,14 @@ Standard-Streitwerte im Bereich Steuerrecht (Beratung und Prozess):
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -710,9 +710,9 @@ Drei Weichen am Ende des Erstgespraechs:
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar -> später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 
@@ -748,7 +748,7 @@ Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fac
 
 ### Konstellation C: Interessenkonflikt-Naehe
 
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung:
+Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung:
 
 1. § 43a Abs. 4 BRAO und § 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
 2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
@@ -765,9 +765,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach § 3a RVG.
 - Erfolgshonorar nur in den engen Grenzen § 4a RVG.
-- Vorschuss in Hoehe der voraussichtlichen 1. Instanz.
+- Vorschuss in Höhe der voraussichtlichen 1. Instanz.
 - Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege moeglich sind.
+- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege möglich sind.
 
 ## Mandatsbogen-Muster (Mindestinhalt)
 
@@ -787,7 +787,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ---
 
@@ -935,12 +935,12 @@ Anschluss an Skill `anw-steuerbescheid-analyse` und Folge-Schriftsatz.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Akteneinsicht in Steuerakte beantragen | Anschreiben nach Schema; Template unten |
-| Variante A — Akteneinsicht für Dritte nicht Steuerpflichtigen | Vollmacht pruefen; Akteneinsicht nur mit Bevollmaechtigten-Nachweis |
+| Variante A — Akteneinsicht für Dritte nicht Steuerpflichtigen | Vollmacht prüfen; Akteneinsicht nur mit Bevollmaechtigten-Nachweis |
 | Variante B — Akteneinsicht im Strafverfahren StPO | Strafprozessuale Akteneinsicht § 147 StPO; anderer Antrag noetig |
 | Variante C — Behörde verweigert Akteneinsicht | Klage auf Akteneinsicht vor Finanzgericht; Widerspruch zuerst |
 
@@ -967,13 +967,13 @@ und informieren Sie über die Ergebnisse, insbesondere über:
 [KANZLEI], [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1090,84 +1090,6 @@ _Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Ante
 
 ---
 
-## Skill: `aussenpruefung-anordnung-pruefung`
-
-_Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsg..._
-
-# Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung
-
-## Fachlicher Anker
-
-- **Normen:** § 6a, § 171 Abs. 4 AO, § 193 AO.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Triage — kläre vor der Bearbeitung
-
-1. Ist die Pruefungsanordnung formell ordnungsgemaess (Adressat Pruefungsumfang Pruefer Termin)?
-2. Welche Steuerarten und Veranlagungszeitraeume sind erfasst?
-3. Ist eine Pruefungserweiterung erfolgt oder droht sie — Antrag auf Beschraenkung sinnvoll?
-4. Welche Daten muessen GoBD-konform bereitgestellt werden (Z1 Z2 Z3 Zugriff)?
-5. Wirkung der Pruefung auf Festsetzungsfrist § 171 Abs. 4 AO?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Rechtsgrundlagen
-
-- **§ 193 AO** — Zulaessigkeit der Aussenpruefung.
-- **§ 196 AO** — Pruefungsanordnung.
-- **§ 197 AO** — Bekanntgabe der Pruefungsanordnung.
-- **§ 200 AO** — Mitwirkungspflicht.
-- **§ 201 AO** — Schlussbesprechung.
-- **§ 202 AO** — Pruefungsbericht.
-- **§ 171 Abs. 4 AO** — Ablaufhemmung.
-- **GoBD** — Grundsaetze zur ordnungsmäßigen Fuehrung von Buechern.
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
-
-## Zentrale Normen
-
-§§ 193 ff. AO · § 196 AO · § 197 AO · § 200 AO · § 201 AO · § 202 AO · § 171 Abs. 4 AO · § 147 AO (Aufbewahrung) · GoBD
-
-## Abgrenzung zu anderen Skills dieses Plugins
-
-- Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
-- Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
-- Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 8 AO (Wohnsitz, Aufenthalt)
-- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
-- § 42 AO (Gestaltungsmissbrauch)
-- §§ 169-171 AO (Festsetzungsverjährung)
-- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
-- § 370 AO (Steuerhinterziehung)
-- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
-- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
-- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
-- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
-
-### Leitentscheidungen
-
-- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
-- BFH XI R 11/22 (Reverse-Charge-Verfahren)
-- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
-- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
-- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-
-### Anwendung im Skill
-
-- Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
-- Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
-- Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-
----
-
 ## Skill: `aussenpruefung-strategien`
 
 _Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsp..._
@@ -1193,11 +1115,11 @@ _Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. 
 - **Prüfungsanordnung:** § 196 AO (schriftlich, anfechtbar mit Einspruch).
 - **Außenprüfung:** §§ 193 ff. AO; bei Konzernen § 13 BpO.
 - **Mitwirkungspflichten:** § 200 AO; bei Auslandssachverhalten § 90 Abs. 2 Abs. 3 AO.
-- **Qualifiziertes Mitwirkungsverlangen:** § 200a AO (eingefuegt durch DAC7-UmsG vom 20.12.2022, BGBl. 2022 I S. 2730, Wirkung 01.01.2025; ersetzt das frueher in § 146 Abs. 2c AO geregelte Verzoegerungsgeld im BP-Kontext) — fruehestens 6 Monate nach Bekanntgabe der Pruefungsanordnung; Mitwirkungsverzoegerungsgeld 75 EUR pro Tag für hoechstens 150 Tage (Hoechstbetrag 11.250 EUR); Zuschlag bis 25.000 EUR pro Tag bei wirtschaftlich leistungsstarken / wiederholt unkooperativen Steuerpflichtigen.
-- **Datenzugriff:** § 147 Abs. 6 AO — unmittelbar mittelbar oder Datenträgerüberlassung. § 147a AO besondere Aufzeichnungspflichten bei Bargeschäften. **§ 147b AO** (neu) Datenbereitstellung ueber digitale Schnittstellen.
+- **Qualifiziertes Mitwirkungsverlangen:** § 200a AO (eingefuegt durch DAC7-UmsG vom 20.12.2022, BGBl. 2022 I S. 2730, Wirkung 01.01.2025; ersetzt das frueher in § 146 Abs. 2c AO geregelte Verzoegerungsgeld im BP-Kontext) — fruehestens 6 Monate nach Bekanntgabe der Prüfungsanordnung; Mitwirkungsverzoegerungsgeld 75 EUR pro Tag für hoechstens 150 Tage (Hoechstbetrag 11.250 EUR); Zuschlag bis 25.000 EUR pro Tag bei wirtschaftlich leistungsstarken / wiederholt unkooperativen Steuerpflichtigen.
+- **Datenzugriff:** § 147 Abs. 6 AO — unmittelbar mittelbar oder Datenträgerüberlassung. § 147a AO besondere Aufzeichnungspflichten bei Bargeschäften. **§ 147b AO** (neu) Datenbereitstellung über digitale Schnittstellen.
 - **Schlussbesprechung:** § 201 AO — Pflicht des Prüfers, soweit Steueränderung in Betracht kommt.
 - **Prüfungsbericht:** § 202 AO; Stellungnahme des Steuerpflichtigen ist anzuhören.
-- **Ablaufhemmung:** § 171 Abs. 4 AO i.d.F. DAC7-UmsG — Begrenzung der Ablaufhemmung auf fuenf Jahre nach Ende des Kalenderjahres der Bekanntgabe der Pruefungsanordnung (gilt für ab 01.01.2025 ergangene Pruefungsanordnungen).
+- **Ablaufhemmung:** § 171 Abs. 4 AO i.d.F. DAC7-UmsG — Begrenzung der Ablaufhemmung auf fuenf Jahre nach Ende des Kalenderjahres der Bekanntgabe der Prüfungsanordnung (gilt für ab 01.01.2025 ergangene Prüfungsanordnungen).
 - **Teilabschlussbescheid:** § 180 Abs. 1a AO — verbindliche Teilabschluesse zu abgrenzbaren und abschliessend gepruefte Besteuerungsgrundlagen.
 - **Trennungsprinzip Steuer- und Strafverfahren:** § 393 Abs. 1 AO — Mitwirkungspflicht ruht, soweit Selbstbelastung droht; § 397 AO Einleitung des Strafverfahrens.
 - **Auskunftsverweigerungsrecht:** § 102 AO (Steuerberater, Rechtsanwalt); § 103 AO (Berufsgeheimnisträger).
@@ -1211,7 +1133,7 @@ _Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. 
 
 ## Maßgebliche Rechtsprechung
 
-- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** (E-Mails als vorzulegende Handels- und Geschaeftsbriefe in der Aussenpruefung): E-Mails mit steuerlichem Bezug fallen unter § 147 Abs. 1 Nr. 2 und 3 AO und unterliegen dem Datenzugriff. Die Aufforderung zur Erstellung eines "Gesamtjournals", das ueber das vorhandene E-Mail-Postfach hinaus zusaetzliche Informationen anreichert, ist mangels Rechtsgrundlage unzulaessig. Der Steuerpflichtige hat ein Erstqualifikationsrecht und darf nicht steuerrelevante E-Mails aussortieren. Volltext unter dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) sowie BFH-Datenbank.
+- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenpruefung): E-Mails mit steuerlichem Bezug fallen unter § 147 Abs. 1 Nr. 2 und 3 AO und unterliegen dem Datenzugriff. Die Aufforderung zur Erstellung eines "Gesamtjournals", das über das vorhandene E-Mail-Postfach hinaus zusaetzliche Informationen anreichert, ist mangels Rechtsgrundlage unzulaessig. Der Steuerpflichtige hat ein Erstqualifikationsrecht und darf nicht steuerrelevante E-Mails aussortieren. Volltext unter dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) sowie BFH-Datenbank.
 
 ## Prüfschema
 
@@ -1259,8 +1181,8 @@ _Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. 
 ### Phase 3 — Prüfungsdurchführung
 
 - **Mitwirkungspflicht** § 200 AO — Auskunft Vorlage Aufzeichnungen.
-- **Qualifiziertes Mitwirkungsverlangen** § 200a AO (ab 01.01.2025) — fruehestens nach 6 Monaten ab Bekanntgabe der Pruefungsanordnung; bei Nichterfuellung Mitwirkungsverzoegerungsgeld 75 EUR/Tag (max. 150 Tage = 11.250 EUR); Zuschlag bis 25.000 EUR/Tag bei wirtschaftlicher Leistungsfaehigkeit oder Wiederholungsfaellen.
-- **Datenzugriff** § 147 Abs. 6 AO — Z1 (unmittelbarer Zugriff) Z2 (mittelbarer Zugriff) Z3 (Datenträgerüberlassung). Bei E-Mail-Vorlageverlangen ist BFH XI R 15/23 vom 30.04.2025 zu beachten: en-bloc-Aufforderung zu transaktionsbezogenen E-Mails zulaessig, "Gesamtjournal" mit Anreicherung nicht.
+- **Qualifiziertes Mitwirkungsverlangen** § 200a AO (ab 01.01.2025) — fruehestens nach 6 Monaten ab Bekanntgabe der Prüfungsanordnung; bei Nichterfuellung Mitwirkungsverzoegerungsgeld 75 EUR/Tag (max. 150 Tage = 11.250 EUR); Zuschlag bis 25.000 EUR/Tag bei wirtschaftlicher Leistungsfaehigkeit oder Wiederholungsfaellen.
+- **Datenzugriff** § 147 Abs. 6 AO — Z1 (unmittelbarer Zugriff) Z2 (mittelbarer Zugriff) Z3 (Datenträgerüberlassung). Bei E-Mail-Vorlageverlangen ist BFH XI R 15/23 vom 30.04.2025 zu beachten: en-bloc-Aufforderung zu transaktionsbezogenen E-Mails zulässig, "Gesamtjournal" mit Anreicherung nicht.
 - **DSFinV-K** Digitale Schnittstelle der Finanzverwaltung für Kassensysteme bei Bargeschäften.
 - **Grenze** Mitwirkungspflicht — kein Selbstbelastungszwang bei möglicher Steuerstraftat / Ordnungswidrigkeit (§ 393 AO).
 - **Prüfer-Anfragen** schriftlich beantworten — Antworten über Anwalt und Steuerberater abstimmen; bei strittigen Fragen Bedenkzeit erbitten.
@@ -1306,14 +1228,14 @@ _Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Strategie für Aussenprufung entwickeln und Stellungnahme erstellen | Stellungnahme nach Schema; Template unten |
 | Variante A — Mandant will kooperieren um Prüfung schnell abzuschliessen | Kooperative Strategie; Unterlagen proaktiv vorlegen |
-| Variante B — Pruefung hat strafrechtliche Relevanz | Steuerstrafrecht-Skill einschalten; vorsichtige Kooperation |
-| Variante C — Pruefungsergebnis ist klar falsch Einspruch noetig | Einspruchsstrategie parallel vorbereiten; Schlussbesprechung nutzen |
+| Variante B — Prüfung hat strafrechtliche Relevanz | Steuerstrafrecht-Skill einschalten; vorsichtige Kooperation |
+| Variante C — Prüfungsergebnis ist klar falsch Einspruch noetig | Einspruchsstrategie parallel vorbereiten; Schlussbesprechung nutzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -1349,13 +1271,13 @@ Mit freundlichen Grüßen
 [Anwalt, Fachanwalt für Steuerrecht]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -1373,7 +1295,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Bei mangelnder Mitwirkung Schätzungsbefugnis FA weit.
 - Anfechtungs-Strategie: Konkrete Daten nachreichen; Schätzungsrahmen auf Willkür prüfen.
-- **BFH, Urteil vom 18.06.2025 — X R 19/21**: Erhebliche Zweifel daran, dass die amtliche **Richtsatzsammlung des BMF** in der gegenwaertigen Form als Schaetzungsgrundlage taugt; aeusserer Betriebsvergleich mit Rohgewinnaufschlagsatz von 300 Prozent nicht hinreichend substantiiert. Volltext ueber BFH-Datenbank (STRE202520256).
+- **BFH, Urteil vom 18.06.2025 — X R 19/21**: Erhebliche Zweifel daran, dass die amtliche **Richtsatzsammlung des BMF** in der gegenwaertigen Form als Schaetzungsgrundlage taugt; aeusserer Betriebsvergleich mit Rohgewinnaufschlagsatz von 300 Prozent nicht hinreichend substantiiert. Volltext über BFH-Datenbank (STRE202520256).
 - **Grundsatz** (BFH stRspr.): innerer Betriebsvergleich vorrangig vor aeusserem; relativ unsichere Methoden sind subsidiaer. Wahlfreiheit FA / FG ist durch § 5 AO begrenzt.
 
 ### Typische Fehler
@@ -1397,6 +1319,243 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `anw-verbindliche-auskunft` — vor Sachverhalt
 - `anw-einspruch-finanzamt` — nach nachteiligem Bescheid
 - `fachanwalt-strafrecht` — bei Strafverdacht
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 8 AO (Wohnsitz, Aufenthalt)
+- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
+- § 42 AO (Gestaltungsmissbrauch)
+- §§ 169-171 AO (Festsetzungsverjährung)
+- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
+- § 370 AO (Steuerhinterziehung)
+- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
+- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
+- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
+- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
+
+### Leitentscheidungen
+
+- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
+- BFH XI R 11/22 (Reverse-Charge-Verfahren)
+- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
+- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
+- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
+
+### Anwendung im Skill
+
+- Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
+- Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
+- Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+
+---
+
+## Skill: `aussetzung-vollziehung`
+
+_Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmäßigkeit od..._
+
+# Aussetzung der Vollziehung (AdV)
+
+## Fachlicher Anker
+
+- **Normen:** § 6a, § 361 AO, § 69 Abs. 3.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Triage — kläre vor dem Antrag
+
+1. Ist ein Einspruch bereits eingelegt? (Voraussetzung für FA-Antrag nach § 361 AO)
+2. Wie hoch ist der strittige Steuerbetrag? (Proportionalität der Begründungstiefe)
+3. Hat das FA bereits eine AdV-Entscheidung getroffen? → Ja: direkt Stufe 2 (FG § 69 Abs. 3 FGO)
+4. Droht unmittelbare Vollstreckung (Pfändungsankündigung, Kontopfändung)? → Eilantrag beim FG möglich
+5. Liegt ein Fall unbilliger Härte vor (Existenzbedrohung, Insolvenz bei Zahlung)?
+6. Soll hilfsweise Aufhebung der Vollziehung beantragt werden (bereits gezahlte Steuer zurückfordern)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Hintergrund
+
+Einspruch und Klage gegen Steuerbescheide haben **keine aufschiebende Wirkung** (§ 361 Abs. 1 AO / § 69 Abs. 1 FGO). Die Steuer ist trotz Rechtsmittel zur Fälligkeit zu zahlen. Wer das nicht will: Antrag auf Aussetzung der Vollziehung.
+
+## Zweistufiges Verfahren
+
+### Stufe 1 — Antrag an das Finanzamt (§ 361 Abs. 2 AO)
+
+Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag wenn:
+- **ernstliche Zweifel** an der Rechtmäßigkeit des Bescheids bestehen, **oder**
+- die Vollziehung für den Steuerpflichtigen eine **unbillige, nicht durch überwiegende öffentliche Interessen gebotene Härte** zur Folge hätte.
+
+### Stufe 2 — Antrag an das Finanzgericht (§ 69 Abs. 3 FGO)
+
+- Antrag zulässig wenn das FA den AdV-Antrag ganz oder teilweise abgelehnt hat **oder** über den Antrag nicht in angemessener Frist entschieden hat (§ 69 Abs. 4 FGO).
+- Im Klageverfahren auch erstmals direkt an das FG möglich.
+
+## Zentrale Anspruchsgrundlagen & Normen
+
+- § 361 Abs. 2 AO — AdV durch das Finanzamt im Einspruchsverfahren
+- § 69 Abs. 3 und 4 FGO — AdV durch das Finanzgericht im Klageverfahren
+- § 361 Abs. 2 Satz 3 AO / § 69 Abs. 2 Satz 3 FGO — Sicherheitsleistung
+- § 237 AO i.V.m. § 238 Abs. 1 S. 1 AO — Aussetzungszinsen 0,5 % pro vollem Monat / 6 % pro Jahr bei Verlust (Achtung: BFH-Vorlage BVerfG 1 BvL 8/24 anhaengig zur Verfassungsmaessigkeit, Zeitraum 01.01.2019 - 15.04.2021)
+- § 155 Satz 1 FGO i.V.m. § 294 ZPO — Glaubhaftmachung durch eidesstattliche Versicherung
+- § 69 Abs. 4 FGO — direkter FG-Antrag nach FA-Ablehnung oder FA-Untätigkeit
+
+## Aktuelle Rechtsprechung
+
+- **BFH, Vorlagebeschluss vom 08.05.2024 — VIII R 9/23** an das BVerfG (anhaengig BVerfG 1 BvL 8/24): Der Zinssatz für Aussetzungszinsen nach § 237 i.V.m. § 238 Abs. 1 S. 1 AO in Höhe von 0,5 Prozent pro Monat ist nach Auffassung des BFH für den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig. Konsequenz für die Praxis: AdV-Antraege für betroffene Zeitraeume sollten den anhaengigen Vorlagebeschluss mitfuehren; ggf. AdV der Aussetzungszinsen selbst beantragen. Volltext BFH über die BFH-Datenbank (Vorlagebeschluss VIII R 9/23, STRE202410144).
+- **BFH, Beschluss vom 21.03.2025 — X B 21/25 (AdV)** zu Saeumniszuschlaegen: Keine ernstlichen verfassungsrechtlichen Zweifel an der Höhe der Saeumniszuschlaege nach § 240 Abs. 1 S. 1 AO für Zeitraeume nach dem 31.12.2018; gestuetzt auf das nachhaltig erhoehte Zinsumfeld seit Februar 2022. Volltext über BFH-Datenbank.
+- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Grunderwerbsteuer-Doppelfestsetzung nach § 1 Abs. 2b und § 1 Abs. 3 Nr. 1 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs: ernstliche Zweifel an der Rechtmaessigkeit bejaht; Vollziehung ausgesetzt. Volltext über BFH-Datenbank.
+- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Maßstab "ernstliche Zweifel" — gegeben, wenn bei summarischer Prüfung neben für die Rechtmaessigkeit sprechenden Umstaenden gewichtige gegen die Rechtmaessigkeit sprechende Gruende zutage treten, die Unsicherheit oder Unentschiedenheit in der rechtlichen oder tatsaechlichen Beurteilung bewirken. Volltext über BFH-Datenbank.
+
+## Schritt-für-Schritt-Workflow
+
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+
+1. **Einspruch prüfen:** Einspruch eingelegt und Frist gewahrt? Falls nicht → zuerst Einspruch.
+2. **Begründung AdV zusammenstellen:** Ernstliche Zweifel (materielle Angriffspunkte aus Bescheidanalyse) oder unbillige Härte (Liquiditätslage, Existenzgefährdung).
+3. **Stufe 1 — FA-Antrag:** Formulieren (Vorlage unten), versenden per ELSTER/ERiC oder Briefpost (kein beA an FA).
+4. **FA-Antwort-Frist beobachten:** Angemessene Frist ca. 4 Wochen; bei Untätigkeit → Stufe 2.
+5. **Stufe 2 — FG-Antrag:** Wenn FA ablehnt oder untätig → Antrag nach § 69 Abs. 3 FGO über beA.
+6. **Eidesstattliche Versicherung:** Bei wirtschaftlicher Härte — Mandant unterschreibt.
+7. **Sicherheitsleistung:** Hilfsantrag ohne / hilfsweise gegen Sicherheitsleistung formulieren.
+8. **Fristenbuch:** AdV-Status und FA-Reaktionsfrist eintragen (Skill `anw-fristenbuch-steuerrecht`).
+
+## Entscheidungsbaum
+
+FA-Antrag gestellt?
+→ **Nein:** FA-Antrag formulieren (§ 361 AO) → Stufe 1
+→ **Ja:** FA hat entschieden? → Abgelehnt: FG-Antrag § 69 Abs. 3 FGO / Untätig (> 4 Wochen): FG-Antrag § 69 Abs. 4 FGO / Bewilligt: Fertig; Aussetzungszinsen beachten
+
+Grundlage der AdV?
+→ **Ernstliche Zweifel:** Substanz aus Einspruchsbegründung, BFH-Rechtsprechung zur Streitfrage
+→ **Unbillige Härte:** Vermögens- und Liquiditätslage, Existenzgefährdung, Belege (Kontoauszüge, BWA)
+
+## Antragsaufbau Stufe 1 (FA)
+
+**Adressat:** Finanzamt — Tonfall: sachlich-juristisch
+
+```
+An das Finanzamt [ORT]
+Steuernummer [NUMMER]
+
+In dem Einspruchsverfahren über den [STEUERART]-Bescheid
+[JAHR] vom [DATUM], Az. [AKTENZEICHEN]
+
+Antrag auf Aussetzung der Vollziehung gemäß § 361 Abs. 2 AO
+
+Wir zeigen die Vertretung des Einspruchsführers [NAME]
+an und beantragen, die Vollziehung des o.g. Bescheids
+bis zur Bekanntgabe der Einspruchsentscheidung auszusetzen.
+
+Begründung:
+[Ernstliche Zweifel: ...]
+[Unbillige Härte: ...]
+
+Ohne Sicherheitsleistung; hilfsweise gegen Sicherheitsleistung.
+
+[KANZLEI], [DATUM]
+```
+
+## Antragsaufbau Stufe 2 (FG)
+
+**Adressat:** Finanzgericht — Tonfall: sachlich-juristisch
+
+```
+An das Finanzgericht [BUNDESLAND]
+[ANSCHRIFT]
+
+In der Streitsache
+[NAME MANDANT] — Antragsteller —
+gegen
+Finanzamt [ORT] — Antragsgegner —
+
+Antrag auf Aussetzung der Vollziehung gemäß § 69 Abs. 3 FGO
+
+1. Die Vollziehung des [STEUERART]-Bescheids [JAHR] vom
+ [DATUM] in Gestalt der FA-Ablehnung vom [DATUM] wird
+ bis zum rechtskräftigen Abschluss des Klageverfahrens
+ (Az. FG [AKTENZEICHEN]) ausgesetzt.
+ Hilfsweise wird die Aufhebung der Vollziehung beantragt.
+2. Ohne Sicherheitsleistung; hilfsweise gegen Sicherheits-
+ leistung nach richterlichem Ermessen.
+
+Begründung:
+A. Verfahrensgeschichte: [...]
+B. Ernstliche Zweifel: [...]
+C. Unbillige Härte (hilfsweise): [...]
+
+Beweis: Eidesstattliche Versicherung Anlage Ast 1
+
+[KANZLEI], [DATUM]
+```
+
+## Folge der AdV
+
+- **Aussetzung:** Vollziehung bis Bekanntgabe Einspruchsentscheidung bzw. bis Rechtskraft.
+- **Aussetzungszinsen** § 237 AO bei Verlust des Einspruchs / der Klage. **Aktueller gesetzlicher Zinssatz: 0,5 % pro vollem Monat / 6 % pro Jahr** (§ 238 Abs. 1 S. 1 AO; der durch das ZinsAnpG vom 12.07.2022 für Nachzahlungs- und Erstattungszinsen § 233a AO abgesenkte Satz von 0,15 % pro Monat = 1,8 % pro Jahr gilt **nicht** für Aussetzungszinsen). **Achtung**: BFH-Vorlagebeschluss vom 08.05.2024 (VIII R 9/23) an das BVerfG (anhaengig 1 BvL 8/24) — Zinssatz für Aussetzungszinsen 0,5 % pro Monat für den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig; betroffene Verfahren ggf. offenhalten und auf die BVerfG-Entscheidung warten.
+- **Aufhebung Vollziehung** bei bereits gezahlter Steuer — Rückerstattung.
+- **Teilaussetzung** möglich wenn nur ein Teil des Bescheids streitig ist.
+
+## Frist
+
+Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage einreichen, spätestens vor Fälligkeit der Steuerschuld.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Aussetzung der Vollziehung beantragen | Mandantenschreiben nach Schema; Template unten |
+| Variante A — AdV bei Finanzamt erfolglos Finanzgericht noetig | FG-Antrag nach § 69 Abs. 3 FGO als naechster Schritt |
+| Variante B — Mandant will Bescheid akzeptieren nur Rate stunden | Stundungsantrag statt AdV; einfacher Weg |
+| Variante C — Betrag sehr hoch Sicherheitsleistung gefordert | Sicherheitsleistungs-Verhandlung parallel; ggf. Buergschaft |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template Mandantenschreiben
+
+**Adressat:** Mandant — Tonfall: verständlich-erklärend
+
+```
+Betreff: Antrag auf Aussetzung der Vollziehung [STEUERART] [JAHR]
+
+Sehr geehrte/r [NAME MANDANT],
+
+wir haben heute beim Finanzamt [ORT] beantragt, die
+Vollziehung des [STEUERART]-Bescheids vom [DATUM]
+auszusetzen. Das bedeutet, dass Sie die streitige Steuer
+von [BETRAG] Euro vorerst nicht zahlen müssen.
+
+Wichtig: Falls wir im Einspruch unterliegen, fallen
+Aussetzungszinsen an (gesetzlich 0,5 % pro vollem Monat /
+6 % pro Jahr auf den ausgesetzten Betrag, § 237 i.V.m.
+§ 238 Abs. 1 S. 1 AO; ein BFH-Vorlagebeschluss zur Ver-
+fassungsmaessigkeit ist beim BVerfG anhaengig). Wir
+informieren Sie über den weiteren Verfahrensgang.
+
+[KANZLEI], [DATUM]
+```
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+## Ausgabe
+
+- `adv-antrag-<az>-<datum>.docx` (Stufe 1 FA oder Stufe 2 FG).
+- Eidesstattliche Versicherung als Anlage.
+- Eintrag im Fristenbuch: FA-Reaktionsfrist beobachten — bei Überschreitung Stufe 2 FG (`anw-fristenbuch-steuerrecht`).
+
+## Versand
+
+AdV-Antrag beim **Finanzamt** (§ 361 AO): über ELSTER/ERiC, Briefpost oder Telefax. **beA an Finanzamt unzulässig** seit 6.12.2024 (§ 87a Abs. 1 S. 2 AO n.F.). AdV-Antrag beim **Finanzgericht** (§ 69 Abs. 3 FGO): über beA (§ 52d FGO). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
 
 ## Normen und Rechtsprechung
 

@@ -27,7 +27,7 @@ _Öffentliches Wirtschaftsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fris
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Oeffentliches Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Oeffentliches Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -79,7 +79,7 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 _Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
 
-# Kommunales Unternehmen Zulaessig
+# Kommunales Unternehmen Zulässig
 
 ## Arbeitsweg
 
@@ -110,7 +110,7 @@ _Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Un
 
 _Öffentliches Wirtschaftsrecht: Projektfinanzierung öffentlich. Projektfinanzierung öffentlich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
 
-# Projektfinanzierung Oeffentlich
+# Projektfinanzierung Öffentlich
 
 ## Arbeitsweg
 
@@ -265,7 +265,7 @@ _Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkei
 
 _Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
 
-# Gebührenfinanzierung Pruefen
+# Gebührenfinanzierung Prüfen
 
 ## Arbeitsweg
 

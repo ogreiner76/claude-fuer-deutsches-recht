@@ -9,18 +9,18 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `zwangsvollstreckung
 1. **einstieg-routing** — Einstieg, Triage und Routing für Zwangsvollstreckung: ordnet Rolle (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, B…
 2. **zwangsvollstreckung-erstpruefung-und-mandatsziel** — Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Zwangsvollstreckung.
 3. **abwehr-schuldner** — Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ …
-4. **elektronische-zustellung-eu** — Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZV…
-5. **eu-kontenpfaendung-655-2014** — Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655…
-6. **kommandocenter** — Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollste…
-7. **kontensuche-drittschuldner** — Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: R…
-8. **mahnbescheid-online-mobiliar-gv** — Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster:…
-9. **mobiliar-gv-auftrag** — Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobili…
-10. **notarielle-urkunde-grundschuld** — Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notar…
-11. **pfaendungstabelle-pfueb-arbeitsentgelt** — Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfrei…
-12. **pfueb-bank** — Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuld…
-13. **raeumung-tabellenauszug-inso** — Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraste…
-14. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Zwangsvollstreckung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken u…
-15. **tabellenauszug-201-inso** — Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs…
+4. **eu-kontenpfaendung-655-2014** — Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655…
+5. **kommandocenter** — Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollste…
+6. **kontensuche-drittschuldner** — Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: R…
+7. **mahnbescheid-online-mobiliar-gv** — Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster:…
+8. **mobiliar-gv-auftrag** — Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobili…
+9. **notarielle-urkunde-grundschuld** — Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notar…
+10. **pfaendungstabelle-pfueb-arbeitsentgelt** — Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfrei…
+11. **pfueb-bank** — Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuld…
+12. **raeumung-tabellenauszug-inso** — Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraste…
+13. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Zwangsvollstreckung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken u…
+14. **tabellenauszug-201-inso** — Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs…
+15. **titel-klausel-zustellung** — Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 7…
 
 ---
 
@@ -76,7 +76,7 @@ _Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Zwangsvoll
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Zwangsvollstreckung Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Zwangsvollstreckung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Zwangsvollstreckung Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Zwangsvollstreckung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -219,122 +219,6 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Niemals § 767 ZPO ohne Präklusionsprüfung – Einwendungen müssen nach Schluss der mündlichen Verhandlung entstanden sein.
 - Niemals Drittgut über § 766 ZPO verteidigen – das ist § 771 ZPO.
 - Bei § 765a ZPO niemals nur Standardvortrag – konkrete Härte mit Beweismitteln.
-
----
-
-## Skill: `elektronische-zustellung-eu`
-
-_Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.202..._
-
-# Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG
-
-## Arbeitsbereich
-
-Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.2027 eBO ZVFV-Formulare neu § 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (Klassisch). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. Ist das ZVollstrDigitG bereits im BGBl verkündet und in Kraft getreten (Stand: aktuelles Datum prüfen)?
-2. Soll die Zustellung vor oder nach dem 1.10.2027 erfolgen (Bank-Pflicht eBO)?
-3. Hat die Kanzlei-Software die XML-Unterstützung (§ 829 Abs. 5 ZPO n.F.) bereits implementiert?
-4. Ist die Zielbank bereits im eBO-Verzeichnis registriert?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- § 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
-- § 130d ZPO — aktive Nutzungspflicht für Rechtsanwälte (beA, eBO)
-- § 173 ZPO n.F. (ZVollstrDigitG) — elektronische Zustellung an Drittschuldner
-- § 829 Abs. 5 ZPO n.F. — XML-Antrag Pfändungs- und Überweisungsbeschluss
-- § 840 ZPO — Drittschuldnererklärung
-- § 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
-
-## Reform-Eckdaten (Stand 25.5.2026)
-
-| Datum | Inhalt |
-| --- | --- |
-| 19.3.2026 | Bundestag beschließt das Gesetz (BT-Drs. 21/4815) |
-| April 2026 | Bundesrat – nicht zustimmungspflichtig |
-| Verkündung im BGBl | bei Skill-Erstellung noch offen – Skill prüft aktuelles Datum |
-| 1.10.2026 | Inkrafttreten Hauptteile: neue ZVFV-Formulare, XML-Antrag § 829 Abs. 5 ZPO n.F. |
-| 1.10.2027 | Kreditinstitute MÜSSEN sicheren elektronischen Übermittlungsweg eröffnen (§ 173 Abs. 2 Nr. 1 ZPO n.F.) |
-
-Bei jeder neuen Beratung **erst prüfen**, ob die Verkündung erfolgt ist und ob das Inkrafttreten verschoben wurde. Quellen:
-
-- BT-Drs. 21/4815 (PDF auf dserver.bundestag.de)
-- Bundestag Textarchiv 12/2026
-- BRAK-Newsletter Ausgabe 8/2026 vom 1.5.2026 ("Zwangsvollstreckung künftig mit weniger Medienbrüchen")
-- DGVB-Beitrag zum elektronischen Rechtsverkehr in der Vollstreckung
-
-## Rechtsgrundlagen
-
-- § 130a ZPO – elektronischer Rechtsverkehr Schriftsätze
-- § 130d ZPO – aktive Nutzungspflicht Rechtsanwalt/Behörde
-- § 173 ZPO n.F. (ZVollstrDigitG) – elektronische Zustellung an Drittschuldner
-- § 829 Abs. 5 ZPO n.F. – XML-Antrag PfÜB
-- § 840 ZPO – Drittschuldnererklärung (zusätzlich Postzustellung möglich)
-- § 802a Abs. 2 ZPO – Gerichtsvollzieher-Aufträge
-- ERV-Verordnungen ERVV und ERVB
-
-## Die drei Stoßrichtungen der Reform
-
-### 1. XML-Antrag § 829 Abs. 5 ZPO n.F.
-
-Ab 1.10.2026 kann der PfÜB-Antrag zusätzlich zum PDF-Antrag eine maschinenlesbare XML-Struktur enthalten. Bei Diskrepanz **gilt das XML** – also XML führt PDF (BT-Drs. 21/4815). Wer Software einsetzt: schon vor 1.10.2026 testen, ob die Kanzlei-Software den ZVFV-konformen XML-Anhang erzeugt.
-
-### 2. Pflicht der Kreditinstitute zum sicheren Übermittlungsweg
-
-Ab 1.10.2027 sind Kreditinstitute verpflichtet, einen sicheren elektronischen Übermittlungsweg im Sinne des § 130a Abs. 4 ZPO zu eröffnen (§ 173 Abs. 2 Nr. 1 ZPO n.F.). In Frage kommen:
-
-- **eBO** (elektronisches Bürger- und Organisationenpostfach) – die Bank registriert sich beim Bundesnotarvereinszentral / SAFE-Verzeichnis.
-- **De-Mail** mit Absenderbestätigung
-- weitere Übermittlungswege nach § 130a Abs. 4 ZPO und ERVV
-
-Folge: Der Gerichtsvollzieher stellt PfÜB an Banken nicht mehr per Papier zu, sondern elektronisch. Das ist schneller, planbarer und vermeidet den klassischen Streit um Zustellungszeitpunkt. Bis 1.10.2027 dürfen Banken freiwillig elektronisch annehmen – viele Kreditinstitute tun das bereits.
-
-### 3. § 840 ZPO Drittschuldnererklärung – Postzustellung erlaubt
-
-Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per Post übermittelt werden. Erleichterung vor allem für Banken, die parallel den eBO-Empfang aufbauen müssen.
-
-## für die Praxis bis 1.10.2027
-
-1. **Soft Start ab 1.10.2026**: Wer XML-Antrag schreibt, sollte die ZVFV-Schemata kennen. Pilotphase nutzen.
-2. **Bestandsaufnahme Kanzlei-Software**: kann sie eBO senden? Erzeugt sie ZVFV-XML? Mit dem Software-Anbieter klären.
-3. **Bestandsaufnahme Banken**: viele Großbanken haben eBO bereits eröffnet. Liste der Drittschuldner mit eBO-Adressen pflegen.
-4. **Schulung der GV** in Berücksichtigung – die örtlich zuständigen Gerichtsvollzieher werden ab 1.10.2027 elektronisch zustellen.
-5. **Doppelte Wege vermeiden**: nicht parallel Papier UND eBO – Zustellungszeitpunkt ist sonst streitbefangen.
-
-## Was bleibt analog
-
-- Pfändung gegen Privatpersonen ohne eBO (Schuldnerzustellung) bleibt grundsätzlich Papier (außer Schuldner hat eBO).
-- Gerichtsvollzieher-Mobiliarvollstreckung bleibt Vor-Ort-Termin.
-- Zwangsversteigerung ZVG verfahrenstechnisch unverändert.
-
-## Häufige Fehlerquellen
-
-- Antrag in Papier eingereicht, obwohl § 130d ZPO aktive Nutzungspflicht der Anwaltschaft greift – Form fehlt, Antrag unzulässig.
-- XML und PDF widersprechen sich – Skill warnt: XML führt. Datenpflege im DMS einrichten.
-- Zustellung per beA statt eBO an Drittschuldner – Bank hat ggf. nur eBO eröffnet.
-- Übergangsphase: nicht jede Bank ist vor 1.10.2027 elektronisch erreichbar – im Zweifel beim GV-Bezirk anfragen.
-
-## Qualitätsgates
-
-- Datum der Verkündung im BGBl bei jeder Beratung neu verifizieren.
-- Niemals parallel Papier und elektronisch – Zustellungszeitpunkt eindeutig halten.
-- XML-Schema-Versionen prüfen – ZVFV-Update nicht verpassen.
-- Niemals annehmen, jede Bank sei vor 1.10.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
-- Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.
 
 ---
 
@@ -1421,7 +1305,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `zv-abwehr-schuldner` | Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel… |
-| `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht… |
+| `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht… |
 | `zv-eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch… |
 | `zv-kommandocenter` | Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und… |
 | `zv-kontensuche-drittschuldner` | Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt… |
@@ -1442,17 +1326,17 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin begleitet die Zwangsvollstreckung aus der Perspektive beider Seiten: Glaeubiger, die einen vorhandenen Titel vollstrecken wollen, und Schuldner, die sich gegen Vollstreckungsmassnahmen wehren. Es deckt das gesamte Spektrum der §§ 704 ff. ZPO ab: vom Mahnbescheid und Vollstreckungsbescheid ueber Pfaendungs- und Uebertragungsbeschluesse (PfUeB) bei Bankkonten und Arbeitseinkommen bis zur Raeumungsvollstreckung und zum ZVG-Antrag bei Immobilien.
+Das Plugin begleitet die Zwangsvollstreckung aus der Perspektive beider Seiten: Gläubiger, die einen vorhandenen Titel vollstrecken wollen, und Schuldner, die sich gegen Vollstreckungsmassnahmen wehren. Es deckt das gesamte Spektrum der §§ 704 ff. ZPO ab: vom Mahnbescheid und Vollstreckungsbescheid über Pfaendungs- und Uebertragungsbeschluesse (PfUeB) bei Bankkonten und Arbeitseinkommen bis zur Raeumungsvollstreckung und zum ZVG-Antrag bei Immobilien.
 
-Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schuldnerschutz nach § 765a ZPO sowie § 802l-Kontensuche. Zielgruppe sind Anwaelte, Inkassobetriebe und Rechtspfleger.
+Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schuldnerschutz nach § 765a ZPO sowie § 802l-Kontensuche. Zielgruppe sind Anwaelte, Inkassobetriebe und Rechtspfleger.
 
 ## Wann brauchen Sie diese Skill?
 
-- Glaeubiger hat rechtskraeftiges Urteil oder anderen vollstreckbaren Titel und muss entscheiden, welche Vollstreckungsart am sinnvollsten ist.
-- Glaeubiger kennt weder Konto noch Arbeitgeber des Schuldners und muss Vermoegensauskunft oder Drittauskunft beantragen.
+- Gläubiger hat rechtskraeftiges Urteil oder anderen vollstreckbaren Titel und muss entscheiden, welche Vollstreckungsart am sinnvollsten ist.
+- Gläubiger kennt weder Konto noch Arbeitgeber des Schuldners und muss Vermögensauskunft oder Drittauskunft beantragen.
 - Schuldner hat unrechtmäßigen PfUeB erhalten oder ist besonders schutzbeduerftig (Krankheit, Suizidrisiko) und will Vollstreckungsschutz.
 - Vermieter hat rechtskraeftiges Raeumungsurteil und muss Gerichtsvollzieher beauftragen.
-- Glaeubiger will Immobilie des Schuldners versteigern lassen (ZVG-Antrag).
+- Gläubiger will Immobilie des Schuldners versteigern lassen (ZVG-Antrag).
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -1461,7 +1345,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - **PfUeB** — Pfaendungs- und Uebertragungsbeschluss; richterlicher Beschluss, der Forderung des Schuldners gegenueber Drittschuldner pfaendet.
 - **P-Konto** — Pfaendungsschutzkonto; schuetzt Existenzminimum des Schuldners bei Kontopfaendung (§ 850k ZPO).
 - **Pfaendungsfreigrenze (§ 850c ZPO)** — Betrag des Arbeitseinkommens, der pfaendungsfrei bleibt; Pfaendungstabelle wird regelmaessig angepasst.
-- **Vermoegensauskunft (§ 802c ZPO)** — Pflicht des Schuldners, vollstaendiges Vermoegen zu offenbaren; frueherer Name: Eidesstattliche Versicherung.
+- **Vermögensauskunft (§ 802c ZPO)** — Pflicht des Schuldners, vollstaendiges Vermögen zu offenbaren; frueherer Name: Eidesstattliche Versicherung.
 - **ZVG** — Zwangsversteigerungsgesetz; Grundlage für Immobilienvollstreckung durch Versteigerung.
 - **EuKtPVO** — EU-Kontenpfaendungsverordnung (VO 655/2014); ermoeglicht vorläufige Kontenpfaendung in EU-Mitgliedstaaten.
 
@@ -1473,7 +1357,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - §§ 808 ff. ZPO — Sachpfaendung (Mobiliarpfaendung)
 - §§ 829 835 850 ff. ZPO — Forderungspfaendung, Lohn- und Kontopfaendung
 - § 850k ZPO — Pfaendungsschutzkonto
-- § 802c ff. ZPO — Vermoegensauskunft, § 802l Drittauskunft
+- § 802c ff. ZPO — Vermögensauskunft, § 802l Drittauskunft
 - § 765a ZPO — Vollstreckungsschutz in Haertefall
 - § 885 ZPO — Raeumungsvollstreckung
 - ZVG — Zwangsversteigerung und Zwangsverwaltung
@@ -1482,24 +1366,24 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Glaeubiger-Seite (Vollstreckung einleiten) oder Schuldner-Seite (Vollstreckung abwehren)?
-2. Titelstatus pruefen: Liegt ein vollstreckbarer Titel mit Klausel und Zustellung vor (§§ 704, 724, 750 ZPO)?
+1. Mandantenkonstellation klären: Gläubiger-Seite (Vollstreckung einleiten) oder Schuldner-Seite (Vollstreckung abwehren)?
+2. Titelstatus prüfen: Liegt ein vollstreckbarer Titel mit Klausel und Zustellung vor (§§ 704, 724, 750 ZPO)?
 3. Zielobjekt bestimmen: Bankkonto, Arbeitseinkommen, Mobiliarsachen, Immobilie oder sonstige Forderung?
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
-5. Eilfristen pruefen: Haertefall-Antrag nach § 765a ZPO sofort bei Vollstreckungstermin; EU-Kontenpfaendung hat eigene Fristen.
+5. Eilfristen prüfen: Haertefall-Antrag nach § 765a ZPO sofort bei Vollstreckungstermin; EU-Kontenpfaendung hat eigene Fristen.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `zv-kommandocenter` — Routing: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten? Ueberblick und Weiterleitung.
+- `zv-kommandocenter` — Routing: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten? Überblick und Weiterleitung.
 - `zv-mahnbescheid-online` — Mahnbescheid online beantragen und Vollstreckungsbescheid erwaerken nach §§ 688 ff. ZPO.
 - `zv-vollstreckungsbescheid-folge` — Nach Mahnbescheid: Vollstreckungsbescheid beantragen oder auf Widerspruch reagieren.
-- `zv-titel-klausel-zustellung` — Formale Trias pruefen: vollstreckbarer Titel, Vollstreckungsklausel, Zustellung an Schuldner.
+- `zv-titel-klausel-zustellung` — Formale Trias prüfen: vollstreckbarer Titel, Vollstreckungsklausel, Zustellung an Schuldner.
 - `zv-pfueb-bank` — PfUeB für Bankkonto beantragen; Drittschuldner-Erklarung, P-Konto-Schutz.
 - `zv-pfueb-arbeitsentgelt` — PfUeB für Arbeitseinkommen; Pfaendungsfreigrenze nach § 850c ZPO berechnen.
 - `zv-pfueb-mieter-finanzamt` — PfUeB für Mietforderung, Steuererstattung oder sonstige Drittschuldner-Forderung.
 - `zv-pfaendungstabelle-2025` — Pfaendungsfreien Betrag nach aktueller Pfaendungstabelle (Stand 2025) konkret berechnen.
 - `zv-kontensuche-drittschuldner` — § 802l-Kontensuche und Drittauskunft wenn Konto oder Arbeitgeber des Schuldners unbekannt sind.
-- `zv-vermoegensauskunft-gv` — Vermoegensauskunft nach § 802c ZPO durch Gerichtsvollzieher beantragen.
+- `zv-vermoegensauskunft-gv` — Vermögensauskunft nach § 802c ZPO durch Gerichtsvollzieher beantragen.
 - `zv-mobiliar-gv-auftrag` — Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beauftragen (§§ 808 ff. ZPO).
 - `zv-raeumung-885` — Raeumungsvollstreckung nach § 885 ZPO; Gerichtsvollzieher-Auftrag, Berliner Raeumung.
 - `zv-notarielle-urkunde-grundschuld` — Vollstreckung aus notarieller Grundschuld-Urkunde nach § 794 Abs. 1 Nr. 5 ZPO.
@@ -1512,8 +1396,8 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 ## Worauf besonders achten
 
-- Formale Trias ist zwingend: Titel, Klausel und Zustellung muessen vollstaendig vorliegen, bevor Vollstreckung beginnt (§ 750 ZPO).
-- P-Konto-Schutz gilt automatisch, wenn Schuldner P-Konto eingerichtet hat; Glaeubiger muss Freibetrag-Erhoehung separat anfechten.
+- Formale Trias ist zwingend: Titel, Klausel und Zustellung müssen vollstaendig vorliegen, bevor Vollstreckung beginnt (§ 750 ZPO).
+- P-Konto-Schutz gilt automatisch, wenn Schuldner P-Konto eingerichtet hat; Gläubiger muss Freibetrag-Erhoehung separat anfechten.
 - Pfaendungsfreigrenzen werden jaehrlich angepasst (§ 850c ZPO); immer aktuelle Tabelle verwenden.
 - EU-Kontenpfaendung nach EuKtPVO setzt Zuständigkeit eines deutschen Gerichts voraus; Antrag hat eigene Formalien.
 - Haertefall-Antrag nach § 765a ZPO hemmt Vollstreckung nur bei sofortiger Antragstellung vor dem Vollstreckungstermin.
@@ -1522,8 +1406,8 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 - Vollstreckung ohne Zustellung an Schuldner begonnen: § 750 ZPO erfordert vorherige oder gleichzeitige Zustellung; fehlende Zustellung macht Vollstreckungsmassnahme anfechtbar.
 - Pfaendungsfreigrenze falsch berechnet: Falsche Steuerklasse oder Unterhaltspflichten nicht beruecksichtigt; Schuldner kann Erinnerung einlegen.
-- Gerichtsvollzieher-Auftrag zu spaet gestellt: Mobiliarsachen koennen veraessert oder abhandengekommen sein.
-- Verjährung des Titels uebersehen: Vollstreckungsverjaeaehrung nach § 197 BGB betraegt 30 Jahre ab Urteil; Mahnbescheide koennen kuerzere Fristen haben.
+- Gerichtsvollzieher-Auftrag zu spaet gestellt: Mobiliarsachen können veraessert oder abhandengekommen sein.
+- Verjährung des Titels uebersehen: Vollstreckungsverjaeaehrung nach § 197 BGB betraegt 30 Jahre ab Urteil; Mahnbescheide können kuerzere Fristen haben.
 - EU-Kontenpfaendung ohne Zuständigkeitspruefung: Deutsche Gerichte sind nur zuständig wenn Deutschland Vollstreckungsmitgliedstaat ist.
 
 ## Quellen und Aktualitaet
@@ -1627,6 +1511,124 @@ NÄCHSTER SKILL: [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
 - Niemals deliktische Privilegierung ohne Eintragungsvermerk in der Tabelle annehmen.
 - Verjährung 30 Jahre: jüngere Forderungen aus laufender Tabelle möglich.
 - Klausel und Zustellung wie bei jedem Titel.
+
+---
+
+## Skill: `titel-klausel-zustellung`
+
+_Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte K..._
+
+# Drei-Säulen-Prüfung: Titel, Klausel, Zustellung
+
+## Arbeitsbereich
+
+Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Drei-Säulen-Prüfung: Titel, Klausel, Zustellung
+
+- **Spezialfrage (Drei-Säulen-Prüfung: Titel, Klausel, Zustellung):** vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung).
+- **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
+
+## Rechtsgrundlagen
+
+- **§ 704 ZPO** – Vollstreckungstitel: rechtskräftige oder vorläufig vollstreckbare Endurteile.
+- **§ 794 ZPO** – sonstige Vollstreckungstitel: Vergleiche, Kostenfestsetzungsbeschlüsse, notarielle Urkunden mit Unterwerfung (Abs. 1 Nr. 5), Schiedssprüche (Nr. 4a), europäische Vollstreckungstitel.
+- **§ 724 ZPO** – vollstreckbare Ausfertigung mit Klauselvermerk: "Vorstehende Ausfertigung wird dem ... zum Zwecke der Zwangsvollstreckung erteilt".
+- **§ 725 ZPO** – einfache Klausel: erteilt durch Urkundsbeamten der Geschäftsstelle.
+- **§§ 726, 730 ZPO** – qualifizierte Klausel: bei bedingtem Titel, Zug-um-Zug-Verurteilung, Sicherheitsleistung; Erteilung durch Rechtspfleger nach Beweis der Bedingung.
+- **§§ 727, 729 ZPO** – titelumschreibende Klausel: bei Rechtsnachfolge auf Gläubiger- oder Schuldnerseite (Erbe, Abtretung, Insolvenzanfechtung).
+- **§ 732 ZPO** – Erinnerung gegen Klauselerteilung (vom Schuldner gegen den Gläubiger).
+- **§ 768 ZPO** – Klauselgegenklage: materielle Einwendungen gegen die Klauselvoraussetzung.
+- **§ 750 ZPO** – Zustellung des Titels (mit Klausel) an den Schuldner vor Beginn der Vollstreckung; bei Klauseln nach §§ 726 ff. ZPO zusätzlich die ihre Erteilung bestätigenden Urkunden, sowie Wartefrist von 2 Wochen (§ 750 Abs. 2 ZPO).
+- **§ 798 ZPO** – Zustellung von Vollstreckungsbescheid, Kostenfestsetzungsbeschluss und Schiedsspruch von Amts wegen.
+
+### Sondertitel ohne klassische Klausel
+
+- **Vollstreckungsbescheid** § 796 Abs. 1 ZPO – Klausel von Gesetzes wegen ("Klausel kraft Gesetzes"); keine gesonderte Klausel nötig.
+- **Tabellenauszug nach § 201 InsO** – wirkt wie rechtskräftiges Urteil; vollstreckbare Ausfertigung wird durch das Insolvenzgericht erteilt.
+- **Versäumnisurteil** – sofort vollstreckbar, aber nur gegen Sicherheitsleistung § 708 Nr. 2 ZPO.
+- **Europäischer Vollstreckungstitel (EuVTVO)** – Klausel des Ursprungsgerichts genügt; keine Vollstreckbarerklärung in Deutschland.
+
+## Workflow
+
+1. **Titel sichten**: Original, Ausfertigung oder Abschrift? Nur Ausfertigung ist tauglich.
+2. **Klausel suchen**: Auf der Rückseite des Titels oder als gesonderter Vermerk. Klauselformel: "Vorstehende Ausfertigung wird dem [Gläubiger] zum Zwecke der Zwangsvollstreckung erteilt. [Ort], [Datum], [Unterschrift Urkundsbeamter/Rechtspfleger/Notar]".
+3. **Klausel beschaffen**, wenn sie fehlt:
+ - Bei Gerichtsurteilen: Antrag an Urkundsbeamten der Geschäftsstelle des ausgangs Gerichts § 725 ZPO.
+ - Bei notariellen Urkunden: Antrag an den Notar selbst § 797 Abs. 2 ZPO.
+ - Bei Vollstreckungsbescheid: keine gesonderte Klausel nötig.
+ - Bei qualifizierter Klausel (§§ 726, 730 ZPO): Antrag an Rechtspfleger mit Beweis der Bedingung (Urkundenbeweis oder öffentliche Urkunde).
+ - Bei Rechtsnachfolge (§§ 727 ff. ZPO): Erbschein, Abtretungsurkunde, Insolvenzgerichtsbeschluss als Beweismittel.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. **Wartefrist beachten**: bei qualifizierter Klausel 2 Wochen ab Zustellung § 750 Abs. 2 ZPO.
+6. **Ampel setzen**: Säulen grün → weiter; Säulen gelb/rot → fehlende Säule beschaffen, dann erneut prüfen.
+
+## Typische Fehlerquellen
+
+- **Klausel fehlt** – Anwalt versucht zu vollstrecken aus einfacher Urteilsabschrift. Klausel binnen 1-2 Werktagen beim ausgangs Gericht zu holen.
+- **Falscher Adressat** – Klausel auf "Gläubiger" lautet, der Anspruch wurde abgetreten. Umschreibung nach § 727 ZPO nötig.
+- **Zustellung an Schuldner vergessen** – häufig bei Sicherungsmaßnahmen. § 750 ZPO ist Vollstreckungsvoraussetzung, nicht heilbar durch nachträgliche Zustellung (str.; sicherster Weg: erneute Maßnahme nach erfolgter Zustellung).
+- **Klausel zwar erteilt, aber nicht zugestellt** – die qualifizierte Klausel mit den Bedingungs-Beweisurkunden muss dem Schuldner ebenfalls zugestellt werden § 750 Abs. 2 ZPO.
+- **Sicherheitsleistung** bei vorläufig vollstreckbarem Urteil – muss erbracht und nachgewiesen sein, sonst nur Sicherungsmaßnahmen § 720a ZPO.
+
+## Leitentscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Ausgabeformat
+
+```
+DREI-SÄULEN-CHECK [Mandant] [Az]
+
+Titel:
+ Art: [Endurteil / VB / Vergleich / notarielle Urkunde / ...]
+ Datum: [DD.MM.JJJJ]
+ Aussteller: [Gericht / Notar / Verwalter]
+ Ausfertigung: [vorhanden / nur Abschrift – nachfordern]
+
+Klausel:
+ Vorhanden: [JA / NEIN]
+ Art: [einfach § 725 / qualifiziert §§ 726, 730 / umgeschrieben §§ 727 ff.]
+ Erteilung am: [DD.MM.JJJJ durch ...]
+ Falls fehlt: [Antrag an ... mit Anlagen ...]
+
+Zustellung:
+ Erfolgt am: [DD.MM.JJJJ – Urkunde Nr. ...]
+ An wen: [Schuldner / gesetzl. Vertreter / Zustellungsbevollmächtigter]
+ Wartefrist: [2 Wochen § 750 Abs. 2 ZPO eingehalten / läuft bis DD.MM.JJJJ]
+
+Ampel: [GRÜN: vollstreckbar / GELB: 1 Baustein offen / ROT: Stopp]
+
+Nächster Schritt: [...]
+```
+
+## Qualitätsgates
+
+- Niemals eine Säule "annehmen" oder "abkürzen" – die Prüfung ist binär.
+- Bei Tabellenauszug § 201 InsO immer prüfen, ob die Forderung im Verfahren bestritten wurde (Wirkung § 178 InsO).
+- Bei vorläufig vollstreckbarem Urteil: Sicherheitsleistung erbringen und gegen Quittung dokumentieren.
+
+## Querverweise
+
+- `zv-mahnbescheid-online` – Mahnverfahren bis zum Titel.
+- `zv-notarielle-urkunde-grundschuld` – Klauselerteilung durch Notar.
+- `zv-tabellenauszug-201-inso` – vollstreckbare Ausfertigung des Tabellenauszugs.
+- `prozessrecht/vollstreckung` – Hub-Skill und Übergang in das gesamte Vollstreckungsthema.
+
+<!-- AUDIT 27.05.2026 bundle_055
+Halluzinations-Reparatur: BGH VII ZB 23/16 (NOT_FOUND) entfernt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+(Zustellerfordernis § 750 Abs. 2 ZPO; Nachweisurkunden; Heilung nach § 189 ZPO).
+Verifiziert via dejure.org.
+-->
 
 ---
 

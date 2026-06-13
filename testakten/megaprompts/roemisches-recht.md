@@ -8,12 +8,12 @@ Dieser Megaprompt enthaelt top-8 von 255 Skills (gekuerzt fuer Chat-Fenster) des
 
 1. **kaltstart-triage** — Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe.
 2. **actio-pauliana-glaeubigeranfechtung** — Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensversc…
-3. **cessio-bonorum-lex-iulia** — Cessio bonorum nach der Lex Iulia: freiwillige Vermoegensabtretung des Schuldners an die Glaeubiger als Vorlaeufer der P…
-4. **receptum-nautarum-cauponum-stabulariorum** — Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern…
-5. **seehandel-lex-rhodia-de-iactu** — Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen …
-6. **versicherung-und-risiko-im-roemischen-recht** — Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungsleh…
+3. **seehandel-lex-rhodia-de-iactu** — Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen …
+4. **versicherung-und-risiko-im-roemischen-recht** — Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungsleh…
+5. **receptum-nautarum-cauponum-stabulariorum** — Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern…
+6. **cessio-bonorum-lex-iulia** — Cessio bonorum nach der Lex Iulia: freiwillige Vermögensabtretung des Schuldners an die Gläubiger als Vorlaeufer der Pri…
 7. **pignus-conventum-hypotheca-praxisfaelle** — Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pi…
-8. **actio-pauliana-voraussetzungen** — Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wi…
+8. **constitutio-antoniniana-actio-denken** — Constitutio Antoniniana 212 n. Chr: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite d…
 
 ---
 
@@ -56,7 +56,7 @@ Lateinische Maximen nie unbesehen als geltendes Recht zitieren — 'pacta sunt s
 
 _Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensverschiebungen des Schuldners. Skill behandelt die Tatbestaende (consilium fraudis eventus damni scientia des Dritten) den Klagegegenstand und die Restitution. Vorlaeufer von § 138 B..._
 
-# Rom 115 Actio Pauliana Glaeubigeranfechtung
+# Rom 115 Actio Pauliana Gläubigeranfechtung
 
 ## Rechtsquelle
 
@@ -67,22 +67,22 @@ _Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung
 ## Tatbestand
 
 ### Eventus damni
-- Vermoegensminderung des Schuldners durch das angefochtene Geschaeft.
-- Schuldner ist insolvent oder wird durch das Geschaeft insolvent.
+- Vermögensminderung des Schuldners durch das angefochtene Geschäft.
+- Schuldner ist insolvent oder wird durch das Geschäft insolvent.
 
 ### Consilium fraudis (subjektiv Schuldnerseite)
-- Schuldner handelte in Glaeubigerschaedigungsabsicht oder zumindest mit positivem Wissen um seine Insolvenz und der Konsequenz für die Glaeubiger.
+- Schuldner handelte in Gläubigerschaedigungsabsicht oder zumindest mit positivem Wissen um seine Insolvenz und der Konsequenz für die Gläubiger.
 - Bewusstsein der Schaedigung genuegt; Absicht nicht erforderlich (Ulpian D. 42.8.1).
 
 ### Scientia oder conscientia fraudis (Drittseite)
-- Bei entgeltlichen Geschaeften muss der Dritte das consilium fraudis des Schuldners kennen oder bei Sorgfalt erkennen koennen.
-- Bei unentgeltlichen Geschaeften (Schenkung) entfaellt das Erfordernis — der unentgeltliche Erwerber wird ohne Wissen erfasst.
+- Bei entgeltlichen Geschäften muss der Dritte das consilium fraudis des Schuldners kennen oder bei Sorgfalt erkennen können.
+- Bei unentgeltlichen Geschäften (Schenkung) entfaellt das Erfordernis — der unentgeltliche Erwerber wird ohne Wissen erfasst.
 
 ## Klagebefugte
 
 - Magister bonorum (im Konkursverfahren).
 - Curator bonorum.
-- Einzelne Glaeubiger nach Konkurseroeffnung.
+- Einzelne Gläubiger nach Konkurseroeffnung.
 
 ## Frist
 
@@ -92,7 +92,7 @@ _Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung
 
 - Restitution: der Dritte muss das Erlangte zurueckgeben.
 - Bei Untergang ggf. Wertersatz.
-- Bei Mehrfachverfuegungen Verfolgung der Kette moeglich.
+- Bei Mehrfachverfuegungen Verfolgung der Kette möglich.
 
 ## Vergleich zum modernen Recht
 
@@ -104,104 +104,21 @@ _Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung
 ### InsO (Insolvenzordnung)
 - § 129 InsO Anfechtbarkeit von Rechtshandlungen.
 - § 131 InsO inkongruente Deckung.
-- § 132 InsO unmittelbare Glaeubigerbenachteiligung.
+- § 132 InsO unmittelbare Gläubigerbenachteiligung.
 - § 133 InsO Vorsatzanfechtung (10-Jahres-Frist).
 - § 134 InsO unentgeltliche Leistung (4-Jahres-Frist).
 
 ### BGB
-- § 138 Abs. 1 BGB Sittenwidrigkeit (bei besonders krasser Glaeubigerschaedigung).
+- § 138 Abs. 1 BGB Sittenwidrigkeit (bei besonders krasser Gläubigerschaedigung).
 
-## Pruefraster
+## Prüfraster
 
 1. Eventus damni vorhanden?
 2. Consilium fraudis nachweisbar?
-3. Scientia des Dritten (oder unentgeltliches Geschaeft)?
+3. Scientia des Dritten (oder unentgeltliches Geschäft)?
 4. Klageberechtigung?
 5. Annus utilis nicht abgelaufen?
 6. Quellenmatrix D. 42.8 erstellen.
-
----
-
-## Skill: `cessio-bonorum-lex-iulia`
-
-_Cessio bonorum nach der Lex Iulia: freiwillige Vermoegensabtretung des Schuldners an die Glaeubiger als Vorlaeufer der Privatinsolvenz mit Restschuldbefreiungswirkung. Skill behandelt die Voraussetzungen die Privilegien des cedens und die Folgen für kuenftiges Vermoegen (beneficium competentiae)...._
-
-# Rom 111 Cessio Bonorum Lex Iulia
-
-## Quellenanker
-
-- **Gaius, Institutiones 3.77-81** — bonorum venditio: Gesamtvermögensverkauf an den bonorum emptor
-- **D. 42.4 / 42.5** — missio in bona: Einweisung der Gläubiger; Rangfolge und Privilegien
-- **C. 7.71** — cessio bonorum (lex Iulia): freiwillige Vermögensabtretung schützt vor Personalexekution und Infamie
-- **D. 27.10.5 / 42.5.39** — bonorum distractio: schonender Einzelverkauf statt Gesamtverwertung
-
-## Kernregeln
-
-Römisches 'Insolvenzrecht': Auf Antrag weist der Prätor die Gläubiger in das Schuldnervermögen ein (missio in bona — Beschlagnahme), ein magister bonorum organisiert die bonorum venditio: Gesamtverkauf an den Meistbietenden (bonorum emptor wird Universalsukzessor und zahlt die Quote). Folge für den Schuldner: infamia. Die cessio bonorum (lex Iulia, augusteisch) erlaubt dem redlichen Schuldner die freiwillige Abtretung — keine Infamie, kein Schuldturm, beneficium competentiae (Pfändungsschutz fürs Existenzminimum). Für Senatoren u. a. die mildere bonorum distractio (Einzelverwertung durch curator).
-
-## Moderne Parallele
-
-InsO-Parallelen Schritt für Schritt: missio = Sicherungsmaßnahmen/Eröffnung §§ 21, 80 InsO; magister/curator = (vorläufiger) Insolvenzverwalter; venditio als übertragende Sanierung; cessio bonorum = Restschuldbefreiungsgedanke §§ 286 ff. InsO; beneficium competentiae = Pfändungsfreigrenzen §§ 850 ff. ZPO.
-
-## Typische Fehler
-
-Die Quote des bonorum emptor nicht mit moderner quotaler Verteilung verwechseln — der emptor KAUFTE das Vermögen gegen Quotenzusage an die Gläubiger; er war Spekulant, nicht Amtswalter.
-
-## Arbeitsweise
-
-1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
-2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
-3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
-4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
-
----
-
-## Skill: `receptum-nautarum-cauponum-stabulariorum`
-
-_Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern für eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhaeltnis zur actio depositi. Liefert Quellenmatrix im Römisches Recht._
-
-# Rom 126 Receptum Nautarum Cauponum Stabulariorum
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Rechtsquelle
-
-- D. 4.9 (Nautae caupones stabularii ut recepta restituant).
-- Insbesondere D. 4.9.1 (Ulpian), D. 4.9.3 (Pomponius).
-- Praetorisches Edikt: edictum nautarum.
-
-## Tatbestand
-
-- Nauta: Schiffer / Reeder.
-- Caupo: Gastwirt.
-- Stabularius: Stallbetreiber.
-- Receptum: die Sache wird vom Betreiber zur Aufbewahrung angenommen.
-
-## Haftung
-
-- Strikte Erfolgshaftung (custodia-Haftung).
-- Verschulden nicht erforderlich; Schaden auch bei Diebstahl durch Dritte zu vertreten.
-- Befreiung nur bei vis maior (hoeherer Gewalt) oder vis cui resisti non potest.
-
-## Vergleich zu modernem Recht
-
-- §§ 701-704 BGB Gastwirtshaftung (Sachen, die der Gast einbringt).
-- §§ 421-429 HGB Frachtfuehrerhaftung.
-- §§ 481 ff. BGB Reisevertragsrecht.
-- §§ 538-541 BGB Mietersachen.
-
-## Pruefraster
-
-1. Vorlieger der nautae/caupones/stabularii-Stellung?
-2. Receptum-Erklaerung?
-3. Schaden eingetreten?
-4. Vis maior gegeben?
 
 ---
 
@@ -275,6 +192,89 @@ Rom kannte KEINE Versicherung — Risikoverteilung lief über fenus nauticum, le
 
 ---
 
+## Skill: `receptum-nautarum-cauponum-stabulariorum`
+
+_Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern für eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhältnis zur actio depositi. Liefert Quellenmatrix im Römisches Recht._
+
+# Rom 126 Receptum Nautarum Cauponum Stabulariorum
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
+- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtsquelle
+
+- D. 4.9 (Nautae caupones stabularii ut recepta restituant).
+- Insbesondere D. 4.9.1 (Ulpian), D. 4.9.3 (Pomponius).
+- Praetorisches Edikt: edictum nautarum.
+
+## Tatbestand
+
+- Nauta: Schiffer / Reeder.
+- Caupo: Gastwirt.
+- Stabularius: Stallbetreiber.
+- Receptum: die Sache wird vom Betreiber zur Aufbewahrung angenommen.
+
+## Haftung
+
+- Strikte Erfolgshaftung (custodia-Haftung).
+- Verschulden nicht erforderlich; Schaden auch bei Diebstahl durch Dritte zu vertreten.
+- Befreiung nur bei vis maior (hoeherer Gewalt) oder vis cui resisti non potest.
+
+## Vergleich zu modernem Recht
+
+- §§ 701-704 BGB Gastwirtshaftung (Sachen, die der Gast einbringt).
+- §§ 421-429 HGB Frachtfuehrerhaftung.
+- §§ 481 ff. BGB Reisevertragsrecht.
+- §§ 538-541 BGB Mietersachen.
+
+## Prüfraster
+
+1. Vorlieger der nautae/caupones/stabularii-Stellung?
+2. Receptum-Erklaerung?
+3. Schaden eingetreten?
+4. Vis maior gegeben?
+
+---
+
+## Skill: `cessio-bonorum-lex-iulia`
+
+_Cessio bonorum nach der Lex Iulia: freiwillige Vermögensabtretung des Schuldners an die Gläubiger als Vorlaeufer der Privatinsolvenz mit Restschuldbefreiungswirkung. Skill behandelt die Voraussetzungen die Privilegien des cedens und die Folgen für kuenftiges Vermoegen (beneficium competentiae)...._
+
+# Rom 111 Cessio Bonorum Lex Iulia
+
+## Quellenanker
+
+- **Gaius, Institutiones 3.77-81** — bonorum venditio: Gesamtvermögensverkauf an den bonorum emptor
+- **D. 42.4 / 42.5** — missio in bona: Einweisung der Gläubiger; Rangfolge und Privilegien
+- **C. 7.71** — cessio bonorum (lex Iulia): freiwillige Vermögensabtretung schützt vor Personalexekution und Infamie
+- **D. 27.10.5 / 42.5.39** — bonorum distractio: schonender Einzelverkauf statt Gesamtverwertung
+
+## Kernregeln
+
+Römisches 'Insolvenzrecht': Auf Antrag weist der Prätor die Gläubiger in das Schuldnervermögen ein (missio in bona — Beschlagnahme), ein magister bonorum organisiert die bonorum venditio: Gesamtverkauf an den Meistbietenden (bonorum emptor wird Universalsukzessor und zahlt die Quote). Folge für den Schuldner: infamia. Die cessio bonorum (lex Iulia, augusteisch) erlaubt dem redlichen Schuldner die freiwillige Abtretung — keine Infamie, kein Schuldturm, beneficium competentiae (Pfändungsschutz fürs Existenzminimum). Für Senatoren u. a. die mildere bonorum distractio (Einzelverwertung durch curator).
+
+## Moderne Parallele
+
+InsO-Parallelen Schritt für Schritt: missio = Sicherungsmaßnahmen/Eröffnung §§ 21, 80 InsO; magister/curator = (vorläufiger) Insolvenzverwalter; venditio als übertragende Sanierung; cessio bonorum = Restschuldbefreiungsgedanke §§ 286 ff. InsO; beneficium competentiae = Pfändungsfreigrenzen §§ 850 ff. ZPO.
+
+## Typische Fehler
+
+Die Quote des bonorum emptor nicht mit moderner quotaler Verteilung verwechseln — der emptor KAUFTE das Vermögen gegen Quotenzusage an die Gläubiger; er war Spekulant, nicht Amtswalter.
+
+## Arbeitsweise
+
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
+
+---
+
 ## Skill: `pignus-conventum-hypotheca-praxisfaelle`
 
 _Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pignus mit Besitzuebergabe und hypotheca ohne Besitzuebergabe sowie typische Praxisfaelle landwirtschaftliche Geraete (invecta et illata). Liefert Quellenmatrix im Römisches Recht._
@@ -292,14 +292,14 @@ _Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Ski
 ## Pignus
 
 - Verpfaendung mit Besitzuebergabe.
-- Glaeubiger erhaelt Realbesitz.
+- Gläubiger erhaelt Realbesitz.
 - Bei Nichterfuellung Verkaufsbefugnis.
 
 ## Hypotheca
 
 - Verpfaendung ohne Besitzuebergabe.
 - Hauptschuldner behaelt Sache.
-- Glaeubiger erhielt actio Serviana, actio quasi-Serviana, actio hypothecaria.
+- Gläubiger erhielt actio Serviana, actio quasi-Serviana, actio hypothecaria.
 
 ## Sondertyp invecta et illata
 
@@ -318,7 +318,7 @@ _Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Ski
 - § 562 BGB Vermieterpfandrecht (Pendant invecta et illata).
 - § 559 BGB Verpfaendung in der Mietsache.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Sicherungsform?
 2. Besitzuebergabe erfolgt?
@@ -326,47 +326,37 @@ _Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Ski
 
 ---
 
-## Skill: `actio-pauliana-voraussetzungen`
+## Skill: `constitutio-antoniniana-actio-denken`
 
-_Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstre_
+_Constitutio Antoniniana 212 n. Chr: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechtshistorische Folge. Liefert Quellenmatrix im Römisches Recht._
 
-# Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
+# Rom 153 Constitutio Antoniniana 212 Allgemeine Buergerrechtsverleihung
 
-## Beweislast
+## Quellenanker
 
-- Glaeubiger traegt die Beweislast für:
- - eventus damni
- - consilium fraudis des Schuldners
- - scientia oder conscientia des Dritten (bei entgeltlich)
+- **Gaius, Institutiones 1.9-1.17** — Statusabstufungen: cives, Latini, peregrini
+- **D. 1.5.17 (Ulpian)** — in orbe Romano qui sunt ex constitutione imperatoris Antonini cives Romani effecti sunt
+- **Cassius Dio 78.9** — Constitutio Antoniniana 212 n. Chr. — fiskalische Motive der Bürgerrechtsverleihung
+- **lex Irnitana (Flavisches Stadtgesetz)** — Munizipalverfassung: ius Latii, Bürgerrechtserwerb durch Ämter
 
-## Indizienbeweis
+## Kernregeln
 
-- Verkauf zu marktnotorisch zu niedrigem Preis: Indiz für scientia.
-- Verkauf unter Freunden in zeitlicher Naehe zur Insolvenz.
-- Verschwiegene Geschaefte ueber Mittelsmaenner.
+Das römische Bürgerrecht bündelt ius suffragii (Stimmrecht), ius honorum (Ämterfähigkeit), conubium (Ehefähigkeit nach ius civile) und commercium (Teilnahme an mancipatio, Testament). Latiner haben commercium, meist kein conubium; peregrini leben nach ius gentium und ihrem Heimatrecht. Die Constitutio Antoniniana (212) verlieh fast allen Reichsbewohnern das Bürgerrecht — Folge: ius civile wurde Reichsrecht, Provinzialpraxis und klassisches Recht verschmolzen (Vulgarisierung).
 
-## Vermutungen
+## Moderne Parallele
 
-- Bei Verfuegungen an Familienangehoerige greifen verstaerkte Indizien (vergleichbar modernen AnfG-Vorschriften zu nahestehenden Personen).
-- D. 42.8.10.16 (Ulpian) zum Anscheinsbeweis bei Schenkung an Verwandte.
+Moderne Parallelen: gestuftes Aufenthalts-/Staatsangehörigkeitsrecht (StAG), Unionsbürgerschaft Art. 20 AEUV als 'commercium und Freizügigkeit ohne volle politische Rechte' auf Bundesstaatsebene gedacht.
 
-## Sondervorschriften
+## Typische Fehler
 
-- Verschleierung waehrend laufender Vollstreckung: erleichterte Beweisfuehrung.
-- Geschaeftspartner als Reflexbeteiligter.
+Die Constitutio Antoniniana nicht als humanitären Akt lesen — Steuerpflicht (vicesima hereditatium) war Hauptmotiv. Nach 212 nicht weiter scharf zwischen cives und peregrini argumentieren, außer für dediticii.
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-- Beweisrecht / Pflicht zum substanziierten Bestreiten: § 138 Abs. 2 ZPO; freie Beweiswuerdigung § 286 ZPO. (Die fruehere Erwaehnung von § 133 und § 138 II BGB war hier falsch: § 133 BGB ist Auslegung der Willenserklaerung, § 138 II BGB ist Wucher — nicht Beweisrecht.)
-- Anfechtungsrecht: AnfG § 3 Abs. 2: Vermutung der scientia bei nahestehenden Personen.
-- Insolvenzanfechtung: InsO § 133 Abs. 1 Satz 2: Vermutung der Kenntnis bei drohender Zahlungsunfaehigkeit.
-
-## Pruefraster
-
-1. Welche Tatbestaende muessen bewiesen werden?
-2. Welche Indizien stehen zur Verfuegung?
-3. Greifen Vermutungen?
-4. Welcher Quellenanker (D. 42.8)?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
 
 ---
 

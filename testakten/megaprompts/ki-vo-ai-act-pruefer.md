@@ -7,13 +7,13 @@ Dieser Megaprompt enthaelt top-8 von 121 Skills (gekuerzt fuer Chat-Fenster) des
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für KI-VO/AI Act Prüfer: ordnet Rolle (Anbieter, Deployer, Importeur), markiert Frist (Verb…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken …
+2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken u…
 3. **mechanik-erstpruefung-und-mandatsziel** — Mechanik: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **anbieter-werden-art-25** — Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen d…
-5. **betreiber-checkliste-folgenabschaetzung** — Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 2…
-6. **bevollmaechtigter-produkthersteller-pflichten** — Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für …
-7. **code-of-practice-und-harmonisierte-normen** — Normen- und Standards-Landkarte für KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, …
-8. **entscheidungsbaum-gesamt-owi-verfahren** — Master-für die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art…
+4. **betreiber-checkliste-folgenabschaetzung** — Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 2…
+5. **bevollmaechtigter-produkthersteller-pflichten** — Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für …
+6. **code-of-practice-und-harmonisierte-normen** — Normen- und Standards-Landkarte für KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, …
+7. **entscheidungsbaum-ki-vo-gesamt-workflow** — Master-Workflow: KI-VO-Gesamtprüfung im EU KI-VO (AI Act): Dieser Skill ist der zentrale Entscheidungsbaum des KI-VO-Prü…
+8. **eu-datenbank-registrierung-art-49-und-71** — Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? …
 
 ---
 
@@ -47,7 +47,7 @@ Dieser Einstieg routet **Ki Vo Ai Act Prüfer** vom ersten Sachverhalt zu Rollen
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Ki Vo Ai Act Pruefer sind Art. 43, EU 2024/1689. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Fachpfad wählen: zentrale Anker im Ki Vo Ai Act Prüfer sind Art. 43, EU 2024/1689. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
@@ -61,11 +61,11 @@ Dieser Einstieg routet **Ki Vo Ai Act Prüfer** vom ersten Sachverhalt zu Rollen
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständ..._
+_Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständ..._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Vo Ai Act Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ki Vo Ai Act Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -79,7 +79,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **KI VO AI Act Pruefer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **KI VO AI Act Prüfer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Vollständiger Mechanik-zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Evidence-Pack, Sanktionen. Kein Rechtsrat.
 
@@ -217,21 +217,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `eu-datenbank-registrierung-art-49-und-71` | Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht… |
 | `falsche-wiese-warnung-ki-vo` | Nutzer fragt eine KI-VO-Frage die eigentlich unter DSGVO Produkthaftung MDR oder Maschinenverordnung faellt. Warnt vor typischen Rechtsgebiets-Verwechslungen KI-VO versus DSGVO versus Produkthaftungsrichtlinie versus… |
 | `governance-aufsichtsbehoerden-art-70` | Unternehmen oder Behörde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale… |
-| `gpai-modelle-art-51-bis-55` | Entwickler oder Anbieter eines Sprachmodells oder Basismodells fragt: Fallen wir unter die GPAI-Pflichten der KI-VO und was muessen wir konkret tun? Art. 51 bis 55 KI-VO GPAI-Modelle. Prüfraster: technische… |
-| `gpai-systemisches-risiko-schwelle-10e25-flop` | Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster:… |
+| `gpai-modelle-art-51-bis-55` | Entwickler oder Anbieter eines Sprachmodells oder Basismodells fragt: Fallen wir unter die GPAI-Pflichten der KI-VO und was müssen wir konkret tun? Art. 51 bis 55 KI-VO GPAI-Modelle. Prüfraster: technische… |
+| `gpai-systemisches-risiko-schwelle-10e25-flop` | Anbieter eines sehr großen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster:… |
 | `gpai-vorliegen-art-3-nr-63` | GPAI-Modell/System und allgemeiner Chatbot; erklärt, warum GPAI nicht automatisch Hochrisiko ist und wann Anhang III trotzdem greift. |
 | `haendler-distributor-pflichten-art-24` | Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung… |
 | `hochrisiko-art-6-abs-1-sicherheitsbauteil` | Unternehmen integriert KI-Komponente in ein reguliertes Produkt (Medizinprodukt Maschine Fahrzeug) und fragt: Wird das Gesamtprodukt dadurch zum Hochrisiko-KI-System? Art. 6 Abs. 1 KI-VO Sicherheitsbauteil Anhang I.… |
 | `hochrisiko-art-6-abs-2-anhang-iii` | Vertiefter Anhang-III-Checker mit allen acht Bereichen, Untertatbeständen, Zweckbestimmung, Chatbot/GPAI und Mitarbeitenden-Fehlgebrauch. |
-| `hochrisiko-aufzeichnungspflichten-logging-art-12` | Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange muessen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel… |
+| `hochrisiko-aufzeichnungspflichten-logging-art-12` | Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange müssen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel… |
 | `hochrisiko-bestaetigt-end-to-end-roadmap` | Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO.… |
 | `hochrisiko-datenqualitaet-und-data-governance-art-10` | Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten für unsere Trainings- Validierungs- und Testdaten und wie dokumentieren wir unsere Data Governance? Art. 10 KI-VO Datenqualitaet und Data Governance.… |
-| `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15` | Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und… |
-| `hochrisiko-konformitaetsbewertung-art-43-bis-49` | Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum… |
+| `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15` | Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit müssen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und… |
+| `hochrisiko-konformitaetsbewertung-art-43-bis-49` | Anbieter von Hochrisiko-KI fragt: Müssen wir eine benannte Stelle einschalten oder können wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum… |
 | `hochrisiko-menschliche-aufsicht-art-14` | Anbieter oder Betreiber fragt: Wie stellen wir sicher dass Menschen das Hochrisiko-KI-System wirksam beaufsichtigen und uebersteuerung ist möglich? Art. 14 KI-VO menschliche Aufsicht. Prüfraster: Verstehen der… |
 | `hochrisiko-risikomanagementsystem-art-9` | Anbieter von Hochrisiko-KI fragt: Wie setzen wir ein KI-VO-konformes Risikomanagementsystem auf und was muss es enthalten? Art. 9 KI-VO Risikomanagementsystem. Prüfraster: kontinuierlicher iterativer Prozess… |
 | `hochrisiko-technische-dokumentation-art-11-und-anhang-iv` | Anbieter von Hochrisiko-KI fragt: Was muss die technische Dokumentation enthalten und wie aktuell muss sie sein? Art. 11 i.V.m. Anhang IV KI-VO. Prüfraster: vollständiger Inhaltskatalog nach Anhang IV… |
-| `hochrisiko-transparenz-und-informationen-für-betreiber-art-13` | Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung… |
+| `hochrisiko-transparenz-und-informationen-für-betreiber-art-13` | Anbieter von Hochrisiko-KI fragt: Welche Informationen müssen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung… |
 | `hochrisiko-zuordnung-art-6-und-anhang-i-iii` | Überblick zu Art. 6 Abs. 1/2, Zweckbestimmung statt Tool-Label, Rückausnahme und Pflichtenfolge. |
 | `liegt-ki-system-vor-art-3-nr-1` | Art.-3-Kerncheck mit sieben Elementen: Automation, Autonomie, Adaptivität, Ziele, Inferenz, Output und Umgebungseinfluss. |
 | `mandatsabbruch-empfehlung-komplexe-faelle` | Mechanik-erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten… |
@@ -244,21 +244,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `persönlicher-anwendungsbereich-rollen-art-3` | Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3… |
 | `risikoklassen-uebersicht-und-triage` | Schnelle Risikoklassen-Erstdiagnose mit Schwerpunkt Art. 6 Abs. 2/Anhang III, GPAI/Chatbot und Zweckbestimmung. |
 | `rolle-anbieter-pruefen-art-3-nr-3` | Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbieter im Sinne der KI-VO und welche Pflichten treffen uns deshalb? Art. 3 Nr. 3 KI-VO Anbieter-Definition. Prüfraster: Entwicklung oder Beauftragung… |
-| `rolle-betreiber-pruefen-art-3-nr-4` | Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter und fragt: Sind wir Betreiber im Sinne der KI-VO und was muessen wir tun? Art. 3 Nr. 4 KI-VO Betreiber-Definition. Prüfraster: Verwendung in eigener… |
+| `rolle-betreiber-pruefen-art-3-nr-4` | Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter und fragt: Sind wir Betreiber im Sinne der KI-VO und was müssen wir tun? Art. 3 Nr. 4 KI-VO Betreiber-Definition. Prüfraster: Verwendung in eigener… |
 | `rueckausnahme-art-6-abs-3` | Art. 6 Abs. 3: Profiling-Sperre, vier Fallgruppen, Grundrechtsrisiko und Dokumentation nach Art. 6 Abs. 4. |
-| `sachlicher-ausschluss-art-2-abs-3-bis-12` | Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3… |
+| `sachlicher-ausschluss-art-2-abs-3-bis-12` | Unternehmen fragt: Faellt unser KI-System möglicherweise völlig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3… |
 | `sanktionen-art-99-bis-101` | Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei… |
 | `territorialer-anwendungsbereich-art-2` | Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch für uns obwohl wir außerhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Prüfraster: Inverkehrbringen in der EU Nutzung in der EU durch… |
 | `triage-ki-vo-vorpruefung` | Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst… |
 | `verbotene-praktiken-art-5` | Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Prüfraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung… |
 | `verhaeltnis-zu-anderen-unionsrechtsakten` | Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster:… |
-| `zeitlicher-geltungsbereich-uebergangsfristen` | Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan. Prüfraster: Inkrafttreten 1.… |
+| `zeitlicher-geltungsbereich-uebergangsfristen` | Compliance-Beauftragter oder Unternehmen fragt: Ab wann müssen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan. Prüfraster: Inkrafttreten 1.… |
 
 ## Worum geht es?
 
-Der KI-VO-AI-Act-Pruefer fuehrt Unternehmen, Kanzleien und Compliance-Beauftragte durch die vollstaendige Pruefung nach der EU-Verordnung 2024/1689 (EU AI Act / KI-VO). Er deckt alle Pruefschritte ab: ob eine Software ueberhaupt ein KI-System ist, welche Risikoklasse zutrifft, welche Rolle das Unternehmen einnimmt (Anbieter, Betreiber, Importeur, Haendler), ob verbotene Praktiken vorliegen, wie die Hochrisiko-Einstufung gehandhabt wird und wie der Weg bis zur CE-Kennzeichnung aussieht.
+Der KI-VO-AI-Act-Prüfer fuehrt Unternehmen, Kanzleien und Compliance-Beauftragte durch die vollstaendige Prüfung nach der EU-Verordnung 2024/1689 (EU AI Act / KI-VO). Er deckt alle Prüfschritte ab: ob eine Software ueberhaupt ein KI-System ist, welche Risikoklasse zutrifft, welche Rolle das Unternehmen einnimmt (Anbieter, Betreiber, Importeur, Haendler), ob verbotene Praktiken vorliegen, wie die Hochrisiko-Einstufung gehandhabt wird und wie der Weg bis zur CE-Kennzeichnung aussieht.
 
-Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahmen vom Hochrisiko nach Art. 6 Abs. 3, das Verhaeltnis zu anderen EU-Rechtsakten, Sanktionen sowie die laufende Marktbeobachtung nach Inverkehrbringen.
+Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahmen vom Hochrisiko nach Art. 6 Abs. 3, das Verhältnis zu anderen EU-Rechtsakten, Sanktionen sowie die laufende Marktbeobachtung nach Inverkehrbringen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -271,7 +271,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 ## Fachbegriffe (kurz erklaert)
 
-- **KI-System** — Maschinenbasiertes System nach Art. 3 Nr. 1 KI-VO: inferenzbasiert, Ausgaben erzeugt, die Entscheidungen beeinflussen koennen.
+- **KI-System** — Maschinenbasiertes System nach Art. 3 Nr. 1 KI-VO: inferenzbasiert, Ausgaben erzeugt, die Entscheidungen beeinflussen können.
 - **Anbieter** — Entwickler oder Vermarkter eines KI-Systems, der es in den Verkehr bringt (Art. 3 Nr. 3 KI-VO).
 - **Betreiber** — Unternehmen oder Behörde, die ein KI-System unter eigener Verantwortung einsetzt (Art. 3 Nr. 4 KI-VO).
 - **Hochrisiko-KI** — KI-System in sensiblen Anwendungsbereichen nach Art. 6 Abs. 2 i. V. m. Anhang III KI-VO oder als Sicherheitsbauteil eines regulierten Produkts.
@@ -279,7 +279,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - **Systemisches Risiko** — Erhebliche Risiken bei GPAI-Modellen mit mehr als 10 hoch 25 FLOP Trainingsaufwand (Art. 51 KI-VO).
 - **Konformitaetsbewertung** — Verfahren nach Art. 43 ff. KI-VO zur CE-Kennzeichnung von Hochrisiko-KI.
 - **Evidence-Pack** — Dokumentationspaket aus Art.-3-/Art.-6-Vermerk, Art.-9-bis-15-Nachweisen, Art.-43-Bewertung, EU-Konformitätserklärung, Lückenliste und Freigabeentscheidung.
-- **EU-KI-Datenbank** — Oeffentliches Register nach Art. 71 KI-VO, in dem Hochrisiko-KI-Systeme registriert werden muessen.
+- **EU-KI-Datenbank** — Oeffentliches Register nach Art. 71 KI-VO, in dem Hochrisiko-KI-Systeme registriert werden müssen.
 
 ## Rechtsgrundlagen
 
@@ -296,26 +296,26 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Vorpruefung: Liegt ueberhaupt ein KI-System vor? (`liegt-ki-system-vor-art-3-nr-1`)
-2. Territorialen und sachlichen Anwendungsbereich pruefen (`territorialer-anwendungsbereich-art-2`, `sachlicher-ausschluss-art-2-abs-3-bis-12`).
+2. Territorialen und sachlichen Anwendungsbereich prüfen (`territorialer-anwendungsbereich-art-2`, `sachlicher-ausschluss-art-2-abs-3-bis-12`).
 3. Rolle bestimmen: Anbieter, Betreiber, Importeur oder Haendler? (`persönlicher-anwendungsbereich-rollen-art-3`)
 4. Risikoklasse bestimmen: Verboten, Hochrisiko, begrenztes Risiko oder GPAI? (`risikoklassen-uebersicht-und-triage`)
 5. Roadmap für die zutreffende Risikoklasse auswaehlen und durcharbeiten.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `triage-ki-vo-vorpruefung` — Einstieg in die KI-VO-Pruefung für unklare Faelle; Startpunkt des Gesamt-Workflows.
-- `entscheidungsbaum-ki-vo-gesamt-workflow` — Vollstaendige KI-VO-Pruefung von Anfang bis Ende in einem strukturierten Entscheidungsbaum.
-- `liegt-ki-system-vor-art-3-nr-1` — Erster Pruefschritt: Ist die eigene Software ueberhaupt ein KI-System nach Art. 3 Nr. 1 KI-VO?
+- `triage-ki-vo-vorpruefung` — Einstieg in die KI-VO-Prüfung für unklare Faelle; Startpunkt des Gesamt-Workflows.
+- `entscheidungsbaum-ki-vo-gesamt-workflow` — Vollstaendige KI-VO-Prüfung von Anfang bis Ende in einem strukturierten Entscheidungsbaum.
+- `liegt-ki-system-vor-art-3-nr-1` — Erster Prüfschritt: Ist die eigene Software ueberhaupt ein KI-System nach Art. 3 Nr. 1 KI-VO?
 - `abgrenzung-konventionelle-software-vs-ki-system` — Abgrenzung konventioneller Software vom KI-System-Begriff der KI-VO.
 - `territorialer-anwendungsbereich-art-2` — Gilt die KI-VO auch für Nicht-EU-Unternehmen oder Exporte?
-- `sachlicher-ausschluss-art-2-abs-3-bis-12` — Prueft ob das KI-System vollstaendig aus dem Anwendungsbereich faellt.
+- `sachlicher-ausschluss-art-2-abs-3-bis-12` — Prüft ob das KI-System vollstaendig aus dem Anwendungsbereich faellt.
 - `persönlicher-anwendungsbereich-rollen-art-3` — Wer ist betroffen und welche Rolle nimmt das Unternehmen ein?
 - `risikoklassen-uebersicht-und-triage` — Schnelle Ersteinschaetzung der Risikoklasse nach Art. 5, 6, 50, 51 KI-VO.
-- `verbotene-praktiken-art-5` — Prueft ob ein KI-Einsatz in den Bereich absolut verbotener KI-Praktiken faellt.
+- `verbotene-praktiken-art-5` — Prüft ob ein KI-Einsatz in den Bereich absolut verbotener KI-Praktiken faellt.
 - `falsche-wiese-warnung-ki-vo` — Warnt vor Verwechslungen mit DSGVO, Produkthaftung oder MDR bei KI-VO-Fragen.
-- `rolle-anbieter-pruefen-art-3-nr-3` — Prueft ob das Unternehmen als Anbieter im Sinne der KI-VO einzustufen ist.
-- `rolle-betreiber-pruefen-art-3-nr-4` — Prueft ob das Unternehmen als Betreiber im Sinne der KI-VO einzustufen ist.
-- `anbieter-werden-art-25` — Prueft unter welchen Bedingungen Betreiber, Importeur oder Haendler selbst zum Anbieter werden.
+- `rolle-anbieter-pruefen-art-3-nr-3` — Prüft ob das Unternehmen als Anbieter im Sinne der KI-VO einzustufen ist.
+- `rolle-betreiber-pruefen-art-3-nr-4` — Prüft ob das Unternehmen als Betreiber im Sinne der KI-VO einzustufen ist.
+- `anbieter-werden-art-25` — Prüft unter welchen Bedingungen Betreiber, Importeur oder Haendler selbst zum Anbieter werden.
 - `hochrisiko-zuordnung-art-6-und-anhang-i-iii` — Gesamtuebersicht der Hochrisiko-Zuordnungsregeln vor der Detailpruefung.
 - `hochrisiko-art-6-abs-1-sicherheitsbauteil` — KI als Sicherheitsbauteil eines regulierten Produkts nach Art. 6 Abs. 1 KI-VO.
 - `hochrisiko-art-6-abs-2-anhang-iii` — KI in einem der acht sensiblen Anwendungsbereiche nach Anhang III KI-VO.
@@ -326,15 +326,15 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `hochrisiko-technische-dokumentation-art-11-und-anhang-iv` — Inhalt und Aktualitaet der technischen Dokumentation (Art. 11 und Anhang IV KI-VO).
 - `hochrisiko-aufzeichnungspflichten-logging-art-12` — Automatische Aufzeichnungspflichten und Aufbewahrungsfristen (Art. 12 KI-VO).
 - `hochrisiko-transparenz-und-informationen-für-betreiber-art-13` — Informationen in der Gebrauchsanweisung für Betreiber (Art. 13 KI-VO).
-- `hochrisiko-menschliche-aufsicht-art-14` — Anforderungen an wirksame menschliche Aufsicht ueber Hochrisiko-KI (Art. 14 KI-VO).
+- `hochrisiko-menschliche-aufsicht-art-14` — Anforderungen an wirksame menschliche Aufsicht über Hochrisiko-KI (Art. 14 KI-VO).
 - `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15` — Leistungsstandards für Genauigkeit, Robustheit und Cybersicherheit (Art. 15 KI-VO).
 - `hochrisiko-konformitaetsbewertung-art-43-bis-49` — Konformitaetsbewertungsverfahren und Einbindung benannter Stellen (Art. 43-49 KI-VO).
 - `eu-datenbank-registrierung-art-49-und-71` — Registrierungspflicht in der EU-KI-Datenbank für Anbieter und Betreiber.
 - `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` — KI-VO-Pflichten und Dokumentation für nicht-hochrisiko-eingestufte Systeme.
 - `begrenztes-risiko-art-50-transparenzpflichten` — Transparenzpflichten für Chatbots, Deepfake-Tools und KI-Textgeneratoren (Art. 50 KI-VO).
-- `gpai-vorliegen-art-3-nr-63` — Prueft ob ein KI-Modell ein GPAI-Modell nach Art. 3 Nr. 63 KI-VO ist.
+- `gpai-vorliegen-art-3-nr-63` — Prüft ob ein KI-Modell ein GPAI-Modell nach Art. 3 Nr. 63 KI-VO ist.
 - `gpai-modelle-art-51-bis-55` — GPAI-Pflichten: Verhaltenskodizes, technische Dokumentation, Transparenz (Art. 51-55 KI-VO).
-- `gpai-systemisches-risiko-schwelle-10e25-flop` — Prueft ob die Schwelle für systemisches Risiko bei GPAI-Modellen ueberschritten ist.
+- `gpai-systemisches-risiko-schwelle-10e25-flop` — Prüft ob die Schwelle für systemisches Risiko bei GPAI-Modellen ueberschritten ist.
 - `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` — Pflichten des EU-Bevollmaechtigten und von Produktherstellern (Art. 22 und 25 KI-VO).
 - `einfuehrer-importer-pflichten-art-23` — Sorgfaltspflichten des Importeurs von KI-Systemen aus Drittstaaten (Art. 23 KI-VO).
 - `haendler-distributor-pflichten-art-24` — Sorgfaltspflichten des Distributeurs beim Weitervertrieb von Hochrisiko-KI (Art. 24 KI-VO).
@@ -345,7 +345,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `sanktionen-art-99-bis-101` — Bussgelddimensionen und Sanktionsrahmen der KI-VO (Art. 99-101 KI-VO).
 - `verhaeltnis-zu-anderen-unionsrechtsakten` — Abgrenzung und Zusammenspiel der KI-VO mit DSGVO, MDR, Maschinenverordnung und anderen EU-Rechtsakten.
 - `zeitlicher-geltungsbereich-uebergangsfristen` — Uebergangsfristen und zeitlicher Geltungsbeginn je Pflichtenkategorie der KI-VO.
-- `output-pruefdokument-ki-vo-mit-warnhinweisen` — Abschliessendes Pruefdokument mit allen Ergebnissen und Warnhinweisen erstellen.
+- `output-pruefdokument-ki-vo-mit-warnhinweisen` — Abschliessendes Prüfdokument mit allen Ergebnissen und Warnhinweisen erstellen.
 - `output-konformitaetserklaerung-eu-anhang-v` — Muster der EU-Konformitaetserklaerung zum Ausfuellen und Unterzeichnen (Anhang V KI-VO).
 - `output-konformitaetsbescheinigung-evidence-pack` — Konformitätsbescheinigung oder Readiness-Vermerk, EU-Erklärung, Evidence Index und Lückenliste erzeugen.
 - `output-betreiber-checkliste-und-folgenabschaetzung` — Fertige Betreiber-Compliance-Dokumentation und Folgenabschaetzung erstellen.
@@ -354,7 +354,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 ## Worauf besonders achten
 
 - KI-VO hat gestaffelte Uebergangsfristen: Verbotene Praktiken ab 02.02.2025, GPAI ab 02.08.2025, Hochrisiko-Systeme ab 02.08.2026 — Pflichten abfragen, die zum Stichtag gelten.
-- Hochrisiko-Einstufung hat zwei Wege: Sicherheitsbauteil (Art. 6 Abs. 1) und Anhang-III-Bereiche (Art. 6 Abs. 2) — beide getrennt pruefen.
+- Hochrisiko-Einstufung hat zwei Wege: Sicherheitsbauteil (Art. 6 Abs. 1) und Anhang-III-Bereiche (Art. 6 Abs. 2) — beide getrennt prüfen.
 - Anbieter-Werden-Risiko: Betreiber, die ein System wesentlich veraendern, werden automatisch Anbieter mit vollen Anbieter-Pflichten.
 - GPAI und KI-System-Schnittstelle: Ein GPAI-Modell kann in einem Hochrisiko-System eingebettet sein — dann kumulieren Pflichten.
 - EU-Datenbank-Registrierung vor Inverkehrbringen: Zustimmung der Notifizierungsbehoerde abwarten.
@@ -363,15 +363,15 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 - Konventionelle regelbasierte Software irrtuemlicherweise als KI-System eingestuft: Abgrenzungspruefung fehlt.
 - Hochrisiko-Rueckausnahme nach Art. 6 Abs. 3 uebersehen: System faellt in Anhang III, aber Rueckausnahme greift.
-- Technische Dokumentation als einmaliges Dokument behandelt: KI-VO verlangt laufende Aktualisierung bei wesentlichen Aenderungen.
+- Technische Dokumentation als einmaliges Dokument behandelt: KI-VO verlangt laufende Aktualisierung bei wesentlichen Änderungen.
 - GPAI-Pflichten mit Hochrisiko-Pflichten verwechselt: Verschiedene Regelungsregimes mit unterschiedlichen Anforderungen.
-- Sanktionsdimensionen unterschaetzt: Bussgelder bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes moeglich.
+- Sanktionsdimensionen unterschaetzt: Bussgelder bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes möglich.
 
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - EU KI-VO (EU 2024/1689) in der zum Stand-Datum geltenden Fassung
-- Uebergangsfristen gemaess Art. 113 KI-VO
+- Uebergangsfristen gemäß Art. 113 KI-VO
 - GPAI Code of Practice der EU-KI-Buero (erste Fassung 2025)
 
 ---
@@ -384,7 +384,7 @@ _Mechanik: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mechanik Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Vo Ai Act Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mechanik Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ki Vo Ai Act Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -451,149 +451,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Frühe Klassifizierung als "kein KI-System" oder "minimales Risiko" spart Aufwand, kann aber bei späterer Aufsichtsfeststellung doppelte Kosten und Marktausschluss verursachen. Empfehlung: konservative Klassifizierung mit dokumentierter Begründung statt einer Selbsteinschätzung "nicht erfasst".
-
----
-
-## Skill: `anbieter-werden-art-25`
-
-_Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Aenderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Name..._
-
-# Anbieter-Werden — Art. 25 KI-VO
-
-## Vier Fallgruppen (Art. 25 Abs. 1 KI-VO)
-
-### Fallgruppe 1 — Inverkehrbringen unter eigenem Namen oder eigener Marke
-
-Wer ein Hochrisiko-KI-System oder GPAI-Modell unter seinem eigenen Namen oder seiner eigenen Marke in Verkehr bringt, wird Anbieter — unabhängig davon, ob er das System selbst entwickelt hat.
-
-**Prüffragen:**
-- Bringen Sie ein fremdes KI-System unter Ihrem eigenen Namen oder Ihrer Marke auf den Markt?
-- Erscheint der ursprüngliche Anbieter im Vertrag, in der Dokumentation oder gegenüber dem Endkunden noch sichtbar?
-
-**Wenn ja zum ersten, nein zum zweiten:** → Sie werden Anbieter nach Art. 25 Abs. 1 lit. a KI-VO.
-
-**Konsequenz:** Sie müssen alle Anbieter-Pflichten nach Art. 16 bis 42 KI-VO erfüllen, einschließlich Konformitätsbewertung, CE-Kennzeichnung, EU-Konformitätserklärung und Registrierung in der EU-Datenbank.
-
-### Fallgruppe 2 — Wesentliche Änderung nach dem Inverkehrbringen
-
-Ein Betreiber oder Händler, der ein bereits in Verkehr gebrachtes Hochrisiko-KI-System wesentlich verändert, wird Anbieter.
-
-**Was ist eine wesentliche Änderung?**
-
-Nach Art. 3 Nr. 23 KI-VO ist eine wesentliche Änderung eine Änderung des KI-Systems nach seinem Inverkehrbringen, die die Konformität des Systems mit den Anforderungen beeinflussen kann oder die dazu führt, dass sich der Verwendungszweck, für den das KI-System bewertet wurde, verändert.
-
-**Beispiele für wesentliche Änderungen:**
-- Erneutes Training des Modells mit neuen Daten
-- Änderung der Modellarchitektur
-- Anpassung der Ausgaben des Systems in einer Weise, die neue Entscheidungen ermöglicht
-- Erweiterung des Einsatzbereichs auf neue Nutzergruppen oder neue Entscheidungstypen
-- Konfiguration, die zu einer Änderung der Systemfunktionalität führt
-
-**Prüffragen:**
-- Haben Sie technische Änderungen am System vorgenommen (Code, Modell, Parameter)?
-- Haben Sie den Einsatzbereich oder die Zielgruppe verändert?
-- Haben Sie Konfigurationen vorgenommen, die über die vom Anbieter vorgesehenen Optionen hinausgehen?
-
-### Fallgruppe 3 — Änderung des bestimmungsgemäßen Verwendungszwecks
-
-Wer das KI-System für einen anderen als den ursprünglich vorgesehenen Zweck einsetzt, wird Anbieter — auch ohne technische Änderung.
-
-**Beispiele:**
-- Ein Personalverwaltungs-Tool wird für die Bonitätsprüfung genutzt
-- Ein Bildklassifikationssystem für die Qualitätskontrolle wird für die Gesichtserkennung genutzt
-- Ein Text-Zusammenfassungstool wird für automatisierte Rechtsentscheidungen genutzt
-
-**Prüffragen:**
-- Ist der tatsächliche Einsatzzweck identisch mit dem in der Gebrauchsanweisung des Anbieters beschriebenen Zweck?
-- Haben Sie das System für Entscheidungen genutzt, die der Anbieter nicht vorgesehen hat?
-
-### Fallgruppe 4 — Produkthersteller (Art. 25 Abs. 1 lit. c KI-VO)
-
-Ein Hersteller eines Produkts, das ein Hochrisiko-KI-System als Sicherheitsbauteil enthält, wird Anbieter des Hochrisiko-KI-Systems, wenn er das Produkt unter seinem eigenen Namen in Verkehr bringt.
-
-→ Details: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
-
-## Informationspflicht des ursprünglichen Anbieters (Art. 25 Abs. 2 KI-VO)
-
-Der ursprüngliche Anbieter muss dem neuen Anbieter (nach Art. 25) alle notwendigen Informationen bereitstellen, damit dieser seine Anbieter-Pflichten erfüllen kann. Dies ist vertraglich zu regeln.
-
-## Praktische Empfehlung
-
-Vor jeder Anpassung oder Umwidmung eines KI-Systems sollte geprüft werden:
-1. Überschreitet die Maßnahme die Schwelle zur wesentlichen Änderung?
-2. Liegt eine Zweckänderung vor?
-3. Wenn ja: Welche Anbieter-Pflichten müssen erfüllt werden?
-4. Sind die entsprechenden Ressourcen (technische Dokumentation, Konformitätsbewertung) vorhanden?
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
-
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — ANBIETER WERDEN ART 25
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 25 Rn. 5]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 5 KI-VO (verbotene Praktiken)
-- Art. 6, 7 KI-VO (Hochrisiko-KI-Systeme)
-- Art. 9, 10, 11 KI-VO (Risikomanagement, Daten, Technische Dokumentation)
-- Art. 13, 14 KI-VO (Transparenz, menschliche Aufsicht)
-- Art. 16 KI-VO (Pflichten Anbieter)
-- Art. 26, 27 KI-VO (Pflichten Betreiber)
-- Art. 50 KI-VO (Transparenz GPAI/Deepfakes)
-- Art. 53-55 KI-VO (Pflichten GPAI-Anbieter)
-- Art. 99-101 KI-VO (Sanktionen)
-- VO 2024/1689 (KI-VO, Inkrafttreten)
-
-### Leitentscheidungen
-
-- EuGH C-634/21 (automatisierte Entscheidung Art. 22 DSGVO)
-- EuGH C-203/22 (Profiling, Auskunftsrechte)
-- BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei)
-- OLG Köln 6 U 32/24 (Deepfake-Werbung)
-- OLG Stuttgart 2 U 63/22 (Mängel KI-System B2B)
-
-### Anwendung im Skill
-
-- KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
-- Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
-- GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.
 
 ---
 
@@ -764,10 +621,10 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+## Output-Template — Prüfergebnis
+**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — OUTPUT BETREIBER CHECKLISTE UND FOLGENABSCHAETZUNG
 [DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
@@ -869,10 +726,10 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+## Output-Template — Prüfergebnis
+**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — BEVOLLMAECHTIGTER UND PRODUKTHERSTELLER PFLICHTEN ART 22 UND 25
 [DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
@@ -1020,23 +877,11 @@ Stand: 05/2026. Maßgeblich sind Art. 40, 41, 56 und 95 KI-VO sowie die jeweils 
 
 ---
 
-## Skill: `entscheidungsbaum-gesamt-owi-verfahren`
+## Skill: `entscheidungsbaum-ki-vo-gesamt-workflow`
 
-_Master-für die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots..._
+_Master-Workflow: KI-VO-Gesamtprüfung im EU KI-VO (AI Act): Dieser Skill ist der zentrale Entscheidungsbaum des KI-VO-Prüfers. Er führt vom ersten Art.-3-Check bis zum dokumentierbaren Endvermerk. Er soll nicht nur klassifizieren, sondern den Prüfpfad so steuern, dass Zweckbestimmung, tatsächliche..._
 
 # Master-Workflow: KI-VO-Gesamtprüfung
-
-## Arbeitsbereich
-
-Master-für die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots sind nicht automatisch Hochrisiko; Zweckbestimmung und tatsaechlicher Einsatz entscheiden. Output: strukturierter Pruefpfad mit Folge-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Art. 5 Verbote ab 02.02.2025, Art. 51-55 GPAI ab 02.08.2025, Hochrisiko Anhang III ab 02.08.2026, Hochrisiko Anhang I ab 02.08.2027, schwerwiegender Vorfall 15 Tage / 2 Tage (Tod).
-- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Grundsatz
 
@@ -1184,6 +1029,120 @@ Das Enddokument muss enthalten:
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Maßgeblich sind Art. 2, 3, 5, 6, 25, 26, 27, 40, 50, 51 bis 56 und Anhang III KI-VO. Keine Rechtsberatung.
+
+---
+
+## Skill: `eu-datenbank-registrierung-art-49-und-71`
+
+_Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 öffentliche Stellen als Betreiber vor Verwendung Art. 49 Abs. 3. I..._
+
+# EU-Datenbank-Registrierung — Art. 49 und 71 KI-VO
+
+## Wer muss sich registrieren?
+
+### Anbieter von Hochrisiko-KI-Systemen (Art. 49 Abs. 1 KI-VO)
+
+Anbieter von Hochrisiko-KI-Systemen nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO müssen sich und ihr System in der EU-Datenbank registrieren, bevor sie das System in Verkehr bringen oder in Betrieb nehmen.
+
+**Ausnahme:** Hochrisiko-KI-Systeme nach Art. 6 Abs. 1 (Sicherheitsbauteile nach Anhang I) werden im Rahmen der sektorbezogenen Konformitätsbewertung registriert — eine separate Registrierung in der KI-VO-Datenbank ist nicht gesondert vorgeschrieben (Art. 49 Abs. 4 KI-VO).
+
+### Betreiber aus dem öffentlichen Sektor (Art. 49 Abs. 3 KI-VO)
+
+Betreiber, die öffentliche Einrichtungen sind (Behörden, staatliche Stellen), müssen sich ebenfalls registrieren, bevor sie ein Hochrisiko-KI-System nach Anhang III einsetzen. Dies gilt auch, wenn das System bereits vom Anbieter registriert wurde — Betreiber registrieren ihren Einsatz gesondert.
+
+**Prüffragen für Betreiber:**
+- Sind Sie eine Behörde oder sonstige öffentliche Einrichtung?
+- Setzen Sie ein Hochrisiko-KI-System nach Anhang III ein?
+
+### GPAI-Modell-Anbieter
+
+Anbieter von GPAI-Modellen (auch solcher ohne systemisches Risiko) müssen bestimmte Informationen nach Art. 71 KI-VO in der EU-Datenbank registrieren.
+
+## Zeitpunkt der Registrierung
+
+**Anbieter:** Vor dem Inverkehrbringen oder der Inbetriebnahme des Hochrisiko-KI-Systems.
+
+**Betreiber (öffentliche Stellen):** Vor der Inbetriebnahme des Systems.
+
+**GPAI-Anbieter:** Vor dem Inverkehrbringen des GPAI-Modells.
+
+## Inhalt der Registrierung (Anhang VIII KI-VO)
+
+Die Registrierung muss folgende Informationen enthalten:
+
+**Angaben zum Anbieter:**
+- Name und Anschrift sowie — sofern vorhanden — Handelsregisternummer des Anbieters
+- Kontaktdaten
+- Gegebenenfalls Name und Anschrift des Bevollmächtigten
+
+**Angaben zum KI-System:**
+- Handelsnamen und Bezeichnung des Systems
+- Beschreibung des Verwendungszwecks
+- Status des Systems (in Verkehr gebracht, in Betrieb genommen, zurückgezogen)
+- Typ und Art des KI-Systems
+- Kurzbeschreibung der Fähigkeiten und Grenzen des Systems
+- Mitgliedstaat(en), in dem/denen das System in Verkehr gebracht wurde
+- Angaben zur Konformitätsbewertung (Modul, beteiligte benannte Stelle, Bescheinigungsnummer)
+
+**Für Betreiber (öffentliche Stellen) zusätzlich:**
+- Bezeichnung und Beschreibung des Einsatzkontexts
+- Zeitraum und geografischer Bereich der Verwendung
+- Kategorie der betroffenen natürlichen Personen
+
+## Öffentliche Zugänglichkeit und Vertraulichkeit
+
+Die EU-Datenbank ist öffentlich zugänglich, soweit keine berechtigten Vertraulichkeitsinteressen entgegenstehen. Anbieter können für bestimmte Informationen Vertraulichkeit beantragen — z.B. für Betriebs- und Geschäftsgeheimnisse.
+
+Die Datenbank wird von der Kommission eingerichtet und verwaltet (Art. 71 KI-VO). Sie dient als Transparenzinstrument für Öffentlichkeit, Behörden und Betroffene.
+
+## Technische Umsetzung
+
+Die EU-Datenbank ist unter folgender URL zugänglich (sobald verfügbar): https://ai-act.eu (Domäne noch nicht final — genaue URL durch Kommission zu bestätigen). Im Aufbau befindet sich das System seit 2024.
+
+## Folgen der Nichtregistrierung
+
+Fehlende oder fehlerhafte Registrierung ist ein Verstoß gegen die KI-VO (Art. 49 KI-VO i.V.m. Art. 99 Abs. 4 KI-VO) und kann mit Bußgeldern bis zu 15 Mio EUR oder drei Prozent des weltweiten Jahresumsatzes geahndet werden.
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
+- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
+- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
+- Art. 26 KI-VO — Betreiberpflichten
+- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+
+## Triage zu Beginn
+1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
+2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
+3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
+4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
+5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+
+## Output-Template — Prüfergebnis
+**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
+```
+PRUEFERGEBNIS — EU DATENBANK REGISTRIERUNG ART 49 UND 71
+[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
+[AKTENZEICHEN]
+
+Gepruefte Norm(en): [Art. 49 Rn. 2]
+
+Ergebnis:
+[ ] Anforderung erfuellt
+[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
+
+Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
+Naechster Skill: [FOLGE-SKILL]
+Geprueft: [NAME], [DATUM]
+```
 
 ---
 

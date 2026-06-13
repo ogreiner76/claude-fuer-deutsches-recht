@@ -8,7 +8,7 @@ Dieser Megaprompt enthaelt top-8 von 118 Skills (gekuerzt fuer Chat-Fenster) des
 
 1. **rapid-response-rechenschaftsbericht** — Wahlkampfrecht Praxis: akute Wahlkampfkrisen in Social Media, Presse und vor Ort in einen handlungsfähigen Rapid-Respons…
 2. **staatliche-neutralitaet** — Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Ei…
-3. **kommunalwahlkampf-groundgame** — Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetz…
+3. **kommunalwahlkampf-groundgame** — Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetze…
 4. **ebenen-wahlart-ehrenamtliche** — Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden…
 5. **kandidatenteam-intake** — Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen …
 6. **kaltstart-routing** — Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen…
@@ -32,7 +32,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -117,7 +117,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -189,7 +189,7 @@ Trennt Partei, Fraktion, Amt, Verwaltung, Schule, Wahlorgan, Hausrecht und Gleic
 
 ## Skill: `kommunalwahlkampf-groundgame`
 
-_Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen im Wahlkampfrecht._
+_Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen im Wahlkampfrecht._
 
 # Kommunalgroundgame
 
@@ -202,7 +202,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -221,7 +221,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachkern: Kommunalgroundgame
 
-- **Wahlkampflage (Kommunalgroundgame):** Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen.
+- **Wahlkampflage (Kommunalgroundgame):** Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -236,7 +236,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft kommunale Plakatierungsregeln, Kandidatenlisten, lokale Neutralitaet und Buergerdialog.
+Prüft kommunale Plakatierungsregeln, Kandidatenlisten, lokale Neutralitaet und Buergerdialog.
 
 ## Rechts- und Praxislogik
 
@@ -279,7 +279,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -349,7 +349,7 @@ _Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kandidatenteam Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kandidatenteam Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -370,7 +370,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -440,7 +440,7 @@ _Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routing zu Recht, 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -496,7 +496,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -538,7 +538,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -572,7 +572,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Tatsachenbasis, Zitatfreigabe, Persoenlichkeitsrechte und Wahlkampfstrategie.
+Prüft Tatsachenbasis, Zitatfreigabe, Persoenlichkeitsrechte und Wahlkampfstrategie.
 
 ## Rechts- und Praxislogik
 
@@ -615,7 +615,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -634,7 +634,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachkern: Wahlverfahren Falschinfo
 
-- **Wahlkampflage (Wahlverfahren Falschinfo):** Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten.
+- **Wahlkampflage (Wahlverfahren Falschinfo):** Falschinformationen über Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.

@@ -37,7 +37,7 @@ Dieser Einstieg routet **Wandeldarlehen Lebenszyklus** vom ersten Sachverhalt zu
 ## Fachlandkarte dieses Plugins
 
 - `begleitet-erstpruefung-und-mandatsziel` — Begleitet Erstpruefung und Mandatsziel
-- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Pruefung
+- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Prüfung
 - `beurkundungspruefung-quellenkarte-check` — Beurkundungspruefung Quellenkarte Check
 - `bilingual-einsprachig` — Bilingual Einsprachig
 - `bilinguale-vertragserstellung` — Bilinguale Vertragserstellung
@@ -74,7 +74,7 @@ _Einstieg, Schnelltriage und Fallrouting im Wandeldarlehen Lebenszyklus-Plugin. 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -217,7 +217,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin begleitet den vollstaendigen Lebenszyklus eines Wandeldarlehens (Convertible Note oder SAFE) für GmbH und UG: von der Ersterfassung der Parteien und der Konditionenverhandlung ueber die Vertragserstellung (bilingual oder einsprachig) und Beurkundungspruefung bis hin zur Wandlungsberechnung, dem Cap-Table-Update und der notar- und handelsregistergerechten Dokumentation der Kapitalerhoehung.
+Das Plugin begleitet den vollstaendigen Lebenszyklus eines Wandeldarlehens (Convertible Note oder SAFE) für GmbH und UG: von der Ersterfassung der Parteien und der Konditionenverhandlung über die Vertragserstellung (bilingual oder einsprachig) und Beurkundungspruefung bis hin zur Wandlungsberechnung, dem Cap-Table-Update und der notar- und handelsregistergerechten Dokumentation der Kapitalerhoehung.
 
 Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Bereich sowie Inhouse-Juristen, die Wandeldarlehen als Finanzierungsinstrument einsetzen. Das Plugin begleitet sowohl die Darlehensgeber- als auch die Gesellschaftsseite.
 
@@ -225,18 +225,18 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 
 - Startup-GmbH und Investor verhandeln ein Wandeldarlehen oder SAFE; Vertrag muss von Grund auf erstellt werden.
 - Bestehendes Wandeldarlehen lauft ab oder ein Wandelereignis (qualifizierte Finanzierungsrunde, Exit) tritt ein.
-- Mehrere Wandeldarlehen von verschiedenen Investoren muessen parallel koordiniert und auf Kollisionspunkte geprueft werden.
+- Mehrere Wandeldarlehen von verschiedenen Investoren müssen parallel koordiniert und auf Kollisionspunkte geprueft werden.
 - Kapitalerhoehung durch Wandlung erfordert Notartermin, Gesellschafterbeschluss und Handelsregisteranmeldung.
-- Formfehler in Wandeldarlehen- oder Kapitalerhoehungs-Dokumenten muessen identifiziert und geheilt werden.
+- Formfehler in Wandeldarlehen- oder Kapitalerhoehungs-Dokumenten müssen identifiziert und geheilt werden.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Wandeldarlehen** — Darlehen nach §§ 488 ff. BGB, das unter bestimmten Bedingungen (Trigger) in Gesellschaftsanteile umgewandelt wird.
 - **SAFE** — Simple Agreement for Future Equity; Y-Combinator-Vorlage; kein Darlehen im Rechtssinne, sondern Vereinbarung auf zukuenftige Kapitalbeteiligung.
-- **Wandlungspreis** — Preis je neu ausgegebenen Geschaeftsanteil; ergibt sich aus Bewertungs-Cap, Discount oder Finanzierungsrunde.
+- **Wandlungspreis** — Preis je neu ausgegebenen Geschäftsanteil; ergibt sich aus Bewertungs-Cap, Discount oder Finanzierungsrunde.
 - **Cap-Table** — Gesellschafterliste inkl. aller voll verwasserten Anteile (fully diluted); zeigt Beteiligungsstruktur vor und nach Wandlung.
 - **Qualified Financing** — Qualifiziertes Finanzierungsereignis; haeufigster Wandlungs-Trigger; meist definiert als neue Finanzierungsrunde ab einer Mindestbetrag-Schwelle.
-- **Rangruecktritt** — Nachrangabrede nach § 39 InsO; stellt Wandeldarlehen insolvenzrechtlich nachrangig, um Ueberschuldungsausweis zu verhindern.
+- **Rangrücktritt** — Nachrangabrede nach § 39 InsO; stellt Wandeldarlehen insolvenzrechtlich nachrangig, um Ueberschuldungsausweis zu verhindern.
 - **Beurkundungserfordernis** — Kapitalerhoehungen bei GmbH beduerften notarieller Beurkundung nach § 55 GmbHG; Formmangel fuehrt zu Nichtigkeit.
 - **SAFE-Y-Combinator** — US-Standardvorlage für Seed-Investitionen; in Deutschland-Transaktionen oft angepasst oder ersetzt.
 
@@ -244,8 +244,8 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 
 - §§ 488 491 BGB — Darlehensrecht
 - §§ 53 55 56 57 GmbHG — Satzungsaenderung, Kapitalerhoehung, Sacheinlage, Anmeldung
-- § 40 GmbHG — Gesellschafterliste; Anmeldepflicht nach Aenderung
-- § 15 GmbHG — Abtretung von Geschaeftsanteilen (Formpflicht)
+- § 40 GmbHG — Gesellschafterliste; Anmeldepflicht nach Änderung
+- § 15 GmbHG — Abtretung von Geschäftsanteilen (Formpflicht)
 - § 39 InsO — Nachrang; Rangruecktrittserklaerung
 - §§ 125 126 BGB — Form; Schriftform
 - GwG §§ 10 11 — KYC/AML-Pflichten bei Investoren
@@ -253,9 +253,9 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Neue Vertragserstellung oder laufendes Mandat mit Wandelereignis?
+1. Mandantenkonstellation klären: Neue Vertragserstellung oder laufendes Mandat mit Wandelereignis?
 2. Parteien und Konditionen erfassen: Darlehenshoehe, Zinssatz, Laufzeit, Wandlungspreis-Mechanik.
-3. Beurkundungserfordernis pruefen: Liegt ein Formerfordernis vor? Notartermin erforderlich?
+3. Beurkundungserfordernis prüfen: Liegt ein Formerfordernis vor? Notartermin erforderlich?
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
 5. Nach Wandlung: Cap-Table aktualisieren, Gesellschafterliste einreichen, Handelsregister anmelden.
 
@@ -267,25 +267,25 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - `einsprachige-vertragsfassung-de` — Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten.
 - `bilinguale-vertragserstellung` — Wandeldarlehensvertrag zweisprachig deutsch/englisch für internationale Transaktionen erstellen.
 - `textform-vs-schriftform-vs-notariell` — Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen.
-- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis pruefen; ob Notartermin erforderlich ist klaeren.
-- `vertraulichkeit-und-sprachklausel` — Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag pruefen oder formulieren.
-- `unterzeichnung-elektronisch-docusign` — Elektronische Unterzeichnung organisieren; eIDAS-Konformitaet pruefen.
-- `kyc-aml-geldwaesche` — KYC- und AML-Anforderungen bei Investor-Onboarding pruefen.
+- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis prüfen; ob Notartermin erforderlich ist klären.
+- `vertraulichkeit-und-sprachklausel` — Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren.
+- `unterzeichnung-elektronisch-docusign` — Elektronische Unterzeichnung organisieren; eIDAS-Konformitaet prüfen.
+- `kyc-aml-geldwaesche` — KYC- und AML-Anforderungen bei Investor-Onboarding prüfen.
 - `rangruecktritt-formulieren` — Rangruecktrittserklaerung für insolvenzrechtlichen Nachrang formulieren.
 - `wandlungsmechanik-konzipieren` — Wandlungsmechanik konzipieren: Preis, Verwasserungsschutz, Sonderrechte.
 - `wandlungspreis-berechnung` — Wandlungspreis auf Basis der vertraglich vereinbarten Parameter berechnen.
 - `wandelereignis-trigger-dispatcher` — Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten.
-- `wandelereignis-eingang` — Eingehende Wandelereignis-Notification pruefen und naechste Schritte bestimmen.
-- `wandlungspruefung-trigger-qualified-financing` — Wandlung bei qualifizierter Finanzierungsrunde als Trigger pruefen.
-- `wandlungspruefung-trigger-maturity` — Wandlung bei Laufzeitablauf des Wandeldarlehens pruefen.
-- `wandlungspruefung-trigger-liquidation` — Wandlung bei Liquidationsereignis oder Exit pruefen.
-- `wandlungsausschluss-pruefung` — Pruefen, ob Wandlung gesperrt oder ausgeschlossen ist.
+- `wandelereignis-eingang` — Eingehende Wandelereignis-Notification prüfen und naechste Schritte bestimmen.
+- `wandlungspruefung-trigger-qualified-financing` — Wandlung bei qualifizierter Finanzierungsrunde als Trigger prüfen.
+- `wandlungspruefung-trigger-maturity` — Wandlung bei Laufzeitablauf des Wandeldarlehens prüfen.
+- `wandlungspruefung-trigger-liquidation` — Wandlung bei Liquidationsereignis oder Exit prüfen.
+- `wandlungsausschluss-pruefung` — Prüfen, ob Wandlung gesperrt oder ausgeschlossen ist.
 - `mehrere-wandeldarlehen-parallel` — Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren; Konflikte erkennen.
 - `cap-table-update-pre-post` — Cap-Table vor und nach Wandlung aktualisieren; Verwasserungseffekte berechnen.
 - `gesellschafterbeschluss-vorbereiten` — Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten.
 - `gesellschafterbeschluss-kapitalerhoehung` — Gesellschafterbeschluss für Kapitalerhoehung nach Wandlung vorbereiten.
 - `gesellschafterversammlung-einberufen` — Gesellschafterversammlung einberufen und Tagesordnung aufstellen.
-- `sacheinlagebericht-werthaltigkeit` — Sacheinlagebericht erstellen und Werthaltigkeit pruefen.
+- `sacheinlagebericht-werthaltigkeit` — Sacheinlagebericht erstellen und Werthaltigkeit prüfen.
 - `notar-paket-uebermittlung` — Notarpaket für Beurkundungstermin zusammenstellen und uebermitteln.
 - `handelsregisteranmeldung-kapitalerhoehung` — Handelsregisteranmeldung nach Kapitalerhoehung durch Wandlung vorbereiten.
 - `gesellschafterliste-aktualisieren` — Gesellschafterliste nach Kapitalerhoehung aktualisieren und einreichen.
@@ -297,15 +297,15 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 ## Worauf besonders achten
 
 - Beurkundungserfordernis nach § 55 GmbHG ist zwingend für Kapitalerhoehungen; formlose Wandlung fuehrt zur Nichtigkeit des Kapitalerhoehungsbeschlusses.
-- Verwasserungsschutzklauseln (Anti-Dilution) muessen praesize formuliert sein; Broad-Based vs. Narrow-Based-Methode kann erhebliche Unterschiede im Wandlungspreis bewirken.
-- Rangruecktritt muss vor Wandlung vorliegen, wenn Ueberschuldung droht; ex-post-Rangruecktritt schuetzt nicht rueckwirkend.
-- KYC/AML-Pflichten des GwG gelten ab bestimmten Beteiligungsschwellen; fehlende Pruefung des Investors kann Haftung ausloesen.
-- Mehrere parallel laufende Wandeldarlehen koennen Kollisionspunkte bei Triggern und Cap-Berechnung haben; Konsistenzpruefung ist unverzichtbar.
+- Verwasserungsschutzklauseln (Anti-Dilution) müssen praesize formuliert sein; Broad-Based vs. Narrow-Based-Methode kann erhebliche Unterschiede im Wandlungspreis bewirken.
+- Rangrücktritt muss vor Wandlung vorliegen, wenn Ueberschuldung droht; ex-post-Rangrücktritt schuetzt nicht rueckwirkend.
+- KYC/AML-Pflichten des GwG gelten ab bestimmten Beteiligungsschwellen; fehlende Prüfung des Investors kann Haftung ausloesen.
+- Mehrere parallel laufende Wandeldarlehen können Kollisionspunkte bei Triggern und Cap-Berechnung haben; Konsistenzpruefung ist unverzichtbar.
 
 ## Typische Fehler
 
 - Wandlungspreis-Formel zu unpraezise: Fehlende Definition von Ausgangsgroessen (pre-money valuation, fully diluted cap) fuehrt zu Streit bei Wandlung.
-- Notartermin zu spaet eingeplant: Notariatliche Termine bei DNOTA und Notaren brauchen Vorlaufzeit; Last-Minute-Beurkundung ist haeufig nicht moeglich.
+- Notartermin zu spaet eingeplant: Notariatliche Termine bei DNOTA und Notaren brauchen Vorlaufzeit; Last-Minute-Beurkundung ist haeufig nicht möglich.
 - Gesellschafterliste nicht aktualisiert: Nach Wandlung und Eintragung muss Gesellschafterliste innerhalb eines Monats eingereicht werden (§ 40 GmbHG).
 - Sacheinlagebericht fehlt: Bei Sachkapitalerhoehung durch Wandlung ist Sacheinlagebericht Pflicht (§ 56 GmbHG); fehlender Bericht blockiert Eintragung.
 - SAFE als Darlehen klassifiziert: Falsches Bilanzierungsurteil für SAFE (kein Darlehen, sondern Eigenkapital-Instrument unter US-GAAP; unter HGB haeufig als Verbindlichkeit zu bilanzieren) kann steuerliche Folgen haben.
@@ -326,7 +326,7 @@ _Wandeldarlehensmandat einordnen Verfahrensroute bestimmen und erste Prioritaete
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Mehrere Parallel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Mehrere Parallel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -432,7 +432,7 @@ Stand: 05/2026.
 - DiREG (in Kraft 01.08.2023; Online-Beurkundung Kapitalerhoehung/Satzungsaenderung bei einstimmigem Beschluss): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
 - StaRUG (SanInsFoG, BGBl. I 2020, 3256; in Kraft 01.01.2021): https://www.gesetze-im-internet.de/starug/
 - § 15b InsO (rechtsformneutrales Zahlungsverbot): https://www.gesetze-im-internet.de/inso/__15b.html
-- Bei Aenderung GmbHG/UmwStG aktualisieren.
+- Bei Änderung GmbHG/UmwStG aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
@@ -456,7 +456,7 @@ _Begleitet: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Begleitet Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Begleitet Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -478,10 +478,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -593,7 +593,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierungen im Wandeldarlehensvertrag, die einen Direkterwerb bestehender Anteile ohne Kapitalerhöhung vorsehen.
 
 ### 7. Online-Beurkundung als Option prüfen (DiRUG/DiREG)
-- Seit DiRUG (BGBl. I 2021, 3338; in Kraft 01.08.2022) ist Online-Beurkundung der GmbH-Bargruendung moeglich (§ 2 Abs. 3 GmbHG; § 16a BeurkG).
+- Seit DiRUG (BGBl. I 2021, 3338; in Kraft 01.08.2022) ist Online-Beurkundung der GmbH-Bargruendung möglich (§ 2 Abs. 3 GmbHG; § 16a BeurkG).
 - Durch DiREG (Gesetz zur Ergaenzung der Regelungen zur Umsetzung der Digitalisierungsrichtlinie) ist seit 01.08.2023 die Online-Beurkundung erweitert auf: GmbH-Sachgruendung, GmbH-Satzungsaenderungen einschliesslich Kapitalmassnahmen, Uebernahmeerklaerungen bei Kapitalerhoehung, sowie Online-Beglaubigung für Vereinsregister-Anmeldungen. Wichtig: nicht-einstimmige Mehrheitsbeschluesse sind weiter physisch zu beurkunden (kein Online-Verfahren).
 - Mit Lender im Ausland: Online-Beurkundung kann Reise- und Apostille-Aufwand sparen. Voraussetzung: Notar mit Online-Verfahren der Bundesnotarkammer (BNotK); elektronische Identifizierung via eID-Funktion oder Lichtbildausweis-Abgleich.
 - Quelle: BMJ-Pressemitteilung https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html ; § 16a BeurkG https://www.gesetze-im-internet.de/beurkg/__16a.html
@@ -636,7 +636,7 @@ Stand: 05/2026.
 - DiRUG (BGBl. I 2021, 3338): https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl121s3338.pdf%27]
 - DiREG-Inkrafttreten 01.08.2023 (Erweiterung Online-Verfahren auf Sachgruendung, Satzungsaenderungen, Kapitalerhoehung): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
 - § 19 IV GmbHG (Aufrechnung Stammeinlage gegen Gesellschafterforderung; Hinweis: Erleichterungen durch MoMiG seit 2008, Beleg für Wandlung als Sacheinlage wegen Konfusion ueblich): https://www.gesetze-im-internet.de/gmbhg/__19.html
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen und Rechtsprechung
 

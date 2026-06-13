@@ -127,7 +127,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`barrierefreiheit-web-checker.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/barrierefreiheit-web-checker.md) (55 KB)
+- **Direkt-Download**: [`barrierefreiheit-web-checker.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/barrierefreiheit-web-checker.md) (54 KB)
 - Im Repo: [`testakten/megaprompts/barrierefreiheit-web-checker.md`](../testakten/megaprompts/barrierefreiheit-web-checker.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

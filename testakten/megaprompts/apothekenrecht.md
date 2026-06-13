@@ -27,7 +27,7 @@ _Einstieg, Schnelltriage und Fallrouting im Apothekenrecht-Plugin. Fragt Rolle, 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Apothekenrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Apothekenrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -352,7 +352,7 @@ _Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die einschlägigen
 
 ## Worum geht es konkret
 
-Erlaubnis zum Betrieb einer Apotheke nach §§ 1, 2 ApoG. Die Erlaubnis ist personengebunden, nicht übertragbar und an konkret bezeichnete Räume gebunden. Geprüft werden in diesem Skill ausschliesslich die **persönlichen** (subjektiven) Voraussetzungen des Apothekenleiters; sachliche Voraussetzungen (Räume, Ausstattung) sind im Skill `raeume-ausstattung-rezeptur-defektur-labor` abgebildet.
+Erlaubnis zum Betrieb einer Apotheke nach §§ 1, 2 ApoG. Die Erlaubnis ist personengebunden, nicht übertragbar und an konkret bezeichnete Räume gebunden. Geprüft werden in diesem Skill ausschließlich die **persönlichen** (subjektiven) Voraussetzungen des Apothekenleiters; sachliche Voraussetzungen (Räume, Ausstattung) sind im Skill `raeume-ausstattung-rezeptur-defektur-labor` abgebildet.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

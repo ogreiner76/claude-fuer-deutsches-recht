@@ -9,9 +9,9 @@ Dieser Megaprompt enthaelt top-8 von 102 Skills (gekuerzt fuer Chat-Fenster) des
 1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt …
 2. **anti-satellite-test-ban-und-orbital-debris-pledge** — Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie un…
 3. **lunar-heritage-quantenkommunikation-via** — Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human …
-4. **quantenkommunikation-via-satellit** — Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches B…
-5. **space-weather-solarsturm-haftung-und-versicherung** — Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-…
-6. **commercial-leo-destinations-iss-nachfolge** — Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab H…
+4. **commercial-leo-destinations-iss-nachfolge** — Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab H…
+5. **quantenkommunikation-via-satellit** — Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schlüsselverteilung uebersatellitisches Ba…
+6. **space-weather-solarsturm-haftung-und-versicherung** — Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-…
 7. **satellitenschwarm-ueber-deutschland-frequenz-kollision** — Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, L…
 8. **mondvertrag-ressourcen** — Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahr…
 
@@ -23,7 +23,7 @@ _Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Weltraumrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Weltraumrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -79,36 +79,36 @@ _Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voel
 2. Operativer Bezug zu betroffenen Orbits, Frequenzen oder Bahnregionen?
 3. Geplanter eigener Test, Mitwirkung an einer staatlichen Mission, Beruehrung mit einer der bekannten ASAT-Nationen?
 4. Aktuelles Sanktionsregime gegen Russland, Iran, Nordkorea einschlaegig?
-5. Versicherungsfall bereits eingetreten oder vorsorgend zu pruefen?
+5. Versicherungsfall bereits eingetreten oder vorsorgend zu prüfen?
 
 ## Voelkerrechtliche Rahmensetzung
 
 - **Outer Space Treaty 1967**: Art. I (freie Nutzung zum Wohl aller), Art. III (UN-Charta Geltung), Art. IV (friedliche Nutzung des Weltraums, Kernwaffenverbot), Art. VI (staatliche Verantwortlichkeit für nichtstaatliche Aktivitaeten), Art. VII (Haftung für Schaeden), Art. IX (gebotene Rücksichtnahme und harmful interference).
 - **Liability Convention 1972**: Art. II absolute Haftung für Schaeden auf der Erdoberflaeche; Art. III Verschuldenshaftung für Schaeden im All; Art. V solidarische Haftung mehrerer Startstaaten.
-- **Registration Convention 1975**: Art. II Pflicht zur Registrierung, Art. IV Mitteilungspflicht ueber Zustand und Bahn.
-- **UN-Generalversammlung Resolution 77/41 vom 07.12.2022**: Ruft alle Staaten auf, sich zu verpflichten, keine zerstoerenden direct-ascent ASAT-Tests durchzufuehren. Ueber 150 Stimmen dafür; Deutschland und EU-Mitgliedstaaten zustimmend.
+- **Registration Convention 1975**: Art. II Pflicht zur Registrierung, Art. IV Mitteilungspflicht über Zustand und Bahn.
+- **UN-Generalversammlung Resolution 77/41 vom 07.12.2022**: Ruft alle Staaten auf, sich zu verpflichten, keine zerstoerenden direct-ascent ASAT-Tests durchzufuehren. Über 150 Stimmen dafür; Deutschland und EU-Mitgliedstaaten zustimmend.
 - **US Vice President Pledge 2022 (April 18)**: einseitige US-Erklaerung, keine zerstoerenden direct-ascent ASAT-Tests durchzufuehren; mittlerweile von mehr als drei Dutzend Staaten uebernommen, darunter Deutschland (Beitritt vorbehaltlich der Verifikation in amtlicher Quelle).
 
 ## Nationales und EU-Recht
 
-- **Deutschland**: kein in Kraft gesetztes nationales Weltraumgesetz (Stand 2026 Entwurf vorhanden, Beschluss live verifizieren). Bisherige Genehmigungspraxis ueber Frequenzaufsicht (BNetzA), Aussenwirtschaftsrecht (BAFA, AWG, AWV) und ueber das Allgemeine Polizei- und Ordnungsrecht der Länder bei Bodensegmenten.
-- **EU**: Verordnung (EU) 2021/696 ueber das Weltraumprogramm der Union; Mitteilung COM(2023) 9 "EU Space Strategy for Security and Defence" mit ASAT-Klauseln. Verordnungsentwurf zum Weltraumgesetz der EU (COM live verifizieren).
+- **Deutschland**: kein in Kraft gesetztes nationales Weltraumgesetz (Stand 2026 Entwurf vorhanden, Beschluss live verifizieren). Bisherige Genehmigungspraxis über Frequenzaufsicht (BNetzA), Aussenwirtschaftsrecht (BAFA, AWG, AWV) und über das Allgemeine Polizei- und Ordnungsrecht der Länder bei Bodensegmenten.
+- **EU**: Verordnung (EU) 2021/696 über das Weltraumprogramm der Union; Mitteilung COM(2023) 9 "EU Space Strategy for Security and Defence" mit ASAT-Klauseln. Verordnungsentwurf zum Weltraumgesetz der EU (COM live verifizieren).
 - **EU-Sanktionen Russland**: Art. 2c Verordnung (EU) 833/2014 in der Fassung der Anpassung 2022/879 und Folgeakten — Exportverbot für raumfahrtbezogene Dual-Use-Gueter.
 
 ## Operative Folgen für Betreiber
 
-- **Risiko für eigene Satelliten**: ein zerstoerender Test im LEO-Bereich erzeugt Tausende Truemmer (Russlandtest 2021 schuf ueber 1500 trackbare Objekte). Operationale Folgen: Manoeverhauefigkeit, Kollisionsrisiko, hoehere CSpOC Conjunction Data Messages.
-- **Versicherung**: Standardklauseln in der TLI-/IOL-Versicherung schliessen oft Kriegsereignisse aus; ASAT-Tests koennten als war/hostile act gewertet werden. Pruefung der Lloyd's Market Association-Klauseln LMA5390 und Folgevarianten.
+- **Risiko für eigene Satelliten**: ein zerstoerender Test im LEO-Bereich erzeugt Tausende Truemmer (Russlandtest 2021 schuf über 1500 trackbare Objekte). Operationale Folgen: Manoeverhauefigkeit, Kollisionsrisiko, hoehere CSpOC Conjunction Data Messages.
+- **Versicherung**: Standardklauseln in der TLI-/IOL-Versicherung schliessen oft Kriegsereignisse aus; ASAT-Tests koennten als war/hostile act gewertet werden. Prüfung der Lloyd's Market Association-Klauseln LMA5390 und Folgevarianten.
 - **Lieferkette**: Re-Export-Kontrolle, US ITAR/EAR für raumfahrttechnologisches Material, EU Dual-Use-VO 2021/821.
 - **Datenfluss**: Befassung mit US Space Force CSpOC, ESOC Space Debris Office und EU SST Konsortium.
 
-## Pruefraster
+## Prüfraster
 
 1. Voelkerrechtliche Pflicht des Mandanten-Staates verletzt?
 2. Mandant selbst Partei einer ASAT-Mission oder mittelbar betroffen?
 3. Operativer Eingriff in eigene Mission noetig?
 4. Versicherungsrechtliche Anzeigepflicht ausgeloest?
-5. Sanktionsrechtliche Pruefung (Aufrechterhaltung von Lieferbeziehungen, Re-Export, AWV)?
+5. Sanktionsrechtliche Prüfung (Aufrechterhaltung von Lieferbeziehungen, Re-Export, AWV)?
 6. Kommunikationsstrategie (Aufsicht, Versicherer, Investoren, Oeffentlichkeit) festgelegt?
 
 ---
@@ -142,7 +142,7 @@ _Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaer
 - **Registration Convention 1975**: gegenstaendlicher Schutz registrierter Gegenstaende.
 - **US One Small Step to Protect Human Heritage in Space Act** (Public Law 116-275, 31.12.2020): verpflichtet US-Akteure mit NASA-Beteiligung zur Einhaltung der NASA Recommendations to Space-Faring Entities (NASA-SP-2011-1226).
 - **NASA Recommendations to Space-Faring Entities (2011)**: Schutzzonen 75 m und 225 m um Apollo-Stellen, je nach Sensitivitaet (Lunar Module, Experimente, Mobile Geraete). Annaeherungsausschluss für staubaufwirbelnde Manoever.
-- **Artemis Accords 2020**: Art. 9 Schutz aussergewoehnlich wertvoller Stellen ("outer space heritage"). Bislang ueber 30 Unterzeichnerstaaten (Deutschland Beitritt September 2023; live verifizieren).
+- **Artemis Accords 2020**: Art. 9 Schutz aussergewoehnlich wertvoller Stellen ("outer space heritage"). Bislang über 30 Unterzeichnerstaaten (Deutschland Beitritt September 2023; live verifizieren).
 
 ## Praktische Schutzpflichten
 
@@ -157,7 +157,7 @@ _Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaer
 - **Sammlerwert** historischer Artefakte vs. NASA-Eigentumsrechte (US-Recht: historische Artefakte gelten als US-Bundeseigentum, mit Sondervorschriften für geschenkte Apollo-Materialien).
 - **Tourismus**: Wettbewerb zwischen Anbietern um Annaeherungspflicht an Apollo-Stellen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Mondbereich, welche historische Stelle?
 2. Welche nationalen und voelkerrechtlichen Vorschriften?
@@ -165,133 +165,6 @@ _Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaer
 4. Triebwerks- und Trajektorienanalyse vorhanden?
 5. Kommerzielle Annaeherungserlaubnis erforderlich?
 6. Versicherung deckt Heritage-Damage?
-
----
-
-## Skill: `quantenkommunikation-via-satellit`
-
-_Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/8..._
-
-# Quantenkommunikation via Satellit
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Sofortfragen
-
-1. Welche Rolle: Betreiber, Bodenstationsbetreiber, Forschungsinstitut, KRITIS-Sektor-Anwender oder Aufsichtsbehoerde?
-2. Welche Schluessellaenge und welcher Protokollstandard (BB84, B92, E91)?
-3. Welche Frequenzbaender (Free-Space-Optical-Communication ueblich; Funklink für Klassisch-Channel)?
-4. Welcher Sicherheitsstufe (VS-NfD, VS-Vertraulich, GEHEIM)?
-5. Welche internationale Reichweite (CN/US-Export, EU-Konsortium)?
-
-## Rechtsrahmen
-
-- **BSI-Gesetz (BSIG)** insbesondere §§ 8a-8b (KRITIS-Pflichten) und § 8c (KRITIS-Dachgesetz) iVm KRITIS-DachG-Entwurf 2023. Quantum-Backbone als IT-Infrastruktur kritischer Versorgungssektoren ist regelmaessig KRITIS-pflichtig.
-- **NIS2-Richtlinie (EU) 2022/2555**: Umsetzung in DE durch NIS2-Umsetzungsgesetz (NIS2UmsuCG, in Kraft live verifizieren). Pflichten zur Risikomanagement, Vorfallmeldung 24/72 Stunden, Aufsicht durch BSI.
-- **Sicherheitsueberpruefungsgesetz (SUeG)** und **Geheimschutzhandbuch (GHB)**: bei Beschaeftigten mit VS-Berechtigung.
-- **VS-NfD-Bestimmungen** für raumfahrtbezogene Verschluesselungstechnologie.
-- **Wassenaar Arrangement** und **EU Dual-Use-Verordnung (EU) 2021/821**: Quantum-Schluesselverteilungssysteme sind unter Position 5A002 (Information Security) und Position 5A004 (Quantum Computing) listenpflichtig.
-- **Telekommunikationsgesetz (TKG)** § 165 zur Sicherheit von Telekommunikationsnetzen.
-- **DSGVO** Art. 32 zur Sicherheit der Verarbeitung.
-- **ITU Radio Regulations**: Frequenzkoordinierung für Klassisch-Channel (Tracking, Telemetry, Command, Daten-Downlink).
-
-## Architektur und Pflichtenmatrix
-
-- **Space Segment**: QKD-Payload (z. B. Polarisationskorrelation), Pointing-System, Klassisch-Funktion für Schluesselauthentifikation.
-- **Ground Segment**: Optische Bodenstation, Wetterabhaengigkeit, Sichtbarkeitsfenster.
-- **Key Management System**: Schluesselverwertung in symmetrischer Krypto (AES-256 oder kuenftige PQC-Algorithmen).
-- **Trusted Node Architecture**: in EuroQCI mehrstufiges Vertrauensmodell.
-- **Sicherheitsanforderungen**: Common Criteria EAL 4+ als Minimum; bei GEHEIM-Stufe EAL 6+.
-
-## Beweissicherung im Zwischenfall
-
-- **Side-Channel-Angriffe** (Photon-Number-Splitting, Bright-Light-Injection): protokollarisch dokumentieren.
-- **Trojan-Horse-Attacks**: Hardware-Side-Channel-Analyse vorhalten.
-- **Forensik**: Roh-Photonenstatistik archivieren (mind. 12 Monate, idealerweise gesamte Missionsdauer).
-- **Meldepflichten**: BSI nach NIS2; Bundesnetzagentur nach TKG § 168; bei VS-Vorfall MAD/BND-Koordination.
-
-## Versicherbarkeit
-
-- TLI-/IOL-Versicherung mit Sondersummen für kryptografische Payloads.
-- Cyber-Cover-Klauseln pruefen (oft Ausschluss bei staatlich gesponserten Angriffen).
-- Lloyd's LMA5403 als haufige Cyber-Ausschlussklausel.
-
-## Pruefraster
-
-1. KRITIS-Pflicht ausgeloest? — § 8a BSIG.
-2. NIS2-Pflichten (Vorfallmeldung 24/72h, Risikomanagement)?
-3. Exportkontrolle (BAFA, Dual-Use-VO)?
-4. Sicherheitsueberpruefung der Mitarbeiter?
-5. Frequenzlizenz BNetzA?
-6. Versicherung deckt Cyber + kryptografischer Schaden?
-7. Schluesselmanagement nach BSI TR-02102?
-
----
-
-## Skill: `space-weather-solarsturm-haftung-und-versicherung`
-
-_Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zu..._
-
-# Space Weather: Solarsturm-Haftung und Versicherung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Sofortfragen
-
-1. Rolle: Satellitenbetreiber, Energieversorger, TK-Anbieter, Luftfahrtgesellschaft, Versicherer, Aufsichtsbehoerde?
-2. Welches Ereignis (CME-Ankunftsdatum, Kp-Index, F10.7 Solar Flux)?
-3. Schadensumfang (Satellitenausfall, Bahnsenkung durch erhoehte Atmosphaere, Stromausfall, GPS-Drift)?
-4. Versicherungsschutz und Anzeigeobliegenheiten?
-5. KRITIS-Sektor betroffen?
-
-## Wissenschaftlich-rechtliche Klassifikation
-
-- **NOAA G-Skala (G1 bis G5)** und **R-Skala** (Radioblackouts) als Standardklassifizierung.
-- **Carrington-Ereignis 1859** geschaetzte G5+ — historisches Maximum.
-- **Quebec-Blackout 13.03.1989** G5 — Hydro-Quebec-Netz 9 Std. ausgefallen, 6 Mio. Menschen ohne Strom.
-- **Halloween-Storms Oktober/November 2003** G5 — Satellitenausfall (z. B. ADEOS-2), GPS-Drift, Luftfahrtumleitungen.
-- **Gannon Storm Mai 2024** G5 — starke Aurora bis ins Mittelmeer; Starlink reduzierte Hoehe, mehrere kommerzielle Satelliten temporaer ausser Betrieb.
-
-## Vertrags- und Versicherungsrecht
-
-- **Force-Majeure-Klauseln**: hauptstreit, ob Solarsturm als hoehere Gewalt qualifiziert. Argumente pro: nicht beherrschbar, nicht versicherbar im Vollumfang. Argumente contra: vorhersehbar via NOAA SWPC und ESA SSA mit Vorlauf bis zu 72 Stunden, Mitigation moeglich (Safe-Mode, Bahnkorrektur, Stromnetzdrosselung).
-- **Versicherungsklauseln**: Lloyd's LMA5390 (TLI) und Folgevarianten beinhalten Naturereignisse als Deckungsfall, schliessen aber "wilful misconduct" und unzureichende Mitigation aus. Bei Solarsturm idR Deckung wenn Warnung vom Betreiber befolgt wurde.
-- **Cyber-vs-Naturklauseln**: Klare Trennung; geomagnetisch induzierte Stromschwankungen sind Naturereignisse, kein Cyber-Vorfall.
-- **Sublimits**: oft 25-50 Mio. Euro für geomagnetisch induzierte Schaeden je Versicherer-Einheit.
-
-## KRITIS und NIS2
-
-- **§ 8a BSIG**: Betreiber Kritischer Infrastrukturen Energie und Telekommunikation muessen Vorkehrungen gegen Space Weather als Naturgefahr treffen (Stellungnahme BSI 2022, Az im Digitalisat verifizieren).
-- **NIS2-Richtlinie**: Risikomanagement umfasst geophysikalische Ereignisse; Vorfallmeldung bei betrieblicher Stoerung.
-- **EnWG § 11**: Pflicht der Netzbetreiber zur Aufrechterhaltung; spezifische Vorgaben der BNetzA zur Reservehaltung gegen geomagnetisch induzierte Stroeme (GIC) live verifizieren.
-
-## Luftfahrt
-
-- **ICAO Annex 3 Amendment 78 (2018)**: Pflicht zur Space-Weather-Information bei Luftverkehrsdiensten.
-- **EUROCONTROL Space Weather Service**: Echtzeit-Warnungen.
-- **Polare Routen**: Umleitungspflicht bei hoher Strahlenexposition (R3-R5).
-
-## Pruefraster
-
-1. Ereignisklassifikation (G/R-Skala, F10.7)?
-2. Welche Vorwarnung hat NOAA SWPC / ESA SSA gegeben? Vorlauf?
-3. Hat der Betreiber Mitigation eingeleitet (Safe-Mode, Bahnkorrektur, Netzdrosselung)?
-4. Schadensbild Schaden konkret (Satellit, Netz, GPS, TK)?
-5. Versicherungsschutz, Sublimit, Wartefrist?
-6. KRITIS- oder NIS2-Meldepflicht ausgeloest?
-7. Force-Majeure-Klausel in welcher Fassung?
 
 ---
 
@@ -311,7 +184,7 @@ _Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orb
 
 ## Sofortfragen
 
-1. Rolle: Crew-Provider, Cargo-Provider, Modul-Eigentuemer, Endnutzer, Versicherer, Investor, staatliche Stelle?
+1. Rolle: Crew-Provider, Cargo-Provider, Modul-Eigentümer, Endnutzer, Versicherer, Investor, staatliche Stelle?
 2. Welche Plattform: Axiom Station, Orbital Reef, Starlab, Haven-1 oder europaeische Loesung?
 3. Vertragsmodell: NASA Space Act Agreement, ESA-Beteiligung, kommerzielle Direktbeziehung?
 4. Welche Nutzung: bemannte Forschung, In-Space-Manufacturing, Tourismus, Wartungs-/Service-Mission?
@@ -360,7 +233,7 @@ _Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orb
 - Liability gegenueber anderen Operatoren (Konjunktionsereignis).
 - Lloyd's LMA-Klauseln für Spacelegal-Risiken.
 
-## Pruefraster
+## Prüfraster
 
 1. Vertragsstuktur (NASA SAA, OCA, MHA, PHA)?
 2. Anwendbares Recht (US, ESA-Mitgliedstaat, gemischt)?
@@ -369,6 +242,133 @@ _Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orb
 5. Versicherbarkeit aller Risikoschichten?
 6. Exportkontrolle (ITAR / EAR / EU Dual-Use)?
 7. Crew-Anforderungen (Medizincheck, Versicherbarkeit, Schadensersatz)?
+
+---
+
+## Skill: `quantenkommunikation-via-satellit`
+
+_Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schlüsselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/8..._
+
+# Quantenkommunikation via Satellit
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Sofortfragen
+
+1. Welche Rolle: Betreiber, Bodenstationsbetreiber, Forschungsinstitut, KRITIS-Sektor-Anwender oder Aufsichtsbehoerde?
+2. Welche Schlüssellaenge und welcher Protokollstandard (BB84, B92, E91)?
+3. Welche Frequenzbaender (Free-Space-Optical-Communication ueblich; Funklink für Klassisch-Channel)?
+4. Welcher Sicherheitsstufe (VS-NfD, VS-Vertraulich, GEHEIM)?
+5. Welche internationale Reichweite (CN/US-Export, EU-Konsortium)?
+
+## Rechtsrahmen
+
+- **BSI-Gesetz (BSIG)** insbesondere §§ 8a-8b (KRITIS-Pflichten) und § 8c (KRITIS-Dachgesetz) iVm KRITIS-DachG-Entwurf 2023. Quantum-Backbone als IT-Infrastruktur kritischer Versorgungssektoren ist regelmaessig KRITIS-pflichtig.
+- **NIS2-Richtlinie (EU) 2022/2555**: Umsetzung in DE durch NIS2-Umsetzungsgesetz (NIS2UmsuCG, in Kraft live verifizieren). Pflichten zur Risikomanagement, Vorfallmeldung 24/72 Stunden, Aufsicht durch BSI.
+- **Sicherheitsueberpruefungsgesetz (SUeG)** und **Geheimschutzhandbuch (GHB)**: bei Beschäftigten mit VS-Berechtigung.
+- **VS-NfD-Bestimmungen** für raumfahrtbezogene Verschluesselungstechnologie.
+- **Wassenaar Arrangement** und **EU Dual-Use-Verordnung (EU) 2021/821**: Quantum-Schlüsselverteilungssysteme sind unter Position 5A002 (Information Security) und Position 5A004 (Quantum Computing) listenpflichtig.
+- **Telekommunikationsgesetz (TKG)** § 165 zur Sicherheit von Telekommunikationsnetzen.
+- **DSGVO** Art. 32 zur Sicherheit der Verarbeitung.
+- **ITU Radio Regulations**: Frequenzkoordinierung für Klassisch-Channel (Tracking, Telemetry, Command, Daten-Downlink).
+
+## Architektur und Pflichtenmatrix
+
+- **Space Segment**: QKD-Payload (z. B. Polarisationskorrelation), Pointing-System, Klassisch-Funktion für Schlüsselauthentifikation.
+- **Ground Segment**: Optische Bodenstation, Wetterabhaengigkeit, Sichtbarkeitsfenster.
+- **Key Management System**: Schlüsselverwertung in symmetrischer Krypto (AES-256 oder kuenftige PQC-Algorithmen).
+- **Trusted Node Architecture**: in EuroQCI mehrstufiges Vertrauensmodell.
+- **Sicherheitsanforderungen**: Common Criteria EAL 4+ als Minimum; bei GEHEIM-Stufe EAL 6+.
+
+## Beweissicherung im Zwischenfall
+
+- **Side-Channel-Angriffe** (Photon-Number-Splitting, Bright-Light-Injection): protokollarisch dokumentieren.
+- **Trojan-Horse-Attacks**: Hardware-Side-Channel-Analyse vorhalten.
+- **Forensik**: Roh-Photonenstatistik archivieren (mind. 12 Monate, idealerweise gesamte Missionsdauer).
+- **Meldepflichten**: BSI nach NIS2; Bundesnetzagentur nach TKG § 168; bei VS-Vorfall MAD/BND-Koordination.
+
+## Versicherbarkeit
+
+- TLI-/IOL-Versicherung mit Sondersummen für kryptografische Payloads.
+- Cyber-Cover-Klauseln prüfen (oft Ausschluss bei staatlich gesponserten Angriffen).
+- Lloyd's LMA5403 als haufige Cyber-Ausschlussklausel.
+
+## Prüfraster
+
+1. KRITIS-Pflicht ausgeloest? — § 8a BSIG.
+2. NIS2-Pflichten (Vorfallmeldung 24/72h, Risikomanagement)?
+3. Exportkontrolle (BAFA, Dual-Use-VO)?
+4. Sicherheitsueberpruefung der Mitarbeiter?
+5. Frequenzlizenz BNetzA?
+6. Versicherung deckt Cyber + kryptografischer Schaden?
+7. Schlüsselmanagement nach BSI TR-02102?
+
+---
+
+## Skill: `space-weather-solarsturm-haftung-und-versicherung`
+
+_Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhältnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zu..._
+
+# Space Weather: Solarsturm-Haftung und Versicherung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Sofortfragen
+
+1. Rolle: Satellitenbetreiber, Energieversorger, TK-Anbieter, Luftfahrtgesellschaft, Versicherer, Aufsichtsbehoerde?
+2. Welches Ereignis (CME-Ankunftsdatum, Kp-Index, F10.7 Solar Flux)?
+3. Schadensumfang (Satellitenausfall, Bahnsenkung durch erhoehte Atmosphaere, Stromausfall, GPS-Drift)?
+4. Versicherungsschutz und Anzeigeobliegenheiten?
+5. KRITIS-Sektor betroffen?
+
+## Wissenschaftlich-rechtliche Klassifikation
+
+- **NOAA G-Skala (G1 bis G5)** und **R-Skala** (Radioblackouts) als Standardklassifizierung.
+- **Carrington-Ereignis 1859** geschaetzte G5+ — historisches Maximum.
+- **Quebec-Blackout 13.03.1989** G5 — Hydro-Quebec-Netz 9 Std. ausgefallen, 6 Mio. Menschen ohne Strom.
+- **Halloween-Storms Oktober/November 2003** G5 — Satellitenausfall (z. B. ADEOS-2), GPS-Drift, Luftfahrtumleitungen.
+- **Gannon Storm Mai 2024** G5 — starke Aurora bis ins Mittelmeer; Starlink reduzierte Höhe, mehrere kommerzielle Satelliten temporaer ausser Betrieb.
+
+## Vertrags- und Versicherungsrecht
+
+- **Force-Majeure-Klauseln**: hauptstreit, ob Solarsturm als hoehere Gewalt qualifiziert. Argumente pro: nicht beherrschbar, nicht versicherbar im Vollumfang. Argumente contra: vorhersehbar via NOAA SWPC und ESA SSA mit Vorlauf bis zu 72 Stunden, Mitigation möglich (Safe-Mode, Bahnkorrektur, Stromnetzdrosselung).
+- **Versicherungsklauseln**: Lloyd's LMA5390 (TLI) und Folgevarianten beinhalten Naturereignisse als Deckungsfall, schliessen aber "wilful misconduct" und unzureichende Mitigation aus. Bei Solarsturm idR Deckung wenn Warnung vom Betreiber befolgt wurde.
+- **Cyber-vs-Naturklauseln**: Klare Trennung; geomagnetisch induzierte Stromschwankungen sind Naturereignisse, kein Cyber-Vorfall.
+- **Sublimits**: oft 25-50 Mio. Euro für geomagnetisch induzierte Schaeden je Versicherer-Einheit.
+
+## KRITIS und NIS2
+
+- **§ 8a BSIG**: Betreiber Kritischer Infrastrukturen Energie und Telekommunikation müssen Vorkehrungen gegen Space Weather als Naturgefahr treffen (Stellungnahme BSI 2022, Az im Digitalisat verifizieren).
+- **NIS2-Richtlinie**: Risikomanagement umfasst geophysikalische Ereignisse; Vorfallmeldung bei betrieblicher Stoerung.
+- **EnWG § 11**: Pflicht der Netzbetreiber zur Aufrechterhaltung; spezifische Vorgaben der BNetzA zur Reservehaltung gegen geomagnetisch induzierte Stroeme (GIC) live verifizieren.
+
+## Luftfahrt
+
+- **ICAO Annex 3 Amendment 78 (2018)**: Pflicht zur Space-Weather-Information bei Luftverkehrsdiensten.
+- **EUROCONTROL Space Weather Service**: Echtzeit-Warnungen.
+- **Polare Routen**: Umleitungspflicht bei hoher Strahlenexposition (R3-R5).
+
+## Prüfraster
+
+1. Ereignisklassifikation (G/R-Skala, F10.7)?
+2. Welche Vorwarnung hat NOAA SWPC / ESA SSA gegeben? Vorlauf?
+3. Hat der Betreiber Mitigation eingeleitet (Safe-Mode, Bahnkorrektur, Netzdrosselung)?
+4. Schadensbild Schaden konkret (Satellit, Netz, GPS, TK)?
+5. Versicherungsschutz, Sublimit, Wartefrist?
+6. KRITIS- oder NIS2-Meldepflicht ausgeloest?
+7. Force-Majeure-Klausel in welcher Fassung?
 
 ---
 

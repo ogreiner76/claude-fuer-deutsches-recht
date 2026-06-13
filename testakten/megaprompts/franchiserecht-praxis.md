@@ -25,7 +25,7 @@ _Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Franchiserecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Franchiserecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -322,14 +322,14 @@ _Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behande
 ## Kartellrechtliche Themen
 
 - Vertriebsverordnung VBE (EU) 2022/720.
-- Hoechstpreisbindung zulaessig, Mindestpreisbindung unzulaessig.
+- Hoechstpreisbindung zulässig, Mindestpreisbindung unzulaessig.
 - Verbund von Wettbewerbsverboten muss VBE-konform sein (Marktanteilsschwelle 30 Prozent).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Struktur?
 2. Welches Recht je Ebene?
-3. Kartellrechtliche Pruefung?
+3. Kartellrechtliche Prüfung?
 4. Sub-Franchisee-Schutz?
 
 ---
@@ -381,7 +381,7 @@ _Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der P
 - Vertragsaufhebung mit Rueckabwicklung.
 - Differenzschaden (Verlust gegenueber alternativer Verwendung).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Aufklaerung wurde gegeben?
 2. Welche Angaben fehlen?

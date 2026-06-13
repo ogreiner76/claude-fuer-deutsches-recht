@@ -12,8 +12,8 @@ Dieser Megaprompt enthaelt top-8 von 138 Skills (gekuerzt fuer Chat-Fenster) des
 4. **anhoerung-sozialverwaltungsverfahren-24-sgb-x** — Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belast…
 5. **sachstandsanfrage-und-untaetigkeitsbeschwerde** — Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörd…
 6. **akteneinsicht-25-sgb-x** — Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkung…
-7. **krankenkassen-mds-stellungnahme** — Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung…
-8. **pflegekasse-pflegehilfsmittel-40-sgb-xi** — Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro…
+7. **pflegekasse-pflegehilfsmittel-40-sgb-xi** — Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro…
+8. **krankenkassen-mds-stellungnahme** — Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung…
 
 ---
 
@@ -157,13 +157,13 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
+| `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein großer Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
 | `anfaenger-workflow-sozialgericht` | Geführter Anfänger-Workflow: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
 | `anfechtungsklage-54-sgg` | Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt. |
-| `anlagen-bezeichnen-und-sortieren-sozialgericht` | Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren. |
+| `anlagen-bezeichnen-und-sortieren-sozialgericht` | Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Kläger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren. |
 | `anwaltskosten-bei-erfolg-erstattung` | Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte. |
-| `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen. |
-| `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt. |
+| `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen können. |
+| `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Höhe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Höhe ALG I für Buerger ohne Anwalt. |
 | `arztberichte-vorlegen-laien-leitfaden` | Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext. |
 | `beratungshilfe-vor-widerspruch-brh` | Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil. |
 | `berufung-lsg-144-sgg-wertgrenze-750` | Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung. |
@@ -185,7 +185,7 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 | `erwerbsminderungs-rente-streit-sgb-vi` | EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV. |
 | `fahrtkosten-zeugen-pkh-erstattung` | Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden. |
 | `feststellungsklage-55-sgg` | Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext. |
-| `fristen-berechnen-sgg-laien` | Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt. |
+| `fristen-berechnen-sgg-laien` | Alle wichtigen Fristen im SG-Verfahren überblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt. |
 | `fristenbuch-fuehren-laien-sozialgericht` | Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt. |
 | `fristverlaengerung-sozialgericht-laien` | Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten. |
 | `gerichtskostenfreiheit-183-sgg` | Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen. |
@@ -211,7 +211,7 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 | `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat: findet, erklärt und bewertet BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung. |
 | `sachverstaendigen-wahlrecht-109-sgg` | Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag. |
 | `sanity-check-selbstvertretung-sozialgericht` | Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung: prüft Frist, Bescheidkette, Klageart, Eilbedürftigkeit, Belege, Antrag, Kosten und rote Flaggen. |
-| `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
+| `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen können oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
 | `sozialgericht-zuständigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
 | `sozialleistungen-uebersicht-sgb` | Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger. |
 | `teilstattgabe-vollstattgabe-verstehen` | Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen. |
@@ -227,9 +227,9 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 | `video-verhandlung-110a-sgg` | Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen. |
 | `wann-doch-anwalt-grenzfaelle-sozialgericht` | Wann sollten Sie als Buerger doch einen Anwalt einschalten. Komplexe medizinische Fragen mehrere Bescheide LSG-Verfahren Beratungshilfe PKH. Entscheidungshilfe. |
 | `widerspruch-begruendung-laienleitfaden` | Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen. |
-| `widerspruch-gegen-gutachten-laien` | Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt. |
+| `widerspruch-gegen-gutachten-laien` | Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erläuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt. |
 | `widerspruch-ohne-anwalt-einreichen` | Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persönliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt. |
-| `widerspruch-vorverfahren-78-sgg` | Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext. |
+| `widerspruch-vorverfahren-78-sgg` | Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage müssen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext. |
 | `widerspruchsbescheid-was-jetzt` | Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid. |
 | `widerspruchsfrist-84-sgg` | Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen. |
 | `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |
@@ -265,17 +265,17 @@ _Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfä
 
 ## Worum geht es?
 
-Sie haben einen Bescheid bekommen, der Ihnen nicht passt. Vielleicht von der Krankenkasse, dem Jobcenter, dem Versorgungsamt oder der Rentenversicherung. Sie wollen sich wehren — und das ohne Anwalt. Diese Skill ist Ihr erster Wegweiser. Sie zeigt, wie das Sozialgericht arbeitet und wo Sie weiterlesen muessen.
+Sie haben einen Bescheid bekommen, der Ihnen nicht passt. Vielleicht von der Krankenkasse, dem Jobcenter, dem Versorgungsamt oder der Rentenversicherung. Sie wollen sich wehren — und das ohne Anwalt. Diese Skill ist Ihr erster Wegweiser. Sie zeigt, wie das Sozialgericht arbeitet und wo Sie weiterlesen müssen.
 
 ## In einfacher Sprache
 
-Sie sind nicht einverstanden mit einem Bescheid. Sie koennen sich wehren. Das geht ohne Anwalt. Das kostet Sie nichts. Wir zeigen Ihnen den Weg.
+Sie sind nicht einverstanden mit einem Bescheid. Sie können sich wehren. Das geht ohne Anwalt. Das kostet Sie nichts. Wir zeigen Ihnen den Weg.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben gerade einen Bescheid bekommen und wissen nicht, was zu tun ist.
 - Sie wollen wissen, welche Wege es gibt.
-- Sie suchen einen Ueberblick, bevor Sie tiefer einsteigen.
+- Sie suchen einen Überblick, bevor Sie tiefer einsteigen.
 - Sie wollen in einfacher Sprache geführt werden.
 - Sie wollen vor Abgabe prüfen, ob Widerspruch, Klage oder Eilantrag vollständig sind.
 
@@ -291,8 +291,8 @@ Sie sind nicht einverstanden mit einem Bescheid. Sie koennen sich wehren. Das ge
 
 - **§ 73 SGG** — Sie brauchen keinen Anwalt vor dem SG und dem Landessozialgericht (LSG). Nur vor dem Bundessozialgericht (BSG) brauchen Sie einen Anwalt.
 - **§ 183 SGG** — Kein Geld für das Gericht, wenn Sie Versicherter, Leistungsempfaenger oder Behinderter sind.
-- **§ 103 SGG** — Das Gericht ermittelt von Amts wegen. Es muss selbst pruefen, was wahr ist.
-- **§ 78 SGG** — Vor der Klage muessen Sie Widerspruch einlegen.
+- **§ 103 SGG** — Das Gericht ermittelt von Amts wegen. Es muss selbst prüfen, was wahr ist.
+- **§ 78 SGG** — Vor der Klage müssen Sie Widerspruch einlegen.
 - **§ 84 SGG** — Frist für den Widerspruch: ein Monat.
 - **§ 87 SGG** — Frist für die Klage: ein Monat nach Widerspruchsbescheid.
 
@@ -340,11 +340,11 @@ Welches Sozialgesetzbuch (SGB) betrifft Ihren Bescheid?
 
 Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch, Klage, Eilantrag oder Stellungnahme abschicken. Bei Urteil oder Berufung nutzen Sie `zulassungsgrenzen-check-sozialgericht`. Bei Zitaten aus Rechtsprechung oder Behördenargumenten nutzen Sie `rechtsprechungschat-sozialgericht`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Die Frist!** Wenn Sie die Frist verpassen, ist Ihr Recht oft weg. Lesen Sie `wiedereinsetzung-frist-67-sgg`, falls die Frist schon abgelaufen ist.
 - **Der Bescheid muss eine Rechtsbehelfsbelehrung enthalten.** Fehlt sie, gilt eine Jahresfrist statt einem Monat (§ 66 Abs. 2 SGG).
-- **Schriftlich oder zur Niederschrift.** Ein Telefonat reicht nie. Schreiben Sie immer, oder gehen Sie auf die Geschaeftsstelle.
+- **Schriftlich oder zur Niederschrift.** Ein Telefonat reicht nie. Schreiben Sie immer, oder gehen Sie auf die Geschäftsstelle.
 
 ## Typische Fehler
 
@@ -355,7 +355,7 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
+Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit prüfen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
 
 ---
 
@@ -392,7 +392,7 @@ _Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen di
 - Indizwirkung — aber nicht abschliessend.
 - BSG-Linie: Aufnahme nicht zwingend, fehlende Aufnahme nicht ausschluss.
 
-## Mehrkosten ueber Festbetrag
+## Mehrkosten über Festbetrag
 
 - Bei hoeherer Hilfsmittelversorgung Eigenanteil oder Mehrkosten.
 - Erstattung der Mehrkosten nur bei medizinischer Notwendigkeit (BSG).
@@ -410,7 +410,7 @@ _Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen di
 - Bei Stellungnahme MD: 5 Wochen.
 - Bei Ueberschreitung: Genehmigungsfiktion mit Folge Anspruch.
 
-## Pruefraster
+## Prüfraster
 
 1. Hilfsmittel im engeren Sinn?
 2. Verordnung vorhanden?
@@ -422,7 +422,7 @@ _Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen di
 
 ## Skill: `anhoerung-sozialverwaltungsverfahren-24-sgb-x`
 
-_Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster._
+_Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Prüfraster._
 
 # Anhörung Im Sozialverwaltungsverfahren 24 Sgb X
 
@@ -434,7 +434,7 @@ _Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstve
 
 ## Wann ist anzuhoeren
 
-§ 24 Abs. 1 SGB X: Vor Erlass eines belastenden Verwaltungsakts soll der Beteiligte angehoert werden. Belastend ist auch jede Aenderung zu Lasten — Aufhebung Rueckforderung Sanktion Leistungskuerzung.
+§ 24 Abs. 1 SGB X: Vor Erlass eines belastenden Verwaltungsakts soll der Beteiligte angehoert werden. Belastend ist auch jede Änderung zu Lasten — Aufhebung Rueckforderung Sanktion Leistungskuerzung.
 
 ## Ausnahmen § 24 Abs. 2 SGB X
 
@@ -457,14 +457,14 @@ _Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstve
 ## Wenn Anhörung unterblieben ist
 
 - Verwaltungsakt formell rechtswidrig (§ 41 Abs. 1 Nr. 3 SGB X).
-- Heilung moeglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
+- Heilung möglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
 - Daher Anhörungsmangel im Widerspruch ruegen und materiell verteidigen.
 
 ## Vorlage
 
 "In dem Verwaltungsverfahren zu Aktenzeichen [...] nehme ich zur Anhörung Stellung wie folgt: [...] Ich beantrage Akteneinsicht und behalte mir vor weitere Beweisangebote nachzureichen."
 
-## Pruefraster
+## Prüfraster
 
 1. Liegt belastender VA in Vorbereitung?
 2. Anhörung erfolgt?
@@ -497,7 +497,7 @@ _Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstve
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
 
@@ -528,7 +528,7 @@ _Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Sk
 ### 3. Dienstaufsichtsbeschwerde
 - An die uebergeordnete Stelle.
 - Bei Krankenkassen: Aufsichtsbehoerde des Landes.
-- Bei Jobcenter: Bundesagentur für Arbeit / Geschaeftsfuehrung.
+- Bei Jobcenter: Bundesagentur für Arbeit / Geschäftsführung.
 - Bei DRV: Bundesversicherungsamt.
 
 ### 4. Untaetigkeitsklage § 88 SGG
@@ -542,9 +542,9 @@ _Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Sk
 
 ## Vorlage Mahnung
 
-"Trotz meiner Sachstandsanfrage vom [Datum] ist bisher keine Entscheidung ergangen. Ich setze hiermit Frist bis zum [Datum 14 Tage spaeter]. Andernfalls werde ich Untaetigkeitsklage erheben."
+"Trotz meiner Sachstandsanfrage vom [Datum] ist bisher keine Entscheidung ergangen. Ich setze hiermit Frist bis zum [Datum 14 Tage später]. Andernfalls werde ich Untaetigkeitsklage erheben."
 
-## Pruefraster
+## Prüfraster
 
 1. Wartezeit seit Antrag?
 2. Sachstandsanfrage erfolgt?
@@ -556,7 +556,7 @@ _Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Sk
 
 ## Skill: `akteneinsicht-25-sgb-x`
 
-_Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage._
+_Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhältnis zur DSGVO-Auskunft. Liefert Antragsvorlage._
 
 # Akteneinsicht 25 Sgb X
 
@@ -573,14 +573,14 @@ _Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo 
 ## Beschraenkung § 25 Abs. 3 SGB X
 
 - Akten zur Vorbereitung der Entscheidung (Entwurfsakten): teilweise gesperrt.
-- Persoenliche Verhaeltnisse Dritter.
+- Persoenliche Verhältnisse Dritter.
 - Geschäftsgeheimnisse Dritter.
 - Schwerwiegende Belange Dritter.
 
 ## Wann beantragen
 
 - Sofort nach Anhörung oder Widerspruchseinlegung.
-- Im laufenden Antragsverfahren ueberall moeglich.
+- Im laufenden Antragsverfahren ueberall möglich.
 
 ## Wo beantragen
 
@@ -592,17 +592,17 @@ _Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo 
 - Behörde gewaehrt Einsicht in den Diensträumen.
 - Auf Antrag oft auch Kopie / Scan zugesandt — gegen Kostenpauschale.
 
-## Verhaeltnis zur DSGVO
+## Verhältnis zur DSGVO
 
 - DSGVO Art. 15 gibt zusaetzliches Auskunftsrecht.
 - DSGVO ist nicht durch § 25 SGB X verdraengt.
-- Bei Streit ueber Akteninhalt beide Anspruchsgrundlagen geltend machen.
+- Bei Streit über Akteninhalt beide Anspruchsgrundlagen geltend machen.
 
 ## Vorlage
 
 "Hiermit beantrage ich nach § 25 SGB X Einsicht in die Sozialakte zum Aktenzeichen [...] sowie hilfsweise Auskunft nach Art. 15 DSGVO. Ich bitte um Mitteilung des Termins bzw. Uebersendung der Akte in Kopie oder als PDF."
 
-## Pruefraster
+## Prüfraster
 
 1. Rechtliches Interesse?
 2. Antrag formuliert?
@@ -634,15 +634,64 @@ _Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo 
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
 
 ---
 
+## Skill: `pflegekasse-pflegehilfsmittel-40-sgb-xi`
+
+_Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Maßnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage._
+
+# Pflegekasse Pflegehilfsmittel 40 Sgb Xi
+
+## Fachlicher Anker
+
+- **Normen:** § 7, § 7a, §§ 20.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Verbrauchspflegehilfsmittel
+
+§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat für zum Verbrauch bestimmte Pflegehilfsmittel.
+
+- Beispiele: Einmalhandschuhe Bettschutzeinlagen Desinfektionsmittel.
+- Direkter Bezug über Anbieter oder Apotheke.
+
+## Technische Pflegehilfsmittel
+
+§ 40 Abs. 1 SGB XI:
+- Pflegebett.
+- Rollstuhl (vorrangig SGB V).
+- Lagerungshilfen.
+- Notrufsysteme.
+
+## Wohnumfeldverbessernde Maßnahmen
+
+§ 40 Abs. 4 SGB XI:
+- Treppenlift Badewanneneinstieg Tuerverbreiterung.
+- Zuschuss bis 4000 Euro je Maßnahme.
+- Bei mehreren Pflegebeduerftigen im Haushalt addieren.
+
+## Antrag
+
+- Bei der Pflegekasse.
+- Kostenvoranschlag, Notwendigkeitsnachweis.
+
+## Prüfraster
+
+1. Welcher Bedarf?
+2. Verbrauchs- oder technisches Hilfsmittel?
+3. Wohnumfeldmassnahme?
+4. Kostenvoranschlag eingereicht?
+5. Hoechstbetraege beachtet?
+
+---
+
 ## Skill: `krankenkassen-mds-stellungnahme`
 
-_Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Pruefung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Pruefraster._
+_Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Prüfung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Prüfraster._
 
 # Krankenkassen Mds Stellungnahme
 
@@ -663,12 +712,12 @@ _Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die
 - Hausbesuch in der Regel.
 - Modul 1 bis 6 nach Pflegestaerkungsgesetzen.
 
-### AU-Pruefung
+### AU-Prüfung
 - Bei laenger andauernder AU.
-- "Auf Heller und Pfennig" pruefen — kritisches Gutachten.
+- "Auf Heller und Pfennig" prüfen — kritisches Gutachten.
 
 ### Reha-Begutachtung
-- Notwendigkeit Reha pruefen.
+- Notwendigkeit Reha prüfen.
 
 ### Hilfsmittel-Begutachtung
 - Erforderlichkeit und Mehrkosten.
@@ -690,62 +739,13 @@ _Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die
 - Subjektive Eindrucks-Bewertung.
 - Telefonbegutachtung oft kritisch.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Gutachten?
 2. Akteneinsicht erfolgt?
 3. Inhaltliche Schwaechen?
 4. Eigene Beweise?
 5. Widerspruchsstrategie?
-
----
-
-## Skill: `pflegekasse-pflegehilfsmittel-40-sgb-xi`
-
-_Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Massnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage._
-
-# Pflegekasse Pflegehilfsmittel 40 Sgb Xi
-
-## Fachlicher Anker
-
-- **Normen:** § 7, § 7a, §§ 20.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Verbrauchspflegehilfsmittel
-
-§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat für zum Verbrauch bestimmte Pflegehilfsmittel.
-
-- Beispiele: Einmalhandschuhe Bettschutzeinlagen Desinfektionsmittel.
-- Direkter Bezug ueber Anbieter oder Apotheke.
-
-## Technische Pflegehilfsmittel
-
-§ 40 Abs. 1 SGB XI:
-- Pflegebett.
-- Rollstuhl (vorrangig SGB V).
-- Lagerungshilfen.
-- Notrufsysteme.
-
-## Wohnumfeldverbessernde Massnahmen
-
-§ 40 Abs. 4 SGB XI:
-- Treppenlift Badewanneneinstieg Tuerverbreiterung.
-- Zuschuss bis 4000 Euro je Massnahme.
-- Bei mehreren Pflegebeduerftigen im Haushalt addieren.
-
-## Antrag
-
-- Bei der Pflegekasse.
-- Kostenvoranschlag, Notwendigkeitsnachweis.
-
-## Pruefraster
-
-1. Welcher Bedarf?
-2. Verbrauchs- oder technisches Hilfsmittel?
-3. Wohnumfeldmassnahme?
-4. Kostenvoranschlag eingereicht?
-5. Hoechstbetraege beachtet?
 
 ---
 

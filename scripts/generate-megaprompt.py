@@ -26,14 +26,12 @@ from pathlib import Path
 REPO = Path('/home/user/claude-fuer-deutsches-recht')
 OUT = REPO / 'testakten' / 'megaprompts'
 
-# Plugins, die wir explizit AUSSCHLIESSEN (zu gross, zu fragmentiert,
-# Megaprompt nicht sinnvoll):
-EXCLUDE_PLUGINS = {
-    'corporate-kanzlei',  # zu gross fuer ein Mega-Prompt
-    'urteilsbauer-relationsmacher',  # tooling, kein workflow
-    'verlagsredaktion',
-    'zwangsverwaltung-zvg',
-}
+# Plugins, die wir explizit AUSSCHLIESSEN:
+# Aktuell keine Ausschluesse — alle vier ehemals ausgeschlossenen Plugins
+# (corporate-kanzlei, urteilsbauer-relationsmacher, verlagsredaktion,
+# zwangsverwaltung-zvg) werden jetzt mit dem Top-N-Tiering ueber
+# entries_for_size() abgedeckt und bekommen Megaprompts.
+EXCLUDE_PLUGINS: set[str] = set()
 
 # Hinweis: Der Disclaimer- und Verwendungs-Block steht im jeweiligen
 # Plugin-README, nicht im Megaprompt-Markdown selbst — der Megaprompt
@@ -86,6 +84,34 @@ def collect_skills(plugin_dir: Path) -> list[tuple[str, Path, str, str]]:
     return skills
 
 
+GITHUB_BLOB = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main"
+
+
+def rewrite_relative_links(body: str, plugin: str) -> str:
+    """Schreibt Repo-interne relative Markdown-Links in absolute GitHub-URLs um.
+
+    Im konkatenierten Megaprompt funktionieren die urspruenglichen
+    `../../references/...`-Pfade nicht, weil die Datei unter
+    `testakten/megaprompts/<plugin>.md` liegt. Wir loesen sie zum Skill-
+    Verzeichnis hin auf und erzeugen GitHub-Blob-URLs.
+    """
+    # Pattern: ](../*pfad) — wir ersetzen den (../)+ Praefix.
+    def repl(m: re.Match[str]) -> str:
+        ups = m.group(1).count('../')
+        rest = m.group(2)
+        # Skill liegt unter <plugin>/skills/<slug>/SKILL.md.
+        # Mit ups=3 wandert man zum Repo-Root. Sonst Pfad als-ist verwenden.
+        if ups >= 3:
+            return f"]({GITHUB_BLOB}/{rest})"
+        if ups == 2:
+            return f"]({GITHUB_BLOB}/{plugin}/{rest})"
+        if ups == 1:
+            return f"]({GITHUB_BLOB}/{plugin}/skills/{rest})"
+        return m.group(0)
+
+    return re.sub(r"\]\((\.\./(?:\.\./)*)([^)]+)\)", repl, body)
+
+
 def build_megaprompt(plugin_dir: Path) -> str | None:
     """Erzeugt Megaprompt-Markdown fuer ein Plugin. None bei skip."""
     plugin = plugin_dir.name
@@ -131,7 +157,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
         if desc:
             lines.append(f'_{desc}_')
             lines.append('')
-        lines.append(body)
+        lines.append(rewrite_relative_links(body, plugin))
         lines.append('')
         lines.append('---')
         lines.append('')

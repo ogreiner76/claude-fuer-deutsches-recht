@@ -8,19 +8,19 @@ Dieser Megaprompt enthaelt top-15 von 48 Skills des Plugins `forderungsmanagemen
 
 1. **kaltstart-triage** — Dokumentengetriebene Ersttriage einer Forderungsakte: wertet zuerst Ordner, ZIP, Rechnungen, Mahnungen, Kontoauszuege, M…
 2. **anspruchsschriftsatz-bausteine** — Bausteinkatalog für eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen für Rubrum Antrag Tatbestand A…
-3. **belegte-compliance-aktenvermerk** — Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentie…
-4. **forderung-arzthonorar-goae** — Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-…
-5. **forderung-gegen-gmbh-gesellschafter** — Forderung gegen GmbH-Gesellschafter persoenlich: § 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. …
-6. **forderung-gegen-insolventen-schuldner** — Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe…
-7. **forderung-gegen-verbraucher** — Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fer…
-8. **forderung-im-ausland-vollstrecken** — Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckung…
-9. **forderung-internationaler-bezug** — Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zustä…
-10. **forderung-werkvertrag-bau** — Werklohnforderung § 631, § 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag §§ 650a ff. BGB (seit 2018), V…
-11. **forderungen-interessen-matrix** — Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptf…
-12. **fristen-risikoampel** — Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjährung Klagefrist Einspruchsfrist Beschwerdefri…
-13. **klage-einreichungslogik** — Praktische Einreichungslogik einer Zahlungsklage. Klaert Zuständigkeit Gerichtskostenvorschuss beA-Pflicht Anzahl Abschr…
-14. **mahnbescheid-online** — Mahnbescheid (§§ 688-703d ZPO) online beantragen: zentrales Mahngericht je Bundesland, online-mahnbescheid.de, Widerspru…
-15. **mahnverfahren-beweislast-darlegungslast** — Beweislast und Darlegungslast in Mahnverfahren und Klage: Klaeger traegt Darlegungs- und Beweislast für anspruchsbegruen…
+3. **forderung-arzthonorar-goae** — Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-…
+4. **forderung-gegen-gmbh-gesellschafter** — Forderung gegen GmbH-Gesellschafter persoenlich: § 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. …
+5. **forderung-gegen-insolventen-schuldner** — Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe…
+6. **forderung-gegen-verbraucher** — Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fer…
+7. **forderung-im-ausland-vollstrecken** — Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckung…
+8. **forderung-internationaler-bezug** — Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zustä…
+9. **forderungen-interessen-matrix** — Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptf…
+10. **fristen-risikoampel** — Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjährung Klagefrist Einspruchsfrist Beschwerdefri…
+11. **klage-einreichungslogik** — Praktische Einreichungslogik einer Zahlungsklage. Klaert Zuständigkeit Gerichtskostenvorschuss beA-Pflicht Anzahl Abschr…
+12. **mandantenkommunikation** — Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandantenin…
+13. **quellenkarte** — Kuratierte Quellenkarte für Forderungsmanagement Klagewerkstatt. Sortiert nach Gesetzen Rechtsprechung Verordnungen EU-R…
+14. **redteam-qualitygate** — Red-Team-Review eines fertigen Schriftsatzes oder Mahnbescheidsantrags. Sucht aus Sicht der Gegenseite nach Angriffsflae…
+15. **tatbestand-beweis-belege** — Schluessige Tatbestandsdarstellung in einer Klage oder einem Schriftsatz mit Verknuepfung zu Beweisen und Belegen. Verla…
 
 ---
 
@@ -30,7 +30,7 @@ _Dokumentengetriebene Ersttriage einer Forderungsakte: wertet zuerst Ordner, ZIP
 
 # Kaltstart-Triage Forderungssache
 
-Eingangsroutine fuer jede neue Forderungsakte. Ziel ist nicht ein Formularinterview, sondern eine belastbare Aktenhypothese mit moeglichst wenigen Rueckfragen.
+Eingangsroutine für jede neue Forderungsakte. Ziel ist nicht ein Formularinterview, sondern eine belastbare Aktenhypothese mit moeglichst wenigen Rueckfragen.
 
 ## Grundsatz: Akte zuerst, Fragen danach
 
@@ -52,7 +52,7 @@ Ich frage jetzt nur noch die Punkte ab, die aus den Unterlagen nicht sicher folg
 
 | Luecke | Frage | Nur stellen, wenn |
 |---|---|---|
-| Rolle unklar | "Ich vermute, du bist auf Seite [Glaeubiger/Schuldner]. Stimmt das?" | Vollmacht, Briefkopf oder Anschreiben widerspruechlich |
+| Rolle unklar | "Ich vermute, du bist auf Seite [Gläubiger/Schuldner]. Stimmt das?" | Vollmacht, Briefkopf oder Anschreiben widerspruechlich |
 | Ziel unklar | "Soll ich eintreiben, abwehren, vergleichen oder nur sortieren?" | kein Mandatsziel aus Mail/Anschreiben erkennbar |
 | Frist unklar | "Gibt es eine Frist ausserhalb der Akte?" | gerichtliche Frist oder Verjaehrungsdruck nicht sicher |
 | Zahlung unklar | "Ist nach dem letzten Kontoauszug noch etwas bezahlt worden?" | Kontoauszug endet vor aktueller Aktenlage |
@@ -69,7 +69,7 @@ Mehr als drei Startfragen sind nur erlaubt, wenn Fristversaeumnis oder falsche P
 | Bestreiten wahrscheinlich oder Anspruch muss begruendet werden | Zahlungsklage | zahlungsklage-erstellen |
 | Hauptforderung bezahlt, nur Kosten/Zinsen offen | Klageblocker | klagefreigabe-belegte-forderung |
 | Forderung wackelig, Belege unklar, Vergleich wirtschaftlich sinnvoll | aussergerichtliche Mahnung oder Vergleich | mahnung-aussergerichtlich-stufenmodell |
-| Titel liegt bereits vor | Vollstreckung | zwangsvollstreckung-ueberblick |
+| Titel liegt bereits vor | Vollstreckung | zwangsvollstreckung-überblick |
 
 ## Risikoampel Erstbewertung
 
@@ -79,7 +79,7 @@ Mehr als drei Startfragen sind nur erlaubt, wenn Fristversaeumnis oder falsche P
 | gelb | Belege luckenhaft Verjährung im laufenden Jahr Schuldner zahlungssaeumig |
 | rot | Verjährung tritt in den naechsten sechzig Tagen ein Schuldner verzogen oder insolvent Belegstand schwach |
 
-Rote Ampel triggert sofort Skill verjaehrung-pruefen und gegebenenfalls Mahnbescheid noch am gleichen Werktag.
+Rote Ampel triggert sofort Skill verjaehrung-prüfen und gegebenenfalls Mahnbescheid noch am gleichen Werktag.
 
 ## Startprodukt
 
@@ -137,7 +137,7 @@ Jeder substantiierte Schriftsatz besteht aus etwa zwoelf Modulen. Dieser Skill h
 | Anspruchsgrund gesetzlich | Tatbestandsmerkmale Norm | je Anspruch |
 | Faelligkeit | Datum Faelligkeit aus Vertrag oder Gesetz | BGB 271 |
 | Verzug | Mahnung oder kalendarische Bestimmung | BGB 286 Abs. 1 oder Abs. 2 |
-| Zinsen | Beginn Hoehe Norm | BGB 288 |
+| Zinsen | Beginn Höhe Norm | BGB 288 |
 | Verzugsschaden Pauschale | 40 Euro bei B2B Hauptforderung | BGB 288 Abs. 5 |
 | Mahn- und Rechtsverfolgungskosten | Datum Rechnung Belege | BGB 280 BGB 286 |
 | Beweis | Zeuge Urkunde Sachverstaendiger Parteivernehmung | ZPO 373 ff |
@@ -167,7 +167,7 @@ Paragraph 286 Absatz 1 BGB.
 
 ## Substantiierungspflicht
 
-ZPO 138 Abs. 1 verlangt vollstaendigen und der Wahrheit gemaess Vortrag. Pauschales Bestreiten reicht beim Beklagten nicht ZPO 138 Abs. 2. Klaeger muss anspruchsbegruendende Tatsachen konkret darlegen mit Datum Ort Personen Belegen.
+ZPO 138 Abs. 1 verlangt vollstaendigen und der Wahrheit gemäß Vortrag. Pauschales Bestreiten reicht beim Beklagten nicht ZPO 138 Abs. 2. Kläger muss anspruchsbegruendende Tatsachen konkret darlegen mit Datum Ort Personen Belegen.
 
 ## Norm-Pinpoints
 
@@ -209,107 +209,13 @@ ZPO 138 Abs. 1 verlangt vollstaendigen und der Wahrheit gemaess Vortrag. Pauscha
 
 ---
 
-## Skill: `belegte-compliance-aktenvermerk`
-
-_Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Pruefraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Mu..._
-
-# Belegte Compliance Aktenvermerk
-
-Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenvermerk. Das schuetzt Mandant Mandantin und Kanzlei.
-
-## Wann Aktenvermerk Pflicht
-
-| Anlass | Inhalt |
-|---|---|
-| Klage nicht aufgenommen wegen Aussichtslosigkeit | Aussichtspruefung Begruendung Mandantenhinweis |
-| Mandantin verzichtet auf Klage | Schreiben Mandant Datum Belehrung erfolgt |
-| Verjährung eingetreten | Pruefung BGB 195 199 Belege Mandantenhinweis |
-| Verzicht auf Zwangsvollstreckung | Schuldnerlage Mandantenentscheid |
-
-## Pflicht-Inhalte
-
-1. Sachverhalt knapp
-2. Pruefraster mit Norm-Pinpoints
-3. Aussichtsbewertung mit Begruendung
-4. Mandantenhinweis und Belehrung
-5. Mandantenentscheidung mit Datum und Unterschrift
-6. Wiedervorlage
-
-## Muster Vermerk
-
-```
-Aktenvermerk zu Akte [Aktenzeichen]
-Mandant [Name]
-Schuldner [Name]
-
-1. Sachverhalt
-[zwei bis vier Saetze]
-
-2. Pruefung
-- Anspruchsgrund Paragraph [Norm]
-- Faelligkeit am [Datum]
-- Verjährung [Status]
-- Belegstand [hoch mittel gering]
-
-3. Bewertung
-Aussicht [gering mittel]. Begruendung [...].
-
-4. Belehrung Mandantin
-Mandantin wurde am [Datum] schriftlich
-auf Risiko und Kostenfolge nach
-Paragraph 91 ZPO hingewiesen.
-
-5. Entscheidung
-Mandantin verzichtet auf Klage Schreiben
-vom [Datum] Anlage [Nr]. Wiedervorlage
-[Datum].
-```
-
-## Norm-Pinpoints
-
-- BORA 50 Aktenpflicht
-- BRAO 43a Verschwiegenheit
-- BGB 280 Beratungsschaden
-
-## Quellen
-
-- [BORA 50](https://www.gesetze-im-internet.de/bora/__50.html)
-- [BRAO 43a](https://www.gesetze-im-internet.de/brao/__43a.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3a RVG
-- § 71 GVG
-- § 19 GmbHG
-- § 8 RVG
-- § 4 RDGEG
-- § 41 GKG
-- § 13 GmbHG
-- § 31 GmbHG
-- § 9 RVG
-- § 23a GVG
-- § 23 RVG
-- § 215 VVG
-
-### Leitentscheidungen
-
-- BGH II ZR 256/02
-- BGH VII ZR 162/00
-- EuGH C-377/17
-- BGH VIII ZR 261/06
-- BGH XI ZR 564/15
-
----
-
 ## Skill: `forderung-arzthonorar-goae`
 
 _Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-Ziffer und Steigerungsfaktor Regel-Schwellenwert sowie bei Ueberschreitung mit schriftlicher Begruendung. Verjährung § 195 BGB drei Jahre. Beweislast Steigerung beim Arzt. Klage..._
 
 # Arzthonorar nach GOAE und GOZ
 
-Geltendmachung des Honoraranspruchs aus Behandlungsvertrag mit Privatpatient. GKV-Patienten: nicht ueber GOAE, sondern KV-EBM, abrechnen mit KV (anderes Skill).
+Geltendmachung des Honoraranspruchs aus Behandlungsvertrag mit Privatpatient. GKV-Patienten: nicht über GOAE, sondern KV-EBM, abrechnen mit KV (anderes Skill).
 
 ## Anspruchsgrundlage
 
@@ -329,7 +235,7 @@ Geltendmachung des Honoraranspruchs aus Behandlungsvertrag mit Privatpatient. GK
    - Bezeichnung der Leistung mit GOAE-Ziffer
    - Steigerungsfaktor
    - Betrag
-   - Bei Schwierigkeitsanstieg ueber 2,3 (Schwellenwert): **schriftliche, fall- und patientenbezogene Begruendung**.
+   - Bei Schwierigkeitsanstieg über 2,3 (Schwellenwert): **schriftliche, fall- und patientenbezogene Begruendung**.
 
 Faelligkeit tritt **erst mit ordnungsgemaesser Rechnungserteilung** ein. Vor Erteilung kein Verzug.
 
@@ -342,7 +248,7 @@ Faelligkeit tritt **erst mit ordnungsgemaesser Rechnungserteilung** ein. Vor Ert
 | Regelfall (Schwellenwert) | 2,3 (1,8 für techn. Leistungen Labor) | keine Begruendung |
 | Erhoehung 1,0 - 2,3 | bis 2,3 | keine schriftliche Begruendung |
 | Ueberschreitung 2,3 - 3,5 | bis 3,5 | schriftliche Begruendung (Schwierigkeit, Zeitaufwand) |
-| Ueber 3,5 (Hoechstsatz) | mehr als 3,5 | Vereinbarung im Voraus schriftlich (§ 2 GOAE) |
+| Über 3,5 (Hoechstsatz) | mehr als 3,5 | Vereinbarung im Voraus schriftlich (§ 2 GOAE) |
 | Laborleistungen | 1,15 oder 1,8 | feste Saetze |
 
 GOZ: vergleichbar mit eigenen Saetzen.
@@ -353,7 +259,7 @@ GOZ: vergleichbar mit eigenen Saetzen.
 1. Schriftlich.
 2. Vor Beginn der Behandlung.
 3. Persoenliche Vereinbarung mit Patient.
-4. Hinweis auf voraussichtliche Hoehe.
+4. Hinweis auf voraussichtliche Höhe.
 5. Hinweis dass GKV/PKV moeglicherweise nicht voll erstattet.
 
 Folge Formmangel: nur Mindestsatz GOAE (1,0).
@@ -408,19 +314,19 @@ Verjährung beginnt **erst** mit Rechnungsstellung (Faelligkeitsausloeser § 12 
 - Mandantenschutz § 203 StGB Schweigepflicht beachten.
 - Empfehlung: Diagnose pauschal "wegen GOAE-Leistungen erbrachte aerztliche Behandlung" und Rechnung mit Diagnose-Anlage K3.
 
-## Pruefraster Honorarklage
+## Prüfraster Honorarklage
 
 1. **Behandlungsvertrag** geschlossen (§ 630a BGB)?
 2. **Privatpatient** oder GKV-Patient? Bei GKV: Anspruch gegen KV, nicht Patient (Ausnahme IGeL).
 3. **Rechnung** ordnungsgemaess (§ 12 GOAE) erteilt → Faelligkeit.
 4. **Steigerungsfaktor** rechtens, ggf. mit schriftlicher Begruendung?
-5. **Vereinbarung** § 2 GOAE bei Faktor ueber 3,5?
+5. **Vereinbarung** § 2 GOAE bei Faktor über 3,5?
 6. **Verzug** durch Mahnung (§ 286 BGB) oder 30-Tage-Regel (§ 286 Abs. 3 BGB) bei Verbraucher mit Hinweis.
 7. **Klagegericht** (AG/LG, oertlich Wohnsitz Patient).
 
 ## Verteidigung Patient – Standardeinwendungen
 
-| Einwendung | Pruefung |
+| Einwendung | Prüfung |
 |---|---|
 | Behandlungsfehler | § 280, § 630a BGB Schadensersatz, Minderung |
 | Aufklaerungspflichtverletzung | § 630e BGB, Beweislast Arzt |
@@ -461,7 +367,7 @@ Gesellschafter haftet auf Erbringung der **gezeichneten Einlage**, soweit nicht 
 |---|---|---|
 | Ausstehende Einlage | § 19 Abs. 1 GmbHG | Anspruch GmbH auf Volleinzahlung |
 | Differenz Sacheinlage / Bewertung | § 9 Abs. 1 GmbHG | Differenzhaftung in Geld |
-| Verdeckte Sacheinlage | § 19 Abs. 4 GmbHG (seit MoMiG 2008) | bei Anrechnung: Wert pruefen |
+| Verdeckte Sacheinlage | § 19 Abs. 4 GmbHG (seit MoMiG 2008) | bei Anrechnung: Wert prüfen |
 | Hin- und Herzahlung | § 19 Abs. 5 GmbHG | bestehende Forderung der GmbH |
 
 Klage: GmbH (in Insolvenz: Insolvenzverwalter) klagt gegen Gesellschafter.
@@ -470,7 +376,7 @@ Klage: GmbH (in Insolvenz: Insolvenzverwalter) klagt gegen Gesellschafter.
 
 | Voraussetzung | Folge |
 |---|---|
-| Auszahlung an Gesellschafter | Pruefung § 30 GmbHG (Stammkapital-Auszehrung) |
+| Auszahlung an Gesellschafter | Prüfung § 30 GmbHG (Stammkapital-Auszehrung) |
 | Verstoss gegen Kapitalerhaltung | Rückforderungsanspruch GmbH |
 | Verjährung | 10 Jahre § 31 Abs. 5 GmbHG |
 
@@ -479,23 +385,23 @@ Wirtschaftlicher Hintergrund: GmbH darf bei drohendem Unterschreiten des Stammka
 ### 3. Existenzvernichtender Eingriff (Haftung wegen § 826 BGB)
 
 **BGH II ZR 256/02 Trihotel** und **II ZR 3/04 Bremer Vulkan**:
-- Gesellschafter haftet **deliktisch nach § 826 BGB**, wenn er der GmbH planmaessig betriebsnotwendiges Vermoegen entzieht und damit die Existenz der GmbH gefaehrdet.
-- Schadensersatz an die GmbH (nicht direkt an Glaeubiger).
+- Gesellschafter haftet **deliktisch nach § 826 BGB**, wenn er der GmbH planmaessig betriebsnotwendiges Vermögen entzieht und damit die Existenz der GmbH gefaehrdet.
+- Schadensersatz an die GmbH (nicht direkt an Gläubiger).
 - In der Insolvenz: Anspruch des Insolvenzverwalters; ohne Insolvenz Pfaendung des Anspruchs der GmbH.
 
 ### 4. Materielle Unterkapitalisierung
 
-BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur ueber § 826 BGB / existenzvernichtenden Eingriff.
+BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur über § 826 BGB / existenzvernichtenden Eingriff.
 
 ### 5. Sittenwidrige vorsaetzliche Schaedigung § 826 BGB
 
-Wenn Gesellschafter direkt den Glaeubiger taeuscht (Bonitaetstaeuschung, Eingehungsbetrug). Klage des Glaeubigers gegen den Gesellschafter persoenlich.
+Wenn Gesellschafter direkt den Gläubiger taeuscht (Bonitaetstaeuschung, Eingehungsbetrug). Klage des Gläubigers gegen den Gesellschafter persoenlich.
 
 ### 6. Persoenliche Buergschaft, Schuldbeitritt, Garantie
 
-Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Pruefung Form (§ 766 BGB Schriftform Buergschaft, ausser kaufmaennische Buergschaft § 350 HGB).
+Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Prüfung Form (§ 766 BGB Schriftform Buergschaft, ausser kaufmaennische Buergschaft § 350 HGB).
 
-### 7. Haftung Geschaeftsfuehrer (nicht Gesellschafter, aber oft personenidentisch)
+### 7. Haftung Geschäftsführer (nicht Gesellschafter, aber oft personenidentisch)
 
 | Anspruchsgrundlage | Norm |
 |---|---|
@@ -503,7 +409,7 @@ Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Pruefung Form (§
 | Sozialversicherungsbeitraege | § 823 Abs. 2 BGB i.V.m. § 266a StGB |
 | Insolvenzverschleppung | § 823 Abs. 2 BGB i.V.m. § 15a InsO |
 | Verletzung Vorsorgepflichten | § 43 GmbHG (gegenueber GmbH) |
-| Drittschadensliquidation | bei Sonderverbindung Glaeubiger |
+| Drittschadensliquidation | bei Sonderverbindung Gläubiger |
 
 ### 8. Strohmanngeschaeft / Treuhand
 
@@ -513,16 +419,16 @@ Wenn Gesellschafter wirtschaftlich agiert und GmbH nur Mantel ist: gerichtliche 
 
 In der Insolvenz nachrangig. Vorher zurueckgezahltes Gesellschafterdarlehen kann angefochten werden (§ 135 InsO 1 Jahr).
 
-## Pruefraster Forderung gegen GmbH-Gesellschafter
+## Prüfraster Forderung gegen GmbH-Gesellschafter
 
 | Schritt | Frage | Beweislast |
 |---|---|---|
-| 1 | Gegen welche Person Klage – GmbH oder Gesellschafter? | Glaeubiger |
-| 2 | Vertragliche Haftung Gesellschafter (Buergschaft, Beitritt)? | Glaeubiger |
+| 1 | Gegen welche Person Klage – GmbH oder Gesellschafter? | Gläubiger |
+| 2 | Vertragliche Haftung Gesellschafter (Buergschaft, Beitritt)? | Gläubiger |
 | 3 | Einlage vollstaendig erbracht? | GmbH/Insolvenzverwalter |
 | 4 | Verbotene Auszahlung § 30, 31 GmbHG erfolgt? | Insolvenzverwalter |
-| 5 | Existenzvernichtender Eingriff (§ 826 BGB)? | Glaeubiger/InsVerw |
-| 6 | Strohmann/Treuhand? | Glaeubiger |
+| 5 | Existenzvernichtender Eingriff (§ 826 BGB)? | Gläubiger/InsVerw |
+| 6 | Strohmann/Treuhand? | Gläubiger |
 | 7 | Insolvenz GmbH eroeffnet → Anspruchsverlagerung an Insolvenzverwalter | nachpruefen |
 
 ## Praxisfall – Inkasso-Strategie
@@ -546,7 +452,7 @@ Schritt 6: Bei Verdacht Insolvenzverschleppung
 
 | Anfechtungsgrund | Norm |
 |---|---|
-| Vorsaetzliche Glaeubigerbenachteiligung | § 133 InsO (10 J., 4 J. Verkuerzung 2017) |
+| Vorsaetzliche Gläubigerbenachteiligung | § 133 InsO (10 J., 4 J. Verkuerzung 2017) |
 | Unentgeltliche Leistung | § 134 InsO (4 J.) |
 | Gesellschafterdarlehen | § 135 InsO (1 J.) |
 | Inkongruente Deckung | § 131 InsO (3 Monate) |
@@ -591,13 +497,13 @@ _Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 In
 
 # Forderung gegen insolventen Schuldner
 
-Wenn ueber das Vermoegen des Schuldners ein Insolvenzverfahren eroeffnet ist, gelten ausschliesslich die Regeln der InsO. Klage und Vollstreckung sind grundsaetzlich gesperrt.
+Wenn über das Vermögen des Schuldners ein Insolvenzverfahren eroeffnet ist, gelten ausschließlich die Regeln der InsO. Klage und Vollstreckung sind grundsätzlich gesperrt.
 
 ## Insolvenzeroeffnung – Wirkungen
 
 | Wirkung | Norm |
 |---|---|
-| Verwaltungs-/Verfuegungsbefugnis geht auf Verwalter ueber | § 80 InsO |
+| Verwaltungs-/Verfuegungsbefugnis geht auf Verwalter über | § 80 InsO |
 | Anhaengige Prozesse werden unterbrochen | § 240 ZPO |
 | Vollstreckung unzulaessig | § 89 InsO |
 | Sicherungen 1 Monat vor Eroeffnung unwirksam | § 88 InsO |
@@ -607,14 +513,14 @@ Wenn ueber das Vermoegen des Schuldners ein Insolvenzverfahren eroeffnet ist, ge
 
 [insolvenzbekanntmachungen.de](https://www.insolvenzbekanntmachungen.de) – kostenlose amtliche Insolvenzbekanntmachung, durchsuchbar nach Namen, Sitz, Aktenzeichen.
 
-Bei Eroeffnungsbeschluss: Verwalter benannt, Anmeldefrist gesetzt (typisch 6-8 Wochen), Pruefungstermin festgelegt.
+Bei Eroeffnungsbeschluss: Verwalter benannt, Anmeldefrist gesetzt (typisch 6-8 Wochen), Prüfungstermin festgelegt.
 
 ## Schritt 2: Forderungsanmeldung § 174 InsO
 
 **Inhalt** (§ 174 Abs. 2 InsO):
 | Pflichtangabe | Inhalt |
 |---|---|
-| Glaeubigeranschrift | mit Bankverbindung |
+| Gläubigeranschrift | mit Bankverbindung |
 | Forderungsgrund | Vertrag, Datum, Vertragstyp |
 | Forderungsbetrag | Hauptforderung in EUR |
 | Zinsen | bis Insolvenzeroeffnung |
@@ -622,8 +528,8 @@ Bei Eroeffnungsbeschluss: Verwalter benannt, Anmeldefrist gesetzt (typisch 6-8 W
 | Rang | normal, nachrangig, vorrangig |
 | Bei Vorzugsrecht | Anmeldung mit Hinweis Sicherungsrecht (§ 174 Abs. 3) |
 
-**Frist:** Anmeldefrist im Eroeffnungsbeschluss. Verspaetete Anmeldung moeglich (§ 177 InsO), aber **erhebliche Nachteile**:
-- Spaeter Pruefungstermin → Kosten § 187 InsO.
+**Frist:** Anmeldefrist im Eroeffnungsbeschluss. Verspaetete Anmeldung möglich (§ 177 InsO), aber **erhebliche Nachteile**:
+- Später Prüfungstermin → Kosten § 187 InsO.
 - Schlussverteilung schon ausgekehrt → kein Anteil mehr.
 
 ## Anmeldungs-Formular Muster
@@ -691,7 +597,7 @@ Anspruch auf Herausgabe gehoert nicht zur Masse. Voraussetzung: **dingliches Rec
 | Sicherungseigentum, Sicherungsabtretung | § 51 Nr. 1 InsO |
 | Forderungspfaendung vor Eroeffnung | § 50 InsO i.V.m. § 804 ZPO |
 
-Folge: Verwalter verwertet, Glaeubiger bekommt Erloes (abzgl. Verwertungskostenpauschale § 170, § 171 InsO: 4 % + 5 %).
+Folge: Verwalter verwertet, Gläubiger bekommt Erloes (abzgl. Verwertungskostenpauschale § 170, § 171 InsO: 4 % + 5 %).
 
 ## Forderung gegen Verbraucher (Verbraucherinsolvenz)
 
@@ -706,17 +612,17 @@ Forderung wird Insolvenzforderung. Nach Restschuldbefreiung erlischt der Anspruc
 
 ## Klage waehrend Insolvenz?
 
-| Konstellation | Klage zulaessig? |
+| Konstellation | Klage zulässig? |
 |---|---|
 | Vor Eroeffnung anhaengige Klage | unterbrochen § 240 ZPO, Aufnahme durch Verwalter |
-| Nach Anmeldung Forderung im Pruefungstermin bestritten | Klage auf Feststellung § 180 InsO |
+| Nach Anmeldung Forderung im Prüfungstermin bestritten | Klage auf Feststellung § 180 InsO |
 | Klage gegen Insolvenzverwalter persoenlich | nur Schadensersatz § 60 InsO |
-| Klage gegen Schuldner persoenlich nach Aufhebung | wieder zulaessig |
-| Gegen Gesellschafter (parallel) | bleibt zulaessig (siehe Skill GmbH-Gesellschafter) |
+| Klage gegen Schuldner persoenlich nach Aufhebung | wieder zulässig |
+| Gegen Gesellschafter (parallel) | bleibt zulässig (siehe Skill GmbH-Gesellschafter) |
 
 ## Bestrittene Forderung – Feststellungsklage § 180 InsO
 
-Wenn Verwalter / anderer Glaeubiger im Pruefungstermin die Forderung bestreitet:
+Wenn Verwalter / anderer Gläubiger im Prüfungstermin die Forderung bestreitet:
 - Klage gegen den Bestreitenden auf Feststellung zur Tabelle.
 - Zuständigkeit: ordentliches Gericht (idR AG/LG am Insolvenzgericht).
 - Streitwert: bei zu erwartender Quote (haeufig nur Bruchteil der Forderung).
@@ -780,8 +686,8 @@ Verbraucher (§ 13 BGB) geniessen erhebliche Schutzrechte. Die Verfolgung der Fo
 | Definition | Inhalt |
 |---|---|
 | Natuerliche Person | ja |
-| Zwecke nicht ueberwiegend gewerblich/selbstaendig | ja |
-| Doppelnutzung | Schwerpunkt-Pruefung; im Zweifel Verbraucher (BGH VIII ZR 7/02) |
+| Zwecke nicht ueberwiegend gewerblich/selbständig | ja |
+| Doppelnutzung | Schwerpunkt-Prüfung; im Zweifel Verbraucher (BGH VIII ZR 7/02) |
 | Vereine | grds. Verbraucher, wenn nicht gewerblich |
 | Existenzgruender | nicht Verbraucher (BGH VIII ZR 219/00) |
 
@@ -799,18 +705,18 @@ Bei vorformulierten Vertragsbedingungen gegenueber Verbraucher gilt erhoehte Kon
 | § 309 BGB | Verbotene Klauseln ohne Wertungsmoeglichkeit |
 
 **Beispiele unwirksamer Klauseln**:
-- Pauschalierte Mahnkosten ueber 2,50 EUR (§ 309 Nr. 5 BGB).
+- Pauschalierte Mahnkosten über 2,50 EUR (§ 309 Nr. 5 BGB).
 - Pauschalierter Schadensersatz unangemessen (§ 309 Nr. 5 BGB).
 - Aufrechnungsverbot ausser unbestrittene Forderung (§ 309 Nr. 3 BGB).
 - Gerichtsstandsvereinbarung B2C im voraus (§ 38 Abs. 2 ZPO).
 - Schiedsklauseln ohne Schriftform und Aufklaerung (§ 1031 Abs. 5 ZPO).
 
-## Widerrufsrecht bei Fernabsatz und ausserhalb Geschaeftsraeumen
+## Widerrufsrecht bei Fernabsatz und ausserhalb Geschäftsraeumen
 
 | Vertragstyp | Norm | Widerrufsfrist |
 |---|---|---|
 | Fernabsatz (Online-/Telefonkauf) | §§ 312c, 312g BGB | 14 Tage § 355 BGB |
-| Ausserhalb Geschaeftsraeumen (Haustuer) | § 312b BGB | 14 Tage |
+| Ausserhalb Geschäftsraeumen (Haustuer) | § 312b BGB | 14 Tage |
 | Verbraucherdarlehen | § 495 BGB | 14 Tage |
 | Lebensversicherung | § 8 VVG | 30 Tage |
 | Versicherung Auslandsdarlehen | § 495 BGB i.V.m. RL | 30 Tage |
@@ -833,17 +739,17 @@ Bei vorformulierten Vertragsbedingungen gegenueber Verbraucher gilt erhoehte Kon
 
 | Schuldner | Zinssatz |
 |---|---|
-| Verbraucher | 5 Prozentpunkte ueber Basiszinssatz (§ 288 Abs. 1 BGB) |
+| Verbraucher | 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB) |
 | Pauschale 40 EUR | gilt NICHT bei Verbraucher (nur B2B) |
-| Vertragliche Hoehe | nur soweit nicht sittenwidrig (§ 138 BGB), AGB-Kontrolle |
+| Vertragliche Höhe | nur soweit nicht sittenwidrig (§ 138 BGB), AGB-Kontrolle |
 
 ## Gerichtsstand bei Verbraucher
 
 | Klagerichtung | Gerichtsstand |
 |---|---|
-| Klage gegen Verbraucher | Wohnsitz Verbraucher (§ 29c Abs. 1 S. 1 ZPO ausschliesslich bei Haustuer-Geschaeft / Verbraucherdarlehen) |
+| Klage gegen Verbraucher | Wohnsitz Verbraucher (§ 29c Abs. 1 S. 1 ZPO ausschließlich bei Haustuer-Geschäft / Verbraucherdarlehen) |
 | Klage durch Verbraucher | sein Wohnsitz |
-| Vereinbarung im voraus | nur eng zulaessig § 38 Abs. 2 ZPO |
+| Vereinbarung im voraus | nur eng zulässig § 38 Abs. 2 ZPO |
 | Fernabsatz | allgemeiner Gerichtsstand Verbraucher |
 
 EU-Bezug: Bruessel Ia Art. 17-19 – Klage gegen Verbraucher **nur am Wohnsitz Verbraucher**, ausser am Wohnsitz vereinbart und nach Entstehen Streit.
@@ -857,7 +763,7 @@ Verbraucher kann nach § 309 Nr. 3 BGB **nicht** durch AGB von Aufrechnungsrecht
 | Posten | Wirksamkeit |
 |---|---|
 | Mahnkosten Verbraucher | wie bei B2B, aber Pauschalen begrenzt (§ 309 Nr. 5 BGB) |
-| Inkassokosten | nach § 4 RDGEG max. RA-Geschaeftsgebuehr |
+| Inkassokosten | nach § 4 RDGEG max. RA-Geschäftsgebuehr |
 | Vorgerichtliche RA-Kosten | nur erforderlich UND verhaeltnismaessig (BGH IX ZR 119/04) |
 
 ## Verbraucherbauvertrag § 650i BGB
@@ -875,12 +781,12 @@ Sonderregeln seit 2018:
 
 ## Klage Strategie
 
-1. **Rechnung pruefen**: Hinweis 30-Tage-Verzug nach § 286 Abs. 3 BGB enthalten?
-2. **AGB pruefen**: Klauseln wirksam nach §§ 305 ff. BGB?
-3. **Widerrufsbelehrung**: bei Fernabsatz/Haustuer korrekt? Bei Fehler: Widerruf moeglich.
+1. **Rechnung prüfen**: Hinweis 30-Tage-Verzug nach § 286 Abs. 3 BGB enthalten?
+2. **AGB prüfen**: Klauseln wirksam nach §§ 305 ff. BGB?
+3. **Widerrufsbelehrung**: bei Fernabsatz/Haustuer korrekt? Bei Fehler: Widerruf möglich.
 4. **Gerichtsstand**: Klage am Wohnsitz Verbraucher.
 5. **Streitwert**: i.d.R. AG (unter 10.000 EUR).
-6. **Verzugszinsen**: 5 Prozentpunkte ueber Basiszinssatz, KEINE 40-EUR-Pauschale.
+6. **Verzugszinsen**: 5 Prozentpunkte über Basiszinssatz, KEINE 40-EUR-Pauschale.
 7. **Mahn-/Inkassokosten**: nur erforderlich und verhaeltnismaessig.
 
 ## Klageantrag-Muster
@@ -900,9 +806,9 @@ Es wird beantragt:
 ## Typische Fehler
 
 - Vereinbarter Gerichtsstand bei Verbraucher → § 38 Abs. 2 ZPO unwirksam.
-- Pauschale 40 EUR gegen Verbraucher beantragt – nicht zulaessig.
-- AGB-Pauschalen ueber 2,50 EUR für Mahnungen – § 309 Nr. 5 BGB.
-- Widerrufsbelehrung fehlt / fehlerhaft → Widerruf noch moeglich nach Klageerhebung.
+- Pauschale 40 EUR gegen Verbraucher beantragt – nicht zulässig.
+- AGB-Pauschalen über 2,50 EUR für Mahnungen – § 309 Nr. 5 BGB.
+- Widerrufsbelehrung fehlt / fehlerhaft → Widerruf noch möglich nach Klageerhebung.
 - 30-Tage-Verzug ohne Hinweis in Rechnung angenommen.
 
 ## Quellen
@@ -925,7 +831,7 @@ _Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohn
 
 Grenzueberschreitende Forderungsdurchsetzung. Die Wahl des Instruments haengt vom Wohnsitz des Schuldners und vom Streitwert ab.
 
-## Instrumenten-Uebersicht
+## Instrumenten-Übersicht
 
 | Instrument | Anwendungsbereich | Vorteil |
 |---|---|---|
@@ -949,13 +855,13 @@ Grenzueberschreitende Forderungsdurchsetzung. Die Wahl des Instruments haengt vo
 | Verbrauchersache | Art. 17-19 |
 | Versicherung | Art. 10-16 |
 | Arbeitsvertrag | Art. 20-23 |
-| Ausschliesslich (Grundstueck, Register) | Art. 24 |
+| Ausschließlich (Grundstueck, Register) | Art. 24 |
 | Vereinbarung | Art. 25 (Schriftform, Exklusivitaet) |
 
 **Vollstreckung in anderem MS** (Art. 36-44):
 - Anerkennung **automatisch** (kein Exequatur).
 - Bestaetigung Formblatt I (Anhang I VO).
-- Direktvollstreckung beim auslaendischen Vollstreckungsorgan.
+- Direktvollstreckung beim ausländischen Vollstreckungsorgan.
 - Versagungsgruende beschraenkt (Art. 45): ordre public, Saeumnis ohne ordn. Zustellung, unvereinbares Urteil.
 
 ## EuVTVO (EG 805/2004) – Europaeischer Vollstreckungstitel
@@ -974,9 +880,9 @@ Bestaetigung durch Urspr.-Gericht, Formblatt I. In ZielMS direkt vollstreckbar.
 |---|---|
 | Antragsformular | Formblatt A |
 | Zustaendiges Gericht DE | AG Wedding (Berlin) |
-| Online-Antrag moeglich | www.online-mahnantrag.de |
+| Online-Antrag möglich | www.online-mahnantrag.de |
 | Verteidigungsfrist Bekl. | 30 Tage nach Zustellung |
-| Bei Einspruch | Uebergang ins streitige Verfahren (Pruefung Art. 17 EuMVVO) |
+| Bei Einspruch | Uebergang ins streitige Verfahren (Prüfung Art. 17 EuMVVO) |
 | Bei keinem Einspruch | Vollstreckbarerklaerung Formblatt G |
 | Vollstreckungsorgan | im Wohnsitz-MS Schuldner |
 
@@ -999,11 +905,11 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 | Sachverhalt | Vorgehen |
 |---|---|
 | Anerkennung deutsches Urteil | §§ 328 ZPO Anerkennung in DE; Anerkennung in Drittstaat nach dort. IPR |
-| Bilaterales Abkommen | Vertraege z.B. mit Tunesien, Israel, T?rkei (Anerkennungsabkommen) |
+| Bilaterales Abkommen | Verträge z.B. mit Tunesien, Israel, T?rkei (Anerkennungsabkommen) |
 | Kein Abkommen | erneute Klage im Drittstaat ueblich |
 | Schiedsspruch | New York Convention 1958 (NYÜ) – sehr leistungsfaehig |
 
-## Verfahrensweg-Pruefung Schritt für Schritt
+## Verfahrensweg-Prüfung Schritt für Schritt
 
 ```
 1. Schuldner-Sitz ermitteln
@@ -1035,9 +941,9 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 **HZUe 1965** (Haager Zustellungsuebereinkommen) – für Drittstaaten.
 **EuZustVO (EU 2020/1784)** seit 01.07.2022 – innerhalb EU:
 - Direkte Zustellung Justizbehoerde zu Justizbehoerde.
-- Postzustellung mit Einschreiben moeglich (Art. 18).
+- Postzustellung mit Einschreiben möglich (Art. 18).
 - Diplomatischer Weg (Konsulat) bei Bedarf.
-- Uebersetzung in Amtssprache des ZielMS.
+- Übersetzung in Amtssprache des ZielMS.
 
 ## Beweismittel im EU-Ausland
 
@@ -1057,9 +963,9 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 
 ## Typische Fehler
 
-- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Pruefung Bruessel Ia → ggf. unzuständig.
+- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Prüfung Bruessel Ia → ggf. unzuständig.
 - EuMVVO bei strittiger Forderung – Widerspruch fuehrt in nationale Klage des Bekl.-MS.
-- Uebersetzung vergessen → Zustellung schlaegt fehl.
+- Übersetzung vergessen → Zustellung schlaegt fehl.
 - Schiedsklausel ueberhaupt nicht gepruef → New York Convention besserer Pfad.
 - Lugano mit Bruessel verwechselt – Exequatur in CH noch noetig.
 
@@ -1080,7 +986,7 @@ _Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klae
 
 # Forderung mit internationalem Bezug
 
-Auslandsbezug aendert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
+Auslandsbezug ändert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
 
 ## Routing nach Schuldnerstandort
 
@@ -1088,7 +994,7 @@ Auslandsbezug aendert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
 |---|---|---|
 | EU-Mitgliedstaat | Brüssel Ia VO 1215/2012 | nationales Verfahren EuMVVO oder EuGFVO |
 | EFTA Schweiz Norwegen Island | LugÜ 2007 | wie Brüssel Ia |
-| Drittstaat z B GB nach Brexit USA | autonomes Recht 12 13 23 ZPO | Anerkennungs- und Vollstreckungsvertraege pruefen |
+| Drittstaat z B GB nach Brexit USA | autonomes Recht 12 13 23 ZPO | Anerkennungs- und Vollstreckungsvertraege prüfen |
 
 ## Anwendbares Recht
 
@@ -1109,7 +1015,7 @@ Auslandsbezug aendert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
 
 ## Verbrauchergerichtsstand
 
-Bei Verbrauchersachen kann Verbraucher nur im Wohnsitzstaat verklagt werden Art 18 Brüssel Ia. Glaeubiger muss dort klagen.
+Bei Verbrauchersachen kann Verbraucher nur im Wohnsitzstaat verklagt werden Art 18 Brüssel Ia. Gläubiger muss dort klagen.
 
 ## Vollstreckung in Drittstaaten
 
@@ -1133,130 +1039,6 @@ Bei Verbrauchersachen kann Verbraucher nur im Wohnsitzstaat verklagt werden Art 
 - [VO 1215/2012](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1215)
 - [VO 1896/2006](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1896)
 - [VO 861/2007](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32007R0861)
-
----
-
-## Skill: `forderung-werkvertrag-bau`
-
-_Werklohnforderung § 631, § 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag §§ 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen § 632a BGB, Sicherheit § 650f BGB. Mangelhaftigkeit § 640 Abs. 2 BGB Abnahmeverweigerung. Output: Klageschrift Werklohn mit Pruefung Faelligkeit..._
-
-# Werklohnforderung – BGB und Bau
-
-Geltendmachung von Werklohn aus Werkvertrag (§§ 631 ff. BGB) und Bauvertrag (§§ 650a ff. BGB), beruecksichtigt insb. die Abnahme als Faelligkeitsausloeser.
-
-## Anspruchsgrundlage
-
-| Vertragstyp | Norm | Besonderheit |
-|---|---|---|
-| Reiner Werkvertrag | § 631 Abs. 1 BGB | Erfolg geschuldet, kein Dienst |
-| Bauvertrag | § 650a BGB (seit 2018) | Spezialregeln Abnahme, Sicherheit |
-| Verbraucherbauvertrag | § 650i BGB | Erweiterte Schutzrechte Verbraucher |
-| Architektenvertrag | § 650p BGB | Stufen Leistungsphasen HOAI |
-| Bautraegervertrag | § 650u BGB | Eigentumserwerb Bauwerk |
-| VOB/B-Vertrag | AGB (§ 305 BGB) | nur wenn vereinbart, inhaltlich beschraenkt |
-
-## Faelligkeit § 641 BGB – die zentrale Regel
-
-**Grundsatz § 641 Abs. 1 BGB:** Werklohn ist bei **Abnahme** faellig.
-
-Abnahmevarianten:
-| Variante | Norm | Praxis |
-|---|---|---|
-| Ausdrueckliche Abnahme | § 640 Abs. 1 BGB | Abnahmeprotokoll |
-| Konkludente Abnahme | § 640 Abs. 1 BGB | Nutzung Werk, Schlusszahlung |
-| Fiktive Abnahme | § 640 Abs. 2 BGB | nach Fristsetzung ohne Maengelruege |
-| Abnahmefiktion B2C-Bauvertrag | § 640 Abs. 2 BGB | mit Belehrung |
-| Vorbehalt Abnahme | § 640 Abs. 3 BGB | bei bekannten Maengeln |
-
-**Wichtig**: Vor Abnahme keine Faelligkeit, kein Verzug, keine Verzugszinsen.
-
-## Abschlagszahlungen § 632a BGB
-
-- Anspruch auf Abschlagszahlung in Hoehe wertmaessig erbrachter Leistungen.
-- Voraussetzung: vertragsgemaesse Leistung erbracht.
-- Sicherheit Bauhandwerker § 650f BGB: Klaeger kann Sicherheit verlangen.
-
-## Schlussrechnung
-
-| Voraussetzung | Folge |
-|---|---|
-| Pruefbare Schlussrechnung | Faelligkeit Werklohn |
-| Pruefungsfrist Auftraggeber | Regel 30 Tage |
-| Keine Schlussrechnung | Klage nur eingeschraenkt zulaessig |
-
-§ 14 VOB/B (bei vereinbarter VOB/B): pruefbare Schlussrechnung mit Pruefungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber.
-
-## Klageantrag-Muster
-
-```
-Es wird beantragt:
-1. Die Beklagte wird verurteilt, an die Klaegerin EUR 28.456,80
-   nebst Zinsen in Hoehe von 9 Prozentpunkten ueber dem
-   Basiszinssatz aus EUR 28.456,80 seit dem 15.05.2026 zu zahlen.
-2. Die Beklagte wird verurteilt, an die Klaegerin eine
-   Verzugspauschale in Hoehe von EUR 40,00 zu zahlen.
-3. Die Beklagte traegt die Kosten des Rechtsstreits.
-```
-
-Klagegrund-Schluessel:
-- Vertragsdatum, Vertragstyp (Werk-/Bauvertrag).
-- Leistungspflichten (Gewerk, Aufmass).
-- Erfuellung Klaeger (Abnahmeprotokoll als K2).
-- Schlussrechnung (Datum, Pruefbarkeit).
-- Faelligkeit.
-
-## Sicherungsmittel
-
-| Sicherungsmittel | Norm | Wirkung |
-|---|---|---|
-| Sicherheit Bauhandwerker | § 650f BGB | Sicherheit für Werklohn |
-| Bauhandwerker-Sicherungshypothek | § 650e BGB | Eintragung Grundbuch |
-| Werkunternehmerpfandrecht | § 647 BGB | bewegliche Sache |
-
-## Maengelrechte des Bestellers vs. Faelligkeit
-
-| Sachverhalt | Folge für Werklohn |
-|---|---|
-| Werk maengelfrei | Voller Werklohn faellig |
-| Unwesentliche Maengel | Abnahme nicht verweigerbar (§ 640 Abs. 1 S. 2 BGB), Werklohn faellig |
-| Wesentliche Maengel | Abnahmeverweigerung zulaessig, Werklohn nicht faellig |
-| Maengelbeseitigungskosten | Zurueckbehaltungsrecht § 641 Abs. 3 BGB (doppelte Kosten) |
-| Minderung erklaert | § 638 BGB Werklohn anteilig |
-
-## VOB/B-Besonderheiten
-
-VOB/B nur als AGB wirksam; gilt nur, wenn dem Vertragspartner zumutbar gemacht (BGH VII ZR 162/00). Bei Verbraucherbauvertrag in der Regel unwirksam.
-
-Wesentliche VOB/B-Klauseln:
-- § 8 VOB/B Kuendigung Auftraggeber (jederzeit ohne Grund moeglich)
-- § 9 VOB/B Kuendigung Auftragnehmer (nur aus wichtigem Grund)
-- § 13 VOB/B Maengelhaftung (Frist 4 Jahre bei Bauwerken)
-- § 14 VOB/B Schlussrechnung
-- § 17 VOB/B Sicherheitsleistung
-- § 18 VOB/B Streitigkeiten Schiedsklausel
-
-## Sonderfall Architektenhonorar (HOAI)
-
-- HOAI 2021 als reine Preisempfehlung (EuGH C-377/17), Mindest-/Hoechstsaetze nicht bindend.
-- Honorarvereinbarung schriftlich (§ 7 HOAI 2021).
-- Leistungsphasen 1-9, anteilige Honorierung bei Vertragsbeendigung.
-
-## Typische Fehler
-
-- Klage vor Abnahme = unzulaessig wegen fehlender Faelligkeit.
-- Schlussrechnung nicht pruefbar → keine Faelligkeit.
-- VOB/B als AGB beim Verbraucher verwendet → unwirksam.
-- Vorgerichtliche Anwaltskosten ohne Verzugseintritt geltend gemacht.
-- Sicherungshypothek § 650e BGB nicht beantragt (verschenkt Sicherheit).
-
-## Quellen
-- BGB § 631 [gesetze-im-internet.de/bgb/__631.html](https://www.gesetze-im-internet.de/bgb/__631.html)
-- BGB § 640 Abnahme [gesetze-im-internet.de/bgb/__640.html](https://www.gesetze-im-internet.de/bgb/__640.html)
-- BGB § 641 Faelligkeit [gesetze-im-internet.de/bgb/__641.html](https://www.gesetze-im-internet.de/bgb/__641.html)
-- BGB § 650a-u Bauvertrag [gesetze-im-internet.de/bgb/__650a.html](https://www.gesetze-im-internet.de/bgb/__650a.html)
-- BGH VII ZR 162/00 VOB/B AGB [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
-- EuGH C-377/17 HOAI [curia.europa.eu](https://curia.europa.eu)
-- HOAI 2021 [gesetze-im-internet.de/hoai_2021/](https://www.gesetze-im-internet.de/hoai_2021/)
 
 ---
 
@@ -1286,7 +1068,7 @@ Wenn Mandant mehrere Forderungen gegen denselben oder verschiedene Schuldner hat
 | Gegenforderung Beklagter | Widerklage | ZPO 33 |
 | Tilgungsverrechnung bei mehreren Forderungen | Tilgungsreihenfolge | BGB 366 BGB 367 |
 
-## Kostenmehrwert pruefen
+## Kostenmehrwert prüfen
 
 Bundelung lohnt wenn alle Forderungen in dieselbe Zuständigkeit fallen GVG 23 oder GVG 71. Bei Mischung von AG- und LG-Forderungen kann Zusammenrechnung der Streitwerte nach ZPO 5 ein einheitliches LG-Verfahren ergeben.
 
@@ -1387,9 +1169,9 @@ Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die
 
 ## Einreichungs-Checkliste
 
-| Punkt | Pruefung | Norm |
+| Punkt | Prüfung | Norm |
 |---|---|---|
-| Sachliche Zuständigkeit | Streitwert ueber zehntausend Euro LG sonst AG | GVG 23 Nr. 1 GVG 71 |
+| Sachliche Zuständigkeit | Streitwert über zehntausend Euro LG sonst AG | GVG 23 Nr. 1 GVG 71 |
 | Oertliche Zuständigkeit | Wohnsitz Beklagter Erfuellungsort Verbrauchergerichtsstand | ZPO 12 13 29 29c |
 | Streitwertangabe | konkrete Eurozahl im Schriftsatz | GKG 39 |
 | beA-Pflicht | Rechtsanwalt muss elektronisch einreichen | ZPO 130d |
@@ -1401,7 +1183,7 @@ Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die
 
 ## beA-Pflicht ZPO 130d
 
-Seit 1.1.2022 muessen Rechtsanwaeltinnen Schriftsaetze elektronisch einreichen. Verstoss fuehrt zu Unwirksamkeit. Ausnahme nur bei voruebergehender technischer Stoerung mit Glaubhaftmachung ZPO 130d Satz 2 und Satz 3.
+Seit 1.1.2022 müssen Rechtsanwaeltinnen Schriftsaetze elektronisch einreichen. Verstoss fuehrt zu Unwirksamkeit. Ausnahme nur bei voruebergehender technischer Stoerung mit Glaubhaftmachung ZPO 130d Satz 2 und Satz 3.
 
 ## Gerichtskostenvorschuss
 
@@ -1446,285 +1228,260 @@ Im Text Bezugnahme z B Anlage K 1.
 
 ---
 
-## Skill: `mahnbescheid-online`
+## Skill: `mandantenkommunikation`
 
-_Mahnbescheid (§§ 688-703d ZPO) online beantragen: zentrales Mahngericht je Bundesland, online-mahnbescheid.de, Widerspruchsfrist 2 Wochen § 692 ZPO, Vollstreckungsbescheid § 699 ZPO. Vorteile gegenueber Klage: niedrigere Kosten, schnellere Titulierung. Output: Pruefung ob MB sinnvoll + Antragsdaten._
+_Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadense..._
 
-# Mahnbescheid online
+# Mandantenkommunikation
 
-Strategische und technische Anleitung zum gerichtlichen Mahnverfahren §§ 688-703d ZPO als kostenguenstige Alternative zur Klage.
+Maendel der Mandantenpflicht endet jedes Forderungsmandat in Aerger. Dieser Skill regelt Anlaesse Form und Mindestinhalt.
 
-## Wann ist der Mahnbescheid sinnvoll?
+## Pflicht-Anlaesse
 
-| Sachverhalt | MB sinnvoll? |
-|---|---|
-| Schuldner zahlt nicht, kein Widerspruch zu erwarten | JA |
-| Schuldner hat angekuendigt Widerspruch zu erheben | NEIN (direkt Klage) |
-| Beweislage komplex, viele Einwendungen erwartet | NEIN |
-| Verbraucher, Bestreiten wahrscheinlich | NEIN |
-| Hauptzweck Verjährungshemmung | JA (§ 204 Abs. 1 Nr. 3 BGB) |
-| Forderung > 5.000 EUR mit niedrigem Streitwert-Risiko | JA |
-| Unbestimmter Anspruch (Schadensersatz dem Grunde nach) | NICHT zulaessig § 688 Abs. 2 Nr. 1 ZPO |
-| Gegenseitige Vertraege mit Gegenleistungseinrede | nicht ueber MB (§ 688 Abs. 2 Nr. 2 ZPO) |
+| Anlass | Frist | Form | Mindestinhalt |
+|---|---|---|---|
+| Mandatsannahme | sofort | Textform | Auftragsbestaetigung Honorarbasis Vollmacht Datenschutz |
+| Wesentliche Schritte | unverzueglich | Textform oder Telefon mit Vermerk | was wann mit welcher Erfolgsaussicht |
+| Eingang Schuldner-Brief | innerhalb drei Werktagen | Textform | Sachstand Optionen Empfehlung |
+| Vergleichsangebot Gegenseite | unverzueglich | Textform | Wortlaut Bewertung Vorschlag |
+| Klageeinreichung | vorher | Textform | Risikohinweis Kostenrisiko Streitwert Gerichtskostenvorschuss |
+| Urteil oder Vollstreckungsbescheid | spaetestens drei Tage | Textform | Tenor Rechtsmittelhinweis Folgeschritte |
+| Mandatsende | sofort | Textform | Abschluss Aktenrueckgabe Aufbewahrungspflicht |
 
-## Voraussetzungen § 688 ZPO
+## Pflicht-Hinweise
 
-- Anspruch auf Zahlung **bestimmten Geldbetrages in Euro**.
-- Forderung ist **nicht** von Gegenleistung abhaengig oder Gegenleistung erbracht.
-- Bei Verbrauchergeschaeft: Zinssatz max. 12 % uebersteigt den Basiszinssatz nicht.
-- Zustellung im Inland moeglich (Ausnahme EuMVVO für EU-Auslandsfaelle).
+- Risiko des Unterliegens Kostenfolge ZPO 91
+- Streitwertabhaengige Gebühren RVG 13
+- Vorschusspflicht des Gläubigers für Gerichtskosten GKG 12
+- Hemmungs- und Verjährungswirkung der Klageerhebung BGB 204
 
-Ausgeschlossen § 688 Abs. 2 ZPO:
-- Nr. 1: unbestimmte Forderungen.
-- Nr. 2: gegenseitige Vertraege mit offener Gegenleistung.
-- Nr. 3: öffentliche Zustellung notwendig.
-
-## Zuständigkeit § 689 ZPO
-
-**Ausschliesslich** das zentrale Mahngericht des Landes, in dem der Glaeubiger seinen allgemeinen Gerichtsstand hat:
-
-| Bundesland | Zentrales Mahngericht |
-|---|---|
-| Berlin, Brandenburg | AG Wedding (Berlin) |
-| Bayern | AG Coburg |
-| Baden-Wuerttemberg | AG Stuttgart |
-| Hessen | AG Hueningen |
-| Niedersachsen, Bremen | AG Uelzen |
-| NRW (3 Mahngerichte) | AG Hagen / AG Euskirchen / AG Mettmann |
-| Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern | AG Schleswig |
-| Sachsen, Sachsen-Anhalt, Thueringen | AG Aschersleben |
-| Saarland, Rheinland-Pfalz | AG Mayen |
-
-Bei Glaeubiger im Ausland: Wahl unter den Mahngerichten (§ 689 Abs. 2 ZPO), AG Wedding (Berlin) für ausl. Glaeubiger gegen Bekl. mit Wohnsitz in DE.
-
-## Online-Antragstellung
-
-- Portal: [online-mahnantrag.de](https://www.online-mahnantrag.de) (Bund-Länder-Kooperation)
-- Format: Barcode-Antrag, professioneller XJustiz-Datensatz oder Online-Formular
-- Anwaltspflicht: nein (auch für Privatpersonen moeglich, § 78 Abs. 3 ZPO)
-- Bei beruflichem Antrag durch Anwalt: ueber beA EDA-Schnittstelle (§ 690 Abs. 3 ZPO)
-
-## Inhalt des Antrags § 690 ZPO
-
-1. Bezeichnung der Parteien mit ladungsfaehiger Anschrift.
-2. Bezeichnung des Gerichts.
-3. Bestimmter Antrag (Hauptforderung, Zinsen, Nebenforderungen genau).
-4. Bezeichnung des Anspruchs (Katalog-Code, z.B. "Kaufvertrag", "Werklohn", "Mietzins").
-5. Erklaerung zur Gegenleistung.
-6. Bei Verbrauchergeschaeft: Effektivzinssatz, Hauptbetrag, Bezugsforderung.
-
-Achtung: § 690 Abs. 1 Nr. 5 ZPO – Belehrung an Verbraucher uneingeschraenkte Pflicht.
-
-## Kosten
-
-- Gerichtsgebuehr: 0,5 (mindestens 36 EUR) nach KV 1100 GKG.
-- Anwaltsgebuehr: 1,0 Geschaeftsgebuehr VV 3305 RVG (etwa Streitwert 5.000 EUR = 303 EUR).
-- Erheblich guenstiger als Klage (3,0 Verfahrensgebuehr + 1,2 Terminsgebuehr).
-
-## Verfahrensablauf
+## E-Mail-Muster Mandantensachstand
 
 ```
-Antrag (online) -> Pruefung Mahngericht -> Erlass MB
-   -> Zustellung an Schuldner
-      -> KEIN Widerspruch in 2 Wochen
-         -> Antrag Vollstreckungsbescheid (binnen 6 Monaten § 701 ZPO)
-            -> Erlass VB -> Zustellung -> ggf. Einspruch 2 Wochen
-               -> Rechtskraft -> Vollstreckung
-      -> Widerspruch (Vordruck oder formfrei)
-         -> Abgabe ans Prozessgericht (auf Antrag § 696 ZPO)
-            -> Anspruchsbegruendung Klaeger binnen Frist
-               -> Streitiges Verfahren
+Betreff Sachstand Forderungssache [Name Schuldner] - Aktenzeichen [...]
+
+Sehr geehrte Frau Sehr geehrter Herr [Mandant]
+
+zur Forderung ueber [Hauptsumme] Euro gegen [Schuldner] berichten wir Folgendes.
+
+Aktueller Stand
+- [eingegangene Zahlung Verzug Schuldnerbrief]
+- [eigene Massnahme letzte Frist]
+
+Naechster Schritt
+- [Mahnbescheid Klage Vollstreckung]
+- voraussichtliche Frist bis [Datum]
+
+Risiko und Kosten
+- Aussicht [hoch mittel gering]
+- Gerichtskosten ca [Betrag] Anwaltskosten ca [Betrag]
+
+Wir bitten um Ihre Zustimmung bis [Datum].
+
+Mit freundlichen Gruessen
 ```
 
-## Widerspruch § 694 ZPO
+## Schweigepflicht
 
-- Frist: 2 Wochen ab Zustellung (§ 692 Abs. 1 Nr. 3 ZPO).
-- Form: Schriftlich oder ueber elektronisches Formular.
-- Inhalt: keine Begruendung erforderlich; pauschaler Widerspruch genuegt.
-- Teilwiderspruch moeglich (§ 694 Abs. 1 ZPO).
-- Verspaeteter Widerspruch wirkt als Einspruch gegen den Vollstreckungsbescheid (§ 694 Abs. 2 ZPO).
+- BRAO 43a Abs. 2 Verschwiegenheit
+- StGB 203 Strafbarkeit der Verletzung
+- DSGVO Art 6 Art 9 bei Verarbeitung
 
-## Abgabe an Prozessgericht § 696 ZPO
+## Norm-Pinpoints
 
-- Antrag durch Klaeger oder Beklagten.
-- Beweis: Klaeger muss Anspruch innerhalb der gesetzten Frist begruenden (Anspruchsbegruendung als Klageschrift, § 697 ZPO).
-- Saeumnisurteil moeglich, wenn Klaeger nicht begruendet.
-
-## Vollstreckungsbescheid § 699 ZPO
-
-- Antrag nach Ablauf 2-Wochen-Frist, spaetestens 6 Monate (§ 701 ZPO).
-- Wirkung: Vollstreckungstitel (§ 794 Abs. 1 Nr. 4 ZPO).
-- Verjährung: 30 Jahre (§ 197 Abs. 1 Nr. 4 BGB).
-- Einspruch: 2 Wochen ab Zustellung (§ 700 Abs. 1 ZPO i.V.m. §§ 338 ff. ZPO).
-- Vorlaeufige Vollstreckbarkeit ohne Sicherheit (§ 700 Abs. 1 ZPO i.V.m. § 708 Nr. 2 ZPO).
-
-## EuMVVO (Europaeisches Mahnverfahren VO 1896/2006)
-
-Bei grenzueberschreitenden Forderungen im EU-Inland (ausser DK):
-- Antrag Formblatt A
-- Zustellung in jedem EU-Mitgliedstaat
-- Einspruchsfrist 30 Tage
-- Vollstreckungstitel europaweit
-- Zentrales Mahngericht: AG Wedding (Berlin)
-
-## Typische Fehler
-
-- Forderung nicht bezifferbar (Schadensersatz dem Grunde nach).
-- Gegenleistung nicht erbracht aber so erklaert.
-- Zinssatz bei Verbrauchergeschaeft ueber zulaessigem Hoechstsatz.
-- Anspruch falsch katalogisiert (Code falsch).
-- Adresse nicht ladungsfaehig.
-- Bei Widerspruch keine fristgerechte Anspruchsbegruendung.
+- BRAO 43a 49b
+- BORA 11
+- RVG 13 49b
 
 ## Quellen
-- ZPO §§ 688-703d [gesetze-im-internet.de/zpo/](https://www.gesetze-im-internet.de/zpo/__688.html)
-- Online-Mahnantrag [online-mahnantrag.de](https://www.online-mahnantrag.de)
-- EuMVVO 1896/2006 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1896)
-- GKG KV 1100 [gesetze-im-internet.de/gkg_2004](https://www.gesetze-im-internet.de/gkg_2004/)
+
+- [BRAO 43a](https://www.gesetze-im-internet.de/brao/__43a.html)
+- [BORA 11](https://www.gesetze-im-internet.de/bora/__11.html)
 
 ---
 
-## Skill: `mahnverfahren-beweislast-darlegungslast`
+## Skill: `quellenkarte`
 
-_Beweislast und Darlegungslast in Mahnverfahren und Klage: Klaeger traegt Darlegungs- und Beweislast für anspruchsbegruendende Tatsachen. Substantiierungspflicht § 138 ZPO, Wahrheitspflicht, Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO. Sekundaere Darlegungslast bei Wissensvorsprung Bekl. Output: B..._
+_Kuratierte Quellenkarte für Forderungsmanagement Klagewerkstatt. Sortiert nach Gesetzen Rechtsprechung Verordnungen EU-Recht und Praxis-Literatur. Pinpoints ZPO BGB GVG GKG RVG InsO und EU-Verordnungen Brüssel Ia EuMVVO EuVTVO EuGFVO. Liefert Linkliste auf gesetze-im-internet.de bundesgerichtshof..._
 
-# Beweislast und Darlegungslast
+# Quellenkarte
 
-Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. Erfolgskritisch für Klage und Verteidigung.
+Quellen die in diesem Plugin durchgaengig zitiert werden.
 
-## Grundregeln
+## Nationale Gesetze
 
-| Regel | Inhalt | Norm |
+| Norm | Bereich | Link |
 |---|---|---|
-| Beibringungsgrundsatz | Parteien tragen Tatsachen vor | § 282 ZPO |
-| Wahrheitspflicht | Parteien muessen wahr sein | § 138 Abs. 1 ZPO |
-| Substantiierungspflicht | konkreter Tatsachenvortrag | § 138 Abs. 2 ZPO |
-| Geststaendnisfiktion | nicht bestrittene Tatsache gilt zugegeben | § 138 Abs. 3 ZPO |
-| Bestreiten mit Nichtwissen | nur ueber Vorgaenge der Gegenseite | § 138 Abs. 4 ZPO |
+| BGB 195 199 203 204 212 | Verjährung Hemmung Neubeginn | [BGB 195](https://www.gesetze-im-internet.de/bgb/__195.html) |
+| BGB 286 288 | Verzug und Zinsen | [BGB 286](https://www.gesetze-im-internet.de/bgb/__286.html) |
+| BGB 631 641 650a ff | Werkvertrag Bau | [BGB 631](https://www.gesetze-im-internet.de/bgb/__631.html) |
+| ZPO 130 130d 138 142 253 | Form und Schriftsatz | [ZPO 253](https://www.gesetze-im-internet.de/zpo/__253.html) |
+| ZPO 688 ff | Mahnverfahren | [ZPO 688](https://www.gesetze-im-internet.de/zpo/__688.html) |
+| ZPO 704 ff | Vollstreckung | [ZPO 704](https://www.gesetze-im-internet.de/zpo/__704.html) |
+| GVG 23 71 | Sachliche Zuständigkeit | [GVG 23](https://www.gesetze-im-internet.de/gvg/__23.html) |
+| GKG 12 39 | Gerichtskosten | [GKG 12](https://www.gesetze-im-internet.de/gkg_2004/__12.html) |
+| RVG 13 14 49b | Anwaltsgebuehren | [RVG 13](https://www.gesetze-im-internet.de/rvg/__13.html) |
+| InsO 14 17 174 | Insolvenzantrag Anmeldung | [InsO 174](https://www.gesetze-im-internet.de/inso/__174.html) |
 
-## Verteilung der Beweislast
+## Rechtsprechung Quellen
 
-**Grundsatz** (BGH IX ZR 12/86): Jede Partei traegt die Beweislast für die Tatsachen, aus denen sich die für sie guenstige Rechtsfolge ergibt.
-
-### Beim Klaeger (anspruchsbegruendende Tatsachen)
-
-| Forderungstyp | Klaeger beweist |
+| Gericht | Link |
 |---|---|
-| Kaufpreisanspruch § 433 BGB | Vertragsschluss, Lieferung, Faelligkeit |
-| Werklohnanspruch § 631 BGB | Vertrag, Abnahme, Hoehe Werklohn |
-| Mietzinsanspruch § 535 BGB | Mietvertrag, Hoehe Miete |
-| Darlehensrueckforderung § 488 BGB | Darlehensvertrag, Auszahlung, Faelligkeit |
-| Schadensersatz § 280 BGB | Vertragsverletzung, Verschulden, Schaden, Kausalitaet |
-| Bereicherungsanspruch § 812 BGB | Leistung, ohne Rechtsgrund, Hoehe |
+| Bundesgerichtshof | [bundesgerichtshof.de](https://www.bundesgerichtshof.de) |
+| Bundesverwaltungsgericht | [bverwg.de](https://www.bverwg.de) |
+| Bundesverfassungsgericht | [bverfg.de](https://www.bverfg.de) |
+| dejure Datenbank | [dejure.org](https://www.dejure.org) |
+| openJur | [openjur.de](https://openjur.de) |
 
-### Beim Beklagten (rechtshindernde, rechtsvernichtende, rechtshemmende Tatsachen)
+## EU-Recht
 
-| Einwendung | Beklagter beweist |
+| Norm | Bereich |
 |---|---|
-| Erfuellung § 362 BGB | Zahlung mit Belegen |
-| Aufrechnung § 387 BGB | Gegenforderung, Aufrechnungslage, Erklaerung |
-| Stundung | Stundungsvereinbarung |
-| Erlass § 397 BGB | Erlassvertrag |
-| Verjährung § 214 BGB | Verjährungsdaten, fehlende Hemmung |
-| Schlechtleistung § 280 BGB | Mangel, Frist, Schaden |
-| AGB-Unwirksamkeit | Vereinbarung, Inhaltswidrigkeit § 305 ff. BGB |
-| Sittenwidrigkeit § 138 BGB | sittenwidrige Umstaende |
+| VO 1215/2012 Brüssel Ia | Zuständigkeit Anerkennung Vollstreckung |
+| VO 1896/2006 EuMVVO | Europaeisches Mahnverfahren |
+| VO 805/2004 EuVTVO | Europaeischer Vollstreckungstitel |
+| VO 861/2007 EuGFVO | Europaeisches Verfahren für geringfuegige Forderungen |
 
-### Beweislastumkehr / Beweislasterleichterung
+Quelle [eur-lex.europa.eu](https://eur-lex.europa.eu)
 
-| Konstellation | Folge |
-|---|---|
-| Verbrauchsgueterkauf § 477 BGB | Mangel zur Zeit Gefahruebergang vermutet (12 Monate) |
-| Arzthaftung Dokumentationsfehler § 630h BGB | Beweislastumkehr bei groben Behandlungsfehlern |
-| Anscheinsbeweis | typischer Geschehensablauf |
-| Substantiierter Sachvortrag der Klagepartei | sekundaere Darlegungslast Bekl. |
+## Praxis-Materialien
 
-## Sekundaere Darlegungslast (BGH-Doktrin)
+- Bundesanzeiger für Basiszinssatz [bundesanzeiger.de](https://www.bundesanzeiger.de)
+- Online-Mahnverfahren der Länder [online-mahnantrag.de](https://www.online-mahnantrag.de)
+- e-Justice Portal EU [e-justice.europa.eu](https://e-justice.europa.eu)
 
-Wenn Klaeger ausserhalb des für ihn beweisbaren Bereichs steht und der Beklagte naehere Kenntnis hat, trifft den Beklagten eine **sekundaere Darlegungslast** (konkrete Darlegung, ggf. Belege).
+## Zitierhinweise
 
-**Beispiele:**
-- Arbeitnehmer klagt Vergueetung → AG legt Stundenaufzeichnung vor.
-- Verbraucher klagt gegen Bank → Bank legt Vertragsformulare vor.
-- Klage gegen Konzern → Konzerngesellschaft legt Berechnungen offen.
-
-## Substantiierungspflicht – Grad
-
-| Anforderung | Beispiel |
-|---|---|
-| Schluessigkeit | "Verkauf Maschine X am 15.04.2024 für 12.000 EUR, geliefert 20.04., Rechnung 22.04." |
-| Erheblichkeit | reicht aus, wenn schluessig zur Begruendung des Anspruchs |
-| Bestreiten konkret | "Vertragsschluss bestritten, weil ich nie unterschrieb" |
-| Bestreiten ins Blaue hinein | unzulaessig |
-| Pauschales Bestreiten | unzureichend (BGH NJW 1995, 1432) |
-
-## Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO
-
-**Zulaessig** nur ueber Tatsachen,
-1. die nicht eigene Handlungen der Partei betreffen UND
-2. nicht Gegenstand eigener Wahrnehmung der Partei waren.
-
-**Folgen** falsches Bestreiten mit Nichtwissen: Geststaendnisfiktion § 138 Abs. 3 ZPO.
-
-## Beweismittel im Zivilprozess
-
-| Beweismittel | Norm |
-|---|---|
-| Urkundsbeweis | §§ 415-444 ZPO |
-| Zeugenbeweis | §§ 373-401 ZPO |
-| Sachverstaendigenbeweis | §§ 402-414 ZPO |
-| Augenscheinsbeweis | §§ 371-372a ZPO |
-| Parteivernehmung | §§ 445-455 ZPO |
-
-## Praesentation Klagebegruendung – Beispiel
-
-```
-Tatbestand:
-1. Klaegerin und Beklagte schlossen am 15.04.2024 einen Werkvertrag
-   ueber [Bauleistung] zum Festpreis 28.456,80 EUR (Anlage K1).
-   Beweis: Vertragsurkunde Anlage K1.
-2. Klaegerin lieferte das Gewerk vollstaendig am 30.04.2024
-   und nahm es am 02.05.2024 ab (Anlage K2 Abnahmeprotokoll).
-   Beweis: Abnahmeprotokoll Anlage K2; Zeuge Hr. Schulz, c/o Klaegerin.
-3. Klaegerin stellte die Schlussrechnung Nr. R-2024-115 vom
-   05.05.2024 ueber 28.456,80 EUR (Anlage K3) zu mit Posttagebuch
-   Anlage K3a.
-4. Beklagte zahlte trotz Mahnungen vom 10.06., 25.06. und 12.07.2024
-   (Anlagen K4-K6) nicht.
-
-Rechtliche Wuerdigung:
-Klaegerin hat aus § 631 Abs. 1 BGB Anspruch auf Werklohn ...
-```
-
-## Beweisaufgaben-Matrix
-
-Bei Aufnahme eines Falles erstellen:
-| Tatsache | beweispflichtig | Beweismittel |
-|---|---|---|
-| Vertragsschluss 15.04.24 | Klaeger | Vertrag K1, Zeuge X |
-| Lieferung 30.04.24 | Klaeger | Lieferschein K2 |
-| Abnahme | Klaeger | Abnahmeprotokoll K3 |
-| Faelligkeit | Klaeger | § 641 BGB i.V.m. Abnahme K3 |
-| Verzug | Klaeger | Mahnung K4 mit Zugang |
-| Hoehe Schaden Inkassokosten | Klaeger | Anwaltsrechnung K6 |
-| Erfuellung durch Bekl. | Beklagter | Kontoauszug |
-| Verjährung | Beklagter | Datum Forderungsbeginn |
-
-## Typische Fehler
-
-- Klagebegruendung pauschal "Beklagte schuldet noch 5.000 EUR".
-- Beweisangebot vergessen, dann § 273 ZPO Hinweis.
-- Bestreiten mit Nichtwissen, obwohl eigene Tat im Konzern.
-- Sekundaere Darlegungslast nicht ausgenutzt.
-- Substantiierung erst in Berufung → § 530, § 531 ZPO Praeklusion.
+- BGH-Entscheidungen mit Aktenzeichen und Datum
+- BVerfGE Band X Rn Y
+- ZPO und BGB ohne Klammerzitate
 
 ## Quellen
-- ZPO § 138 Wahrheitspflicht [gesetze-im-internet.de/zpo/__138.html](https://www.gesetze-im-internet.de/zpo/__138.html)
-- ZPO § 282 Vortrag [gesetze-im-internet.de/zpo/__282.html](https://www.gesetze-im-internet.de/zpo/__282.html)
-- ZPO § 286 Beweiswuerdigung [gesetze-im-internet.de/zpo/__286.html](https://www.gesetze-im-internet.de/zpo/__286.html)
-- BGB § 477 Beweislast Verbrauchsguterkauf [gesetze-im-internet.de/bgb/__477.html](https://www.gesetze-im-internet.de/bgb/__477.html)
-- BGB § 630h Beweislast Arzt [gesetze-im-internet.de/bgb/__630h.html](https://www.gesetze-im-internet.de/bgb/__630h.html)
-- BGH IX ZR 12/86 Beweislastregel [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+
+- [gesetze-im-internet.de](https://www.gesetze-im-internet.de)
+- [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- [eur-lex.europa.eu](https://eur-lex.europa.eu)
+
+---
+
+## Skill: `redteam-qualitygate`
+
+_Red-Team-Review eines fertigen Schriftsatzes oder Mahnbescheidsantrags. Sucht aus Sicht der Gegenseite nach Angriffsflaechen Schwaechen Beweisluecken und Form-Fehlern. Pinpoints ZPO 138 substantiiertes Bestreiten ZPO 296 Verspaetungspraeklusion ZPO 130d beA-Form. Liefert Checkliste mit Gegen-Angr..._
+
+# Redteam Qualitygate
+
+Vor Einreichung ein Prüfgang aus Sicht der Beklagten.
+
+## Prüfraster
+
+| Bereich | Fragen aus Beklagten-Sicht |
+|---|---|
+| Aktivlegitimation | Ist Klägerin Inhaberin der Forderung Tritt eine Abtretung dazwischen |
+| Passivlegitimation | Stimmt der Beklagte mit dem Vertragspartner ueberein |
+| Anspruchsgrund | Welche Tatsachen sind unstreitig welche streitig |
+| Faelligkeit | Bestreite ich die Faelligkeit mit Erfolg |
+| Verzug | Wurde die Mahnung tatsaechlich zugestellt |
+| Verjährung | Kann ich die Einrede der Verjährung erheben |
+| Aufrechnung | Habe ich Gegenforderungen |
+| Erfuellung | Kann ich Teilzahlung nachweisen |
+| Form Beleg | Welche Anlage fehlt oder ist unleserlich |
+| Substantiierung | Welche Tatsache ist nur pauschal vorgetragen |
+
+## Schwachstellen-Liste
+
+| Schwachstelle | Konsequenz |
+|---|---|
+| Anlagen nicht klar nummeriert | Bezug unklar |
+| Zinsbeginn ohne Mahnungsdatum | Zinsanspruch streitig |
+| Pauschal-Behauptung ohne Datum | Substantiierungsruege |
+| Vollmacht fehlt oder veraltet | Zurueckweisung ZPO 88 |
+| Streitwert hoeher als notwendig | unnoetige Kosten |
+| AGB-Klausel zur Faelligkeit nicht geprueft BGB 305 ff | Klausel unwirksam |
+
+## Verspaetungspraeklusion
+
+Später Vortrag kann nach ZPO 296 zurueckgewiesen werden. Beklagte versucht oft Verzoegerungstaktik. Kläger sollte Beweise mit Klage einreichen.
+
+## Norm-Pinpoints
+
+- ZPO 88 130d 138 296
+- BGB 305 ff
+- BGB 387 ff Aufrechnung
+
+## Quellen
+
+- [ZPO 296](https://www.gesetze-im-internet.de/zpo/__296.html)
+- [ZPO 138](https://www.gesetze-im-internet.de/zpo/__138.html)
+
+---
+
+## Skill: `tatbestand-beweis-belege`
+
+_Schluessige Tatbestandsdarstellung in einer Klage oder einem Schriftsatz mit Verknuepfung zu Beweisen und Belegen. Verlangt zeitliche Reihenfolge konkrete Tatsachen mit Beweismitteln Anlagenverweis. Pinpoints ZPO 138 Wahrheitspflicht ZPO 137 Verhandlungsgrundsatz ZPO 138 Abs. 2 substantiiertes Be..._
+
+# Tatbestand Beweis Belege
+
+Der Tatbestand muss konkret datiert beweisangebotenen Tatsachen enthalten. Pauschalsaetze fallen durch.
+
+## Tatbestand-Muster
+
+```
+I. Sachverhalt
+
+1. Am [Datum] schlossen die Parteien einen
+[Vertragstyp] ueber [Leistungsgegenstand]
+zum Preis von [Hauptsumme] Euro. Beweis
+Anlage K 1 Vertragsurkunde.
+
+2. Die Klaegerin lieferte die geschuldete
+Leistung am [Datum] vollstaendig. Beweis
+Anlage K 2 Lieferschein gezeichnet von
+[Empfaenger]. Zeuge [Name Anschrift].
+
+3. Die Klaegerin stellte unter dem [Datum]
+Rechnung Nr [Rechnungsnummer]. Beweis Anlage
+K 3.
+
+4. Die Beklagte erhielt die Rechnung
+spaetestens am [Datum]. Beweis Anlage K 4
+Sendungsverlauf.
+
+5. Mit Schreiben vom [Datum] mahnte die
+Klaegerin die Zahlung mit Fristsetzung bis
+[Datum]. Beweis Anlage K 5.
+
+6. Eine Zahlung erfolgte bis heute nicht.
+Beweis Kontoauszug Anlage K 6.
+```
+
+## Substantiierungsanforderungen
+
+| Anforderung | Inhalt |
+|---|---|
+| Vollstaendigkeit | jeder anspruchsbegruendende Punkt |
+| Zeitliche Reihenfolge | Datum bei jedem Schritt |
+| Beweismittel | je Tatsache mindestens eines |
+| Bezugnahme Anlage | im Text mit Anlagen-Nummer |
+| Tatsachen nicht Wertungen | wer was wann wo |
+
+## Bestreiten durch Beklagte
+
+| Form | Wirkung |
+|---|---|
+| Substantiiertes Bestreiten | Kläger trifft Beweislast voll |
+| Pauschales Bestreiten unzulaessig | gilt als zugestanden ZPO 138 Abs. 3 |
+| Nichtwissen ZPO 138 Abs. 4 | nur bei Tatsachen ausserhalb eigener Wahrnehmung |
+
+## Norm-Pinpoints
+
+- ZPO 137 Verhandlungsgrundsatz
+- ZPO 138 Wahrheitspflicht Substantiierung
+- ZPO 286 freie Beweiswuerdigung
+
+## Quellen
+
+- [ZPO 138](https://www.gesetze-im-internet.de/zpo/__138.html)
+- [ZPO 286](https://www.gesetze-im-internet.de/zpo/__286.html)
 
 ---
 

@@ -67,18 +67,18 @@ Dieser Einstieg routet **Arbeitszeugnis Analyse** vom ersten Sachverhalt zu Roll
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 
-## Leitentscheidungs-Anker (Uebersicht, vor Schriftsatzverwendung live verifizieren)
+## Leitentscheidungs-Anker (Übersicht, vor Schriftsatzverwendung live verifizieren)
 
 > Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
-| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 20.02.2001 - 9 AZR 44/00** | Beginn der staendigen Linie: kein Anspruch auf Schlussformel mit Dank und guten Wuenschen; Fehlen kein unzulaessiges Geheimzeichen. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 11.12.2012 - 9 AZR 227/11** | Kein Anspruch auf Dank/Wuensche; bei unzufriedener Mandantschaft mit erteilter Schlussformel ist nur ein Zeugnis OHNE Schlussformel einklagbar - keine Umformulierung. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 25.01.2022 - 9 AZR 146/21** | Bestaetigung der Linie; Abwaegung mit Meinungsfreiheit des Arbeitgebers (Art. 5 I GG). | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Aenderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Änderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
 
 
 ## Sofortstart und Rueckfrage-Disziplin
@@ -208,18 +208,18 @@ Vor jeder abschließenden Antwort prüfe:
 Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse-bluehendes-leben`. Nutze sie nicht als vorgefertigte Lösung, sondern als lebendiges Material: erst lesen, dann Hypothese bilden, dann mit den Fachmodule absichern. Die Fälle sollen zeigen, dass Arbeitszeugnisse oft höflich aussehen und trotzdem in einzelnen Abschnitten hart abwerten.
 
 
-## Leitentscheidungs-Anker (Uebersicht, vor Schriftsatzverwendung live verifizieren)
+## Leitentscheidungs-Anker (Übersicht, vor Schriftsatzverwendung live verifizieren)
 
 > Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
-| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 20.02.2001 - 9 AZR 44/00** | Beginn der staendigen Linie: kein Anspruch auf Schlussformel mit Dank und guten Wuenschen; Fehlen kein unzulaessiges Geheimzeichen. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 11.12.2012 - 9 AZR 227/11** | Kein Anspruch auf Dank/Wuensche; bei unzufriedener Mandantschaft mit erteilter Schlussformel ist nur ein Zeugnis OHNE Schlussformel einklagbar - keine Umformulierung. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 25.01.2022 - 9 AZR 146/21** | Bestaetigung der Linie; Abwaegung mit Meinungsfreiheit des Arbeitgebers (Art. 5 I GG). | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Aenderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Änderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
 
 
 ## Sofortstart und Rueckfrage-Disziplin
@@ -236,7 +236,7 @@ Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse
 
 ## Skill: `geheimcode-katalog`
 
-_Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Anwendungsfall Anwalt oder Arbeitnehmer will eine Zeugnisformulierung einordnen und weiss nicht ob sie positiv neutral oder negativ kodiert ist. Normen § 109 GewO Wahrheits- und Wohlwollenspflicht BAG-Rechtsprechung Zeugnissprache. Themen Leistung Verhalten Engagement Belastbarkeit Teamarbeit Führung Schlussformel. Output Ampeltabelle mit Notentendenzen Erlaeuterungen und Alternativformulierungen für Berichtigungsverlangen. Abgrenzung zu rote-flaggen-katalog orange-flaggen-katalog und gruen-flaggen-katalog (spezialisierte Teilkataloge)._
+_Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Anwendungsfall Anwalt oder Arbeitnehmer will eine Zeugnisformulierung einordnen und weiss nicht ob sie positiv neutral oder negativ kodiert ist. Normen § 109 GewO Wahrheits- und Wohlwollenspflicht BAG-Rechtsprechung Zeugnissprache. Themen Leistung Verhalten Engagement Belastbarkeit Teamarbeit Führung Schlussformel. Output Ampeltabelle mit Notentendenzen Erläuterungen und Alternativformulierungen für Berichtigungsverlangen. Abgrenzung zu rote-flaggen-katalog orange-flaggen-katalog und gruen-flaggen-katalog (spezialisierte Teilkataloge)._
 
 # Geheimcode-Katalog der Zeugnissprache
 
@@ -372,7 +372,7 @@ Mit freundlichen Gruessen
 
 ### Beispiel 2 – Klageantrag bei Berichtigungsstreit
 
-Der Beklagte wird verurteilt, der Klaegerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
+Der Beklagte wird verurteilt, der Klägerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
 
 Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung "erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
@@ -382,7 +382,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Beispiel 3 – Streitwert-Begruendung
 
-Der Streitwert wird in Anlehnung an die staendige Rechtsprechung der Landesarbeitsgerichte auf ein Monatsbruttogehalt der Klaegerin festgesetzt. Der Wert betraegt nach den Angaben der Klaegerin im Tatbestand brutto Eurobetrag. Die Mehrzahl der Streitpunkte fuehrt nicht zu einer Wertaddition, weil der Anspruch auf das berichtigte Zeugnis insgesamt nur einmal entstehen kann.
+Der Streitwert wird in Anlehnung an die staendige Rechtsprechung der Landesarbeitsgerichte auf ein Monatsbruttogehalt der Klägerin festgesetzt. Der Wert betraegt nach den Angaben der Klägerin im Tatbestand brutto Eurobetrag. Die Mehrzahl der Streitpunkte fuehrt nicht zu einer Wertaddition, weil der Anspruch auf das berichtigte Zeugnis insgesamt nur einmal entstehen kann.
 
 ### Beispiel 4 – Beweisangebote des Arbeitnehmers für bessere Note
 
@@ -409,7 +409,7 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
-| **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulaessig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulässig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 27.04.2021 - 9 AZR 262/20** | Tabellarische Ankreuz-/Schulnotenformulare erfuellen $ 109 GewO regelmaessig nicht - individuelle Hervorhebung verlangt Fliesstext. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Beschl. v. 07.05.2026 - 8 AZB 25/25** | Im gerichtlichen Vergleich uebernommene Pflicht, Zeugnis nach dem ENTWURF des Arbeitnehmers zu erteilen mit Abweichungs-Vorbehalt aus wichtigem Grund, hat vollstreckungsfaehigen Inhalt. | bundesarbeitsgericht.de / dejure.org (vor Schriftsatzverwendung live verifizieren - Entscheidung aus 2026) |
 | **BAG, Urt. v. 08.03.1995 - 5 AZR 848/93** | Zeugniserteilung ist Holschuld ($ 269 BGB): Arbeitnehmer holt im Betrieb ab; nur ausnahmsweise (Unzumutbarkeit, $ 242 BGB) Schickschuld. | bundesarbeitsgericht.de / dejure.org |
@@ -424,7 +424,7 @@ Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfu
 | Titulierter Zeugnisanspruch wird nicht erfuellt | Zwangsgeld, ersatzweise Zwangshaft ($ 888 ZPO - nicht vertretbare Handlung) |
 | Vergleich mit Entwurfsklausel ("Zeugnis nach Entwurf des Arbeitnehmers, Abweichung nur aus wichtigem Grund") | Unmittelbar vollstreckbar (BAG 07.05.2026 - 8 AZB 25/25 - vor Verwendung live verifizieren) |
 | Erteiltes Zeugnis weicht vom Titel ab | Im Vollstreckungsverfahren ruegen; ironische Uebererfuellung ist Nichterfuellung (LAG Hamm 12 Ta 475/16) |
-| Streit ueber "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
+| Streit über "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
 
 **Praxisregel:** Schon beim Vergleichsschluss an die Vollstreckung denken - die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt macht aus dem Vergleich einen scharfen Titel.
 
@@ -432,7 +432,7 @@ Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfu
 
 ## Skill: `erstgespraech-und-mandatsannahme`
 
-_Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er für mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjährung drei Jahre § 611a BGB Arbeitsvertrag. Prüfraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Aenderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber._
+_Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er für mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjährung drei Jahre § 611a BGB Arbeitsvertrag. Prüfraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Änderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber._
 
 # Erstgespraech und Mandatsannahme im Zeugnisrecht
 
@@ -444,40 +444,40 @@ _Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Friste
 
 ## Eingangsbestaetigung
 
-Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthaelt vier Bausteine: Dank für das uebersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benoetigten Unterlagen sowie Hinweis auf die zu klaerenden Fristen.
+Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthaelt vier Bausteine: Dank für das uebersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benoetigten Unterlagen sowie Hinweis auf die zu klärenden Fristen.
 
 Wichtig ist der Hinweis, dass die Bewertung erst nach Sichtung aller Unterlagen erfolgen kann. Eine vorschnelle Einschaetzung allein anhand des Zeugnistextes ist riskant, weil der Kontext (Aufgabenzuschnitt, Krankheitstage, Abmahnungen, Vergleichszeugnisse) die Bewertung erheblich verschieben kann. Der Mandant erhaelt daher zunaechst nur eine Eingangsbestaetigung, keine Bewertung.
 
 ## Anforderungsliste der Unterlagen
 
-Die folgende Liste ist abschliessend strukturiert und sollte vollstaendig angefordert werden. Lueckenhafte Akten fuehren spaeter zu Beweisproblemen.
+Die folgende Liste ist abschliessend strukturiert und sollte vollstaendig angefordert werden. Lueckenhafte Akten fuehren später zu Beweisproblemen.
 
 | Unterlage | Zweck |
 | --- | --- |
 | Arbeitsvertrag (Erstfassung) | Aufgabenzuschnitt, Eingruppierung, vereinbarte Taetigkeit |
-| Aenderungsvereinbarungen, Versetzungsschreiben | Veraenderungen im Taetigkeitsbild |
+| Änderungsvereinbarungen, Versetzungsschreiben | Veraenderungen im Taetigkeitsbild |
 | Stellenbeschreibung, Organigramm | Hierarchische Einordnung, Fuehrungsverantwortung |
 | Vorzeugnisse (Zwischenzeugnis, Beurteilungen) | Vergleichsmassstab, Sperrwirkung der besseren Vorbewertung |
 | Kuendigungsschreiben, Aufhebungsvertrag | Beendigungsgrund, Schlussformel-Erwartung |
 | Abmahnungen | Belastbarkeit des Verhaltens-Themas, Risikoeinschaetzung |
-| Krankheitstage- und Fehlzeitenuebersicht | Pruefung von Krankheits-Codeworten und langer Fehlzeit |
+| Krankheitstage- und Fehlzeitenuebersicht | Prüfung von Krankheits-Codeworten und langer Fehlzeit |
 | Schriftwechsel zum Zeugnis | Bisherige aussergerichtliche Korrespondenz, Berichtigungsverlangen |
 | Lohnabrechnungen der letzten drei Monate | Streitwertberechnung (Monatsbruttogehalt) |
 | Eigene Aufgabenliste des Mandanten | Abgleich mit dem Zeugnistext, fehlende Aufgaben |
 
-Bei besonderen Konstellationen kommen weitere Unterlagen hinzu: Schwerbehindertenausweis (Sonderkuendigungsschutz), Elternzeit-Bescheinigungen (Sperrzeit-Pruefung), Betriebsratstaetigkeit (Diskriminierungsrisiko), Pflegezeit, Mutterschutz.
+Bei besonderen Konstellationen kommen weitere Unterlagen hinzu: Schwerbehindertenausweis (Sonderkuendigungsschutz), Elternzeit-Bescheinigungen (Sperrzeit-Prüfung), Betriebsratstaetigkeit (Diskriminierungsrisiko), Pflegezeit, Mutterschutz.
 
 ## Erstgespraech-Leitfaden
 
 Das Erstgespraech ist strukturiert in fuenf Bloecken zu fuehren.
 
-Der erste Block ist die Sachverhaltsaufnahme. Eckdaten der Beschaeftigung (Beginn, Ende, Position, Vorgesetzte, letzte Aufgabe) werden notiert. Schwerpunkt ist nicht das Zeugnis, sondern das tatsaechliche Leistungs- und Verhaltensbild aus Sicht des Mandanten.
+Der erste Block ist die Sachverhaltsaufnahme. Eckdaten der Beschäftigung (Beginn, Ende, Position, Vorgesetzte, letzte Aufgabe) werden notiert. Schwerpunkt ist nicht das Zeugnis, sondern das tatsaechliche Leistungs- und Verhaltensbild aus Sicht des Mandanten.
 
 Der zweite Block ist die Zielklaerung. Will der Mandant ein besseres Zeugnis, eine bestimmte Note, eine bestimmte Schlussformel, eine konkrete Taetigkeitsbeschreibung oder die Entfernung bestimmter Passagen. Auch der Zeitdruck wird erfragt: Steht ein Vorstellungsgespraech an, ist Eile geboten.
 
-Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafür die Notenstufe stimmt. Diese Vorabklaerung erspart spaeter unnoetige Schriftsatzwechsel.
+Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafür die Notenstufe stimmt. Diese Vorabklaerung erspart später unnoetige Schriftsatzwechsel.
 
-Der vierte Block ist die rechtliche Erstinformation. Der Mandant wird ueber den Anspruch nach Paragraf 109 GewO, die Beweislastregel (Note ab Drei: Arbeitnehmer, oberhalb der Drei: Arbeitgeber), die Verjährung und das Risiko der Verwirkung aufgeklaert. Ohne diese Aufklaerung ist eine wirksame Mandatsbeauftragung nicht moeglich.
+Der vierte Block ist die rechtliche Erstinformation. Der Mandant wird über den Anspruch nach Paragraf 109 GewO, die Beweislastregel (Note ab Drei: Arbeitnehmer, oberhalb der Drei: Arbeitgeber), die Verjährung und das Risiko der Verwirkung aufgeklaert. Ohne diese Aufklaerung ist eine wirksame Mandatsbeauftragung nicht möglich.
 
 Der fuenfte Block ist die Vereinbarung. Vergueterung (RVG oder Stundensatz), Kostenvorschuss, Rechtsschutzversicherung, Vollmacht und Mandatsumfang werden schriftlich festgehalten.
 
@@ -487,14 +487,14 @@ Sehr geehrter Herr [Name],
 
 vielen Dank für Ihre Beauftragung und die uebersandten Unterlagen. Wir haben Ihr Arbeitszeugnis vom [Datum] erhalten und werden eine detaillierte Ampelanalyse durchfuehren.
 
-Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines Berichtigungsverlangens beurteilen koennen, benoetigen wir noch die folgenden Unterlagen:
+Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines Berichtigungsverlangens beurteilen können, benoetigen wir noch die folgenden Unterlagen:
 
-- Arbeitsvertrag nebst allen Aenderungsvereinbarungen
+- Arbeitsvertrag nebst allen Änderungsvereinbarungen
 - Stellenbeschreibung oder schriftliche Aufgabenuebersicht
 - gegebenenfalls vorhandene Zwischenzeugnisse und Beurteilungen
 - Kuendigungsschreiben oder Aufhebungsvertrag
 - gegebenenfalls erteilte Abmahnungen
-- Uebersicht ueber Krankheits- und Fehlzeiten im letzten Beschaeftigungsjahr
+- Übersicht über Krankheits- und Fehlzeiten im letzten Beschäftigungsjahr
 - bisheriger Schriftwechsel zum Zeugnis
 - Lohnabrechnungen der letzten drei Monate
 
@@ -503,13 +503,13 @@ Bitte beachten Sie, dass der Anspruch auf Berichtigung eines Arbeitszeugnisses d
 Mit freundlichen Gruessen
 [Kanzlei]
 
-## Pruefliste vor Mandatsannahme
+## Prüfliste vor Mandatsannahme
 
-Vor der formellen Annahme prueft die Kanzlei drei Punkte. Erstens den Interessenkonflikt: Vertritt die Kanzlei den frueheren Arbeitgeber oder einen verbundenen Konzern, ist das Mandat zu versagen. Zweitens die Verjährung: Liegt das Zeugnisdatum mehr als drei Jahre zurueck, ist die Erfolgsaussicht ohne besondere Umstaende gering. Drittens die Werthaltigkeit: Bei einer reinen Schlussformel-Diskussion ohne wirtschaftliche Bedeutung sollte der Mandant ueber das Kostenrisiko offen aufgeklaert werden.
+Vor der formellen Annahme prüft die Kanzlei drei Punkte. Erstens den Interessenkonflikt: Vertritt die Kanzlei den frueheren Arbeitgeber oder einen verbundenen Konzern, ist das Mandat zu versagen. Zweitens die Verjährung: Liegt das Zeugnisdatum mehr als drei Jahre zurueck, ist die Erfolgsaussicht ohne besondere Umstaende gering. Drittens die Werthaltigkeit: Bei einer reinen Schlussformel-Diskussion ohne wirtschaftliche Bedeutung sollte der Mandant über das Kostenrisiko offen aufgeklaert werden.
 
 ## Anschluss an die weiteren Skills
 
-Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift-Erkennung und rechtlichen Bewertung. Das Ergebnis fliesst in den Skill `mandantenbericht-zeugnisanalyse`. Die Aufforderung an den Arbeitgeber wird ueber den Skill `aufforderungsschreiben-arbeitgeber` erstellt, der weitere Verfahrensweg ueber `klage-strategie-zeugnisberichtigung`.
+Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift-Erkennung und rechtlichen Bewertung. Das Ergebnis fliesst in den Skill `mandantenbericht-zeugnisanalyse`. Die Aufforderung an den Arbeitgeber wird über den Skill `aufforderungsschreiben-arbeitgeber` erstellt, der weitere Verfahrensweg über `klage-strategie-zeugnisberichtigung`.
 
 ## Rechtliche Einordnung und Normen
 
@@ -587,15 +587,15 @@ _Rechtliche Einordnung von Zeugnisansprüchen nach § 109 GewO und BAG-Rechtspre
 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
-| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 20.02.2001 - 9 AZR 44/00** | Beginn der staendigen Linie: kein Anspruch auf Schlussformel mit Dank und guten Wuenschen; Fehlen kein unzulaessiges Geheimzeichen. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 11.12.2012 - 9 AZR 227/11** | Kein Anspruch auf Dank/Wuensche; bei unzufriedener Mandantschaft mit erteilter Schlussformel ist nur ein Zeugnis OHNE Schlussformel einklagbar - keine Umformulierung. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 25.01.2022 - 9 AZR 146/21** | Bestaetigung der Linie; Abwaegung mit Meinungsfreiheit des Arbeitgebers (Art. 5 I GG). | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Aenderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Änderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Gebot der Zeugnisklarheit ($ 109 II GewO): massgeblich ist der objektive Empfaengerhorizont, nicht die Absicht des Arbeitgebers. "Kennen gelernt" allein ist kein Geheimcode. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulaessig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulässig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 27.04.2021 - 9 AZR 262/20** | Tabellarische Ankreuz-/Schulnotenformulare erfuellen $ 109 GewO regelmaessig nicht - individuelle Hervorhebung verlangt Fliesstext. | bundesarbeitsgericht.de / dejure.org |
 | **LAG Hamm, Beschl. v. 14.11.2016 - 12 Ta 475/16** | Ironisch ueberzogenes Lob ist unzulaessig; Arbeitnehmer hat Anspruch auf geschaeftsuebliche Unterschrift des Ausstellers; quer-laufende Unterschrift weckt Zweifel an Ernsthaftigkeit. | nrwe.de / justiz.nrw.de |
 | **ArbG Kiel, Urt. v. 18.04.2013 - 5 Ca 80 b/13** | In die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulaessiges Geheimzeichen ($ 109 II 2 GewO). | frei publiziert / dejure-Suche |
@@ -667,7 +667,7 @@ _Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur praezisen No
 
 ## Skill: `zeugnisart-erkennung`
 
-_Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischenzeugnis und Ausbildungszeugnis am Beginn jeder Analyse. Anwendungsfall Zeugnis liegt vor und muss bevor Analyse startet der richtigen Zeugnisart zugeordnet werden. Normen § 109 GewO qualifiziertes vs. einfaches Zeugnis § 16 BBiG Ausbildungszeugnis. Prüfraster Inhalt Zeitbezug Position Stichtag Ausstellungsanlass. Output Zeugnisart-Klassifikation mit Erlauterungen zu Inhalt Erwartungshaltung und Interpretationsrahmen für alle Folge-Skills. Abgrenzung zu zeugnis-ueberblick-extraktion (Kopfdaten) und notenrelevante-saetze-identifizieren._
+_Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischenzeugnis und Ausbildungszeugnis am Beginn jeder Analyse. Anwendungsfall Zeugnis liegt vor und muss bevor Analyse startet der richtigen Zeugnisart zugeordnet werden. Normen § 109 GewO qualifiziertes vs. einfaches Zeugnis § 16 BBiG Ausbildungszeugnis. Prüfraster Inhalt Zeitbezug Position Stichtag Ausstellungsanlass. Output Zeugnisart-Klassifikation mit Erlauterungen zu Inhalt Erwartungshaltung und Interpretationsrahmen für alle Folge-Skills. Abgrenzung zu zeugnis-überblick-extraktion (Kopfdaten) und notenrelevante-saetze-identifizieren._
 
 # Zeugnisart-Erkennung
 
@@ -710,7 +710,7 @@ _Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischenzeugnis und A
 
 ## Skill: `zeugnis-ueberblick-extraktion`
 
-_Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen für Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbildungszeugnis. Prüfraster Arbeitgeber Arbeitnehmer Beschaeftigungszeitraum Position Ausstellungsdatum Unterschriftsberechtigte Vollständigkeit. Output Strukturiertes Kopfdatenblatt mit Vollständigkeitsprüfung und Zeugnisart-Einordnung als Eingabe für alle Folge-Analyse-Skills. Abgrenzung zu zeugnisart-erkennung und notenrelevante-saetze-identifizieren._
+_Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen für Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbildungszeugnis. Prüfraster Arbeitgeber Arbeitnehmer Beschäftigungszeitraum Position Ausstellungsdatum Unterschriftsberechtigte Vollständigkeit. Output Strukturiertes Kopfdatenblatt mit Vollständigkeitsprüfung und Zeugnisart-Einordnung als Eingabe für alle Folge-Analyse-Skills. Abgrenzung zu zeugnisart-erkennung und notenrelevante-saetze-identifizieren._
 
 # Zeugnis-Überblick und Kopfdaten-Extraktion
 
@@ -814,8 +814,8 @@ _Analyse von Ausbildungszeugnissen nach § 16 BBiG bei Zeugnisstreit oder Berich
 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
-| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
 
 ---
 
@@ -873,14 +873,14 @@ _Aggregiert Einzelbewertungen aus Leistungs- Verhaltens- und Schlussformel-Analy
 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
-| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
 
 ---
 
 ## Skill: `notenrelevante-saetze-identifizieren`
 
-_Identifiziert notenrelevante Saetze im Arbeitszeugnis und trennt sie von neutralen Aufgabenbeschreibungen. Anwendungsfall Zeugnis liegt vor und muss für Ampelanalyse vorbereitet werden. Normen § 109 GewO Inhalte eines qualifizierten Zeugnisses BAG-Anforderungen an Vollständigkeit. Kategorisierung Aufgabenbeschreibung Leistungsbeurteilung Verhaltensbeurteilung Schlussformel. Output Kategorisierte Satzliste als Eingabe für satzweise-notenmatrix und Bereichs-Drift-Detektor. Abgrenzung zu zeugnis-ueberblick-extraktion (Kopfdaten) und zeugnisart-erkennung._
+_Identifiziert notenrelevante Saetze im Arbeitszeugnis und trennt sie von neutralen Aufgabenbeschreibungen. Anwendungsfall Zeugnis liegt vor und muss für Ampelanalyse vorbereitet werden. Normen § 109 GewO Inhalte eines qualifizierten Zeugnisses BAG-Anforderungen an Vollständigkeit. Kategorisierung Aufgabenbeschreibung Leistungsbeurteilung Verhaltensbeurteilung Schlussformel. Output Kategorisierte Satzliste als Eingabe für satzweise-notenmatrix und Bereichs-Drift-Detektor. Abgrenzung zu zeugnis-überblick-extraktion (Kopfdaten) und zeugnisart-erkennung._
 
 # Notenrelevante Sätze identifizieren
 
@@ -926,7 +926,7 @@ _Identifiziert notenrelevante Saetze im Arbeitszeugnis und trennt sie von neutra
 
 ## Skill: `satzweise-notenmatrix`
 
-_Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmassstab BAG-Linie zur Zeugnissprache. Prüfraster Satzkurzform Themenbereich Note Steigerungsadverb-Befund Begründung. Output Geschlossene Notenmatrix als Grundlage für Bereichs-Drift-Detektor und Gesamtnoten-Aggregation. Abgrenzung zu notenrelevante-saetze-identifizieren (Vorstufe) und gesamtnoten-aggregation (Folgestufe)._
+_Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmaßstab BAG-Linie zur Zeugnissprache. Prüfraster Satzkurzform Themenbereich Note Steigerungsadverb-Befund Begründung. Output Geschlossene Notenmatrix als Grundlage für Bereichs-Drift-Detektor und Gesamtnoten-Aggregation. Abgrenzung zu notenrelevante-saetze-identifizieren (Vorstufe) und gesamtnoten-aggregation (Folgestufe)._
 
 # Satzweise Notenmatrix
 
@@ -951,7 +951,7 @@ _Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis
 
 ## Beispiele
 
-**Beispiel 1 – Note 1:** "verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches ueber aeusserst profundes Fachwissen" → Steigerungsadverb "aeusserst", Maximalbereichsangabe "auch in Randbereichen", Superlativ "profundes". Themenbereich Fachkenntnisse.
+**Beispiel 1 – Note 1:** "verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches über aeusserst profundes Fachwissen" → Steigerungsadverb "aeusserst", Maximalbereichsangabe "auch in Randbereichen", Superlativ "profundes". Themenbereich Fachkenntnisse.
 
 **Beispiel 2 – Note 3:** "nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil" → kein Steigerungsadverb, kein Superlativ ("regelmaessig" ist Haeufigkeit, kein Steigerer). Themenbereich Lernbereitschaft.
 
@@ -959,7 +959,7 @@ _Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis
 
 **Beispiel 4 – Note 3:** "war Neuem gegenueber aufgeschlossen, fand gute neue Ideen und innovative Ansaetze" → "gute" statt "hervorragende", kein Steigerungsadverb, Verb "fand" statt "entwickelte". Themenbereich Innovation.
 
-**Beispiel 5 – Note 1:** "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" → Steigerer "stets sehr weit", expliziter Vergleich "ueber unseren Anforderungen". Themenbereich Arbeitsergebnis.
+**Beispiel 5 – Note 1:** "Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen" → Steigerer "stets sehr weit", expliziter Vergleich "über unseren Anforderungen". Themenbereich Arbeitsergebnis.
 
 **Beispiel 6 – Note 3:** "war ein geschaetzter Ansprechpartner, sein persönliches Verhalten war einwandfrei" → "geschaetzt" ohne Steigerung, "einwandfrei" ohne "stets". Themenbereich Sozialverhalten.
 
@@ -1059,15 +1059,15 @@ _Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Training und Demo
 
 | Satz im Muster | Themenbereich | Note | Befund |
 |---|---|---|---|
-| "verfuegt auch in Randbereichen ueber aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
+| "verfuegt auch in Randbereichen über aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
 | "nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" | Lernbereitschaft | 3 | Kein Steigerungsadverb |
-| "ausgepraegt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | "stets" plus Superlativ |
+| "ausgeprägt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | "stets" plus Superlativ |
 | "zeigte sich bei neuen Aufgabenbereichen flexibel und aufgeschlossen" | Flexibilitaet | 3 | "zeigte" ohne Steigerung |
 | "besonders hohe Arbeitsmoral, stets aeusserst motiviert, beharrlich zu verfolgen" | Engagement | 1 | Drei Steigerer |
 | "zeigte eine hohe Lernbereitschaft" | Lernbereitschaft | 3 | "hohe" ohne Adverb |
 | "jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig, planvoll durchdacht" | Arbeitsweise | 1 | Drei Steigerer |
 | "fand gute neue Ideen und innovative Ansaetze" | Innovation | 3 | "gute" statt "hervorragende" |
-| "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
+| "Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
 | "war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | "war in der Lage" |
 | "vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
 | "geschaetzter Ansprechpartner, persönliches Verhalten war einwandfrei" | Sozialverhalten | 3 | "einwandfrei" ohne "stets" |
@@ -1083,17 +1083,17 @@ _Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Training und Demo
 
 **Arbeitszeugnis**
 
-Herr Albert Beispiel, geboren am neunten Juni neunzehnhundertsiebzig, war vom ersten Januar zweitausendelf bis zum dreissigsten September zweitausenddreizehn als Baumeister im Bereich Geschaeftsleitung unseres Unternehmens taetig.
+Herr Albert Beispiel, geboren am neunten Juni neunzehnhundertsiebzig, war vom ersten Januar zweitausendelf bis zum dreissigsten September zweitausenddreizehn als Baumeister im Bereich Geschäftsleitung unseres Unternehmens tätig.
 
-Herr Beispiel verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches ueber aeusserst profundes Fachwissen.
+Herr Beispiel verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches über aeusserst profundes Fachwissen.
 
 Herr Beispiel nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil.
 
-Hervorzuheben ist sein ausgepraegt strategisches Denkvermoegen, das es ihm ermoeglichte, auch bei neuen geschaeftlichen Entwicklungen stets in kuerzester Zeit optimale Loesungen zu entwickeln.
+Hervorzuheben ist sein ausgeprägt strategisches Denkvermoegen, das es ihm ermoeglichte, auch bei neuen geschäftlichen Entwicklungen stets in kuerzester Zeit optimale Loesungen zu entwickeln.
 
 Er zeigte sich auch bei der Bewaeltigung neuer Aufgabenbereiche flexibel und aufgeschlossen.
 
-Herr Beispiel verfuegt ueber eine besonders hohe Arbeitsmoral und war stets aeusserst motiviert, die gesetzten Ziele beharrlich zu verfolgen.
+Herr Beispiel verfuegt über eine besonders hohe Arbeitsmoral und war stets aeusserst motiviert, die gesetzten Ziele beharrlich zu verfolgen.
 
 Herr Beispiel zeigte eine hohe Lernbereitschaft.
 
@@ -1101,7 +1101,7 @@ Alle Aufgaben fuehrte er jederzeit vollkommen selbststaendig, aeusserst sorgfael
 
 Herr Beispiel war Neuem gegenueber aufgeschlossen, fand gute neue Ideen und innovative Ansaetze.
 
-Die von Herrn Beispiel entwickelten Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen.
+Die von Herrn Beispiel entwickelten Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen.
 
 Herr Beispiel war in der Lage, Konflikte erfolgreich zu bewaeltigen. Durch sein konstruktives Verhalten und ueberlegtes Handeln konnte er so ein gutes Arbeitsklima in seinem Team schaffen.
 

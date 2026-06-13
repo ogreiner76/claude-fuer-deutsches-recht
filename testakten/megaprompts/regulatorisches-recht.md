@@ -9,18 +9,18 @@ Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `regulatorisches-rec
 1. **einstieg-routing** — Einstieg, Triage und Routing für Regulatorisches Recht (Sektoren): ordnet Rolle (Unternehmen reguliert, Aufsichtsbehörde…
 2. **aufsichtsrecht-erstpruefung-und-mandatsziel** — Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel.
 3. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Regulatorisches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken…
-4. **aufsichts-feed-monitor** — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifiziere…
-5. **dora-ikt-vertragspruefung** — IKT-Drittanbietervertraege auf DORA-Konformität prüfen wenn Finanzunternehmen digitale Dienstleistungen einkaufen. Art. …
-6. **inkasso-rdg-luecken-mar-mifid** — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 1…
-7. **luecken** — Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zusta…
-8. **luecken-aufzeiger** — Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG…
-9. **mandat-arbeitsbereich** — Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfan…
-10. **regrecht-einfuehrung-sektoren** — Einfuehrung regulatorisches Recht in den wichtigsten Sektoren: Bank, Versicherung, Energie, Telekommunikation, Verkehr, …
-11. **regulatorisches-richtlinien-neufassung** — Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG …
-12. **richtlinien-anhoerung-red-aufsichtsrecht** — Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. P…
-13. **richtlinien-neufassung** — Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk.…
-14. **stellungnahmen** — Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prü…
-15. **ustva-aufsichtskommunikation-grundregeln-dora** — Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen …
+4. **dora-ikt-vertragspruefung** — IKT-Drittanbietervertraege auf DORA-Konformität prüfen wenn Finanzunternehmen digitale Dienstleistungen einkaufen. Art. …
+5. **inkasso-rdg-luecken-mar-mifid** — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 1…
+6. **luecken** — Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zusta…
+7. **luecken-aufzeiger** — Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG…
+8. **mandat-arbeitsbereich** — Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfan…
+9. **regrecht-einfuehrung-sektoren** — Einfuehrung regulatorisches Recht in den wichtigsten Sektoren: Bank, Versicherung, Energie, Telekommunikation, Verkehr, …
+10. **richtlinien-neufassung** — Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk.…
+11. **ustva-aufsichtskommunikation-grundregeln-dora** — Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen …
+12. **regulatorisches-richtlinien-neufassung** — Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG …
+13. **stellungnahmen** — Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prü…
+14. **aufsichts-feed-monitor** — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Änderungen für Mandanten identifizieren…
+15. **richtlinien-anhoerung-red-aufsichtsrecht** — Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. P…
 
 ---
 
@@ -76,7 +76,7 @@ _Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Aufsichtsrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Regulatorisches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Aufsichtsrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Regulatorisches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -95,7 +95,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 KWG` — Bankgeschaefte.
 - `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
 - `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
 - `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
 - `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
 - `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
@@ -244,7 +244,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `aufsichts-feed-monitor` | Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist… |
+| `aufsichts-feed-monitor` | Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Änderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist… |
 | `dora-ikt-vertragspruefung` | IKT-Drittanbietervertraege auf DORA-Konformität prüfen wenn Finanzunternehmen digitale Dienstleistungen einkaufen. Art. 28 30 DORA VO (EU) 2022/2554. Prüfraster: Pflichtklauseln Art. 30 DORA Ausstiegsstrategien… |
 | `inkasso-rdg` | Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Prüfraster: Erlaubnispflicht Nebenleistungsprivileg… |
 | `luecken` | Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit… |
@@ -253,7 +253,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `regulatorisches-recht-kaltstart-interview` | Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Prüfraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte… |
 | `regulatorisches-recht-mandat-arbeitsbereich` | Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behörden. Output: Mandatssteckbrief Arbeitsplan… |
 | `richtlinien-neufassung` | Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Prüfraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg.… |
-| `richtlinien-vergleich` | Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der… |
+| `richtlinien-vergleich` | Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Änderungshistorie Bedeutung der… |
 | `stellungnahmen` | Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege… |
 | `ustva` | Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse… |
 
@@ -265,11 +265,11 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein Finanzunternehmen muss pruefen, ob ein neues Geschaeftsmodell einer BaFin-Erlaubnis nach KWG oder ZAG bedarf.
+- Ein Finanzunternehmen muss prüfen, ob ein neues Geschäftsmodell einer BaFin-Erlaubnis nach KWG oder ZAG bedarf.
 - Eine Kanzlei bereitet eine Stellungnahme zu einem neuen Regulierungsvorhaben vor.
 - Ein Unternehmen will interne Compliance-Richtlinien nach DORA, MaRisk oder WpHG aktualisieren.
 - Ein Inkassounternehmen fragt, ob seine Taetigkeiten unter das RDG fallen.
-- Ein reguliertes Unternehmen beobachtet neue BaFin- oder EBA-Veroeffentlichungen und will relevante Aenderungen schnell identifizieren.
+- Ein reguliertes Unternehmen beobachtet neue BaFin- oder EBA-Veroeffentlichungen und will relevante Änderungen schnell identifizieren.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -294,17 +294,17 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Branche, Regulierungsrahmen und konkretes Rechtsproblem bestimmen.
+1. Mandantenkonstellation klären: Branche, Regulierungsrahmen und konkretes Rechtsproblem bestimmen.
 2. Mandat strukturieren und Arbeitsbereich abgrenzen (Skill `regulatorisches-recht-kaltstart-interview` oder `regulatorisches-recht-mandat-arbeitsbereich`).
 3. Passenden Fachskill auswaehlen (z. B. DORA, Inkasso, Richtlinien, Lueckenanalyse).
-4. Eilfristen und Meldepflichten pruefen (Aufsichtsfristen koennen kurz sein).
+4. Eilfristen und Meldepflichten prüfen (Aufsichtsfristen können kurz sein).
 5. Anschluss-Skill bestimmen (z. B. Richtlinie anpassen oder Stellungnahme verfassen).
 
 ## Skill-Tour (was gibt es hier?)
 
-- `aufsichts-feed-monitor` — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren.
-- `dora-ikt-vertragspruefung` — IKT-Drittanbietervertraege auf DORA-Konformitaet pruefen für Finanzunternehmen, die digitale Dienstleistungen einkaufen.
-- `inkasso-rdg` — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG pruefen, wenn gewerbliche Forderungseinziehung betrieben wird.
+- `aufsichts-feed-monitor` — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Änderungen für Mandanten identifizieren.
+- `dora-ikt-vertragspruefung` — IKT-Drittanbietervertraege auf DORA-Konformitaet prüfen für Finanzunternehmen, die digitale Dienstleistungen einkaufen.
+- `inkasso-rdg` — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen, wenn gewerbliche Forderungseinziehung betrieben wird.
 - `luecken` — Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren (KWG, WpHG, DORA, VAG, GwG).
 - `luecken-aufzeiger` — Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen.
 - `regulatorisches-recht-anpassen` — Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen.
@@ -313,19 +313,19 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - `richtlinien-neufassung` — Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen.
 - `richtlinien-vergleich` — Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen.
 - `stellungnahmen` — Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen.
-- `ustva` — Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen für Finanzunternehmen oder regulierte Entitaeten mit USt-Fragen.
+- `ustva` — Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen für Finanzunternehmen oder regulierte Entitaeten mit USt-Fragen.
 
 ## Worauf besonders achten
 
-- Regulatorische Pflichten aendern sich haeufig: EBA-Guidelines, BaFin-Rundschreiben und neue EU-Verordnungen koennen Bestandsregelungen kurzfristig ueberlagern.
-- KWG und ZAG-Erlaubnisse sind vorgelagert — kein Geschaeft ohne Erlaubnis starten.
-- DORA gilt ab 17.01.2025 für alle in Art. 2 DORA genannten Finanzentitaeten; IKT-Drittanbietervertraege muessen nachgeruestet werden.
+- Regulatorische Pflichten ändern sich haeufig: EBA-Guidelines, BaFin-Rundschreiben und neue EU-Verordnungen können Bestandsregelungen kurzfristig ueberlagern.
+- KWG und ZAG-Erlaubnisse sind vorgelagert — kein Geschäft ohne Erlaubnis starten.
+- DORA gilt ab 17.01.2025 für alle in Art. 2 DORA genannten Finanzentitaeten; IKT-Drittanbietervertraege müssen nachgeruestet werden.
 - Inkasso-Taetigkeiten ohne RDG-Registrierung sind strafbewehrt (§ 20 RDG).
-- Sektorspezifische Normen (EnWG, TKG) haben eigene Aufsichtsstrukturen (BNetzA) neben BaFin — Zustaeindigkeit immer klaeren.
+- Sektorspezifische Normen (EnWG, TKG) haben eigene Aufsichtsstrukturen (BNetzA) neben BaFin — Zustaeindigkeit immer klären.
 
 ## Typische Fehler
 
-- Erlaubnispflicht nach KWG oder ZAG uebersehen: Neue Geschaeftsmodelle (z. B. Krypto, Buy-now-pay-later) werden ohne Vorab-Pruefung gestartet.
+- Erlaubnispflicht nach KWG oder ZAG uebersehen: Neue Geschäftsmodelle (z. B. Krypto, Buy-now-pay-later) werden ohne Vorab-Prüfung gestartet.
 - DORA nur als IT-Thema behandelt: Vertragliche Anforderungen an IKT-Drittanbieter werden von der Rechtsabteilung nicht koordiniert.
 - Luecken in Compliance-Richtlinien nach Gesetzesaenderungen nicht nachgepflegt: Alte MaRisk-Version oder veraltete GwG-Interna bleiben im Einsatz.
 - Fristen für Stellungnahmen zu Konsultationsverfahren verpasst: Europ. Behörden (EBA, ESMA) setzen kurze Fristen.
@@ -337,195 +337,6 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - Gesetzesfassungen zum Stand-Datum
 - DORA-VO EU 2022/2554 anwendbar ab 17.01.2025
 - MaRisk-Novelle 2023 der BaFin
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 18 UStG
-- § 25a KWG
-- § 4 RDGEG
-- § 13d RDG
-- § 203 StGB
-- Art. 288 AEUV
-- § 25b KWG
-- § 1 ZAG
-- § 13 RDG
-- § 10 ZAG
-- Art. 80 AEUV
-- § 17 UStG
-
-### Leitentscheidungen
-
-- EuGH C-6/64
-- EuGH C-117/20
-
----
-
-## Skill: `aufsichts-feed-monitor`
-
-_Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Aenderungen Handlun..._
-
-# Regulatorischer Feed-Watcher
-
-## Eingaben
-
-- **Watchlist:** Welche Behörden und Rechtsgebiete sind zu überwachen?
-- **Wesentlichkeitsschwellenwert:** Wie ist Materialität konfiguriert?
-- **Prüfzeitraum:** Seit wann? (Standard: seit letztem Lauf; alternativ `--since DATUM`)
-- **Quellen:** Konfigurierte Feeds, RSS-Adressen, Dienste.
-- **Alternativ:** Manuell eingefügter Regulierungstext zur Einzelklassifikation.
-
-## Rechtlicher Rahmen
-
-### Kernvorschriften
-
-- **BGBl.** — amtliches Verkündungsblatt; maßgeblich für Inkrafttreten von Normen.
-- **ABl. EU, Reihe L + C** — verbindliche EU-Rechtsakte und Leitlinien.
-- **BaFin-Rundschreiben** (z. B. MaRisk BA 2023, BAIT, ZAIT) — konkretisieren
- aufsichtsrechtliche Anforderungen; §§ 6, 25b KWG, §§ 6, 23 VAG, §§ 6 ff. WpHG.
-- **BSI** — Technische Richtlinien und Kritis-Verlautbarungen (§§ 8a ff. BSIG).
-- **EU-KI-VO (VO (EU) 2024/1689)** — Hochrisiko-Klassifikation, Konformitätspflichten.
-- **CSRD (RL (EU) 2022/2464)** — nichtfinanzielle Berichterstattung, ESRS-Standards.
-- **Art. 20 Abs. 3 GG** — Rechtsstaatsprinzip, Normenklarheit; Maßstab für die
- Bewertung behördlicher Verlautbarungen ohne formelle Ermächtigungsnorm.
-
-### Leitentscheidungen / Aktualitäts-Anker
-
-Stand 05/2026. Vor Verwendung im Schriftsatz live verifizieren — keine Aktenzeichen aus Modellwissen.
-
-- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — DSGVO-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring nationaler Bußgeldpraxis.
-- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — DSGVO geht DSA vor; kein Provider-Privileg bei DSGVO-Verstößen — relevant für Plattform-Compliance-Monitoring.
-- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger DSGVO-Auskunftsantrag kann rechtsmissbräuchlich sein.
-- BVerfG-Linien zu Wesentlichkeit und Normenklarheit (BVerfGE 33, 125; 49, 89 — Kalkar) im Mandat über [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) live verifizieren.
-- DORA-Aktualisierungen 2025/2026: ESA-Liste kritischer IKT-Drittdienstleister (November 2025); BaFin DORA-Informationsregister-Frist 09.–30.03.2026.
-- AMLR (EU) 2024/1624 — Anwendbarkeit ab 10.07.2027; AMLA-Behörde mit Sitz in Frankfurt seit 01.07.2025 operativ.
-- KI-VO (EU) 2024/1689 — Verbote anwendbar seit 02.02.2025; GPAI ab 02.08.2025; Hochrisiko-KI-Hauptanwendung ab 02.08.2026; Sicherheitsbauteile ab 02.08.2027.
-
-### Kommentare
-
-- `Sachs (Hrsg.), GG, 10. Aufl. 2021, Art. 20 Rn. 78 ff.` — Rechtsstaatsprinzip
- und Normenklarheit als Bewertungsmaßstab für behördliche Verlautbarungen.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
- Rechtsetzungskompetenzen; relevant für Verbindlichkeitsgrad von BaFin-Rundschreiben.
-- `Schwennicke/Auerbach (Hrsg.), KWG/CRR, 4. Aufl. 2022, § 6 KWG Rn. 5 ff.`
- — Praxis der BaFin-Verlautbarungen und deren Rechtswirkung.
-
-## Ablauf
-
-### Schritt 0: Lückenprüfung
-
-Watchlist und Quellkonfiguration gegen den internen Quellkatalog prüfen. Besteht eine
-offensichtliche Lücke (z. B. "BaFin" in der Watchlist, aber weder Bundesanzeiger noch
-BaFin-Journal konfiguriert), einmalig hinweisen — nicht wiederholen, wenn die Lücke
-bekannt und akzeptiert ist.
-
-### Schritt 1: Abruf
-
-| Quelle | Inhalte |
-|---|---|
-| BGBl. (bgbl.de) | Gesetze, Verordnungen |
-| ABl. EU / EUR-Lex | EU-Rechtsakte, konsolidierter Bestand |
-| BaFin (bafin.de/RSS) | Rundschreiben, Merkblätter, Allgemeinverfügungen |
-| BSI (bsi.bund.de) | Technische Richtlinien, Kritis-Warnungen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
-| BMJ | Referentenentwürfe, Pressemitteilungen |
-| Bundesrat | Drucksachen, Stellungnahmen |
-| Bundesanzeiger | Behördenbekanntmachungen |
-
-Kostenpflichtige Dienste (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang Premium, Wolters Kluwer) werden genutzt,
-wenn konfiguriert. Duplikate ebenenübergreifend entfernen.
-
-**Keine stille Ergänzung.** Bei wenigen Treffern keine eigenständige Webrecherche —
-Optionen dem Nutzer vorlegen (Zeitfenster, andere Quelle, Websuche mit Prüfvermerk,
-stoppen). Die Entscheidung trifft der Nutzer.
-
-**Quellenkennung** (nie entfernen): `[BGBl.]`, `[ABl. EU]`, `[BaFin-RSS]`, `[BSI]`,
-`[Websuche — prüfen]`, `[Modell-Wissen — prüfen]`, `[manuell eingegeben]`.
-Sekundärquellen (Kanzlei-Newsletter, Fachportale) zusätzlich mit `[Sekundärquelle]`
-kennzeichnen; Materialitätsstufe absenken bis zur Primärquellenbestätigung.
-
-### Schritt 2: Klassifikation
-
-| Eintragstyp | Einordnung |
-|---|---|
-| Gesetz / Verordnung (final) | Immer wesentlich |
-| Referentenentwurf / Konsultationsdokument | Prüfenswert — Kommentierungsfrist festhalten |
-| Enforcement / Bußgeldbescheid | Sektorentreffer → wesentlich; Themennähe → prüfenswert |
-| Leitlinien / Merkblätter | Prüfenswert |
-| Pressemitteilungen / Statements | Zur Kenntnis / überspringen |
-
-Referentenentwürfe und Konsultationen nie als "immer wesentlich" einstufen — noch keine
-Compliance-Pflicht. Im Eintrag explizit vermerken: "Vorstufe. Kommentierungsfrist
-[Datum]. Noch keine Compliance-Lücke."
-
-### Schritt 3: Anreicherung
-
-Für jeden Eintrag oberhalb "Zur Kenntnis": einzeilige Zusammenfassung + Relevanzhinweis
-+ Link + Inkrafttreten bzw. Kommentierungsfrist. "Zur Kenntnis"-Einträge: nur Anzahl.
-
-## Regulatorischer Feed-Check — [Datum]
-Zeitraum: [letzter Lauf] – [jetzt] | Quellen: [...] | Einträge: [N]
-
-### Kurzfazit
-[N Einträge erfordern Handlung bis [Datum] — Top 3: X, Y, Z]
-
-### Immer wesentlich
-**[Behörde] — [Titel]**
-[Zusammenfassung]. [Relevanz]. In Kraft: [Datum]. [Link] [Quellenkennung]
-→ Empfehlung: [nächster Schritt]
-
-### Prüfenswert
-**[Behörde] — [Titel]**
-[Zusammenfassung]. Kommentierungsfrist: [Datum]. [Link] [Quellenkennung]
-
-### Zur Kenntnis
-[N] Einträge — [Titelliste mit Links]
-
----
-Letzter Prüfzeitpunkt: [Zeitstempel]
-Fundstellen vor Verwendung verifizieren. Abgleich mit Primärquelle erforderlich.
-```
-
-Zusätzlich Dateiausgabe (Markdown) unter konfiguriertem Pfad oder
-`~/regulatorisches-digests/reg-digest-YYYY-MM-DD.md`; bei mehreren Tagesläufen
-anhängen statt überschreiben.
-
-## Beispiel
-
-**Watchlist:** "BaFin — Zahlungsdienste", "EU — KI-Verordnung". Letzter Lauf: 01.07.2024.
-
-BaFin-RSS liefert Merkblatt zu § 25b KWG-Auslagerungen → "Prüfenswert" (Leitlinie).
-EUR-Lex liefert delegierte Verordnung zur KI-VO → "Immer wesentlich" (EU-Rechtsakt).
-
-```
-### Immer wesentlich
-**EU — Delegierte Verordnung (EU) 2024/XXX zur KI-Verordnung**
-Konkretisiert Konformitätsbewertung für Hochrisiko-KI (Art. 43 KI-VO, Annex III Nr. 5).
-In Kraft: 01.08.2024. [ABl. EU L 2024/XXX] [ABl. EU]
-→ KI-Inventar gegen Hochrisiko-Katalog prüfen; ggf. Konformitätsbewertung einleiten.
-```
-
-## Risiken und typische Fehler
-
-- **Sekundärquelle als Primärquelle verwenden:** Kanzlei-Newsletter berichten über
- Entscheidungen, sind aber nicht die Entscheidung. Immer auf BGBl., ABl. oder
- Behördenwebsite verweisen.
-- **Referentenentwurf als geltendes Recht einstufen:** Klare Kennzeichnung als Vorstufe.
-- **Kommentierungsfristen übergehen:** Fristen sind real und oft kurz — immer im Tracker.
-- **Verbindlichkeitsgrad verwischen:** BaFin-Rundschreiben sind keine Gesetze.
- Unterschied Gesetz / VO / Leitlinie / Merkblatt in der Ausgabe erkennbar halten.
-- **Stille Ergänzung durch Websuche:** Ohne Rückfrage unzulässig.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-## Quellenpflicht
-
-Jeder Eintrag muss enthalten: Behörde, Dokumenttyp, Datum, Direktlink zur Primärquelle,
-Quellenkennung und ggf. Kommentierungsfrist. Zitierweise Rechtsprechung:
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Zitierweise Kommentare:
-`Sachs/Sachs, GG, 10. Aufl. 2021, Art. 20 Rn. 78`
 
 ## Normen und Rechtsprechung
 
@@ -932,7 +743,7 @@ f) Alle geschlossenen Gaps archivieren
 
 ## Zentrale Normen (Paragrafenkette)
 
-Art. 20 Abs. 3 GG (Bindung an Gesetz und Recht, Rechtsluecken-Klaerung) — §§ 133, 157 BGB (Auslegungsgrundsaetze) — § 5 EGBGB (Analogie bei Rechtsluecken im Privatrecht) — §§ 13, 31 EnWG (Luecken in Regulierungs-Normen)
+Art. 20 Abs. 3 GG (Bindung an Gesetz und Recht, Rechtsluecken-Klärung) — §§ 133, 157 BGB (Auslegungsgrundsaetze) — § 5 EGBGB (Analogie bei Rechtsluecken im Privatrecht) — §§ 13, 31 EnWG (Luecken in Regulierungs-Normen)
 
 ## Quellen und Zitierweise
 
@@ -1279,265 +1090,32 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `regulatorisches-richtlinien-neufassung`
-
-_Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht für Neu..._
-
-# Praxisprofil anpassen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Aktives Praxisprofil (muss vorhanden sein – sonst `regulatorisches-recht-kaltstart-interview` ausführen)
-- Konkrete Angabe, was geändert werden soll
-
-## Ablauf
-
-### 1. Profilzustand prüfen
-
-Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` lesen. Falls `[PLATZHALTER]`-Marker vorhanden: zum `regulatorisches-recht-kaltstart-interview` umleiten.
-
-### 2. Änderungswunsch klären
-
-Dem Nutzer die Hauptkategorien anbieten:
-
-```
-Was soll angepasst werden?
-a) Beobachtete Behörden (hinzufügen / entfernen)
-b) Richtlinienbibliothek (Speicherort, neue Richtlinien, Verantwortliche)
-c) Materialitätsschwelle (Stufen neu kalibrieren)
-d) Feed-Konfiguration (URLs, Prüfrhythmus)
-e) Gap-Response-Prozess (Triageperson, Eigentümer, Eskalationsweg)
-f) Rolle (Rollenänderung des Nutzers)
-g) Mandat-Workspaces (aktivieren / deaktivieren)
-h) Sonstiges
-```
-
-### 3. Änderung durchführen
-
-Nur den betroffenen Abschnitt des Praxisprofils aktualisieren. Restliche Konfiguration unberührt lassen. Änderung mit Datum versehen:
-
-```
-[Geändert am TT.MM.JJJJ: <Beschreibung der Änderung>]
-```
-
-### 4. Bestätigung
-
-Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
-
-### 5. Abhängige Einstellungen prüfen
-
-- Bei Hinzufügen einer Behörde: Feed-URL und Prüfrhythmus ebenfalls erfassen.
-- Bei Änderung der Materialitätsschwelle: Hinweis, dass der `aufsichts-feed-monitor` beim nächsten Lauf die neue Schwelle anwendet.
-- Bei Änderung des Richtlinienspeichers: Hinweis, dass `richtlinien-vergleich` den neuen Pfad nutzt.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-§§ 48, 49 VwVfG (Rücknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Aenderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
-
-## Quellen und Zitierweise
-
-Zitierweise: `../../../references/zitierweise.md`
-
-Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderungen richten sich nach dem Plugin-Zweck.
-
-## Beispiel
-
-**Eingabe:** "Bitte die BNetzA als weitere beobachtete Behörde hinzufügen. Feed: https://www.bundesnetzagentur.de/DE/Presse/RSS/rss_node.html"
-
-**Ausgabe:**
-
-> Praxisprofil aktualisiert:
->
-> **Neu hinzugefügte Behörde:**
-> | Behörde | Zuständigkeit | Beobachtungsgrund | Feed-Quelle |
-> |---|---|---|---|
-> | Bundesnetzagentur (BNetzA) | EnWG, TKG | Telekommunikationsregulierung | RSS: bundesnetzagentur.de/RSS |
->
-> Gespeichert in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` [Geändert am 01.06.2025]
->
-> Hinweis: Der `aufsichts-feed-monitor` erfasst BNetzA-Einträge ab dem nächsten Lauf.
-
-## Risiken / typische Fehler
-
-- **Versehentliches Überschreiben:** Dieser Skill ändert nur den angegebenen Abschnitt. Nie das gesamte Profil überschreiben.
-- **Ungültige Feed-URLs:** Feed-URL vor dem Speichern testen; defekte Feeds führen zu stillen Fehlern im `aufsichts-feed-monitor`.
-- **Fehlende Neuindizierung:** Nach Änderung des Richtlinienspeichers muss die Bibliothek neu indiziert werden. Hinweis geben.
-
----
-
-## Skill: `richtlinien-anhoerung-red-aufsichtsrecht`
-
-_Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanal..._
-
-# Richtlinien-Diff
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- **Neue Norm / Verlautbarung:** Text oder Link (BaFin-Rundschreiben, MaRisk-Modul, EBA-Leitlinie, Gesetzestext)
-- **Bestehende Richtlinie:** Bestandsdokument (hochgeladen oder aus Bibliothek)
-- **Scope:** Optional – nur bestimmte Abschnitte vergleichen
-- Optional: Vorheriger Diff-Lauf zum Vergleich
-
-## Ablauf
-
-### 1. Neue Norm strukturieren
-
-Neue Norm / Verlautbarung lesen und in nummerierte Anforderungen zerlegen:
-
-| Nr. | Abschnitt | Anforderungstext (Kurzfassung) | Verbindlichkeit |
-|---|---|---|---|
-| A01 | AT 4.3.2 | Aufbewahrung von Daten mind. 10 Jahre | Verbindlich |
-| A02 | AT 4.3.2 | Backup-Konzept mit Wiederherstellungstest | Verbindlich |
-| A03 | AT 4.3.2 | Dokumentation der Datenklassifizierung | Empfehlung |
-
-Verbindlichkeitskennzeichnung:
-- **Verbindlich:** "hat sicherzustellen", "muss", "sind zu"
-- **Empfehlung/Best Practice:** "sollte", "kann", "wird empfohlen"
-
-### 2. Bestehende Richtlinie strukturieren
-
-Bestehende Richtlinie lesen und relevante Abschnitte den neuen Anforderungen zuordnen.
-
-### 3. Diff-Tabelle erstellen
-
-| Anforderung (Norm) | Deckung in Richtlinie | Status | Differenz |
-|---|---|---|---|
-| A01: Datenhaltung 10 J. | § 4 Abs. 2 IKS-Richtlinie: 7 Jahre | 🔴 Abweichung | Frist 3 J. kürzer |
-| A02: Backup-Konzept | § 5 IKS-Richtlinie: vollständig | 🟢 Gedeckt | – |
-| A03: Datenklassifizierung | Keine Regelung | 🟡 Lücke (Best Practice) | Empfehlung fehlt |
-| – | § 7 IKS-Richtlinie: Prüfprotokoll | ⚪ Überschuss | Norm enthält keine solche Pflicht |
-
-Status-Legende:
-- 🔴 **Abweichung:** Richtlinie weicht von verbindlicher Anforderung ab
-- 🟡 **Lücke:** Anforderung fehlt in Richtlinie (verbindlich: 🔴 potentiell; Best Practice: 🟡)
-- 🟢 **Gedeckt:** Anforderung vollständig und korrekt abgebildet
-- ⚪ **Überschuss:** Richtlinie enthält Regelung, die die Norm nicht fordert (kein Problem, aber zur Kenntnis)
-
-### 4. Zusammenfassung
-
-```
-Diff-Zusammenfassung: [Normtitel] vs. [Richtlinientitel]
-Analysiert: N Normabschnitte | N Richtlinienabschnitte
-
-Handlungsbedarf:
-🔴 N Abweichungen (verbindliche Anforderungen, Richtlinie weicht ab)
-🟡 N Lücken (neue Anforderungen ohne Entsprechung)
-🟢 N gedeckt
-⚪ N Überschüsse (Richtlinie enthält Mehr als die Norm fordert)
-```
-
-### 5. Empfehlung
-
-Für jede 🔴-Abweichung und jede wesentliche 🟡-Lücke:
-- Konkrete Formulierungsänderung vorschlagen (Ausgangspunkt für `/richtlinien-neufassung`)
-- Frist aus der Verlautbarung angeben
-- Eskalationsbedarf markieren (`[prüfen]` bei Unklarheit)
-
-## Quellen und Zitierweise
-
-Zitierweise: `../../../references/zitierweise.md`
-
-Einschlägige Normen und Verlautbarungen:
-- BaFin-Rundschreiben 09/2017 (BA) – MaRisk, alle Novellen [Modellwissen – prüfen auf aktuelle Fassung]
-- BaFin-Rundschreiben 10/2018 (BA) – BAIT [Modellwissen – prüfen]
-- BaFin-Rundschreiben 10/2017 (VA) – VAIT [Modellwissen – prüfen]
-- BaFin-Rundschreiben 05/2021 (IO) – ZAIT (Zahlungsdienstleister IT) [Modellwissen – prüfen]
-- EBA-Leitlinien EBA/GL/2019/04 – IKT-Risikomanagement [Modellwissen – prüfen]
-- DORA Art. 5 ff. (EU) 2022/2554 (ICT Risk Management)
-- § 25a KWG (Ordnungsgemäße Geschäftsorganisation)
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-
-## Beispiel
-
-**Eingabe:** `/regulatorisches-recht:richtlinien-vergleich MaRisk-AT-4.3.2-Novelle-2023`
-
-**Ausgabe (Auszug):**
-
-> **⚠️ Prüfernotiz**
-> - **Quellen:** MaRisk RS 09/2017 Novelle 2023 [Modellwissen – prüfen gegen bafin.de], IKS-Richtlinie v. 01.03.2023 [Nutzer-Input]
-> - **Gelesen:** AT 4.3.2 vollständig; IKS-Richtlinie §§ 1–12
-> - **Zu Ihrer Einschätzung:** 2 Positionen mit 🔴 markiert `[prüfen]`
-
----
-
-**Diff: MaRisk AT 4.3.2 (Novelle 2023) vs. IKS-Richtlinie (Stand: 01.03.2023)**
-
-| Anforderung (Norm) | Deckung in Richtlinie | Status | Differenz |
-|---|---|---|---|
-| Datenhaltung ≥ 10 Jahre | § 4 Abs. 2: 7 Jahre | 🔴 | Verlängerung um 3 Jahre erforderlich `[prüfen]` |
-| Backup-Konzept mit Test | § 5 Abs. 1–3 | 🟢 | – |
-| Datenklassifizierungsdoku. | Keine Regelung | 🟡 | Abschnitt zu ergänzen |
-
-**Empfohlene Änderung für 🔴:**
-> § 4 Abs. 2 IKS-Richtlinie: "Aufbewahrungsfrist von 7 Jahren" → **"mindestens 10 Jahren"** (Anpassung an MaRisk AT 4.3.2 Novelle 2023).
-
-**Nächster Schritt:** `/regulatorisches-recht:richtlinien-neufassung` für den vollständigen Neufassungsentwurf.
-
-## Risiken / typische Fehler
-
-- **Nur Wortlaut-Vergleich:** Eine Richtlinie kann die Norm wörtlich übernehmen, sie aber organisatorisch nicht umsetzen. Hinweis, dass der Diff nur den Dokumenteninhalt vergleicht, nicht die gelebte Praxis.
-- **Verlautbarungsversion:** MaRisk und BAIT werden novelliert; stets Version und Datum der verwendeten Norm angeben und prüfen, ob aktuell.
-- **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO "comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
-- **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Kernnormen:** Art. 288 AEUV — §§ 133, 157 BGB — § 47 GGO (Ressortabstimmung Richtlinien-Vergleich)
-
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ---
 
@@ -1702,9 +1280,232 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
+## Skill: `ustva-aufsichtskommunikation-grundregeln-dora`
+
+_Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Check..._
+
+# Umsatzsteuer-Voranmeldung (§ 18 UStG)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Zweck
+
+Begleitet die fristgerechte und inhaltlich korrekte Abgabe von Umsatzsteuer-Voranmeldungen (UStVA) nach § 18 UStG. Er deckt die Bestimmung des richtigen Voranmeldungszeitraums, die Dauerfristverlängerung nach § 46 UStDV, die Berichtigung nach §§ 153 AO und 17 UStG sowie die technische Abgabe über ELSTER ab. Anwendungsfälle: monatliche oder quartalsweise UStVA erstellen, Dauerfristverlängerung beantragen, versehentlich falsche UStVA berichtigen, Übergang zwischen Voranmeldungszeiträumen.
+
+## Eingaben
+
+Das Modell benötigt:
+
+- **Voranmeldungszeitraum des Mandanten**: monatlich, quartalsweise oder jährlich (Befreiung)?
+- **Vorjahres-Zahllast**: Wie hoch war die USt-Zahllast des Vorjahres? (Maßgeblich für Zeitraum-Bestimmung)
+- **Aktueller Zeitraum**: Welcher Monat/welches Quartal wird gemeldet?
+- **Abzugebende Daten**: Umsätze (Steuersatz, steuerfreie Umsätze), Vorsteuer, innergemeinschaftliche Erwerbe, Reverse Charge?
+- **Dauerfristverlängerung**: Beantragt? Sondervorauszahlung bereits entrichtet?
+- **Berichtigungsbedarf**: Liegt ein Fehler in einer bereits abgegebenen UStVA vor? Welcher Art (Betrag, Steuersatz, Vorsteuer)?
+- **ELSTER-Zugang**: Besteht ein zertifizierter ELSTER-Zugang (Unternehmen)?
+
+## Rechtlicher Rahmen
+
+### Primärnormen
+
+- **§ 18 Abs. 1 UStG**: Pflicht zur Abgabe der UStVA; Voranmeldungszeitraum grundsätzlich das Kalendervierteljahr; bei Jahres-Zahllast > 7.500 EUR: Kalendermonat (§ 18 Abs. 2 Satz 2 UStG); bei Jahres-Zahllast ≤ 1.000 EUR: Finanzamt kann von monatlicher/quartalsweiser Abgabe befreien (§ 18 Abs. 2 Satz 3 UStG).
+- **§ 18 Abs. 1 Satz 4 UStG**: Abgabefrist: 10. Tag nach Ablauf des Voranmeldungszeitraums (10. Folgemonat).
+- **§ 18 Abs. 2a UStG**: Neugründer: In den ersten zwei Jahren Monatsmeldung, unabhängig von Zahllast.
+- **§ 18 Abs. 9 UStG**: Vergütungsverfahren für ausländische Unternehmer.
+- **§ 46 UStDV (Dauerfristverlängerung)**: Verlängerung der Abgabe- und Zahlungsfrist um einen Monat auf Antrag; Voraussetzung für Monatszahler: Sondervorauszahlung i.H.v. 1/11 der Jahresvorauszahlung des Vorjahres bis zum 10. Februar des laufenden Jahres (§ 47 Abs. 1 UStDV); Quartalszahler: kein Sondervorauszahlungserfordernis.
+- **§ 153 Abs. 1 AO**: Berichtigungspflicht bei erkanntem Fehler in einer Steuererklärung/-anmeldung; unverzügliche Anzeige beim Finanzamt, kein Verschulden erforderlich; Berichtigung = Selbstanzeige i.S.d. § 371 AO bei vorsätzlicher Verkürzung (Abgrenzung!).
+- **§ 17 UStG**: Berichtigung des Steuerbetrags bei nachträglicher Änderung der Bemessungsgrundlage (z.B. Entgeltminderung, Rechnungskorrektur, Uneinbringlichkeit).
+
+### Leitentscheidungen
+
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Ablauf
+
+**Schritt 1 – Voranmeldungszeitraum bestimmen**
+- Vorjahres-Zahllast ≤ 1.000 EUR: Befreiung möglich (§ 18 Abs. 2 Satz 3 UStG); Finanzamt entscheidet.
+- Vorjahres-Zahllast > 1.000 EUR und ≤ 7.500 EUR: Quartalsmeldung (§ 18 Abs. 2 Satz 1 UStG).
+- Vorjahres-Zahllast > 7.500 EUR: Monatsmeldung (§ 18 Abs. 2 Satz 2 UStG).
+- Neugründer: erste zwei Kalenderjahre stets monatlich (§ 18 Abs. 2a UStG).
+
+**Schritt 2 – Abgabefrist ermitteln**
+- Regulär: 10. Tag nach Ablauf des Voranmeldungszeitraums (§ 18 Abs. 1 Satz 4 UStG).
+- Beispiel: Januar-UStVA → Abgabe bis 10. Februar.
+- Dauerfristverlängerung (§ 46 UStDV): Frist verschiebt sich um einen Monat (Januar → 10. März).
+- Samstag/Sonntag/Feiertag: nächster Werktag (§ 108 Abs. 3 AO).
+
+**Schritt 3 – Dauerfristverlängerung beantragen/sichern (§ 46 UStDV)**
+- Antrag über ELSTER (Formular "Antrag auf Dauerfristverlängerung/Anmeldung der Sondervorauszahlung").
+- Monatszahler: Sondervorauszahlung bis 10. Februar des Jahres entrichten (1/11 der Vorjahres-Zahllast).
+- Quartalszahler: Antrag genügt, keine Sondervorauszahlung erforderlich.
+- Sondervorauszahlung wird in der Dezember-UStVA/Jahreserklärung angerechnet.
+
+**Schritt 4 – UStVA erstellen und abgeben**
+- Ausfüllen über ELSTER (Pflicht zur elektronischen Abgabe, § 18 Abs. 1 Satz 1 UStG i.V.m. § 87a AO).
+- Kennzahlen (KZ) korrekt zuordnen: KZ 81 (19 % USt), KZ 86 (7 % USt), KZ 66 (Vorsteuer), KZ 21 (ig Erwerbe), KZ 52 (Reverse Charge).
+- Zahlungseingang beim Finanzamt spätestens am Fälligkeitstag (nicht nur Abgabe der Meldung).
+
+**Schritt 5 – Berichtigung einer fehlerhaften UStVA**
+- § 153 AO: Erkannter Fehler → unverzügliche Berichtigung, bevor der Fehler dem Finanzamt auffällt.
+- Vorgehen: Korrigierte UStVA über ELSTER für den betreffenden Zeitraum einreichen (ersetzt vorherige Anmeldung).
+- Abgrenzung § 371 AO: Berichtigung nur als Selbstanzeige wirksam, wenn der Fehler auf Vorsatz zur Steuerverkürzung zurückgeht; bloß fahrlässige Fehler = § 153 AO, keine Selbstanzeige erforderlich.
+- § 17 UStG: Bei Änderung der Bemessungsgrundlage (Storno, Rechnungskorrektur, Skonto) Berichtigung in dem UStVA-Zeitraum, in dem die Änderung eingetreten ist (nicht rückwirkend).
+
+**Schritt 6 – Folgen verspäteter oder fehlerhafter Abgabe**
+- Verspätungszuschlag: bis zu 10 % der Steuer, max. 25.000 EUR (§ 152 AO); Ermessen des Finanzamts.
+- Schätzung: Finanzamt kann Besteuerungsgrundlagen schätzen (§ 162 AO).
+- Säumniszuschlag auf verspätete Zahlung: 1 % pro angefangenem Monat (§ 240 AO).
+
+## Beispiel
+
+**Sachverhalt**: GmbH G hatte im Jahr 2024 eine USt-Zahllast von 14.000 EUR. G hat keine Dauerfristverlängerung beantragt. Die Januar-2025-UStVA enthält einen Vorsteuerfehler (KZ 66 um 1.200 EUR zu hoch), den G am 15.03.2025 erkennt.
+
+**Gutachtenstil**:
+
+*Voranmeldungszeitraum*: Jahres-Zahllast 2024 = 14.000 EUR > 7.500 EUR → G ist zur monatlichen Voranmeldung verpflichtet (§ 18 Abs. 2 Satz 2 UStG).
+
+*Abgabefrist Januar*: Ohne Dauerfristverlängerung: 10. Februar 2025 (§ 18 Abs. 1 Satz 4 UStG). Frist bereits abgelaufen.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+*Dauerfristverlängerung für Zukunft*: G sollte für 2025 Dauerfristverlängerung beantragen (§ 46 UStDV); Sondervorauszahlung = 14.000/11 = 1.272,73 EUR (fällig bis 10.02.2025 – für 2025 ist Frist versäumt; ab 2026 beantragen).
+
+## Risiken und typische Fehler
+
+- **Voranmeldungszeitraum falsch**: Bei Überschreiten der 7.500-EUR-Schwelle im Vorjahr automatischer Wechsel zu monatlicher Meldepflicht – kein gesonderter Bescheid; viele Unternehmen erkennen den Wechsel nicht rechtzeitig.
+- **Dauerfristverlängerung ohne Sondervorauszahlung**: Monatszahler, die keine Sondervorauszahlung leisten, haben keine wirksame Dauerfristverlängerung (BFH BFH/NV 2015, 569 Rn. 14); reguläre Frist gilt.
+- **§ 153 AO vs. § 371 AO verwechseln**: Irrtümliche Behandlung als Selbstanzeige bei bloß fahrlässigen Fehlern ist unnötig; umgekehrt: bei Vorsatz reicht § 153 AO nicht.
+- **§ 17 UStG-Berichtigungszeitpunkt**: Berichtigung bei Änderung der Bemessungsgrundlage gehört in den Zeitraum des Änderungsereignisses, nicht in den Ursprungszeitraum.
+- **ELSTER-Pflicht**: Papieranmeldungen sind grundsätzlich nicht zulässig; nur in Härtefällen nach § 150 Abs. 8 AO ausnahmsweise möglich.
+- **Zahlung ≠ Abgabe**: Fristwahrung erfordert sowohl rechtzeitige Abgabe der Meldung als auch rechtzeitigen Zahlungseingang beim Finanzamt (§ 18 Abs. 1 Satz 4 UStG).
+
+## Quellenpflicht
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 18 UStG (UStVA-Pflicht, Fristen, Dauerfreistellung) — § 152 AO (Verspätungszuschlag) — § 370 AO (Steuerhinterziehung bei falscher UStVA) — ELSTER-Verfahren (elektronische Uebermittlungs-Pflicht) — § 233a AO (Zinsen bei Umsatzsteuer-Nachzahlung)
+
+---
+
+## Skill: `regulatorisches-richtlinien-neufassung`
+
+_Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Änderungsprotokoll. Abgrenzung: nicht für Neu..._
+
+# Praxisprofil anpassen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Aktives Praxisprofil (muss vorhanden sein – sonst `regulatorisches-recht-kaltstart-interview` ausführen)
+- Konkrete Angabe, was geändert werden soll
+
+## Ablauf
+
+### 1. Profilzustand prüfen
+
+Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` lesen. Falls `[PLATZHALTER]`-Marker vorhanden: zum `regulatorisches-recht-kaltstart-interview` umleiten.
+
+### 2. Änderungswunsch klären
+
+Dem Nutzer die Hauptkategorien anbieten:
+
+```
+Was soll angepasst werden?
+a) Beobachtete Behörden (hinzufügen / entfernen)
+b) Richtlinienbibliothek (Speicherort, neue Richtlinien, Verantwortliche)
+c) Materialitätsschwelle (Stufen neu kalibrieren)
+d) Feed-Konfiguration (URLs, Prüfrhythmus)
+e) Gap-Response-Prozess (Triageperson, Eigentümer, Eskalationsweg)
+f) Rolle (Rollenänderung des Nutzers)
+g) Mandat-Workspaces (aktivieren / deaktivieren)
+h) Sonstiges
+```
+
+### 3. Änderung durchführen
+
+Nur den betroffenen Abschnitt des Praxisprofils aktualisieren. Restliche Konfiguration unberührt lassen. Änderung mit Datum versehen:
+
+```
+[Geändert am TT.MM.JJJJ: <Beschreibung der Änderung>]
+```
+
+### 4. Bestätigung
+
+Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
+
+### 5. Abhängige Einstellungen prüfen
+
+- Bei Hinzufügen einer Behörde: Feed-URL und Prüfrhythmus ebenfalls erfassen.
+- Bei Änderung der Materialitätsschwelle: Hinweis, dass der `aufsichts-feed-monitor` beim nächsten Lauf die neue Schwelle anwendet.
+- Bei Änderung des Richtlinienspeichers: Hinweis, dass `richtlinien-vergleich` den neuen Pfad nutzt.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen
+
+§§ 48, 49 VwVfG (Rücknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Änderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
+
+## Quellen und Zitierweise
+
+Zitierweise: `../../../references/zitierweise.md`
+
+Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderungen richten sich nach dem Plugin-Zweck.
+
+## Beispiel
+
+**Eingabe:** "Bitte die BNetzA als weitere beobachtete Behörde hinzufügen. Feed: https://www.bundesnetzagentur.de/DE/Presse/RSS/rss_node.html"
+
+**Ausgabe:**
+
+> Praxisprofil aktualisiert:
+>
+> **Neu hinzugefügte Behörde:**
+> | Behörde | Zuständigkeit | Beobachtungsgrund | Feed-Quelle |
+> |---|---|---|---|
+> | Bundesnetzagentur (BNetzA) | EnWG, TKG | Telekommunikationsregulierung | RSS: bundesnetzagentur.de/RSS |
+>
+> Gespeichert in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` [Geändert am 01.06.2025]
+>
+> Hinweis: Der `aufsichts-feed-monitor` erfasst BNetzA-Einträge ab dem nächsten Lauf.
+
+## Risiken / typische Fehler
+
+- **Versehentliches Überschreiben:** Dieser Skill ändert nur den angegebenen Abschnitt. Nie das gesamte Profil überschreiben.
+- **Ungültige Feed-URLs:** Feed-URL vor dem Speichern testen; defekte Feeds führen zu stillen Fehlern im `aufsichts-feed-monitor`.
+- **Fehlende Neuindizierung:** Nach Änderung des Richtlinienspeichers muss die Bibliothek neu indiziert werden. Hinweis geben.
+
+---
+
 ## Skill: `stellungnahmen`
 
-_Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhältnismäßigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvor..._
+_Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhältnismäßigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Änderungsvor..._
 
 # Konsultationsbeiträge
 
@@ -1885,11 +1686,200 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ---
 
-## Skill: `ustva-aufsichtskommunikation-grundregeln-dora`
+## Skill: `aufsichts-feed-monitor`
 
-_Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Check..._
+_Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Änderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Änderungen Handlun..._
 
-# Umsatzsteuer-Voranmeldung (§ 18 UStG)
+# Regulatorischer Feed-Watcher
+
+## Eingaben
+
+- **Watchlist:** Welche Behörden und Rechtsgebiete sind zu überwachen?
+- **Wesentlichkeitsschwellenwert:** Wie ist Materialität konfiguriert?
+- **Prüfzeitraum:** Seit wann? (Standard: seit letztem Lauf; alternativ `--since DATUM`)
+- **Quellen:** Konfigurierte Feeds, RSS-Adressen, Dienste.
+- **Alternativ:** Manuell eingefügter Regulierungstext zur Einzelklassifikation.
+
+## Rechtlicher Rahmen
+
+### Kernvorschriften
+
+- **BGBl.** — amtliches Verkündungsblatt; maßgeblich für Inkrafttreten von Normen.
+- **ABl. EU, Reihe L + C** — verbindliche EU-Rechtsakte und Leitlinien.
+- **BaFin-Rundschreiben** (z. B. MaRisk BA 2023, BAIT, ZAIT) — konkretisieren
+ aufsichtsrechtliche Anforderungen; §§ 6, 25b KWG, §§ 6, 23 VAG, §§ 6 ff. WpHG.
+- **BSI** — Technische Richtlinien und Kritis-Verlautbarungen (§§ 8a ff. BSIG).
+- **EU-KI-VO (VO (EU) 2024/1689)** — Hochrisiko-Klassifikation, Konformitätspflichten.
+- **CSRD (RL (EU) 2022/2464)** — nichtfinanzielle Berichterstattung, ESRS-Standards.
+- **Art. 20 Abs. 3 GG** — Rechtsstaatsprinzip, Normenklarheit; Maßstab für die
+ Bewertung behördlicher Verlautbarungen ohne formelle Ermächtigungsnorm.
+
+### Leitentscheidungen / Aktualitäts-Anker
+
+Stand 05/2026. Vor Verwendung im Schriftsatz live verifizieren — keine Aktenzeichen aus Modellwissen.
+
+- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — DSGVO-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring nationaler Bußgeldpraxis.
+- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — DSGVO geht DSA vor; kein Provider-Privileg bei DSGVO-Verstößen — relevant für Plattform-Compliance-Monitoring.
+- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger DSGVO-Auskunftsantrag kann rechtsmissbräuchlich sein.
+- BVerfG-Linien zu Wesentlichkeit und Normenklarheit (BVerfGE 33, 125; 49, 89 — Kalkar) im Mandat über [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) live verifizieren.
+- DORA-Aktualisierungen 2025/2026: ESA-Liste kritischer IKT-Drittdienstleister (November 2025); BaFin DORA-Informationsregister-Frist 09.–30.03.2026.
+- AMLR (EU) 2024/1624 — Anwendbarkeit ab 10.07.2027; AMLA-Behörde mit Sitz in Frankfurt seit 01.07.2025 operativ.
+- KI-VO (EU) 2024/1689 — Verbote anwendbar seit 02.02.2025; GPAI ab 02.08.2025; Hochrisiko-KI-Hauptanwendung ab 02.08.2026; Sicherheitsbauteile ab 02.08.2027.
+
+### Kommentare
+
+- `Sachs (Hrsg.), GG, 10. Aufl. 2021, Art. 20 Rn. 78 ff.` — Rechtsstaatsprinzip
+ und Normenklarheit als Bewertungsmaßstab für behördliche Verlautbarungen.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+ Rechtsetzungskompetenzen; relevant für Verbindlichkeitsgrad von BaFin-Rundschreiben.
+- `Schwennicke/Auerbach (Hrsg.), KWG/CRR, 4. Aufl. 2022, § 6 KWG Rn. 5 ff.`
+ — Praxis der BaFin-Verlautbarungen und deren Rechtswirkung.
+
+## Ablauf
+
+### Schritt 0: Lückenprüfung
+
+Watchlist und Quellkonfiguration gegen den internen Quellkatalog prüfen. Besteht eine
+offensichtliche Lücke (z. B. "BaFin" in der Watchlist, aber weder Bundesanzeiger noch
+BaFin-Journal konfiguriert), einmalig hinweisen — nicht wiederholen, wenn die Lücke
+bekannt und akzeptiert ist.
+
+### Schritt 1: Abruf
+
+| Quelle | Inhalte |
+|---|---|
+| BGBl. (bgbl.de) | Gesetze, Verordnungen |
+| ABl. EU / EUR-Lex | EU-Rechtsakte, konsolidierter Bestand |
+| BaFin (bafin.de/RSS) | Rundschreiben, Merkblätter, Allgemeinverfügungen |
+| BSI (bsi.bund.de) | Technische Richtlinien, Kritis-Warnungen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
+| BMJ | Referentenentwürfe, Pressemitteilungen |
+| Bundesrat | Drucksachen, Stellungnahmen |
+| Bundesanzeiger | Behördenbekanntmachungen |
+
+Kostenpflichtige Dienste (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang Premium, Wolters Kluwer) werden genutzt,
+wenn konfiguriert. Duplikate ebenenübergreifend entfernen.
+
+**Keine stille Ergänzung.** Bei wenigen Treffern keine eigenständige Webrecherche —
+Optionen dem Nutzer vorlegen (Zeitfenster, andere Quelle, Websuche mit Prüfvermerk,
+stoppen). Die Entscheidung trifft der Nutzer.
+
+**Quellenkennung** (nie entfernen): `[BGBl.]`, `[ABl. EU]`, `[BaFin-RSS]`, `[BSI]`,
+`[Websuche — prüfen]`, `[Modell-Wissen — prüfen]`, `[manuell eingegeben]`.
+Sekundärquellen (Kanzlei-Newsletter, Fachportale) zusätzlich mit `[Sekundärquelle]`
+kennzeichnen; Materialitätsstufe absenken bis zur Primärquellenbestätigung.
+
+### Schritt 2: Klassifikation
+
+| Eintragstyp | Einordnung |
+|---|---|
+| Gesetz / Verordnung (final) | Immer wesentlich |
+| Referentenentwurf / Konsultationsdokument | Prüfenswert — Kommentierungsfrist festhalten |
+| Enforcement / Bußgeldbescheid | Sektorentreffer → wesentlich; Themennähe → prüfenswert |
+| Leitlinien / Merkblätter | Prüfenswert |
+| Pressemitteilungen / Statements | Zur Kenntnis / überspringen |
+
+Referentenentwürfe und Konsultationen nie als "immer wesentlich" einstufen — noch keine
+Compliance-Pflicht. Im Eintrag explizit vermerken: "Vorstufe. Kommentierungsfrist
+[Datum]. Noch keine Compliance-Lücke."
+
+### Schritt 3: Anreicherung
+
+Für jeden Eintrag oberhalb "Zur Kenntnis": einzeilige Zusammenfassung + Relevanzhinweis
++ Link + Inkrafttreten bzw. Kommentierungsfrist. "Zur Kenntnis"-Einträge: nur Anzahl.
+
+## Regulatorischer Feed-Check — [Datum]
+Zeitraum: [letzter Lauf] – [jetzt] | Quellen: [...] | Einträge: [N]
+
+### Kurzfazit
+[N Einträge erfordern Handlung bis [Datum] — Top 3: X, Y, Z]
+
+### Immer wesentlich
+**[Behörde] — [Titel]**
+[Zusammenfassung]. [Relevanz]. In Kraft: [Datum]. [Link] [Quellenkennung]
+→ Empfehlung: [nächster Schritt]
+
+### Prüfenswert
+**[Behörde] — [Titel]**
+[Zusammenfassung]. Kommentierungsfrist: [Datum]. [Link] [Quellenkennung]
+
+### Zur Kenntnis
+[N] Einträge — [Titelliste mit Links]
+
+---
+Letzter Prüfzeitpunkt: [Zeitstempel]
+Fundstellen vor Verwendung verifizieren. Abgleich mit Primärquelle erforderlich.
+```
+
+Zusätzlich Dateiausgabe (Markdown) unter konfiguriertem Pfad oder
+`~/regulatorisches-digests/reg-digest-YYYY-MM-DD.md`; bei mehreren Tagesläufen
+anhängen statt überschreiben.
+
+## Beispiel
+
+**Watchlist:** "BaFin — Zahlungsdienste", "EU — KI-Verordnung". Letzter Lauf: 01.07.2024.
+
+BaFin-RSS liefert Merkblatt zu § 25b KWG-Auslagerungen → "Prüfenswert" (Leitlinie).
+EUR-Lex liefert delegierte Verordnung zur KI-VO → "Immer wesentlich" (EU-Rechtsakt).
+
+```
+### Immer wesentlich
+**EU — Delegierte Verordnung (EU) 2024/XXX zur KI-Verordnung**
+Konkretisiert Konformitätsbewertung für Hochrisiko-KI (Art. 43 KI-VO, Annex III Nr. 5).
+In Kraft: 01.08.2024. [ABl. EU L 2024/XXX] [ABl. EU]
+→ KI-Inventar gegen Hochrisiko-Katalog prüfen; ggf. Konformitätsbewertung einleiten.
+```
+
+## Risiken und typische Fehler
+
+- **Sekundärquelle als Primärquelle verwenden:** Kanzlei-Newsletter berichten über
+ Entscheidungen, sind aber nicht die Entscheidung. Immer auf BGBl., ABl. oder
+ Behördenwebsite verweisen.
+- **Referentenentwurf als geltendes Recht einstufen:** Klare Kennzeichnung als Vorstufe.
+- **Kommentierungsfristen übergehen:** Fristen sind real und oft kurz — immer im Tracker.
+- **Verbindlichkeitsgrad verwischen:** BaFin-Rundschreiben sind keine Gesetze.
+ Unterschied Gesetz / VO / Leitlinie / Merkblatt in der Ausgabe erkennbar halten.
+- **Stille Ergänzung durch Websuche:** Ohne Rückfrage unzulässig.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Quellenpflicht
+
+Jeder Eintrag muss enthalten: Behörde, Dokumenttyp, Datum, Direktlink zur Primärquelle,
+Quellenkennung und ggf. Kommentierungsfrist. Zitierweise Rechtsprechung:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Zitierweise Kommentare:
+`Sachs/Sachs, GG, 10. Aufl. 2021, Art. 20 Rn. 78`
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 18 UStG
+- § 25a KWG
+- § 4 RDGEG
+- § 13d RDG
+- § 203 StGB
+- Art. 288 AEUV
+- § 25b KWG
+- § 1 ZAG
+- § 13 RDG
+- § 10 ZAG
+- Art. 80 AEUV
+- § 17 UStG
+
+### Leitentscheidungen
+
+- EuGH C-6/64
+- EuGH C-117/20
+
+---
+
+## Skill: `richtlinien-anhoerung-red-aufsichtsrecht`
+
+_Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Änderungshistorie Bedeutung der Änderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanal..._
+
+# Richtlinien-Diff
 
 ## Arbeitsweg
 
@@ -1899,114 +1889,124 @@ _Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunterneh
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Begleitet die fristgerechte und inhaltlich korrekte Abgabe von Umsatzsteuer-Voranmeldungen (UStVA) nach § 18 UStG. Er deckt die Bestimmung des richtigen Voranmeldungszeitraums, die Dauerfristverlängerung nach § 46 UStDV, die Berichtigung nach §§ 153 AO und 17 UStG sowie die technische Abgabe über ELSTER ab. Anwendungsfälle: monatliche oder quartalsweise UStVA erstellen, Dauerfristverlängerung beantragen, versehentlich falsche UStVA berichtigen, Übergang zwischen Voranmeldungszeiträumen.
-
 ## Eingaben
 
-Das Modell benötigt:
-
-- **Voranmeldungszeitraum des Mandanten**: monatlich, quartalsweise oder jährlich (Befreiung)?
-- **Vorjahres-Zahllast**: Wie hoch war die USt-Zahllast des Vorjahres? (Maßgeblich für Zeitraum-Bestimmung)
-- **Aktueller Zeitraum**: Welcher Monat/welches Quartal wird gemeldet?
-- **Abzugebende Daten**: Umsätze (Steuersatz, steuerfreie Umsätze), Vorsteuer, innergemeinschaftliche Erwerbe, Reverse Charge?
-- **Dauerfristverlängerung**: Beantragt? Sondervorauszahlung bereits entrichtet?
-- **Berichtigungsbedarf**: Liegt ein Fehler in einer bereits abgegebenen UStVA vor? Welcher Art (Betrag, Steuersatz, Vorsteuer)?
-- **ELSTER-Zugang**: Besteht ein zertifizierter ELSTER-Zugang (Unternehmen)?
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-
-- **§ 18 Abs. 1 UStG**: Pflicht zur Abgabe der UStVA; Voranmeldungszeitraum grundsätzlich das Kalendervierteljahr; bei Jahres-Zahllast > 7.500 EUR: Kalendermonat (§ 18 Abs. 2 Satz 2 UStG); bei Jahres-Zahllast ≤ 1.000 EUR: Finanzamt kann von monatlicher/quartalsweiser Abgabe befreien (§ 18 Abs. 2 Satz 3 UStG).
-- **§ 18 Abs. 1 Satz 4 UStG**: Abgabefrist: 10. Tag nach Ablauf des Voranmeldungszeitraums (10. Folgemonat).
-- **§ 18 Abs. 2a UStG**: Neugründer: In den ersten zwei Jahren Monatsmeldung, unabhängig von Zahllast.
-- **§ 18 Abs. 9 UStG**: Vergütungsverfahren für ausländische Unternehmer.
-- **§ 46 UStDV (Dauerfristverlängerung)**: Verlängerung der Abgabe- und Zahlungsfrist um einen Monat auf Antrag; Voraussetzung für Monatszahler: Sondervorauszahlung i.H.v. 1/11 der Jahresvorauszahlung des Vorjahres bis zum 10. Februar des laufenden Jahres (§ 47 Abs. 1 UStDV); Quartalszahler: kein Sondervorauszahlungserfordernis.
-- **§ 153 Abs. 1 AO**: Berichtigungspflicht bei erkanntem Fehler in einer Steuererklärung/-anmeldung; unverzügliche Anzeige beim Finanzamt, kein Verschulden erforderlich; Berichtigung = Selbstanzeige i.S.d. § 371 AO bei vorsätzlicher Verkürzung (Abgrenzung!).
-- **§ 17 UStG**: Berichtigung des Steuerbetrags bei nachträglicher Änderung der Bemessungsgrundlage (z.B. Entgeltminderung, Rechnungskorrektur, Uneinbringlichkeit).
-
-### Leitentscheidungen
-
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- **Neue Norm / Verlautbarung:** Text oder Link (BaFin-Rundschreiben, MaRisk-Modul, EBA-Leitlinie, Gesetzestext)
+- **Bestehende Richtlinie:** Bestandsdokument (hochgeladen oder aus Bibliothek)
+- **Scope:** Optional – nur bestimmte Abschnitte vergleichen
+- Optional: Vorheriger Diff-Lauf zum Vergleich
 
 ## Ablauf
 
-**Schritt 1 – Voranmeldungszeitraum bestimmen**
-- Vorjahres-Zahllast ≤ 1.000 EUR: Befreiung möglich (§ 18 Abs. 2 Satz 3 UStG); Finanzamt entscheidet.
-- Vorjahres-Zahllast > 1.000 EUR und ≤ 7.500 EUR: Quartalsmeldung (§ 18 Abs. 2 Satz 1 UStG).
-- Vorjahres-Zahllast > 7.500 EUR: Monatsmeldung (§ 18 Abs. 2 Satz 2 UStG).
-- Neugründer: erste zwei Kalenderjahre stets monatlich (§ 18 Abs. 2a UStG).
+### 1. Neue Norm strukturieren
 
-**Schritt 2 – Abgabefrist ermitteln**
-- Regulär: 10. Tag nach Ablauf des Voranmeldungszeitraums (§ 18 Abs. 1 Satz 4 UStG).
-- Beispiel: Januar-UStVA → Abgabe bis 10. Februar.
-- Dauerfristverlängerung (§ 46 UStDV): Frist verschiebt sich um einen Monat (Januar → 10. März).
-- Samstag/Sonntag/Feiertag: nächster Werktag (§ 108 Abs. 3 AO).
+Neue Norm / Verlautbarung lesen und in nummerierte Anforderungen zerlegen:
 
-**Schritt 3 – Dauerfristverlängerung beantragen/sichern (§ 46 UStDV)**
-- Antrag über ELSTER (Formular "Antrag auf Dauerfristverlängerung/Anmeldung der Sondervorauszahlung").
-- Monatszahler: Sondervorauszahlung bis 10. Februar des Jahres entrichten (1/11 der Vorjahres-Zahllast).
-- Quartalszahler: Antrag genügt, keine Sondervorauszahlung erforderlich.
-- Sondervorauszahlung wird in der Dezember-UStVA/Jahreserklärung angerechnet.
+| Nr. | Abschnitt | Anforderungstext (Kurzfassung) | Verbindlichkeit |
+|---|---|---|---|
+| A01 | AT 4.3.2 | Aufbewahrung von Daten mind. 10 Jahre | Verbindlich |
+| A02 | AT 4.3.2 | Backup-Konzept mit Wiederherstellungstest | Verbindlich |
+| A03 | AT 4.3.2 | Dokumentation der Datenklassifizierung | Empfehlung |
 
-**Schritt 4 – UStVA erstellen und abgeben**
-- Ausfüllen über ELSTER (Pflicht zur elektronischen Abgabe, § 18 Abs. 1 Satz 1 UStG i.V.m. § 87a AO).
-- Kennzahlen (KZ) korrekt zuordnen: KZ 81 (19 % USt), KZ 86 (7 % USt), KZ 66 (Vorsteuer), KZ 21 (ig Erwerbe), KZ 52 (Reverse Charge).
-- Zahlungseingang beim Finanzamt spätestens am Fälligkeitstag (nicht nur Abgabe der Meldung).
+Verbindlichkeitskennzeichnung:
+- **Verbindlich:** "hat sicherzustellen", "muss", "sind zu"
+- **Empfehlung/Best Practice:** "sollte", "kann", "wird empfohlen"
 
-**Schritt 5 – Berichtigung einer fehlerhaften UStVA**
-- § 153 AO: Erkannter Fehler → unverzügliche Berichtigung, bevor der Fehler dem Finanzamt auffällt.
-- Vorgehen: Korrigierte UStVA über ELSTER für den betreffenden Zeitraum einreichen (ersetzt vorherige Anmeldung).
-- Abgrenzung § 371 AO: Berichtigung nur als Selbstanzeige wirksam, wenn der Fehler auf Vorsatz zur Steuerverkürzung zurückgeht; bloß fahrlässige Fehler = § 153 AO, keine Selbstanzeige erforderlich.
-- § 17 UStG: Bei Änderung der Bemessungsgrundlage (Storno, Rechnungskorrektur, Skonto) Berichtigung in dem UStVA-Zeitraum, in dem die Änderung eingetreten ist (nicht rückwirkend).
+### 2. Bestehende Richtlinie strukturieren
 
-**Schritt 6 – Folgen verspäteter oder fehlerhafter Abgabe**
-- Verspätungszuschlag: bis zu 10 % der Steuer, max. 25.000 EUR (§ 152 AO); Ermessen des Finanzamts.
-- Schätzung: Finanzamt kann Besteuerungsgrundlagen schätzen (§ 162 AO).
-- Säumniszuschlag auf verspätete Zahlung: 1 % pro angefangenem Monat (§ 240 AO).
+Bestehende Richtlinie lesen und relevante Abschnitte den neuen Anforderungen zuordnen.
+
+### 3. Diff-Tabelle erstellen
+
+| Anforderung (Norm) | Deckung in Richtlinie | Status | Differenz |
+|---|---|---|---|
+| A01: Datenhaltung 10 J. | § 4 Abs. 2 IKS-Richtlinie: 7 Jahre | 🔴 Abweichung | Frist 3 J. kürzer |
+| A02: Backup-Konzept | § 5 IKS-Richtlinie: vollständig | 🟢 Gedeckt | – |
+| A03: Datenklassifizierung | Keine Regelung | 🟡 Lücke (Best Practice) | Empfehlung fehlt |
+| – | § 7 IKS-Richtlinie: Prüfprotokoll | ⚪ Überschuss | Norm enthält keine solche Pflicht |
+
+Status-Legende:
+- 🔴 **Abweichung:** Richtlinie weicht von verbindlicher Anforderung ab
+- 🟡 **Lücke:** Anforderung fehlt in Richtlinie (verbindlich: 🔴 potentiell; Best Practice: 🟡)
+- 🟢 **Gedeckt:** Anforderung vollständig und korrekt abgebildet
+- ⚪ **Überschuss:** Richtlinie enthält Regelung, die die Norm nicht fordert (kein Problem, aber zur Kenntnis)
+
+### 4. Zusammenfassung
+
+```
+Diff-Zusammenfassung: [Normtitel] vs. [Richtlinientitel]
+Analysiert: N Normabschnitte | N Richtlinienabschnitte
+
+Handlungsbedarf:
+🔴 N Abweichungen (verbindliche Anforderungen, Richtlinie weicht ab)
+🟡 N Lücken (neue Anforderungen ohne Entsprechung)
+🟢 N gedeckt
+⚪ N Überschüsse (Richtlinie enthält Mehr als die Norm fordert)
+```
+
+### 5. Empfehlung
+
+Für jede 🔴-Abweichung und jede wesentliche 🟡-Lücke:
+- Konkrete Formulierungsänderung vorschlagen (Ausgangspunkt für `/richtlinien-neufassung`)
+- Frist aus der Verlautbarung angeben
+- Eskalationsbedarf markieren (`[prüfen]` bei Unklarheit)
+
+## Quellen und Zitierweise
+
+Zitierweise: `../../../references/zitierweise.md`
+
+Einschlägige Normen und Verlautbarungen:
+- BaFin-Rundschreiben 09/2017 (BA) – MaRisk, alle Novellen [Modellwissen – prüfen auf aktuelle Fassung]
+- BaFin-Rundschreiben 10/2018 (BA) – BAIT [Modellwissen – prüfen]
+- BaFin-Rundschreiben 10/2017 (VA) – VAIT [Modellwissen – prüfen]
+- BaFin-Rundschreiben 05/2021 (IO) – ZAIT (Zahlungsdienstleister IT) [Modellwissen – prüfen]
+- EBA-Leitlinien EBA/GL/2019/04 – IKT-Risikomanagement [Modellwissen – prüfen]
+- DORA Art. 5 ff. (EU) 2022/2554 (ICT Risk Management)
+- § 25a KWG (Ordnungsgemäße Geschäftsorganisation)
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 ## Beispiel
 
-**Sachverhalt**: GmbH G hatte im Jahr 2024 eine USt-Zahllast von 14.000 EUR. G hat keine Dauerfristverlängerung beantragt. Die Januar-2025-UStVA enthält einen Vorsteuerfehler (KZ 66 um 1.200 EUR zu hoch), den G am 15.03.2025 erkennt.
+**Eingabe:** `/regulatorisches-recht:richtlinien-vergleich MaRisk-AT-4.3.2-Novelle-2023`
 
-**Gutachtenstil**:
+**Ausgabe (Auszug):**
 
-*Voranmeldungszeitraum*: Jahres-Zahllast 2024 = 14.000 EUR > 7.500 EUR → G ist zur monatlichen Voranmeldung verpflichtet (§ 18 Abs. 2 Satz 2 UStG).
+> **⚠️ Prüfernotiz**
+> - **Quellen:** MaRisk RS 09/2017 Novelle 2023 [Modellwissen – prüfen gegen bafin.de], IKS-Richtlinie v. 01.03.2023 [Nutzer-Input]
+> - **Gelesen:** AT 4.3.2 vollständig; IKS-Richtlinie §§ 1–12
+> - **Zu Ihrer Einschätzung:** 2 Positionen mit 🔴 markiert `[prüfen]`
 
-*Abgabefrist Januar*: Ohne Dauerfristverlängerung: 10. Februar 2025 (§ 18 Abs. 1 Satz 4 UStG). Frist bereits abgelaufen.
+---
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**Diff: MaRisk AT 4.3.2 (Novelle 2023) vs. IKS-Richtlinie (Stand: 01.03.2023)**
 
-*Dauerfristverlängerung für Zukunft*: G sollte für 2025 Dauerfristverlängerung beantragen (§ 46 UStDV); Sondervorauszahlung = 14.000/11 = 1.272,73 EUR (fällig bis 10.02.2025 – für 2025 ist Frist versäumt; ab 2026 beantragen).
+| Anforderung (Norm) | Deckung in Richtlinie | Status | Differenz |
+|---|---|---|---|
+| Datenhaltung ≥ 10 Jahre | § 4 Abs. 2: 7 Jahre | 🔴 | Verlängerung um 3 Jahre erforderlich `[prüfen]` |
+| Backup-Konzept mit Test | § 5 Abs. 1–3 | 🟢 | – |
+| Datenklassifizierungsdoku. | Keine Regelung | 🟡 | Abschnitt zu ergänzen |
 
-## Risiken und typische Fehler
+**Empfohlene Änderung für 🔴:**
+> § 4 Abs. 2 IKS-Richtlinie: "Aufbewahrungsfrist von 7 Jahren" → **"mindestens 10 Jahren"** (Anpassung an MaRisk AT 4.3.2 Novelle 2023).
 
-- **Voranmeldungszeitraum falsch**: Bei Überschreiten der 7.500-EUR-Schwelle im Vorjahr automatischer Wechsel zu monatlicher Meldepflicht – kein gesonderter Bescheid; viele Unternehmen erkennen den Wechsel nicht rechtzeitig.
-- **Dauerfristverlängerung ohne Sondervorauszahlung**: Monatszahler, die keine Sondervorauszahlung leisten, haben keine wirksame Dauerfristverlängerung (BFH BFH/NV 2015, 569 Rn. 14); reguläre Frist gilt.
-- **§ 153 AO vs. § 371 AO verwechseln**: Irrtümliche Behandlung als Selbstanzeige bei bloß fahrlässigen Fehlern ist unnötig; umgekehrt: bei Vorsatz reicht § 153 AO nicht.
-- **§ 17 UStG-Berichtigungszeitpunkt**: Berichtigung bei Änderung der Bemessungsgrundlage gehört in den Zeitraum des Änderungsereignisses, nicht in den Ursprungszeitraum.
-- **ELSTER-Pflicht**: Papieranmeldungen sind grundsätzlich nicht zulässig; nur in Härtefällen nach § 150 Abs. 8 AO ausnahmsweise möglich.
-- **Zahlung ≠ Abgabe**: Fristwahrung erfordert sowohl rechtzeitige Abgabe der Meldung als auch rechtzeitigen Zahlungseingang beim Finanzamt (§ 18 Abs. 1 Satz 4 UStG).
+**Nächster Schritt:** `/regulatorisches-recht:richtlinien-neufassung` für den vollständigen Neufassungsentwurf.
 
-## Quellenpflicht
+## Risiken / typische Fehler
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- **Nur Wortlaut-Vergleich:** Eine Richtlinie kann die Norm wörtlich übernehmen, sie aber organisatorisch nicht umsetzen. Hinweis, dass der Diff nur den Dokumenteninhalt vergleicht, nicht die gelebte Praxis.
+- **Verlautbarungsversion:** MaRisk und BAIT werden novelliert; stets Version und Datum der verwendeten Norm angeben und prüfen, ob aktuell.
+- **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO "comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
+- **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zentrale Normen (Paragrafenkette)
+**Kernnormen:** Art. 288 AEUV — §§ 133, 157 BGB — § 47 GGO (Ressortabstimmung Richtlinien-Vergleich)
 
-§ 18 UStG (UStVA-Pflicht, Fristen, Dauerfreistellung) — § 152 AO (Verspätungszuschlag) — § 370 AO (Steuerhinterziehung bei falscher UStVA) — ELSTER-Verfahren (elektronische Uebermittlungs-Pflicht) — § 233a AO (Zinsen bei Umsatzsteuer-Nachzahlung)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ---
 

@@ -15,9 +15,9 @@ Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `gesellschaftsrecht-
 7. **gesellschafterliste-compliance-dokumentation-und-akte** — Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk im Corporate Legal English: fachlich vertieftes Modul mit…
 8. **gesellschaftsrecht-legal** — Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Corporate Legal English: fachlich vertieftes Modu…
 9. **terms-term-sheet** — Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Corporate Legal English: fachlich vertieftes Modul mit Nor…
-10. **verdeckte-sacheinlage-vesting-leaver** — Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrec…
-11. **anfaenger-verhandlung-vergleich-und-eskalation** — Anfaenger: Verhandlung, Vergleich und Eskalation im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (…
-12. **corporate-behoerden-gericht-und-registerweg** — Corporate: Behörden-, Gerichts- oder Registerweg im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (…
+10. **anfaenger-verhandlung-vergleich-und-eskalation** — Anfaenger: Verhandlung, Vergleich und Eskalation im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (…
+11. **corporate-behoerden-gericht-und-registerweg** — Corporate: Behörden-, Gerichts- oder Registerweg im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (…
+12. **verdeckte-sacheinlage-vesting-leaver** — Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrech…
 13. **term-mehrparteien-konflikt-und-interessen** — Term: Mehrparteienkonflikt und Interessenmatrix im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (G…
 14. **legal-schriftsatz-brief-und-memo-bausteine** — Legal: Schriftsatz-, Brief- und Memo-Bausteine im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (Gm…
 15. **table-term-interessen** — Table: Zahlen, Schwellenwerte und Berechnung im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbH…
@@ -76,7 +76,7 @@ _Einstieg für das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsscho
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Gesellschaftsrecht Legal English** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsrecht Legal English** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -144,7 +144,7 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 | "Ich habe Screenshots, Excel, PDFs, Chats" | Multi-Format-Auswertung: Dokumentkarte je Quelle | `anschauungsmaterial-multiformat-auswertung` |
 | "Es geht um Zahlen" | Rechenanker, Annahmen, Kontrollformel | `cap-table-gesellschafterliste`, `fully-diluted-esop-option-pool`, `liquidation-preference-waterfall` |
 | "Englischer Vertrag, deutsches Recht" | Sprach-/Rechtswahl-/Beurkundungs-Gate | `deutsches-recht-englische-vertraege` |
-| "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" | § 19 Abs. 4/5 GmbHG-Pruefung, Anrechnungsloesung, Heilung | `verdeckte-sacheinlage` |
+| "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" | § 19 Abs. 4/5 GmbHG-Prüfung, Anrechnungsloesung, Heilung | `verdeckte-sacheinlage` |
 | "Wir machen Vertragsrecht, BGB AT ist egal" | Gegencheck: Form, § 162, § 181, § 307, § 444 BGB, Einheitstheorie | `bgb-at-schuldrecht-at-im-ma` |
 
 ## Didaktischer Standardablauf
@@ -175,9 +175,9 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 
 ## Beispielstart
 
-Wenn der Nutzer schreibt: "Was ist fully diluted und muss ich das in die Gesellschafterliste schreiben?", antworte sinngemaess:
+Wenn der Nutzer schreibt: "Was ist fully diluted und muss ich das in die Gesellschafterliste schreiben?", antworte sinngemäß:
 
-> Kurz: Fully diluted ist eine wirtschaftliche Rechenbrille, nicht die Gesellschafterliste. Die Gesellschafterliste zeigt die formellen Geschaeftsanteile nach § 40 GmbHG; fully diluted rechnet so, als waeren Optionen, Wandeldarlehen und Pool-Reservierungen schon eingepreist. Ich wuerde jetzt mit `cap-table-gesellschafterliste` und danach `fully-diluted-esop-option-pool` arbeiten.
+> Kurz: Fully diluted ist eine wirtschaftliche Rechenbrille, nicht die Gesellschafterliste. Die Gesellschafterliste zeigt die formellen Geschäftsanteile nach § 40 GmbHG; fully diluted rechnet so, als waeren Optionen, Wandeldarlehen und Pool-Reservierungen schon eingepreist. Ich wuerde jetzt mit `cap-table-gesellschafterliste` und danach `fully-diluted-esop-option-pool` arbeiten.
 
 ---
 
@@ -205,43 +205,43 @@ _Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanz
 
 ## Worum es geht
 
-Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtswahl, oft Frankfurt oder Muenchen) lesen sich wie reines Vertragsrecht. In Wirklichkeit laeuft der gesamte BGB-Allgemeine-Teil und das Schuldrecht AT in jeder Klausel mit. Wer das ueberliest, baut Vertraege, die im Streit nicht halten. Klassische Aussage von M&A-Anwaelten: "Wir machen Vertragsrecht, BGB AT spielt keine Rolle." Das ist falsch und produziert vorhersehbare Fehler.
+Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtswahl, oft Frankfurt oder Muenchen) lesen sich wie reines Vertragsrecht. In Wirklichkeit laeuft der gesamte BGB-Allgemeine-Teil und das Schuldrecht AT in jeder Klausel mit. Wer das ueberliest, baut Verträge, die im Streit nicht halten. Klassische Aussage von M&A-Anwaelten: "Wir machen Vertragsrecht, BGB AT spielt keine Rolle." Das ist falsch und produziert vorhersehbare Fehler.
 
-## Pruefraster vor jedem Vertragsentwurf und jedem Markup
+## Prüfraster vor jedem Vertragsentwurf und jedem Markup
 
-1. **Form, § 125 BGB, § 311b BGB, § 15 Abs. 3 und Abs. 4 GmbHG:** Reicht Schriftform oder Textform, oder ist notarielle Beurkundung erforderlich? Ein SPA ueber GmbH-Anteile ist nach § 15 Abs. 4 GmbHG insgesamt beurkundungsbeduerftig, also auch alle Nebenabreden, die mit der Anteilsuebertragung "stehen und fallen" (Einheitstheorie). Ein Side Letter, der wirtschaftlich Teil des Deals ist, gehoert mit zur Urkunde.
-2. **Stellvertretung, §§ 164 ff. BGB:** Wer unterzeichnet im Namen wessen? Vollmacht im Original? Bei auslaendischen Beteiligten Legalisation oder Apostille? Insichgeschaeft nach § 181 BGB ausgeschlossen? Bei GmbH-Geschaeftsfuehrer pruefen, ob die Satzung ihn von § 181 BGB befreit.
+1. **Form, § 125 BGB, § 311b BGB, § 15 Abs. 3 und Abs. 4 GmbHG:** Reicht Schriftform oder Textform, oder ist notarielle Beurkundung erforderlich? Ein SPA über GmbH-Anteile ist nach § 15 Abs. 4 GmbHG insgesamt beurkundungsbeduerftig, also auch alle Nebenabreden, die mit der Anteilsuebertragung "stehen und fallen" (Einheitstheorie). Ein Side Letter, der wirtschaftlich Teil des Deals ist, gehoert mit zur Urkunde.
+2. **Stellvertretung, §§ 164 ff. BGB:** Wer unterzeichnet im Namen wessen? Vollmacht im Original? Bei ausländischen Beteiligten Legalisation oder Apostille? Insichgeschaeft nach § 181 BGB ausgeschlossen? Bei GmbH-Geschäftsführer prüfen, ob die Satzung ihn von § 181 BGB befreit.
 3. **Bedingung, §§ 158 ff. BGB:** CPs im SPA sind aufschiebende Bedingungen. § 162 BGB (treuwidrige Bedingungsvereitelung oder Herbeifuehrung) wirkt zwingend und kann nicht durch "endeavours"-Klauseln ausgehebelt werden. Long-Stop-Date ist eine Befristung, keine Bedingung.
-4. **AGB-Kontrolle, §§ 305 ff. BGB:** Auch im B2B-Verkehr gilt §§ 305 ff. BGB. Wenn das Term Sheet oder der SPA von einer Seite gestellt wird und nicht im Einzelnen ausgehandelt ist (§ 305 Abs. 1 Satz 3 BGB), sind die Klauseln einer Inhaltskontrolle ueber § 307 BGB ausgesetzt. Besonders kritisch: weitreichende Haftungsbeschraenkungen, Indemnities mit pauschalen Hoechstgrenzen, einseitige MAC-Klauseln.
-5. **Treu und Glauben, § 242 BGB:** Auslegung nach §§ 133, 157 BGB. "Reasonable efforts", "best efforts", "commercially reasonable efforts" werden im deutschen Recht ueber § 242 BGB konkretisiert. Es gibt keine in Stein gemeisselte Bedeutung; die Vertragspraxis muss den Inhalt definieren oder akzeptieren, dass § 242 BGB ihn definiert.
-6. **Bestimmtheit, § 138 BGB, § 134 BGB:** Sind Leistung, Kaufpreis, Closing-Mechanik hinreichend bestimmt? Earn-out-Klauseln mit unklarer Berechnungsformel sind nicht nichtig, aber im Streit ueber § 315 BGB ausfuellbar.
+4. **AGB-Kontrolle, §§ 305 ff. BGB:** Auch im B2B-Verkehr gilt §§ 305 ff. BGB. Wenn das Term Sheet oder der SPA von einer Seite gestellt wird und nicht im Einzelnen ausgehandelt ist (§ 305 Abs. 1 Satz 3 BGB), sind die Klauseln einer Inhaltskontrolle über § 307 BGB ausgesetzt. Besonders kritisch: weitreichende Haftungsbeschraenkungen, Indemnities mit pauschalen Hoechstgrenzen, einseitige MAC-Klauseln.
+5. **Treu und Glauben, § 242 BGB:** Auslegung nach §§ 133, 157 BGB. "Reasonable efforts", "best efforts", "commercially reasonable efforts" werden im deutschen Recht über § 242 BGB konkretisiert. Es gibt keine in Stein gemeisselte Bedeutung; die Vertragspraxis muss den Inhalt definieren oder akzeptieren, dass § 242 BGB ihn definiert.
+6. **Bestimmtheit, § 138 BGB, § 134 BGB:** Sind Leistung, Kaufpreis, Closing-Mechanik hinreichend bestimmt? Earn-out-Klauseln mit unklarer Berechnungsformel sind nicht nichtig, aber im Streit über § 315 BGB ausfuellbar.
 7. **Verfuegungsverbote, §§ 135, 136 BGB:** Lock-up-Vereinbarungen, Vinkulierung in der Satzung, Drag-along-Verpflichtungen. Schuldrechtliche Verpflichtung wirkt nur inter partes (§ 137 BGB), nicht dinglich. Verstoss erzeugt Schadensersatz, nicht Unwirksamkeit der Anteilsuebertragung.
-8. **Anfechtung, §§ 119 ff. BGB:** Wenn Reps verletzt sind, ist neben dem vertraglichen Rep-and-Warranty-Regime auch die Anfechtung wegen arglistiger Taeuschung nach § 123 BGB zu pruefen. § 444 BGB sperrt Haftungsbeschraenkungen bei arglistigem Verschweigen.
+8. **Anfechtung, §§ 119 ff. BGB:** Wenn Reps verletzt sind, ist neben dem vertraglichen Rep-and-Warranty-Regime auch die Anfechtung wegen arglistiger Taeuschung nach § 123 BGB zu prüfen. § 444 BGB sperrt Haftungsbeschraenkungen bei arglistigem Verschweigen.
 9. **Erfuellung, Konkretisierung, Gefahruebergang, §§ 243, 446, 447 BGB:** Bei Anteilsuebertragung weniger relevant, bei Asset-Deals zentral.
 10. **§ 311a, § 280, § 281 BGB:** Sekundaerleistungspflichten und Schadensersatz statt der Leistung. Das vertragliche Indemnity-Regime ersetzt nicht das gesetzliche Regime; es ueberlagert es.
 
 ## Typische M&A-Fallen, die BGB AT betreffen
 
-- **Side Letter neben dem SPA, der wirtschaftlich Teil des Deals ist:** § 15 Abs. 4 GmbHG verlangt Beurkundung der gesamten Abrede. Heilung durch nachtraegliche Beurkundung des Geschaeftsanteilskaufs nach § 15 Abs. 4 Satz 2 GmbHG nur in engen Grenzen.
-- **Englischsprachige Vollmacht eines auslaendischen Investors:** Apostille fehlt, Vollmacht ist im Original nicht vorgelegt, § 174 BGB greift, Erklaerung kann zurueckgewiesen werden.
-- **"Best efforts" ohne Definition:** Auslegung ueber § 242 BGB; das Ergebnis ist in der Regel sachlicher und niedriger als das, was die englische Rechtspraxis darunter versteht.
+- **Side Letter neben dem SPA, der wirtschaftlich Teil des Deals ist:** § 15 Abs. 4 GmbHG verlangt Beurkundung der gesamten Abrede. Heilung durch nachtraegliche Beurkundung des Geschäftsanteilskaufs nach § 15 Abs. 4 Satz 2 GmbHG nur in engen Grenzen.
+- **Englischsprachige Vollmacht eines ausländischen Investors:** Apostille fehlt, Vollmacht ist im Original nicht vorgelegt, § 174 BGB greift, Erklaerung kann zurueckgewiesen werden.
+- **"Best efforts" ohne Definition:** Auslegung über § 242 BGB; das Ergebnis ist in der Regel sachlicher und niedriger als das, was die englische Rechtspraxis darunter versteht.
 - **CP-Vereitelung:** Der Verkaeufer unterlaesst Handlungen, die zum CP-Eintritt fuehren wuerden. § 162 BGB fingiert den Eintritt. Wirkt zwingend, jedes "exclusive remedy"-Wording dagegen ist unwirksam.
 - **MAC-Klausel als AGB:** Wenn die MAC-Klausel von einer Seite gestellt und nicht ausgehandelt ist, droht § 307 BGB-Inhaltskontrolle.
-- **Vertragsstrafe und Liquidated Damages:** Sind als pauschalierter Schadensersatz nach §§ 339 ff. BGB zu pruefen. § 343 BGB (richterliche Herabsetzung) ist nur bei kaufmaennischer Vertragsstrafe gemaess § 348 HGB ausgeschlossen; das setzt eine Vertragsstrafe voraus, die ein Kaufmann im Betrieb seines Handelsgewerbes versprochen hat. Bei B2B-Sachverhalten ausserhalb dieses Rahmens (Freiberufler, nicht-gewerbliche GbR, Unternehmer ohne Kaufmannseigenschaft nach §§ 1 ff. HGB) bleibt § 343 BGB anwendbar. Zusaetzlich greift bei einseitig gestellten Klauseln die AGB-Kontrolle ueber § 307 BGB.
-- **Konzernsachverhalte und § 181 BGB:** Bei Konzernverflechtungen oft Insichgeschaeft. Befreiung in der Satzung pruefen, sonst genehmigungsbeduerftig.
+- **Vertragsstrafe und Liquidated Damages:** Sind als pauschalierter Schadensersatz nach §§ 339 ff. BGB zu prüfen. § 343 BGB (richterliche Herabsetzung) ist nur bei kaufmaennischer Vertragsstrafe gemäß § 348 HGB ausgeschlossen; das setzt eine Vertragsstrafe voraus, die ein Kaufmann im Betrieb seines Handelsgewerbes versprochen hat. Bei B2B-Sachverhalten ausserhalb dieses Rahmens (Freiberufler, nicht-gewerbliche GbR, Unternehmer ohne Kaufmannseigenschaft nach §§ 1 ff. HGB) bleibt § 343 BGB anwendbar. Zusaetzlich greift bei einseitig gestellten Klauseln die AGB-Kontrolle über § 307 BGB.
+- **Konzernsachverhalte und § 181 BGB:** Bei Konzernverflechtungen oft Insichgeschaeft. Befreiung in der Satzung prüfen, sonst genehmigungsbeduerftig.
 
 ## Antwortvorgaben
 
-- Bei jedem Vertrag, jedem Markup, jeder Klausel: zuerst BGB AT pruefen, dann erst Vertragsrecht.
+- Bei jedem Vertrag, jedem Markup, jeder Klausel: zuerst BGB AT prüfen, dann erst Vertragsrecht.
 - Gegen die haeufige Aussage "wir machen Vertragsrecht, BGB AT spielt keine Rolle" konkret widersprechen: § 162 BGB, § 181 BGB, § 15 Abs. 4 GmbHG, § 307 BGB, § 444 BGB.
-- Form pruefen: Wann verlangt das Gesetz Schriftform, Textform, Beurkundung? Was umfasst die Beurkundung (Einheitstheorie)?
+- Form prüfen: Wann verlangt das Gesetz Schriftform, Textform, Beurkundung? Was umfasst die Beurkundung (Einheitstheorie)?
 - "Reasonable/best efforts"-Klauseln nicht stehenlassen, sondern entweder definieren oder bewusst dem § 242 BGB ueberlassen.
 - AGB-Risiko bei jeder einseitig gestellten Klausel benennen.
 
 ## Quellen
 
 - § 125 BGB, § 138 BGB, § 158 BGB, § 162 BGB, § 164 BGB, § 181 BGB, § 242 BGB, § 305 BGB, § 307 BGB, § 311b BGB, § 444 BGB.
-- § 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschaeftsanteilskauf, Einheitstheorie).
+- § 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschäftsanteilskauf, Einheitstheorie).
 - BGH, Urt. v. 14.04.1986 - II ZR 155/85 zur Beurkundungspflicht der Nebenabreden nach § 15 Abs. 4 GmbHG (Vollstaendigkeitsgrundsatz/Einheitstheorie).
 - BGH, Urt. v. 27.06.2001 - VIII ZR 329/99 (NJW 2002, 142) zur Reichweite der Beurkundungspflicht auf alle Nebenabreden, die nach dem Willen der Parteien Bestandteil der Verpflichtung zur Anteilsuebertragung sein sollen.
 - BGH, Urt. v. 22.10.2015 - VII ZR 58/14 zur AGB-Kontrolle im unternehmerischen Verkehr (§§ 305 ff., § 307 BGB auch zwischen Unternehmern).
@@ -514,78 +514,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `verdeckte-sacheinlage-vesting-leaver`
-
-_Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen im Gesellschaftsrecht Le..._
-
-# Verdeckte Sacheinlage und Hin-und-Her-Zahlung
-
-## Arbeitsbereich
-
-Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verdeckte Sacheinlage und Hin-und-Her-Zahlung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Worum es geht
-
-Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- und Finanzierungs-Alltag. M&A-Anwaelte denken in Vertragsrecht, doch § 19 Abs. 4 GmbHG ist zwingendes Kapitalaufbringungsrecht und bricht jede schuldrechtliche Konstruktion. Wer das uebersieht, erzeugt Differenzhaftung (§ 9 Abs. 1 GmbHG analog ueber § 19 Abs. 4 Satz 3 GmbHG) und im Insolvenzfall ein erhebliches Haftungsrisiko für die Geschaeftsfuehrung.
-
-## Kernregeln
-
-1. **§ 19 Abs. 4 GmbHG (verdeckte Sacheinlage):** Wenn eine Bareinlage wirtschaftlich als Sacheinlage zu werten ist, befreit die Bareinlage nicht von der Einlagepflicht. Der Gesellschafter haftet weiter. Auf seine Einlagepflicht wird der Wert des verdeckt eingelegten Vermoegensgegenstandes im Zeitpunkt der Anmeldung bzw. seiner Ueberlassung angerechnet (Anrechnungsloesung seit MoMiG 2008).
-2. **§ 19 Abs. 5 GmbHG (Hin-und-Her-Zahlung):** Wenn vor der Einlage eine Leistung an den Gesellschafter vereinbart ist, die wirtschaftlich einer Rueckzahlung der Einlage entspricht, befreit die Bareinlage nur, wenn die Leistung durch einen vollwertigen Rueckgewaehranspruch gedeckt ist, der jederzeit faellig gestellt werden kann oder durch fristlose Kuendigung faellig werden kann, und wenn dies in der Anmeldung offengelegt wird.
-3. **Verbindung mit § 19 Abs. 2 GmbHG:** Aufrechnung gegen die Einlageforderung ist grundsaetzlich unzulaessig. Verrechnungs- und Aufrechnungsabreden im SPA oder SHA muessen daran gemessen werden.
-
-## Pruefraster
-
-1. Gibt es zwischen Gesellschaft und einlegendem Gesellschafter eine zeitlich, sachlich oder personell verknuepfte Leistung (Kauf, Darlehen, Beraterhonorar, Lizenz, Dienstleistung, Uebernahme von Verbindlichkeiten)?
-2. Wird die Bareinlage wirtschaftlich gleich wieder an den Gesellschafter zurueckgefuehrt? Dann § 19 Abs. 5 GmbHG (Hin-und-Her-Zahlung).
-3. Wird mit der Bareinlage ein Vermoegensgegenstand des Gesellschafters erworben? Dann § 19 Abs. 4 GmbHG (verdeckte Sacheinlage).
-4. Anrechnungsloesung greifen lassen: Wert des Gegenstandes im Zeitpunkt der Anmeldung. Beweislast: Gesellschafter.
-5. Bei Hin-und-Her-Zahlung: ist der Rueckgewaehranspruch vollwertig und jederzeit faellig stellbar? Offenlegung in der Anmeldung erfolgt?
-6. Sind die Geschaeftsfuehrer ihrer Pflicht nach § 8 Abs. 2, § 9c GmbHG zur korrekten Anmeldung nachgekommen? Strafbarkeit nach § 82 GmbHG pruefen.
-
-## Typische M&A- und Finanzierungs-Fallen
-
-- **Cash-In-Series-A plus Akquisition aus Series-A-Mitteln:** Wenn die Mandantin mit dem Series-A-Cash unmittelbar Vermoegensgegenstaende eines Investors oder einer ihm nahestehenden Person erwirbt, ist die Naehe zur verdeckten Sacheinlage zu pruefen.
-- **Wandeldarlehen, das im Zuge der Kapitalerhoehung zurueckgefuehrt und neu als Eigenkapital gezeichnet wird:** Klassische Hin-und-Her-Zahlung. Vollwertigkeit und Faelligstellbarkeit muessen sauber dokumentiert sein, sonst nur Anrechnungsloesung.
-- **Verrechnungsabreden im SPA:** Aufrechnung gegen die Einlageforderung ist nach § 19 Abs. 2 GmbHG verboten; Verrechnungsklauseln im SPA muessen die Einlageforderung explizit aussparen.
-- **Gesellschafterdarlehen als Quasi-Eigenkapital:** Auch nach Wegfall der Eigenkapitalersatzregeln bleiben die Kapitalaufbringungsregeln scharf, wenn aus dem Darlehen heraus eine Kapitalerhoehung gezeichnet wird.
-- **Sale-and-lease-back kurz vor oder nach Closing:** Gegenstand bleibt wirtschaftlich beim Gesellschafter, Cash fliesst hin und zurueck. Genau pruefen.
-- **Beraterhonorar an Investor:** Wenn das Investmentvehikel direkt nach Closing ein laufendes Beraterhonorar bekommt, das wirtschaftlich Teil des Investments ist, kann Hin-und-Her-Zahlung vorliegen.
-
-## Antwortvorgaben
-
-- Trennen: Was sagt der Vertrag (M&A-Sicht) versus was sagt das Kapitalaufbringungsrecht (Gesellschaftsrecht-Sicht).
-- Immer die Rechtsfolgen aus § 19 Abs. 4 Satz 3 GmbHG benennen: Anrechnung des Wertes im Zeitpunkt der Anmeldung; Beweislast beim Gesellschafter; Differenzhaftung bleibt.
-- Auf § 9c GmbHG verweisen, wenn die Anmeldung Falschangaben enthielte.
-- Konkrete Heilung anbieten: Offenlegung in der Anmeldung, Wertgutachten, Sachgruendungsbericht, ggf. echte Sachkapitalerhoehung mit ordnungsgemaesser Werthaltigkeitspruefung.
-- Verweis auf die in der Akte typisch verlinkten Skills: `cap-table-gesellschafterliste`, `financing-convertible-loan-safe`, `articles-association-satzung`.
-
-## Quellen
-
-- BGH, Urt. v. 16.03.1998 - II ZR 303/96 (Lufttaxi), grundlegend zur verdeckten Sacheinlage vor MoMiG; weiterhin als Auslegungshintergrund relevant.
-- BGH, Urt. v. 06.12.2011 - II ZR 149/10 zur Anrechnungsloesung nach MoMiG.
-- BGH, Urt. v. 20.07.2009 - II ZR 273/07 (Cash-Pool) zur Hin-und-Her-Zahlung.
-- Begruendung MoMiG, BT-Drucksache 16/6140, zu § 19 Abs. 4 und Abs. 5 GmbHG.
-- § 19 GmbHG, § 9 GmbHG, § 9c GmbHG, § 82 GmbHG.
-
----
-
 ## Skill: `anfaenger-verhandlung-vergleich-und-eskalation`
 
 _Anfaenger: Verhandlung, Vergleich und Eskalation im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Legal English._
@@ -690,6 +618,78 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `verdeckte-sacheinlage-vesting-leaver`
+
+_Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen im Gesellschaftsrecht Le..._
+
+# Verdeckte Sacheinlage und Hin-und-Her-Zahlung
+
+## Arbeitsbereich
+
+Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verdeckte Sacheinlage und Hin-und-Her-Zahlung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Worum es geht
+
+Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- und Finanzierungs-Alltag. M&A-Anwaelte denken in Vertragsrecht, doch § 19 Abs. 4 GmbHG ist zwingendes Kapitalaufbringungsrecht und bricht jede schuldrechtliche Konstruktion. Wer das uebersieht, erzeugt Differenzhaftung (§ 9 Abs. 1 GmbHG analog über § 19 Abs. 4 Satz 3 GmbHG) und im Insolvenzfall ein erhebliches Haftungsrisiko für die Geschäftsführung.
+
+## Kernregeln
+
+1. **§ 19 Abs. 4 GmbHG (verdeckte Sacheinlage):** Wenn eine Bareinlage wirtschaftlich als Sacheinlage zu werten ist, befreit die Bareinlage nicht von der Einlagepflicht. Der Gesellschafter haftet weiter. Auf seine Einlagepflicht wird der Wert des verdeckt eingelegten Vermögensgegenstandes im Zeitpunkt der Anmeldung bzw. seiner Überlassung angerechnet (Anrechnungsloesung seit MoMiG 2008).
+2. **§ 19 Abs. 5 GmbHG (Hin-und-Her-Zahlung):** Wenn vor der Einlage eine Leistung an den Gesellschafter vereinbart ist, die wirtschaftlich einer Rueckzahlung der Einlage entspricht, befreit die Bareinlage nur, wenn die Leistung durch einen vollwertigen Rueckgewaehranspruch gedeckt ist, der jederzeit faellig gestellt werden kann oder durch fristlose Kuendigung faellig werden kann, und wenn dies in der Anmeldung offengelegt wird.
+3. **Verbindung mit § 19 Abs. 2 GmbHG:** Aufrechnung gegen die Einlageforderung ist grundsätzlich unzulaessig. Verrechnungs- und Aufrechnungsabreden im SPA oder SHA müssen daran gemessen werden.
+
+## Prüfraster
+
+1. Gibt es zwischen Gesellschaft und einlegendem Gesellschafter eine zeitlich, sachlich oder personell verknuepfte Leistung (Kauf, Darlehen, Beraterhonorar, Lizenz, Dienstleistung, Uebernahme von Verbindlichkeiten)?
+2. Wird die Bareinlage wirtschaftlich gleich wieder an den Gesellschafter zurueckgefuehrt? Dann § 19 Abs. 5 GmbHG (Hin-und-Her-Zahlung).
+3. Wird mit der Bareinlage ein Vermögensgegenstand des Gesellschafters erworben? Dann § 19 Abs. 4 GmbHG (verdeckte Sacheinlage).
+4. Anrechnungsloesung greifen lassen: Wert des Gegenstandes im Zeitpunkt der Anmeldung. Beweislast: Gesellschafter.
+5. Bei Hin-und-Her-Zahlung: ist der Rueckgewaehranspruch vollwertig und jederzeit faellig stellbar? Offenlegung in der Anmeldung erfolgt?
+6. Sind die Geschäftsführer ihrer Pflicht nach § 8 Abs. 2, § 9c GmbHG zur korrekten Anmeldung nachgekommen? Strafbarkeit nach § 82 GmbHG prüfen.
+
+## Typische M&A- und Finanzierungs-Fallen
+
+- **Cash-In-Series-A plus Akquisition aus Series-A-Mitteln:** Wenn die Mandantin mit dem Series-A-Cash unmittelbar Vermögensgegenstaende eines Investors oder einer ihm nahestehenden Person erwirbt, ist die Naehe zur verdeckten Sacheinlage zu prüfen.
+- **Wandeldarlehen, das im Zuge der Kapitalerhoehung zurueckgefuehrt und neu als Eigenkapital gezeichnet wird:** Klassische Hin-und-Her-Zahlung. Vollwertigkeit und Faelligstellbarkeit müssen sauber dokumentiert sein, sonst nur Anrechnungsloesung.
+- **Verrechnungsabreden im SPA:** Aufrechnung gegen die Einlageforderung ist nach § 19 Abs. 2 GmbHG verboten; Verrechnungsklauseln im SPA müssen die Einlageforderung explizit aussparen.
+- **Gesellschafterdarlehen als Quasi-Eigenkapital:** Auch nach Wegfall der Eigenkapitalersatzregeln bleiben die Kapitalaufbringungsregeln scharf, wenn aus dem Darlehen heraus eine Kapitalerhoehung gezeichnet wird.
+- **Sale-and-lease-back kurz vor oder nach Closing:** Gegenstand bleibt wirtschaftlich beim Gesellschafter, Cash fliesst hin und zurueck. Genau prüfen.
+- **Beraterhonorar an Investor:** Wenn das Investmentvehikel direkt nach Closing ein laufendes Beraterhonorar bekommt, das wirtschaftlich Teil des Investments ist, kann Hin-und-Her-Zahlung vorliegen.
+
+## Antwortvorgaben
+
+- Trennen: Was sagt der Vertrag (M&A-Sicht) versus was sagt das Kapitalaufbringungsrecht (Gesellschaftsrecht-Sicht).
+- Immer die Rechtsfolgen aus § 19 Abs. 4 Satz 3 GmbHG benennen: Anrechnung des Wertes im Zeitpunkt der Anmeldung; Beweislast beim Gesellschafter; Differenzhaftung bleibt.
+- Auf § 9c GmbHG verweisen, wenn die Anmeldung Falschangaben enthielte.
+- Konkrete Heilung anbieten: Offenlegung in der Anmeldung, Wertgutachten, Sachgruendungsbericht, ggf. echte Sachkapitalerhoehung mit ordnungsgemaesser Werthaltigkeitspruefung.
+- Verweis auf die in der Akte typisch verlinkten Skills: `cap-table-gesellschafterliste`, `financing-convertible-loan-safe`, `articles-association-satzung`.
+
+## Quellen
+
+- BGH, Urt. v. 16.03.1998 - II ZR 303/96 (Lufttaxi), grundlegend zur verdeckten Sacheinlage vor MoMiG; weiterhin als Auslegungshintergrund relevant.
+- BGH, Urt. v. 06.12.2011 - II ZR 149/10 zur Anrechnungsloesung nach MoMiG.
+- BGH, Urt. v. 20.07.2009 - II ZR 273/07 (Cash-Pool) zur Hin-und-Her-Zahlung.
+- Begruendung MoMiG, BT-Drucksache 16/6140, zu § 19 Abs. 4 und Abs. 5 GmbHG.
+- § 19 GmbHG, § 9 GmbHG, § 9c GmbHG, § 82 GmbHG.
 
 ---
 

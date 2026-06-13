@@ -46,7 +46,7 @@ Dieser Einstieg routet **Europarecht Kompass** vom ersten Sachverhalt zu Rollen,
 - `eu-rechtsquellen-vorlageweiche` — EU Rechtsquellen Vorlageweiche
 - `eur-anrufung-state-beihilfen-vergaben` — EUR Anrufung State Beihilfen Vergaben
 - `eur-kommissionsverfahren-art-258-spezial` — EUR Kommissionsverfahren ART 258 Spezial
-- `eur-mandant-uebersicht-zustaendigkeiten` — EUR Mandant Uebersicht Zustaendigkeiten
+- `eur-mandant-uebersicht-zustaendigkeiten` — EUR Mandant Übersicht Zustaendigkeiten
 - `eur-state-aid-notifikation-spezial` — EUR State AID Notifikation Spezial
 - `europarecht-beihilfen-vergaben` — Europarecht Beihilfen Vergaben
 - `dokumente-intake` — Dokumente Intake
@@ -76,7 +76,7 @@ _Europarecht: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Europarecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Europarecht Kompass** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Europarecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Europarecht Kompass** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -240,7 +240,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `europarecht-quality-gate` | EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie… |
 | `europarecht-richtlinie-umsetzung` | EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung… |
 | `europarecht-simulation-behoerde-gericht` | Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung… |
-| `europarecht-verordnung-beschluss-soft-law` | EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf… |
+| `europarecht-verordnung-beschluss-soft-law` | EU-Verordnungen Beschlüsse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf… |
 | `europarecht-vertragsverletzung-durchsetzung` | Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage… |
 | `europarecht-vorlageverfahren-art-267` | Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage… |
 | `europarecht-vorrang-unmittelbare-wirkung` | Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales… |
@@ -248,25 +248,25 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin korrigiert typische deutsche Denkfehler im Umgang mit EU-Recht und unterstuetzt Anwaelte, Berater und Behörden bei der systematischen Bearbeitung europarechtlicher Mandate. Es deckt die Kernbereiche des EU-Primaerrechts (AEUV, EUV, GRC) und des Sekundaerrechts (Verordnungen, Richtlinien, Beschluesse, Soft Law) ab.
+Dieses Plugin korrigiert typische deutsche Denkfehler im Umgang mit EU-Recht und unterstuetzt Anwaelte, Berater und Behörden bei der systematischen Bearbeitung europarechtlicher Mandate. Es deckt die Kernbereiche des EU-Primaerrechts (AEUV, EUV, GRC) und des Sekundaerrechts (Verordnungen, Richtlinien, Beschlüsse, Soft Law) ab.
 
 Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung und -konforme Auslegung, Grundfreiheiten des Binnenmarkts, EU-Grundrechtecharta, Beihilfen- und Vergaberecht, Vorlageverfahren nach Art. 267 AEUV, Klagearten vor EuGH und EuG sowie effektiver nationaler Rechtsschutz. Das Plugin richtet sich ausdrucklich gegen die Tendenz, EU-Recht durch nationale Brillen zu lesen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Ein nationales Gericht oder eine Behörde wendet nationales Recht an, das moeglicherweise EU-Recht widerspricht.
-- Sie wollen pruefen, ob eine EU-Richtlinie in Deutschland korrekt umgesetzt wurde oder ob ein Umsetzungsdefizit besteht.
-- Sie begleiten ein Unternehmen mit grenzueberschreitender Taetigkeit und muessen Grundfreiheitsverstoss pruefen.
+- Sie wollen prüfen, ob eine EU-Richtlinie in Deutschland korrekt umgesetzt wurde oder ob ein Umsetzungsdefizit besteht.
+- Sie begleiten ein Unternehmen mit grenzueberschreitender Taetigkeit und müssen Grundfreiheitsverstoss prüfen.
 - Ein nationales Gericht steht vor der Frage, ob es den EuGH nach Art. 267 AEUV anrufen muss.
-- Sie arbeiten ein EU-Rechtsgutachten oder einen Schriftsatz und wollen es vor Versand auf typische Fehler pruefen.
+- Sie arbeiten ein EU-Rechtsgutachten oder einen Schriftsatz und wollen es vor Versand auf typische Fehler prüfen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Vorrang des EU-Rechts** — EU-Recht geht nationalem Recht vor; entgegenstehendes nationales Recht ist unanwendbar (Costa v. ENEL, EuGH 1964).
-- **Unmittelbare Wirkung** — EU-Normen koennen Rechte und Pflichten für Einzelne begruenden, ohne nationalem Umsetzungsrecht zu beduerfan (Van Gend en Loos, EuGH 1963); Richtlinien nur vertikal unmittelbar wirksam.
-- **Richtlinienkonforme Auslegung** — Nationales Recht ist so weit wie moeglich im Licht des Wortlauts und Zwecks der Richtlinie auszulegen.
+- **Unmittelbare Wirkung** — EU-Normen können Rechte und Pflichten für Einzelne begruenden, ohne nationalem Umsetzungsrecht zu beduerfan (Van Gend en Loos, EuGH 1963); Richtlinien nur vertikal unmittelbar wirksam.
+- **Richtlinienkonforme Auslegung** — Nationales Recht ist so weit wie möglich im Licht des Wortlauts und Zwecks der Richtlinie auszulegen.
 - **Francovich-Staatshaftung** — Mitgliedstaat haftet für Schaden durch fehlerhafte oder ausgebliebene Richtlinienumsetzung.
-- **Vorlagepflicht** — Letztinstanzliche Gerichte muessen EU-Rechtsfragen dem EuGH vorlegen (Art. 267 Abs. 3 AEUV); Ausnahme: acte-clair-Doktrin.
+- **Vorlagepflicht** — Letztinstanzliche Gerichte müssen EU-Rechtsfragen dem EuGH vorlegen (Art. 267 Abs. 3 AEUV); Ausnahme: acte-clair-Doktrin.
 - **Grundfreiheiten** — Warenverkehr (Art. 34 AEUV), Personenfreizuegigkeit (Art. 45 AEUV), Niederlassungsfreiheit (Art. 49 AEUV), Dienstleistungsfreiheit (Art. 56 AEUV), Kapitalverkehr (Art. 63 AEUV).
 - **Art. 51 GRC** — EU-Grundrechtecharta gilt nur, wenn Mitgliedstaat EU-Recht vollzieht oder im Anwendungsbereich des EU-Rechts handelt.
 - **Beihilfeverbot** — Art. 107 AEUV verbietet staatliche Beihilfen, die den Wettbewerb verfaelschen; notifizierungspflichtig bei Kommission.
@@ -288,7 +288,7 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 1. Mandat aufgleisen: Skill `europarecht-kommandocenter` für EU-Rechtsbezug, Rechtsgebiet und Route.
 2. Deutschen Denkfehler ausschliessen: `europarecht-deutscher-denkfehler-scanner`.
 3. Rechtsquelle einordnen: `europarecht-verordnung-beschluss-soft-law` oder `europarecht-richtlinie-umsetzung`.
-4. Materielles Rechtsproblem pruefen: Grundfreiheiten, Charta, Beihilfen, Kartell je nach Mandat.
+4. Materielles Rechtsproblem prüfen: Grundfreiheiten, Charta, Beihilfen, Kartell je nach Mandat.
 5. Verfahren bestimmen: Vorlage, Klage, Vertragsverletzung, Simulation je nach Konstellation.
 
 ## Skill-Tour (was gibt es hier?)
@@ -297,19 +297,19 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 
 - `europarecht-kommandocenter` — Rechtsgebiet bestimmen, relevante Normen identifizieren, Bearbeitungsroute festlegen.
 - `europarecht-deutscher-denkfehler-scanner` — Typische deutsche Fehler im EU-Recht erkennen und korrigieren.
-- `europarecht-quality-gate` — EU-Rechtsgutachten oder Schriftsatz auf Fehler und Luecken pruefen.
+- `europarecht-quality-gate` — EU-Rechtsgutachten oder Schriftsatz auf Fehler und Luecken prüfen.
 - `europarecht-mandantenmemo` — Mandantenmemo zu EU-Rechtsfragen praxisorientiert verfassen.
 
 **Rechtsquellen und Normenhierarchie**
 
-- `europarecht-vorrang-unmittelbare-wirkung` — Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen pruefen.
-- `europarecht-richtlinie-umsetzung` — Umsetzungsdefizit pruefen, Direktwirkung, richtlinienkonforme Auslegung, Francovich.
-- `europarecht-verordnung-beschluss-soft-law` — Verordnungen, Beschluesse und Soft-Law einordnen und Verbindlichkeit pruefen.
+- `europarecht-vorrang-unmittelbare-wirkung` — Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen.
+- `europarecht-richtlinie-umsetzung` — Umsetzungsdefizit prüfen, Direktwirkung, richtlinienkonforme Auslegung, Francovich.
+- `europarecht-verordnung-beschluss-soft-law` — Verordnungen, Beschlüsse und Soft-Law einordnen und Verbindlichkeit prüfen.
 - `europarecht-delegierte-durchfuehrungsakte` — Delegierte Rechtsakte und Durchfuehrungsrechtsakte einordnen.
 
 **Grundfreiheiten und Grundrechte**
 
-- `europarecht-grundfreiheiten-binnenmarkt` — Grundfreiheiten pruefen bei grenzueberschreitender Taetigkeit oder nationaler Beschraenkung.
+- `europarecht-grundfreiheiten-binnenmarkt` — Grundfreiheiten prüfen bei grenzueberschreitender Taetigkeit oder nationaler Beschraenkung.
 - `europarecht-grundrechte-charta` — EU-Grundrechtecharta anwenden; Anwendungsbereich Art. 51 GRC.
 
 **Wettbewerb und Beihilfen**
@@ -319,10 +319,10 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 
 **Verfahren vor EuGH und nationalem Gericht**
 
-- `europarecht-vorlageverfahren-art-267` — Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht pruefen.
+- `europarecht-vorlageverfahren-art-267` — Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht prüfen.
 - `europarecht-klagearten-eugh` — Klagemoeglichkeiten vor EuGH und EuG; Nichtigkeitsklage, Untaetigkeit, Schadensersatz.
 - `europarecht-vertragsverletzung-durchsetzung` — Vertragsverletzungsverfahren einordnen und Reaktion vorbereiten.
-- `europarecht-nationales-verfahren-effektivitaet` — Effektivitaets- und Aequivalenzgrundsatz im nationalen Verfahren.
+- `europarecht-nationales-verfahren-effektivitaet` — Effektivitaets- und Äquivalenzgrundsatz im nationalen Verfahren.
 - `europarecht-simulation-behoerde-gericht` — Argumentation vor EU-Behörde oder nationalem Gericht simulieren.
 
 **Gesetzgebung**
@@ -332,17 +332,17 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 ## Worauf besonders achten
 
 - **Richtlinie ist kein Gesetz** — Eine nicht umgesetzte Richtlinie wirkt nur vertikal (gegen den Staat), nicht horizontal zwischen Privaten; die direkte Anwendbarkeit gegenueber Privaten ist kein Automatismus.
-- **Vorlagepflicht ernst nehmen** — Letztinstanzliche Gerichte muessen vorlegen; die acte-clair-Doktrin ist eng auszulegen; Ablehnung ohne Vorlagepruefung ist ein Verfahrensfehler.
-- **GRC-Anwendungsbereich pruefen** — Die EU-Grundrechtecharta gilt nicht bei rein nationalem Sachverhalt; Art. 51 GRC ist Anwendungsvoraussetzung, nicht Option.
-- **Beihilfe: Notifizierung vor Auszahlung** — Nicht notifizierte Beihilfen koennen zurueckgefordert werden; der Vertrauensschutz des Beguenstigten ist eng.
+- **Vorlagepflicht ernst nehmen** — Letztinstanzliche Gerichte müssen vorlegen; die acte-clair-Doktrin ist eng auszulegen; Ablehnung ohne Vorlagepruefung ist ein Verfahrensfehler.
+- **GRC-Anwendungsbereich prüfen** — Die EU-Grundrechtecharta gilt nicht bei rein nationalem Sachverhalt; Art. 51 GRC ist Anwendungsvoraussetzung, nicht Option.
+- **Beihilfe: Notifizierung vor Auszahlung** — Nicht notifizierte Beihilfen können zurueckgefordert werden; der Vertrauensschutz des Beguenstigten ist eng.
 - **Soft Law und Durchfuehrungsrechtsakte unterscheiden** — Empfehlungen und Leitlinien sind nicht verbindlich, haben aber Auslegungsrelevanz; delegierte Rechtsakte und Durchfuehrungsrechtsakte hingegen sind verbindlich.
 
 ## Typische Fehler
 
-- Richtlinienkonforme Auslegung wird nicht versucht, obwohl das nationale Recht noch Auslegungsspielraum laesst.
+- Richtlinienkonforme Auslegung wird nicht versucht, obwohl das nationale Recht noch Auslegungsspielraum lässt.
 - Vorlage nach Art. 267 AEUV wird verweigert, obwohl acte-clair-Kriterien nicht erfullt sind.
 - GRC wird angewendet, obwohl kein EU-Recht vollzogen wird (rein nationaler Sachverhalt).
-- Beihilfe wird ausgezahlt, ohne Notifizierungspflicht nach Art. 108 Abs. 3 AEUV zu pruefen.
+- Beihilfe wird ausgezahlt, ohne Notifizierungspflicht nach Art. 108 Abs. 3 AEUV zu prüfen.
 - Delegierter Rechtsakt und Durchfuehrungsrechtsakt werden verwechselt, was zu falschen Widerrufsfristen fuehrt.
 
 ## Quellen und Aktualitaet
@@ -509,12 +509,12 @@ _Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren V
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Triage vor Pruefung
+## Triage vor Prüfung
 
 Bevor losgelegt wird, klaere:
-1. Handelt es sich um einen delegierten Rechtsakt (Art. 290 AEUV — Ergaenzung/Aenderung nicht wesentlicher Teile) oder Durchfuehrungsrechtsakt (Art. 291 AEUV — einheitliche Umsetzungsbedingungen)?
+1. Handelt es sich um einen delegierten Rechtsakt (Art. 290 AEUV — Ergaenzung/Änderung nicht wesentlicher Teile) oder Durchfuehrungsrechtsakt (Art. 291 AEUV — einheitliche Umsetzungsbedingungen)?
 2. Wurde die Ermaechtigung im Basisrechtsakt korrekt erteilt (wesentliche Elemente nur durch Gesetzgeber)?
-3. Koennen Rat oder EP widersprechen / widerrufen (Art. 290 Abs. 2 AEUV)?
+3. Können Rat oder EP widersprechen / widerrufen (Art. 290 Abs. 2 AEUV)?
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
@@ -581,7 +581,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Denkfehler 3: Charta gilt immer.** Falsch. GRCh Art. 51 — nur wenn MS EU-Recht durchfuehrt; sonst gilt das GG/EMRK.
-- **Denkfehler 4: EuGH-Zugang offen für Private.** Eng begrenzt. Art. 263 Abs. 4 AEUV: Plaumann-Formel sehr streng; individuelle Betroffenheit kaum nachweisbar. Regelweg: Vorlage Art. 267 AEUV ueber nationales Gericht.
+- **Denkfehler 4: EuGH-Zugang offen für Private.** Eng begrenzt. Art. 263 Abs. 4 AEUV: Plaumann-Formel sehr streng; individuelle Betroffenheit kaum nachweisbar. Regelweg: Vorlage Art. 267 AEUV über nationales Gericht.
 - **Denkfehler 5: Vollzugsdefizit = Verstoß.** Differenzieren: Anwendungsermessen vs. kein Ermessen; Kommission vs. nationale Behörde; Art. 258 vs. Staatshaftung.
 
 ## Leitentscheidungen
@@ -592,10 +592,10 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 Bevor losgelegt wird, klaere:
 1. Welche konkrete Kategorie EU-Recht — Verordnung, Richtlinie, Charta, AEUV-Grundfreiheit?
-2. Handelt ein Privatmann oder der Staat — unterschiedliche Pruefmuster!
+2. Handelt ein Privatmann oder der Staat — unterschiedliche Prüfmuster!
 3. Rechtsfolge: Direktwirkung, Vorrang, Staatshaftung, Vorlage?
 
-## Output-Template: Denkfehler-Pruefliste
+## Output-Template: Denkfehler-Prüfliste
 
 ```
 EU-RECHT DENKFEHLER-SCAN
@@ -669,7 +669,7 @@ Bevor losgelegt wird, klaere:
 
 ## Normen-Kette
 
-- **Art. 289 AEUV** — Gesetzgebungsverfahren (ordentlich/besonderes); Art. 293 AEUV — Aenderungen Kommissionsvorschlag
+- **Art. 289 AEUV** — Gesetzgebungsverfahren (ordentlich/besonderes); Art. 293 AEUV — Änderungen Kommissionsvorschlag
 - **Art. 294 AEUV** — Ordentliches Gesetzgebungsverfahren Ablauf (Lesungen, Trilog)
 - **Art. 296 AEUV** — Begruendungspflicht EU-Rechtsakte; Art. 297 — Bekanntmachung, Inkrafttreten
 
@@ -725,7 +725,7 @@ _Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschafts
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Triage vor Pruefung
+## Triage vor Prüfung
 
 Bevor losgelegt wird, klaere:
 1. Welche Grundfreiheit ist betroffen — Warenverkehr, Dienstleistungen, Niederlassung, Kapital, Personen?
@@ -740,13 +740,13 @@ Bevor losgelegt wird, klaere:
 
 ## Normen-Kette Grundfreiheiten
 
-- **Art. 34-36 AEUV** — Freier Warenverkehr; Mengenmassige Beschraenkungen und Massnahmen gleicher Wirkung; Rechtfertigungsgruende Art. 36
+- **Art. 34-36 AEUV** — Freier Warenverkehr; Mengenmassige Beschraenkungen und Maßnahmen gleicher Wirkung; Rechtfertigungsgruende Art. 36
 - **Art. 45-48 AEUV** — Arbeitnehmerfreizuegigkeit; Diskriminierungsverbot; Art. 45 Abs. 3 Ausnahme oeffentl. Ordnung
 - **Art. 49-55 AEUV** — Niederlassungsfreiheit; Sekundaerniederlassung; Art. 52 Rechtfertigungsgruende
 - **Art. 56-62 AEUV** — Dienstleistungsfreiheit; voruebergehende Erbringung; DLF-RL 2006/123
 - **Art. 63-66 AEUV** — Kapitalverkehrsfreiheit; umfassendste Grundfreiheit; auch gg. Drittlaender
 
-## Output-Template: Grundfreiheiten-Pruefung
+## Output-Template: Grundfreiheiten-Prüfung
 
 **Adressat:** Kanzlei-intern oder Mandant
 **Tonfall:** Systematisch-analytisch
@@ -824,7 +824,7 @@ EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Triage vor Charta-Pruefung
+## Triage vor Charta-Prüfung
 
 Bevor losgelegt wird, klaere:
 1. Handelt der Mitgliedstaat in Durchfuehrung von EU-Recht (Art. 51 GRCh — dann Charta anwendbar)?
@@ -929,7 +929,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 Bevor losgelegt wird, klaere:
 1. Welche Handlung ist angegriffen — EU-Verordnung, EU-Richtlinie, Kommissionsbeschluss, Untaetigkeit?
 2. Wer klagt — Mitgliedstaat (privilegierter Klager), Institution, natuerliche oder juristische Person (nicht privilegierter Klager)?
-3. Ist direkte individuelle Betroffenheit nachweisbar (bei nicht privilegierten Klaegern Art. 263 Abs. 4 AEUV)?
+3. Ist direkte individuelle Betroffenheit nachweisbar (bei nicht privilegierten Klägern Art. 263 Abs. 4 AEUV)?
 4. Ist die 2-Monats-Frist Art. 263 Abs. 6 AEUV noch offen?
 5. Besteht Vorlagemoeglichkeit beim nationalen Gericht als Alternative (Art. 267 AEUV)?
 
@@ -946,7 +946,7 @@ Bevor losgelegt wird, klaere:
 - **Art. 278 AEUV** — Vorlaufiger Rechtsschutz beim EuGH (Antrag auf Aussetzung)
 - **EuGH-Satzung Art. 56** — Frist Rechtsmittel gegen EuG-Urteile: 2 Monate
 
-## Output-Template: Klagebefugnis-Pruefmemo
+## Output-Template: Klagebefugnis-Prüfmemo
 
 **Adressat:** Kanzlei-intern / Mandant
 **Tonfall:** Sachlich-juristisch; Zulässigkeit klärend
@@ -1018,7 +1018,7 @@ _EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vo
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Vertiefung: Pruefpunkte und Leitsaetze
+## Vertiefung: Prüfpunkte und Leitsaetze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -1093,7 +1093,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 Bevor losgelegt wird, klaere:
 1. Welche Richtlinie — Umsetzungsfrist und Stand der nationalen Umsetzung bekannt?
-2. Ist die Frist abgelaufen — wenn ja: unmittelbare Wirkung oder Staatshaftung pruefbar?
+2. Ist die Frist abgelaufen — wenn ja: unmittelbare Wirkung oder Staatshaftung prüfbar?
 3. Hat der nationale Gesetzgeber den Umsetzungsspielraum ausgeschoepft oder ueberschossen (Gold-Plating)?
 4. Besteht eine Auslegungsfrage ob das nationale Recht richtlinienkonform interpretiert werden kann?
 
@@ -1111,7 +1111,7 @@ Bevor losgelegt wird, klaere:
 ## Output-Template: Umsetzungspruefung Richtlinie
 
 **Adressat:** Kanzlei-intern
-**Tonfall:** Analytisch; Fristen pruefen
+**Tonfall:** Analytisch; Fristen prüfen
 
 ```
 RICHTLINIENUMSETZUNGS-PRUEFUNG
@@ -1315,7 +1315,7 @@ _Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -1393,7 +1393,7 @@ Wir bitten die Kommission, ein Vorverfahren nach Art. 258 AEUV zu eroeeffnen.
 [RA-NAME]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

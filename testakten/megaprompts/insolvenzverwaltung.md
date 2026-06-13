@@ -11,16 +11,16 @@ Dieser Megaprompt enthaelt top-15 von 51 Skills des Plugins `insolvenzverwaltung
 3. **insolvenzverwaltungs-erstpruefung-und-mandatsziel** — Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertieftes Modul mit N…
 4. **aktenanlage-iv-plan** — Neue Verfahrensakte anlegen und Verfahrenscockpit strukturieren wenn Insolvenzverwalter oder Sachwalter bestellt wird. §…
 5. **anfechtung-iv-arbeitsrecht** — Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuld…
-6. **arbeitsrecht-insolvenzgeld** — Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat…
-7. **berichte-iv-masseunzulaenglichkeit** — Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versamm…
-8. **eigenverwaltung-sachwaltung** — Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalt…
-9. **eroeffnungsgutachten-iv** — Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt…
-10. **forderungsanmeldung-pruefung** — Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO …
-11. **idw-iv** — Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-N…
-12. **kommandocenter** — Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams pl…
-13. **masseeinsammlung-iv-massemehrung** — Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. §§ 80 1…
-14. **massemehrung-asset-realisation** — Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung …
-15. **masseunzulaenglichkeit-208** — Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht für alle ausreichen. § 2…
+6. **berichte-iv-masseunzulaenglichkeit** — Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versamm…
+7. **eigenverwaltung-sachwaltung** — Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalt…
+8. **eroeffnungsgutachten-iv** — Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt…
+9. **forderungsanmeldung-pruefung** — Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO …
+10. **idw-iv** — Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-N…
+11. **kommandocenter** — Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams pl…
+12. **masseeinsammlung-iv-massemehrung** — Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. §§ 80 1…
+13. **massemehrung-asset-realisation** — Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung …
+14. **masseunzulaenglichkeit-208** — Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht für alle ausreichen. § 2…
+15. **plan-abstimmung-anlagenpaket** — Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Ko…
 
 ---
 
@@ -43,7 +43,7 @@ Dieser Einstieg routet **Insolvenzverwaltung** vom ersten Sachverhalt zu Rollen,
 - `cross-iv-eigenverwaltung` — Cross IV Eigenverwaltung
 - `eigenverwaltung-sachwaltung` — Eigenverwaltung Sachwaltung
 - `eroeffnungsgutachten-iv` — Eroeffnungsgutachten IV
-- `forderungsanmeldung-pruefung` — Forderungsanmeldung Pruefung
+- `forderungsanmeldung-pruefung` — Forderungsanmeldung Prüfung
 - `idw-iv` — IDW IV
 - `insolvenzverwalter-fristen-form-und-zustaendigkeit` — Insolvenzverwalter Fristen Form und Zustaendigkeit
 - `insolvenzverwaltungs-erstpruefung-und-mandatsziel` — Insolvenzverwaltungs Erstpruefung und Mandatsziel
@@ -72,7 +72,7 @@ _Einstieg, Schnelltriage und Fallrouting im Insolvenzverwaltung-Plugin. Fragt Ro
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Insolvenzverwaltung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Insolvenzverwaltung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -203,8 +203,8 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-plan-abstimmung-mehrheiten` | Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte… |
 | `iv-plan-anlagenpaket` | Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen… |
 | `iv-plan-cramdown-obstruktion` | Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen vorhanden sind. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung… |
-| `iv-plan-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Vergleichsrechnung Sonderaktiva… |
-| `iv-plan-datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein muessen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS… |
+| `iv-plan-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Vergleichsrechnung Sonderaktiva… |
+| `iv-plan-datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein müssen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS… |
 | `iv-plan-gerichtliche-schritte` | Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Bestätigung. §§ 231 232 248 InsO Vorprüfung Bestätigung §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichungsantrag… |
 | `iv-plan-gestaltender-teil` | Gestaltenden Teil des Insolvenzplans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen… |
 | `iv-plan-gruppen-klassenbildung` | Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestätigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung wirtschaftliche… |
@@ -216,7 +216,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-plan-planbetroffene-auswahl` | Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begründen. §§ 2 4 StaRUG Gestaltbarkeit. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer deliktische Forderungen… |
 | `iv-plan-planvollzug-monitoring` | Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants… |
 | `iv-plan-redteam-qualitygate` | Insolvenzplan oder StaRUG-Plan vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger und Gericht. §§ 231 245 251 InsO Versagungsgründe. Prüfraster: Vollständigkeit Bewertungswiderspruch… |
-| `iv-plan-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Massnahmenpakete… |
+| `iv-plan-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Maßnahmenpakete… |
 | `iv-plan-sicherheiten-drittsicherheiten` | Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister… |
 | `iv-plan-stabilisierung-starug` | StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen wenn Vollstreckungsdruck die Sanierung gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit… |
 | `iv-plan-stakeholder-kommunikation` | Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO Planeroerterung §§ 17 20 StaRUG Gläubigerinfo. Prüfraster:… |
@@ -227,26 +227,26 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-qualitaets-und-plausibilitaetsgate` | IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler prüfen. §§ 58 66 InsO Prüfungspflichten des Gerichts. Prüfraster: Rollencheck Zahlencheck Normencheck… |
 | `iv-regelverfahren-eroeffnung` | Regelinsolvenzverfahren nach Eroffnungsbeschluss umsetzen: Besitzuebergang Masse Tabelle Berichtstermin Verwertung. §§ 80 148 149 InsO §§ 151 ff. InsO Masseberechnung. Prüfraster: Verfuegungsbefugnis Bekanntmachungen… |
 | `iv-schutzschirm-270d` | Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung bis Planvorlageschluss. § 270d InsO Schutzschirm §§ 270 274 InsO Eigenverwaltung Sachwaltung. Prüfraster: Voraussetzungen Bescheinigung… |
-| `iv-sicherung-betriebsfortfuehrung` | Betrieb in Insolvenz fortführen wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden muessen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhältnisse. Prüfraster:… |
+| `iv-sicherung-betriebsfortfuehrung` | Betrieb in Insolvenz fortführen wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden müssen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhältnisse. Prüfraster:… |
 | `iv-steuern-sozialversicherung` | Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Prüfraster: Insolvenzforderung Masseverbindlichkeit… |
 | `iv-tabelle-pruefungstermin` | Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund… |
 | `iv-verteilung-schlussrechnung` | Abschlussphase des Insolvenzverfahrens durchführen: Schlussrechnung Schlussbericht Verteilungsverzeichnis Quote Nachtragsverteilung. §§ 196 197 InsO Schlussverteilung §§ 66 67 InsO Schlussrechnung. Prüfraster:… |
-| `iv-vorläufige-verwaltung` | Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Prüfraster:… |
+| `iv-vorläufige-verwaltung` | Erste Maßnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Prüfraster:… |
 | `iv-zahlungsklagen-15b` | Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlungen nach Insolvenzreife erfolgt sind. § 15b InsO §§ 17 19 InsO Insolvenzreife. Prüfraster: Insolvenzreifedatum Zahlungen nach Stichtag… |
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt Insolvenzverwalter, Sachwalter und vorlaeufliger Verwalter bei der vollstaendigen Durchfuehrung von Insolvenzverfahren nach der Insolvenzordnung (InsO) sowie bei Restrukturierungen nach dem StaRUG. Es bildet den gesamten Verfahrenslebenszyklus ab: von der Antragspruefung und dem Eroeffnungsgutachten ueber Betriebsfortfuehrung, Masseeinsammlung, Forderungspruefung, Insolvenzplan und StaRUG-Planwerkstatt bis zur Schlussrechnung und Nachtragsverteilung.
+Das Plugin unterstuetzt Insolvenzverwalter, Sachwalter und vorlaeufliger Verwalter bei der vollstaendigen Durchfuehrung von Insolvenzverfahren nach der Insolvenzordnung (InsO) sowie bei Restrukturierungen nach dem StaRUG. Es bildet den gesamten Verfahrenslebenszyklus ab: von der Antragspruefung und dem Eroeffnungsgutachten über Betriebsfortfuehrung, Masseeinsammlung, Forderungspruefung, Insolvenzplan und StaRUG-Planwerkstatt bis zur Schlussrechnung und Nachtragsverteilung.
 
-Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enthaelt spezialisierte Bausteine für Architektur, darstellenden und gestaltenden Teil, Gruppen- und Klassenbildung, Vergleichsrechnung, Cramdown-Pruefung, Stakeholder-Kommunikation und gerichtliche Schritte.
+Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enthaelt spezialisierte Bausteine für Architektur, darstellenden und gestaltenden Teil, Gruppen- und Klassenbildung, Vergleichsrechnung, Cramdown-Prüfung, Stakeholder-Kommunikation und gerichtliche Schritte.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wurden als Insolvenzverwalter bestellt und muessen das Verfahren strukturieren, Prioritaeten setzen und erste Massnahmen einleiten.
-- Sie pruefen Anfechtungsansprueche nach §§ 129 ff. InsO und benoetigen einen strukturierten Pruefrahmen mit Fristen und Vergleichspotenzial.
+- Sie wurden als Insolvenzverwalter bestellt und müssen das Verfahren strukturieren, Prioritaeten setzen und erste Maßnahmen einleiten.
+- Sie prüfen Anfechtungsansprueche nach §§ 129 ff. InsO und benoetigen einen strukturierten Prüfrahmen mit Fristen und Vergleichspotenzial.
 - Sie erstellen ein Eroeffnungsgutachten für das Insolvenzgericht: Zahlungsunfaehigkeit, Ueberschuldung, Massekostendeckung.
 - Sie sollen einen Insolvenzplan oder StaRUG-Restrukturierungsplan vollstaendig aufbauen und vor Einreichung Quality-Gate durchfuehren.
-- Die Verfahrensschlussphase naht: Schlussrechnung, Schlussbericht, Verteilungsverzeichnis und Quote muessen erstellt werden.
+- Die Verfahrensschlussphase naht: Schlussrechnung, Schlussbericht, Verteilungsverzeichnis und Quote müssen erstellt werden.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -255,10 +255,10 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - **Schutzschirm** — Besondere Form der Eigenverwaltung bei drohender Zahlungsunfaehigkeit (§ 270d InsO).
 - **Masseunzulaenglichkeit** — Situation, in der Masseverbindlichkeiten die Masse uebersteigen; Anzeige nach § 208 InsO.
 - **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; vorinsolvenzliches Sanierungsverfahren.
-- **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung nach § 245 InsO / § 27 StaRUG; Plan kann ueber ablehnende Klassen hinweggesetzt werden.
+- **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung nach § 245 InsO / § 27 StaRUG; Plan kann über ablehnende Klassen hinweggesetzt werden.
 - **Vergleichsrechnung** — Gegenueberstellen von Plan-Fall und Liquidationsszenario zur Demonstration des Planmehrwerts.
 - **PSV** — Pensionssicherungsverein; sichert Pensionsansprueche der Arbeitnehmer bei Insolvenz des Arbeitgebers.
-- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung des Geschaeftsleiters für nicht privilegierte Zahlungen.
+- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung des Geschäftsleiters für nicht privilegierte Zahlungen.
 
 ## Rechtsgrundlagen
 
@@ -281,18 +281,18 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 1. Kommandocenter: Verfahrensrolle, Sicherungsmassnahmen, Betriebsfortfuehrung und Masseampel bestimmen.
 2. Aktenanlage und Verfahrenscockpit aufbauen; Beteiligtenregister und Fristenliste anlegen.
 3. Vorlaeufige Verwaltung oder Eroeffnungsgutachten durchfuehren.
-4. Laufende Verwaltung: Masse einsammeln, Forderungen pruefen, berichten.
+4. Laufende Verwaltung: Masse einsammeln, Forderungen prüfen, berichten.
 5. Abschlussphase: Plan, Schlussrechnung oder Verteilung je nach Verfahrensziel.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `iv-aktenanlage-verfahrenscockpit` — Neue Verfahrensakte anlegen und Verfahrenscockpit mit Gliederung, Rollenplan und Fristenliste strukturieren.
-- `iv-anfechtung-129ff` — Insolvenzanfechtungsansprueche nach §§ 129 ff. InsO pruefen und verfolgen.
+- `iv-anfechtung-129ff` — Insolvenzanfechtungsansprueche nach §§ 129 ff. InsO prüfen und verfolgen.
 - `iv-arbeitsrecht-insolvenzgeld` — Personalthemen in der Insolvenz bearbeiten: Lohnrueckstaende, Insolvenzgeld, Kuendigungen.
-- `iv-berichte-gericht-glaeubiger` — Zwischenberichte und Beschlussvorlagen für Insolvenzgericht und Glaeubiger erstellen.
+- `iv-berichte-gericht-glaeubiger` — Zwischenberichte und Beschlussvorlagen für Insolvenzgericht und Gläubiger erstellen.
 - `iv-eigenverwaltung-sachwaltung` — Sachwalter-Kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO.
 - `iv-eroeffnungsgutachten` — Eroeffnungsgutachten als Sachverstaendiger oder vorläufiger Verwalter erstellen.
-- `iv-forderungsanmeldung-pruefung` — Forderungsanmeldungen nach § 174 InsO pruefen und Tabelle für Pruefungstermin vorbereiten.
+- `iv-forderungsanmeldung-pruefung` — Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten.
 - `iv-idw-s6-sanierungsfaehigkeit-gate` — Sanierungskonzept und Sanierungsfähigkeit vor Planroute, Schutzschirm oder StaRUG hart plausibilisieren.
 - `iv-kommandocenter` — Einstiegspunkt: Verfahrensart bestimmen, Prioritaeten setzen und Workstreams planen.
 - `iv-masseeinsammlung` — Massepositionen erfassen und realisieren: Bankguthaben, Debitoren, Herausgabeansprueche.
@@ -300,7 +300,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-masseunzulaenglichkeit-208` — Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge nach § 208 InsO steuern.
 - `iv-plan-abstimmung-mehrheiten` — Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren.
 - `iv-plan-anlagenpaket` — Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollstaendig zusammenstellen.
-- `iv-plan-cramdown-obstruktion` — Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung pruefen.
+- `iv-plan-cramdown-obstruktion` — Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen.
 - `iv-plan-darstellender-teil` — Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollstaendig verfassen.
 - `iv-plan-datenraum-register` — Planbegleitenden Datenraum aufbauen und Dokumentenregister fuehren.
 - `iv-plan-gerichtliche-schritte` — Gerichtliche Verfahrensschritte von Einreichung bis Bestaetigung steuern.
@@ -308,33 +308,33 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-plan-gruppen-klassenbildung` — Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden.
 - `iv-plan-insolvenzplan-architektur` — Vollstaendigen Insolvenzplan nach §§ 217 ff. InsO von Grund auf strukturieren.
 - `iv-plan-integrierte-planung` — Integrierte Planrechnung aus GuV, Liquiditaet und Bilanz erstellen.
-- `iv-plan-kaltstart-interview` — Erstes Mandatsgespraech strukturieren: Basisdaten, Krisenursachen, Glaeubigerlandschaft.
+- `iv-plan-kaltstart-interview` — Erstes Mandatsgespraech strukturieren: Basisdaten, Krisenursachen, Gläubigerlandschaft.
 - `iv-plan-kommandocenter` — Insolvenzplan- oder StaRUG-Mandat starten und Verfahrensroute bestimmen.
 - `iv-plan-minderheitenschutz` — Schlechterstellungsrisiken einzelner Beteiligter analysieren und Planverbesserungen vorschlagen.
 - `iv-plan-planbetroffene-auswahl` — Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begruenden.
 - `iv-plan-planvollzug-monitoring` — Planvollzug nach Bestaetigung ueberwachen: Zahlungen, Covenants, Abweichungen.
-- `iv-plan-redteam-qualitygate` — Insolvenzplan vor Einreichung hart auf Fehler pruefen aus Sicht opponierender Glaeubiger.
-- `iv-plan-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage für Plan erstellen oder pruefen.
+- `iv-plan-redteam-qualitygate` — Insolvenzplan vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger.
+- `iv-plan-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage für Plan erstellen oder prüfen.
 - `iv-plan-sicherheiten-drittsicherheiten` — Absonderungsrechte und Drittsicherheiten im Plan planfest behandeln.
 - `iv-plan-stabilisierung-starug` — StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen.
-- `iv-plan-stakeholder-kommunikation` — Glaeubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
+- `iv-plan-stakeholder-kommunikation` — Gläubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
 - `iv-plan-starug-plan-architektur` — StaRUG-Restrukturierungsplan vollstaendig strukturieren.
-- `iv-plan-steuern-bilanz-folgen` — Steuerliche und bilanzielle Folgen des Plans pruefen: Sanierungsgewinn, Verlustvortraege.
+- `iv-plan-steuern-bilanz-folgen` — Steuerliche und bilanzielle Folgen des Plans prüfen: Sanierungsgewinn, Verlustvortraege.
 - `iv-plan-verfahrenswahl` — Passenden Sanierungsrahmen auswaehlen: Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG.
 - `iv-plan-vergleichsrechnung` — Vergleichsrechnung Plan-Fall vs. Liquidationsszenario als Herzstuck des Plans erstellen.
-- `iv-qualitaets-und-plausibilitaetsgate` — IV-Arbeitsergebnisse vor Versand auf Widersprueche, Rechenfehler und Rollenfehler pruefen.
+- `iv-qualitaets-und-plausibilitaetsgate` — IV-Arbeitsergebnisse vor Versand auf Widersprueche, Rechenfehler und Rollenfehler prüfen.
 - `iv-regelverfahren-eroeffnung` — Regelinsolvenzverfahren nach Eroeffnungsbeschluss umsetzen: Besitz, Masse, Tabelle.
 - `iv-schutzschirm-270d` — Schutzschirmverfahren nach § 270d InsO von Antrag bis Planvorlageschluss begleiten.
 - `iv-sicherung-betriebsfortfuehrung` — Betrieb in Insolvenz fortfuehren: Cash-Bridge, Insolvenzgeld, kritische Lieferanten.
 - `iv-steuern-sozialversicherung` — Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Verfahren klassifizieren.
-- `iv-tabelle-pruefungstermin` — Insolvenztabelle konsolidieren und Pruefungstermin nach §§ 175 ff. InsO vorbereiten.
+- `iv-tabelle-pruefungstermin` — Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten.
 - `iv-verteilung-schlussrechnung` — Abschlussphase: Schlussrechnung, Schlussbericht, Verteilungsverzeichnis und Quote.
-- `iv-vorläufige-verwaltung` — Erste Massnahmen als vorläufiger Insolvenzverwalter nach § 21 InsO umsetzen.
-- `iv-zahlungsklagen-15b` — Zahlungsklagen nach § 15b InsO gegen Geschaeftsleiter nach Insolvenzreife vorbereiten.
+- `iv-vorläufige-verwaltung` — Erste Maßnahmen als vorläufiger Insolvenzverwalter nach § 21 InsO umsetzen.
+- `iv-zahlungsklagen-15b` — Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter nach Insolvenzreife vorbereiten.
 
 ## Worauf besonders achten
 
-- **Masseunzulaenglichkeit fruehzeitig pruefen**: Wird sie uebersehen, entstehen Haftungsrisiken für den Insolvenzverwalter wegen bevorzugter Befriedigung von Neuglaeubirn.
+- **Masseunzulaenglichkeit fruehzeitig prüfen**: Wird sie uebersehen, entstehen Haftungsrisiken für den Insolvenzverwalter wegen bevorzugter Befriedigung von Neuglaeubirn.
 - **§ 15b InsO-Haftungsrisiken genau datieren**: Das Insolvenzreifdatum bestimmt, welche Zahlungen angreifbar sind; ungenaue Datierung gefaehrdet den Klagerfolg.
 - **Gruppen- und Klassenbildung sorgfaeltig**: Fehlerhafte Gruppenbildung ist ein haeufiger Versagungsgrund bei der Planbestaetigung nach § 231 InsO.
 - **StaRUG setzt drohende Zahlungsunfaehigkeit voraus**: Bei eingetretener Zahlungsunfaehigkeit muss Insolvenzantrag gestellt werden; StaRUG ist dann nicht mehr anwendbar.
@@ -345,7 +345,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - Betriebsfortfuehrungs-Masse nicht abgegrenzt: Alt- und Neumasseverbindlichkeiten werden vermischt.
 - Anfechtungsfristen nach § 129 InsO verschlafen; Ansprueche verjahren in drei Jahren ab Verfahrenseroeffnung.
 - Insolvenzplan ohne Vergleichsrechnung eingereicht; Gericht weist bei Vorpruefung zurueck.
-- StaRUG-Planbetroffene ohne Begruendung ausgewaehlt; Anfechtungsrisiko durch uebergangene Glaeubiger.
+- StaRUG-Planbetroffene ohne Begruendung ausgewaehlt; Anfechtungsrisiko durch uebergangene Gläubiger.
 - Sachwalter-Kontrolle bei Eigenverwaltung vernachlaessigt; Haftungsrisiko des Sachwalters bei unterlassener Beanstandung.
 
 ## Quellen und Aktualitaet
@@ -365,7 +365,7 @@ _Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenz
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Insolvenzverwaltungs Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Insolvenzverwaltung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Insolvenzverwaltungs Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Insolvenzverwaltung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -512,14 +512,14 @@ _Neue Verfahrensakte anlegen und Verfahrenscockpit strukturieren wenn Insolvenzv
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ## Normen und Rechtsprechung
@@ -704,119 +704,6 @@ Hinweis: Keine Rechtsberatung. Die KI kann Anfechtungsrisiken aus Akten sichtbar
 
 ---
 
-## Skill: `arbeitsrecht-insolvenzgeld`
-
-_Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Massnahmen..._
-
-# Arbeitsrecht, Personal und Insolvenzgeld
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsrecht, Personal und Insolvenzgeld` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Startet bei
-
-- Arbeitnehmer vorhanden sind
-- Lohnrückstände, Insolvenzgeld oder Kündigungen anstehen
-- Betriebsfortführung mit Personal geplant ist
-
-## Eingaben
-
-- Personalliste, Lohnjournal, Verträge
-- Betriebsrat, Tarifbindung, Arbeitszeitdaten
-- Fortführungs- oder Stilllegungsplan
-
-## Workflow
-
-1. **Bestand erfassen** - Arbeitnehmer, Rückstände, Sonderrechte, Betriebsrat und Schlüsselpersonen kartieren.
-2. **Insolvenzgeld** - Zeitraum, Vorfinanzierung, Anträge und Kommunikation planen.
-3. **Maßnahmen** - Fortführung, Kündigung, Transfer, Betriebsübergang und Sozialplan prüfen.
-4. **Kommunikation** - Arbeitnehmerinformation und Rückfragen vorbereiten.
-
-## Ausgabe
-
-- Personalmatrix
-- Insolvenzgeld-Check
-- Maßnahmen- und Kommunikationsplan
-
-## Qualitätsgates
-
-- Lohnarten und Zeiträume getrennt
-- Betriebsrat eingebunden, wenn erforderlich
-- keine arbeitsrechtliche Maßnahme ohne Fristprüfung
-
-## Rote Schwellen
-
-- Masselöhne ohne Deckung
-- Betriebsänderung
-- Schlüsselpersonen verlassen Betrieb
-
-## Interne Vorlagen
-
-- assets/templates/personal-insolvenzgeld.md
-- assets/templates/betriebsfortfuehrung-wochenplan.md
-
-## Amtliche Erstquellen
-
-- InsO und SGB III als Schnittstelle
-- § 113 InsO als zu prüfende Norm
-
-## Rechtliche Grundlagen und BGH-/BSG-Leitentscheidungen (Stand Mai 2026)
-
-- **BGH IX ZR 122/23 vom 05.12.2024** — Bei Anfechtung vorinsolvenzlicher Lohnzahlungen: Unlauterkeit beim Bargeschäft (§ 142 InsO) konkret nachweisen; keine starre 30-Tage-Grenze, sondern enger zeitlicher Zusammenhang. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-- BSG- und LSG-Linien zu § 165 SGB III (Insolvenzgeld), insbesondere zur Vorfinanzierung (§ 170 SGB III) und zur Cessio Legis (§ 169 SGB III), vor Ausgabe über sozialgerichtsbarkeit.de oder dejure.org verifizieren.
-
-## Paragrafenkette Insolvenzverwaltung
-
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
-
-## Triage — Verfahrensstand
-
-Bevor losgelegt wird, klaere:
-1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
-2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
-4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 6 StaRUG
-- § 27 StaRUG
-- § 2 StaRUG
-- § 64 StaRUG
-- § 8c KStG
-- § 14 StaRUG
-- § 7 StaRUG
-- § 26 StaRUG
-- § 34 StaRUG
-- § 266a StGB
-- § 15 GmbHG
-- § 40 GmbHG
-
-### Leitentscheidungen
-
-- BGH IX ZR 129/22
-- BGH IX ZR 122/23
-- BGH IX ZR 127/24
-- BGH IX ZR 114/23
-- BGH II ZR 206/22
-
----
-
 ## Skill: `berichte-iv-masseunzulaenglichkeit`
 
 _Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle Verwertung Prozesse Personal Steuern Risiken. Output: strukturierter Bericht Entschei..._
@@ -892,14 +779,14 @@ _Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ## Normen und Rechtsprechung
@@ -1007,14 +894,14 @@ _Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §�
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ---
@@ -1096,14 +983,14 @@ _Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insolvenzverwalter
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ---
@@ -1191,14 +1078,14 @@ Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüf
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ---
@@ -1413,14 +1300,14 @@ _Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen P
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ---
@@ -1500,14 +1387,14 @@ _Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansp
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ---
@@ -1597,14 +1484,14 @@ Bei US debtor in possession, US trustee, kanadischem trustee/monitor/receiver od
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
 ---
@@ -1684,15 +1571,99 @@ _Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbind
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 
 Bevor losgelegt wird, klaere:
 1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
+3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
+
+---
+
+## Skill: `plan-abstimmung-anlagenpaket`
+
+_Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien. Output: Abstimmungsrec..._
+
+# IV-integrierte Abstimmung und Mehrheiten
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Insolvenz- und Sanierungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `IV-integrierte Abstimmung und Mehrheiten` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
+- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
+- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
+- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Startet bei
+
+- neuem Planmandat oder Sanierungsprojekt
+- unvollständiger Datenlage
+- Vorbereitung von Insolvenzplan, Eigenverwaltung, Schutzschirm oder StaRUG
+- Prüfung eines vorhandenen Planentwurfs
+
+## Geführter Workflow
+
+1. Stimmberechtigte, Forderungshöhen, Ausfallwerte, bestrittene Rechte und Vertreter erfassen.
+2. InsO Kopf- und Summenmehrheit je Gruppe sowie StaRUG-Mehrheiten je Klasse rechnen.
+3. Ablehnungsszenarien, taktische Schwellen und gerichtliche Stimmrechtsfestsetzung markieren.
+4. Erörterungs- und Abstimmungstermin mit Q&A vorbereiten.
+
+## Ausgabe
+
+- Abstimmungsrechner
+- Mehrheitssimulation
+- Stimmrechtsfragen
+- Terminmappe
+
+## Qualitätsgates
+
+- Keine Rechtswirkung ohne genaue Betroffenengruppe, Betrag, Zeitpunkt und Beleg.
+- Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
+- Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
+- Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+
+## Rückfragen
+
+Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie nach Zahlen, Recht, Stakeholdern und Verfahren. Bei Eilfällen liefere zuerst eine Minimalroute mit Stoppern.
+
+## Arbeitsstil
+
+Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
+
+## IV-Einordnung
+
+Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
+
+## Rechtliche Grundlagen und BGH-Leitentscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Paragrafenkette (IV-Insolvenzplan)
+
+§ 217 InsO (Plan-Option) → § 218 InsO (Vorlage durch IV) → §§ 220-221 InsO (Plan-Inhalte) → § 222 InsO (Gruppenbildung) → §§ 235-244 InsO (Abstimmung) → § 245 InsO (Obstruktionsverbot) → § 248 InsO (Bestaetigung) → § 254 InsO (Wirkung) → §§ 49-51 InsO (Absonderungsrechte in Plan)
+
+## Triage — IV-Plan
+
+Bevor losgelegt wird, klaere:
+1. **Plan sinnvoller als Liquidation?** Vergleichsrechnung: Plan-Quote vs. Liquidationsquote.
+2. **Gruppenbildung konsistent?** § 222 InsO: gesicherte, nicht gesicherte, Kleinglaeubieger, Arbeitnehmer.
+3. **Mehrheiten realistisch?** Simulation Kopf- + Summenmehrheit je Gruppe.
+4. **Cramdown-Szenario?** § 245 InsO: ablehnende Gruppe ueberstimmbar wenn Best-Interest-Test bestanden.
+
+## IV-Einordnung
+
+Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und voraeufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfaehigkeit gegenueber Gericht und Gläubigerausschuss sowie Planvollzugsfaehigkeit.
 
 ---
 

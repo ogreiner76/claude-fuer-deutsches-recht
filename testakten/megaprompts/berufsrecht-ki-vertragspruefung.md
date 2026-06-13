@@ -12,10 +12,10 @@ Dieser Megaprompt enthaelt top-10 von 93 Skills des Plugins `berufsrecht-ki-vert
 4. **erforderlichkeit-dokumentieren** — Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der ei…
 5. **gutachten-erstellen** — Erstelle das zusammenfassende Vorprüfungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Prüfpunkte…
 6. **interview** — Erfasse Beruf des Auftraggebers (Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar) Anbieter Produktname V…
-7. **rueckfragebrief-an-anbieter** — Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen …
-8. **strafprozessuale-regelung-pruefen** — Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirke…
-9. **strafrechtliche-belehrung-pruefen** — Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstl…
-10. **tom-und-zertifizierungen-pruefen** — Prüfe technische und organisatorische Massnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO…
+7. **strafprozessuale-regelung-pruefen** — Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirke…
+8. **strafrechtliche-belehrung-pruefen** — Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstl…
+9. **verschwiegenheitsklausel-pruefen** — Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstl…
+10. **rueckfragebrief-an-anbieter** — Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klärung der berufsrechtlichen und strafrechtlichen P…
 
 ---
 
@@ -37,8 +37,8 @@ Dieser Einstieg routet **Berufsrecht Ki Vertragspruefung** vom ersten Sachverhal
 - `art-50-ki-vo-schriftsatz-marketing-chatbot` — ART 50 KI VO Schriftsatz Marketing Chatbot
 - `avv-grenzpruefung-brki-anbieter-eu` — AVV Grenzpruefung Brki Anbieter EU
 - `avv-grenzpruefung-datenschutz` — AVV Grenzpruefung Datenschutz
-- `belehrung-abschlussprodukt-uebergabe` — Belehrung Abschlussprodukt Uebergabe
-- `belehrung-abschlussprodukt-und-uebergabe` — Belehrung Abschlussprodukt und Uebergabe
+- `belehrung-abschlussprodukt-uebergabe` — Belehrung Abschlussprodukt Übergabe
+- `belehrung-abschlussprodukt-und-uebergabe` — Belehrung Abschlussprodukt und Übergabe
 - `berufsrecht-sonderfall-edge-case` — Berufsrecht Sonderfall Edge Case
 - `berufsrecht-sonderfall-und-edge-case` — Berufsrecht Sonderfall und Edge Case
 - `berufsrechtliche-bnoto-interessen-brao` — Berufsrechtliche Bnoto Interessen BRAO
@@ -69,7 +69,7 @@ _Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertragspruefung-Plug
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Berufsrecht Ki Vertragspruefung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Berufsrecht Ki Vertragspruefung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -184,36 +184,36 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gutachten-erstellen` | Erstelle das zusammenfassende Vorprüfungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Prüfpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat… |
 | `klauselvorschlaege` | Liefere konkrete Mustertexte für Vertragsklauseln mit dem KI-Anbieter. Bausteine Verschwiegenheit Belehrung §§ 203 204 StGB Subunternehmer no training Zero-Retention EU-Hosting Audit-Recht Löschkonzept Professional… |
 | `parallelnormen-andere-berufe` | Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende.… |
-| `rueckfragebrief-an-anbieter` | Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und… |
+| `rueckfragebrief-an-anbieter` | Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klärung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und… |
 | `strafprozessuale-regelung-pruefen` | Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruchspflicht des Dienstleisters bei… |
 | `strafrechtliche-belehrung-pruefen` | Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB.… |
 | `subunternehmer-regelung-pruefen` | Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste… |
-| `tom-und-zertifizierungen-pruefen` | Prüfe technische und organisatorische Massnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für… |
+| `tom-und-zertifizierungen-pruefen` | Prüfe technische und organisatorische Maßnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für… |
 | `verschwiegenheitsklausel-pruefen` | Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b… |
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Anwälte, Steuerberater, Wirtschaftsprüfer, Patentanwälte und Notare bei der berufsrechtlichen und strafrechtlichen Pruefung von Verträgen mit privaten Legal-AI-Anbietern. Der Einsatz von KI-Diensten in Kanzleien unterliegt strengen berufsrechtlichen Vorgaben, insbesondere den Verschwiegenheitspflichten und den gesetzlichen Dienstleister-Regelungen der jeweiligen Berufsordnung.
+Dieses Plugin unterstuetzt Anwälte, Steuerberater, Wirtschaftsprüfer, Patentanwälte und Notare bei der berufsrechtlichen und strafrechtlichen Prüfung von Verträgen mit privaten Legal-AI-Anbietern. Der Einsatz von KI-Diensten in Kanzleien unterliegt strengen berufsrechtlichen Vorgaben, insbesondere den Verschwiegenheitspflichten und den gesetzlichen Dienstleister-Regelungen der jeweiligen Berufsordnung.
 
 Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen und der Pflicht, Mandatsdaten vor unberechtigtem Zugriff zu schuetzen. § 203 StGB stellt die unbefugte Offenbarung von Berufsgeheimnissen unter Strafe; die berufsrechtlichen Normen verpflichten Kanzleien, Dienstleister explizit zu belehren und vertraglich auf Verschwiegenheit zu verpflichten.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie prufen erstmals einen Vertrag mit einem KI-Anbieter und benoetigen einen strukturierten Pruefrahmen für Ihren Berufsstand.
-- Ein KI-Dienstleister hat seinen Server in den USA und Sie wollen pruefen, ob der US CLOUD Act oder FISA ein Risiko darstellt.
+- Sie prufen erstmals einen Vertrag mit einem KI-Anbieter und benoetigen einen strukturierten Prüfrahmen für Ihren Berufsstand.
+- Ein KI-Dienstleister hat seinen Server in den USA und Sie wollen prüfen, ob der US CLOUD Act oder FISA ein Risiko darstellt.
 - Sie moechten einen Rueckfragebrief an den Anbieter schreiben, um fehlende Vertragsklauseln zu Verschwiegenheit, Subunternehmern und Datenloeschung nachzufordern.
 - Sie sollen ein zusammenfassendes Gutachten für die Kanzleifuehrung erstellen, bevor ein KI-Tool eingefuehrt wird.
-- Ihr Kanzleiteam nutzt bereits ein KI-Tool und Sie wollen rueckwirkend pruefen, ob alle berufsrechtlichen Anforderungen erfuellt sind.
+- Ihr Kanzleiteam nutzt bereits ein KI-Tool und Sie wollen rueckwirkend prüfen, ob alle berufsrechtlichen Anforderungen erfuellt sind.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **§ 203 StGB** — Strafvorschrift zum Schutz von Privatgeheimnissen; erfasst Berufsgeheimnisraeger wie Anwälte, Aerzte und Steuerberater.
 - **Dienstleister-Regelung** — Berufsgruppenspezifische Norm (z. B. § 43e BRAO), die Kanzleien verpflichtet, KI-Anbieter auf Verschwiegenheit zu verpflichten und zu belehren.
-- **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; laeuft parallel zur berufsrechtlichen Pruefung, ersetzt diese aber nicht.
+- **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; laeuft parallel zur berufsrechtlichen Prüfung, ersetzt diese aber nicht.
 - **No-Training-Klausel** — Vertragliche Zusage des Anbieters, Mandatsdaten nicht zum Trainieren von KI-Modellen zu verwenden.
 - **Zero-Retention** — Zusage, Daten nicht dauerhaft zu speichern; relevant für Loeschkonzept und Audit-Rechte.
 - **Cloud Act** — US-amerikanisches Gesetz, das US-Behörden Zugriff auf bei US-Unternehmen gespeicherte Daten ermoeglichen kann, auch wenn Server in der EU stehen.
-- **BSI C5** — Cloud Computing Compliance Criteria Catalogue des Bundesamts für Sicherheit in der Informationstechnik; anerkannter Pruefstandard.
+- **BSI C5** — Cloud Computing Compliance Criteria Catalogue des Bundesamts für Sicherheit in der Informationstechnik; anerkannter Prüfstandard.
 - **Norm-Adapter** — Mechanismus im Plugin, der je nach Berufsstand (BRAO, StBerG, WPO, PAO, BNotO) die einschlaegige Dienstleisterregelung auswaehlt.
 
 ## Rechtsgrundlagen
@@ -226,46 +226,46 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - § 203 Abs. 1 Abs. 3 Abs. 4 und Abs. 6 StGB — Verletzung von Privatgeheimnissen
 - § 204 StGB — Verwertung fremder Geheimnisse
 - Art. 28 DSGVO — Auftragsverarbeitung
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen
+- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen
 - §§ 53a 97 StPO — Zeugnisverweigerungsrecht und Beschlagnahmeverbot
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Berufsstand und Anbieter im Kaltstart-Interview erfassen; Norm-Adapter bestimmen.
-2. Erforderlichkeit der Offenlegung von Mandatsdaten pruefen und dokumentieren.
+2. Erforderlichkeit der Offenlegung von Mandatsdaten prüfen und dokumentieren.
 3. Verschwiegenheitsklausel im Vertrag lokalisieren und bewerten.
-4. Subunternehmer-Regelung, strafrechtliche Belehrung und TOM pruefen.
+4. Subunternehmer-Regelung, strafrechtliche Belehrung und TOM prüfen.
 5. Drittstaat-Risiko (US CLOUD Act, Nicht-EU-Hosting) einschaetzen; ggf. Rueckfragebrief versenden und Gutachten erstellen.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `avv-grenzpruefung-datenschutz` — Pruefen ob AVV nach Art. 28 DSGVO die berufsrechtliche Pruefung ersetzt (tut er nicht).
+- `avv-grenzpruefung-datenschutz` — Prüfen ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt (tut er nicht).
 - `berufsrecht-ki-vertragspruefung-kaltstart-interview` — Berufsstand, Anbieter, Vertragsdokument und Normen erfassen; Norm-Adapter aktivieren.
-- `cloud-act-und-drittstaat-pruefen` — Auslandsbezug und Drittstaatrisiko (US CLOUD Act, FISA) pruefen; Professional Secrecy Addendum empfehlen.
-- `erforderlichkeit-dokumentieren` — Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenueber dem KI-Dienstleister pruefen und dokumentieren.
+- `cloud-act-und-drittstaat-pruefen` — Auslandsbezug und Drittstaatrisiko (US CLOUD Act, FISA) prüfen; Professional Secrecy Addendum empfehlen.
+- `erforderlichkeit-dokumentieren` — Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenueber dem KI-Dienstleister prüfen und dokumentieren.
 - `gutachten-erstellen` — Zusammenfassendes Berufsrechts-Gutachten zum KI-Anbietervertrag erstellen.
 - `klauselvorschlaege` — Mustertexte für Vertragsklauseln zu Verschwiegenheit, No-Training, Zero-Retention und Subunternehmern liefern.
 - `parallelnormen-andere-berufe` — Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger mit Mapping der Dienstleisterregelungen.
 - `rueckfragebrief-an-anbieter` — Strukturierten Rueckfragebrief an den KI-Anbieter zu offenen berufsrechtlichen Punkten erstellen.
-- `strafprozessuale-regelung-pruefen` — Strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO pruefen.
-- `strafrechtliche-belehrung-pruefen` — Belehrung des Dienstleisters ueber § 203 StGB im Vertrag pruefen.
-- `subunternehmer-regelung-pruefen` — Subunternehmerklausel auf Zustimmungsvorbehalt, Weiterverpflichtung und Belehrung pruefen.
-- `tom-und-zertifizierungen-pruefen` — TOM und Zertifizierungen des Anbieters (ISO 27001, BSI C5, SOC 2) pruefen.
+- `strafprozessuale-regelung-pruefen` — Strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO prüfen.
+- `strafrechtliche-belehrung-pruefen` — Belehrung des Dienstleisters über § 203 StGB im Vertrag prüfen.
+- `subunternehmer-regelung-pruefen` — Subunternehmerklausel auf Zustimmungsvorbehalt, Weiterverpflichtung und Belehrung prüfen.
+- `tom-und-zertifizierungen-pruefen` — TOM und Zertifizierungen des Anbieters (ISO 27001, BSI C5, SOC 2) prüfen.
 - `verschwiegenheitsklausel-pruefen` — Vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit lokalisieren und bewerten.
 
 ## Worauf besonders achten
 
 - **Berufsrecht und Datenschutzrecht laufen parallel**: Ein vorhandener AVV erfuellt nicht automatisch die berufsrechtlichen Anforderungen nach § 43e BRAO und den Parallelvorschriften.
-- **Textformerfordernis**: Die Verschwiegenheitspflicht muss nach § 43e Abs. 3 BRAO in Textform (§ 126b BGB) vereinbart werden; muendliche Zusagen genuegen nicht.
-- **Subunternehmer oft uebersehen**: Viele KI-Anbieter nutzen Sprachmodelle grosser US-Konzerne als Subunternehmer; diese muessen ebenfalls verpflichtet werden.
+- **Textformerfordernis**: Die Verschwiegenheitspflicht muss nach § 43e Abs. 3 BRAO in Textform (§ 126b BGB) vereinbart werden; muendliche Zusagen genügen nicht.
+- **Subunternehmer oft uebersehen**: Viele KI-Anbieter nutzen Sprachmodelle großer US-Konzerne als Subunternehmer; diese müssen ebenfalls verpflichtet werden.
 - **Drittstaatrisiko eigenstaendig bewerten**: EU-Sitz des Anbieters genuegt nicht, wenn Muttergesellschaft in den USA dem Cloud Act unterliegt.
 - **Strafrechtliche Konsequenzen**: Ein Verstoss gegen § 203 StGB ist eine Straftat, keine Ordnungswidrigkeit.
 
 ## Typische Fehler
 
-- Nur den AVV pruefen und berufsrechtliche Parallelvorschriften uebersehen.
-- Subunternehmerliste nicht anfordern; Anbieter setzt grosse Sprachmodelle ein, ohne dies offenzulegen.
-- Vertrag ohne No-Training-Zusage annehmen; Mandatsdaten koennen in KI-Training einfliessen.
+- Nur den AVV prüfen und berufsrechtliche Parallelvorschriften uebersehen.
+- Subunternehmerliste nicht anfordern; Anbieter setzt große Sprachmodelle ein, ohne dies offenzulegen.
+- Vertrag ohne No-Training-Zusage annehmen; Mandatsdaten können in KI-Training einfliessen.
 - Erforderlichkeit der Datenweitergabe nicht dokumentieren; interner Compliance-Vermerk fehlt.
 - US-Anbieter mit EU-Rechenzentrum als unbedenklich eingestuft, ohne Cloud-Act-Analyse.
 
@@ -391,14 +391,14 @@ Anbieter Sitz EU/EWR?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — US-Anbieter in Kanzleiinfrastruktur pruefen | Cloud-Act-Risikobewertung nach Schema unten |
-| Variante A — kein US-Bezug erkennbar | Drittstaat-Kapitel trotzdem pruefen (UK TIOPA, CN DSL) |
+| Standard — US-Anbieter in Kanzleiinfrastruktur prüfen | Cloud-Act-Risikobewertung nach Schema unten |
+| Variante A — kein US-Bezug erkennbar | Drittstaat-Kapitel trotzdem prüfen (UK TIOPA, CN DSL) |
 | Variante B — Mandant will trotz Risiko US-Anbieter nutzen | Risikohinweis dokumentieren; Mandant schriftlich bestaetigen lassen |
-| Variante C — staatliche Ermittlung laeuft bereits | Sofortiger Wechsel; Datensicherung und Incident-Response pruefen |
+| Variante C — staatliche Ermittlung laeuft bereits | Sofortiger Wechsel; Datensicherung und Incident-Response prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -427,7 +427,7 @@ Berufsrecht Drittstaat: GRUEN / GELB / ROT
 Empfehlung: [Nutzung freigegeben / Addendum erforderlich / Anbieterwechsel]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -508,14 +508,14 @@ Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 2
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Erforderlichkeit einer Verarbeitung dokumentieren | Zwei-Stufen-Pruefung nach Art. 5 Abs. 1 lit. c DSGVO; Template unten |
+| Standard — Erforderlichkeit einer Verarbeitung dokumentieren | Zwei-Stufen-Prüfung nach Art. 5 Abs. 1 lit. c DSGVO; Template unten |
 | Variante A — Verarbeitung klar nicht erforderlich | Stoppen empfehlen; Alternative vorschlagen |
 | Variante B — Grenzfall mit starkem Interesse | Interessenabwaegung vertiefen; ausfuehrlichere Dokumentation |
-| Variante C — besondere Kategorie (Art. 9 DSGVO) | Erhoehter Massstab; gesonderte Rechtsgrundlage noetig |
+| Variante C — besondere Kategorie (Art. 9 DSGVO) | Erhoehter Maßstab; gesonderte Rechtsgrundlage noetig |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -550,7 +550,7 @@ Erforderlichkeit: GRUEN / GELB / ROT
 Begruendung: [...]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -670,7 +670,7 @@ Markdown, ca. 5 bis 10 Seiten. PDF-Export optional via Plugin `office`.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -726,7 +726,7 @@ beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 Quellen: geltende Gesetzestexte, Gesetzesmaterialien, verifizierbare Kammerhinweise, Rechtsprechung und aktueller berufsrechtlicher Debattenstand.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -872,159 +872,6 @@ Beruf bestimmt?
 - Vertragstyp: Kanzleiinfrastruktur / Einzelmandats-Tool
 - Vertragsdokumente vorgelegt: [ja/nein, Datum, Anlagen]
 - Nächste Schritte: [Prüfpunkte auflisten]
-```
-
----
-
-## Skill: `rueckfragebrief-an-anbieter`
-
-_Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. K..._
-
-# Rückfragebrief an Anbieter
-
-## Fachkern: Rückfragebrief an Anbieter
-
-- **KI-/Berufsrechtsproblem (Rückfragebrief an Anbieter):** Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. Klare praezise Fragen die der Anbieter beantworten kann.
-- **Normenanker:** BRAO, BORA, § 203 StGB, § 204 StGB, DSGVO/BDSG, Auftragsverarbeitung, Dienstleisterregelungen der freien Berufe und prozessuale Akten-/Mandatsgeheimnisse fallbezogen prüfen.
-- **Entscheidende Weiche:** Anbieterbehauptung, Vertragswortlaut, technische Realität, Berufsgeheimnis, Datenschutzrolle und Strafbarkeitsrisiko auseinanderziehen.
-- **Arbeitsprodukt:** Anbieter-Fragenliste, Risikomatrix, Vertragsredline und Entscheidung, ob Pilot, Stop oder Nachverhandlung.
-- **Hinweis:** Ergebnis bleibt Vorprüfung für Kanzlei- oder Spezialberatung; keine Scheinsicherheit gegenüber Berufsrecht oder Strafrecht.
-
-## Aufbau
-
-### Briefkopf
-
-- Absender: Kanzlei mit Berufsbezeichnung
-- Empfänger: Anbieter, vertretungsberechtigte Person
-- Datum
-- Betreff: "Berufsrechtliche und strafrechtliche Anforderungen — Vertrag [Produktname]"
-
-### Anschreiben
-
-Kurze Einleitung — die Kanzlei prüft den Einsatz des KI-Produkts und benötigt vor Vertragsschluss bzw. zur Fortsetzung des Vertragsverhältnisses Klarstellungen zu den berufsrechtlichen Anforderungen aus §§ [Norm-Adapter] und § 203 StGB.
-
-### Inhaltliche Blöcke
-
-#### Block 1 — Verschwiegenheit und Belehrung
-
-- Wo und wie ist die Verschwiegenheit Ihres Hauses gegenüber der Kanzlei vertraglich geregelt? Bitte konkrete Fundstelle.
-- Gilt die Verschwiegenheit gegenüber jedermann und zeitlich unbegrenzt?
-- Wie haben Sie Ihre Mitarbeiter zur Verschwiegenheit verpflichtet (Textform nach § 126b BGB)?
-- Wie werden Mitarbeiter und Subunternehmer über die strafrechtlichen Folgen einer Pflichtverletzung nach §§ 203, 204 StGB belehrt? Liegt der Normtext als Anlage zu den Mitarbeiterverträgen vor?
-
-#### Block 2 — Subunternehmer
-
-- Bitte legen Sie die aktuelle, abschließende Liste aller Subunternehmer (insbesondere Modellanbieter und Hoster) mit Sitz, Funktion und Verarbeitungsstandort vor.
-- Wie werden Subunternehmer vertraglich auf die Verschwiegenheit verpflichtet und über §§ 203, 204 StGB belehrt?
-- Welche Vorabinformations- und Zustimmungsrechte hat die Kanzlei bei Hinzunahme oder Wechsel von Subunternehmern?
-- Falls Microsoft Azure oder AWS oder Google Cloud zum Einsatz kommt: Welche Region wird genutzt? Wo liegen Backups?
-
-#### Block 3 — Erforderlichkeit, no training, Speicherdauer
-
-- Welche konkreten Datenkategorien werden bei der Nutzung Ihres Dienstes verarbeitet?
-- Werden eingegebene Daten zum Training Ihres Modells oder eines Drittmodells verwendet? Bitte vertragliche "no training"-Zusicherung mit Fundstelle.
-- Wie lange werden Eingaben gespeichert? Liegt eine Zero-Retention-Klausel vor?
-- Wie erfolgt die Löschung am Vertragsende? Erhalten wir ein Löschprotokoll?
-
-#### Block 4 — Strafprozessuale Absicherung
-
-- Wie verhält sich Ihr Haus bei behördlichen Auskunftsverlangen, Durchsuchungs- oder Beschlagnahmeanordnungen?
-- Werden Sie die Kanzlei unverzüglich vorab informieren (soweit gesetzlich zulässig)?
-- Werden Sie sich gegen unzulässige Beschlagnahmen mit Hinweis auf §§ 53a, 97 StPO zur Wehr setzen?
-- Gilt deutsches Recht? Ist der Gerichtsstand Deutschland?
-
-#### Block 5 — TOM und Zertifizierungen
-
-- Welche aktuellen Zertifikate liegen vor (ISO 27001, BSI C5 Typ 2, SOC 2 Typ 2)? Bitte Geltungsbereich, Zertifizierungsstelle und Ausstellungsdatum.
-- Wo werden Daten gespeichert (Verarbeitungsstandort und Backupstandort)?
-- Welche Verschlüsselung wird im Transport und im Ruhezustand eingesetzt?
-- Welche Audit-Logs werden geführt? Wie lange?
-- Welche Meldefrist gilt für Sicherheitsvorfälle?
-
-#### Block 6 — Drittstaaten und CLOUD Act
-
-- Sind Sie ein US-Konzern oder eine US-Tochter? Findet US-Recht (CLOUD Act, FISA) auf Ihre Daten Anwendung?
-- Liegen Daten oder Backups in Drittstaaten?
-- Sind Sie bereit, ein Professional Secrecy Addendum zu unterzeichnen, das US-Auskunftsverlangen anficht und uns informiert?
-
-### Fristsetzung und Hinweise
-
-- Konkrete Frist (typisch zwei bis vier Wochen)
-- Hinweis, dass ohne Klarstellung ein Vertragsschluss bzw. eine Fortsetzung berufsrechtlich nicht möglich ist
-- Hinweis auf Vertraulichkeit der Anfrage
-
-### Unterschrift
-
-- Name, Funktion (Partner, Compliance-Officer)
-- Berufsbezeichnung
-
-## Ton
-
-Sachlich, präzise, keine Anschuldigungen. Der Anbieter soll motiviert sein zu antworten. Die Kanzlei dokumentiert dadurch zugleich die Sorgfalt nach Abs. 2 der Dienstleisterregelung.
-
-## Disclaimer im Brief
-
-Der Brief ist eine berufsrechtliche und strafrechtliche Anfrage, keine zivilrechtliche Geltendmachung. Eine zivilrechtliche oder gar strafrechtliche Geltendmachung ist im Streitfall einem spezialisierten Rechtsanwalt vorbehalten.
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-
-- §§ 241 Abs. 2, 311 Abs. 2 BGB — Vorvertragliche Aufklärungspflichten
-- § 305b BGB — Vorrang der Individualabrede
-- § 126b BGB — Textform
-- § 43e Abs. 3 BRAO, § 62a Abs. 3 StBerG etc. — Vertragsinhalt der Dienstleisterregelung
-
-## Triage zu Beginn
-
-1. Welche Lücken hat die bisherige Vertragsprüfung ergeben (Ampel: gelb/rot)?
-2. Welche Fragen sind klärungsbedürftig (Subunternehmer, Training, Drittstaat)?
-3. Ist ein Fristdruck vorhanden (laufende Pilotprojekte, Vertragsbeginn)?
-4. Soll die Antwort des Anbieters als vertragliche Zusicherung eingestuft werden?
-
-## Output-Template — Rückfragebrief
-
-**Adressat:** KI-Anbieter — Tonfall: sachlich-präzise, fristsetzend
-
-```
-[KANZLEINAME]
-[ANSCHRIFT]
-[DATUM]
-
-An: [ANBIETER, RECHTSABTEILUNG / DATENSCHUTZTEAM]
-Betr.: Rückfrageverfahren berufsrechtliche Compliance — [PRODUKTNAME]
-Unser Aktenzeichen: [AZ]
-
-Sehr geehrte Damen und Herren,
-
-wir pruefen den Einsatz von [PRODUKT] in unserer Kanzlei im Hinblick auf die
-berufsrechtlichen Anforderungen nach § [NORM] [GESETZ] sowie §§ 203, 204 StGB.
-Dazu bitten wir um Beantwortung der folgenden Fragen bis zum [FRIST + 14 TAGE]:
-
-Frageblock 1 — Verschwiegenheit
-F1: Sind Ihre Mitarbeiter und alle Subunternehmer in Textform zur Verschwiegenheit
- ueber alle von uns eingegebenen Daten verpflichtet?
-F2: Gilt diese Verpflichtung auch nach Vertragsende zeitlich unbegrenzt?
-
-Frageblock 2 — Subunternehmer
-F3: Welche Subunternehmer (Modellanbieter, Hoster, Support-Dienstleister) haben
- Zugriff auf von uns eingegebene Daten?
- Bitte vollstaendige Liste: Name, Sitz, Funktion, Verarbeitungsstandort.
-F4: Werden wir vor Wechsel oder Hinzunahme von Subunternehmern vorab in Textform
- informiert?
-
-Frageblock 3 — Training und Drittstaat
-F5: Werden von uns eingegebene Daten zu Trainingszwecken genutzt?
- (Auch aggregiert oder anonymisiert?)
-F6: Wo werden unsere Daten verarbeitet und gespeichert?
- Werden US-Server oder US-Subunternehmer eingesetzt (CLOUD-Act-Risiko)?
-
-Wir bitten um Beantwortung in Textform.
-
-Mit freundlichen Gruessen
-[UNTERSCHRIFT]
 ```
 
 ---
@@ -1268,188 +1115,283 @@ Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE AN ANBIETER]
 
 ---
 
-## Skill: `tom-und-zertifizierungen-pruefen`
+## Skill: `verschwiegenheitsklausel-pruefen`
 
-_Prüfe technische und organisatorische Massnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für Berufsrecht no training Zero-Retention EU-Hosting Verschluesselung Löschkonzep..._
+_Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenüber jedermann zeitlich unbegrenzt alle Berufsgeheimnis..._
 
-# TOM und Zertifizierungen prüfen
+# Verschwiegenheitsklausel prüfen
 
-## Fachkern: TOM und Zertifizierungen prüfen
+## Fachkern: Verschwiegenheitsklausel prüfen
 
-- **KI-/Berufsrechtsproblem (TOM und Zertifizierungen prüfen):** Prüfe technische und organisatorische Massnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für Berufsrecht no training Zero-Retention EU-Hosting Verschluesselung Löschkonzept Audit-Recht. berufsrechtliche KI-Debatte Seite dreizehn vierzehn.
+- **KI-/Berufsrechtsproblem (Verschwiegenheitsklausel prüfen):** Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenüber jedermann zeitlich unbegrenzt alle Berufsgeheimnisse Subunternehmerklausel. Lokalisiere Fundstelle im Vertrag bewerte Luecken.
 - **Normenanker:** BRAO, BORA, § 203 StGB, § 204 StGB, DSGVO/BDSG, Auftragsverarbeitung, Dienstleisterregelungen der freien Berufe und prozessuale Akten-/Mandatsgeheimnisse fallbezogen prüfen.
 - **Entscheidende Weiche:** Anbieterbehauptung, Vertragswortlaut, technische Realität, Berufsgeheimnis, Datenschutzrolle und Strafbarkeitsrisiko auseinanderziehen.
 - **Arbeitsprodukt:** Anbieter-Fragenliste, Risikomatrix, Vertragsredline und Entscheidung, ob Pilot, Stop oder Nachverhandlung.
 - **Hinweis:** Ergebnis bleibt Vorprüfung für Kanzlei- oder Spezialberatung; keine Scheinsicherheit gegenüber Berufsrecht oder Strafrecht.
 
-## Norm und Rahmen
+## Norm
 
-Berufsrechtlich verlangt die Sorgfaltspflicht bei der Dienstleisterauswahl (Abs. 2 der jeweiligen Dienstleisterregelung), dass die technische und organisatorische Sicherheit des Anbieters überzeugt. Datenschutzrechtlich präzisiert das Art. 32 DS-GVO. Die berufsrechtliche KI-Debatte 32/2025 (Seite 13) stellt klar: Die Verschlüsselung darf nicht so weit gefordert werden, dass sie die KI-Dienstleistung entwertet. Eine Ende-zu-Ende-Verschlüsselung, die das KI-System-Inferencing unmöglich macht, ist berufsrechtlich nicht zu verlangen.
+Absatz 3 der jeweiligen Dienstleisterregelung verlangt drei Pflichtbestandteile im Vertrag mit dem Dienstleister:
 
-## "no training" — Zentralfrage
+1. Verpflichtung des Dienstleisters zur Verschwiegenheit unter Belehrung über die strafrechtlichen Folgen einer Pflichtverletzung (Nr. 1).
+2. Verpflichtung des Dienstleisters, sich nur soweit Kenntnis von fremden Geheimnissen zu verschaffen, als dies zur Vertragserfüllung erforderlich ist (Nr. 2).
+3. Festlegung, ob der Dienstleister befugt ist, weitere Personen heranzuziehen — und für diesen Fall die Pflicht, diese in Textform zu verpflichten (Nr. 3).
 
-Nach DAV S. 14 ist die Übermittlung von Mandatsdaten zu Trainingszwecken nicht von der Erforderlichkeitsschwelle des Abs. 1 gedeckt. Daher muss der Vertrag eine **"no training"-Klausel** enthalten — eine ausdrückliche Verpflichtung des Anbieters, eingegebene Mandatsdaten nicht zum Training des Modells zu verwenden. Bei API-Aufrufen an Drittmodelle (etwa OpenAI Azure Service) ist zusätzlich der "no training"-Status des Drittmodells nachzuweisen.
+Pro Beruf:
 
-## Zero Retention
+- Rechtsanwalt: § 43e Abs. 3 BRAO
+- Steuerberater: § 62a Abs. 3 StBerG
+- Wirtschaftsprüfer: § 50a Abs. 3 WPO
+- Patentanwalt: § 39c Abs. 3 PAO
+- Notar: § 26a Abs. 3 BNotO
 
-Die Speicherdauer eingegebener Mandatsdaten beim Anbieter ist möglichst gering zu halten. Optimal: "Zero Retention" — die Daten werden nach der Verarbeitung sofort gelöscht (typisch 0 oder 30 Sekunden nach Abschluss der API-Anfrage). Andernfalls eine konkrete kurze Frist (24 Stunden, sieben Tage). Pauschalfristen wie "bis zu 90 Tage" sind problematisch.
+In diesem Skill prüfen wir Nr. 1. Die anderen beiden Punkte sind eigene Skills (`erforderlichkeitsschwelle-kenntnis` ist Teil von `verschwiegenheitsklausel-pruefen`; Subunternehmer ist eigener Skill).
 
-## Zertifizierungen
+## Anforderungen an die Verschwiegenheitsklausel
 
-### ISO 27001
+### Textform
 
-Internationaler Standard für Informationssicherheitsmanagementsysteme. **Mindeststandard**. Prüfen: Geltungsbereich (alle relevanten Standorte und Systeme), Zertifizierungsstelle (akkreditiert), Ausstellungsdatum (höchstens drei Jahre alt), Anhang A Controls relevant.
+§ 126b BGB. Der Vertrag mit dem Dienstleister bedarf der Textform — auch wenn das Berufsrecht (etwa § 43e BRAO) das nicht ausdrücklich nochmals sagt, weil Absatz 3 Satz 1 dies bereits anordnet ("Der Vertrag mit dem Dienstleister bedarf der Textform").
 
-### BSI C5 (Cloud Computing Compliance Criteria Catalogue)
+### Reichweite — "jedermann"
 
-Vom BSI entwickelter Standard für Cloud-Anbieter. Für Berufsgeheimnisträger besonders aussagekräftig, weil deutsche behördliche Standardkriterien. Es gibt Typ-1- und Typ-2-Testate; Typ 2 ist der Goldstandard.
+Die Verschwiegenheit muss gegenüber jedermann gelten. Klauseln, die nur eine Verschwiegenheit gegenüber Behörden oder Dritten in Ausnahmefällen vorsehen, reichen nicht. Auch Auskunftspflichten gegenüber Aufsichtsbehörden oder Konzernmüttern können der Wirksamkeit entgegenstehen, soweit sie über zwingende gesetzliche Verpflichtungen hinausgehen.
 
-### SOC 2 Typ 2
+### Zeitlich unbegrenzt
 
-US-Standard, oft bei US-Anbietern vorhanden. Trust Services Criteria: Security, Availability, Processing Integrity, Confidentiality, Privacy. Bei US-Anbietern Mindestnachweis, aber nicht spezifisch genug für deutsches Berufsrecht.
+Die Verschwiegenheitspflicht des Dienstleisters muss zeitlich unbegrenzt sein. Sie endet nicht mit dem Ende des Vertragsverhältnisses. Vorsicht bei Klauseln wie "Verschwiegenheit für die Vertragsdauer und drei Jahre danach".
 
-### TISAX
+### Alle Berufsgeheimnisse
 
-Branchenstandard der Automobilindustrie. Für Legal-AI selten einschlägig, aber bei Mandanten aus der Automotive-Branche relevant.
+Die Klausel muss alle dem Berufsgeheimnis unterliegenden Tatsachen erfassen, nicht etwa nur "vertrauliche Geschäftsinformationen". Maßstab ist die jeweilige Verschwiegenheitspflicht des Auftraggebers (§ 43a Abs. 2 BRAO etc.) — die ist sehr weit (alles, was in Ausübung des Berufes bekannt geworden ist; mit Ausnahme von Offenkundigem oder Bagatellfällen).
 
-### EU Cloud Code of Conduct
+### Belehrung über strafrechtliche Folgen
 
-DSGVO-spezifisches Konformitätsverfahren nach Art. 40 DS-GVO. Hilfreich, aber keine eigenständige Sicherheitszertifizierung.
-
-## Konkrete Prüfpunkte
-
-### EU-Hosting
-
-- Speicherort der Daten ausschließlich in EU/EWR?
-- Auch Backups in EU/EWR?
-- Verarbeitung (Inferencing) in EU/EWR?
-- Vertraglich abgesichert oder nur als Selbstauskunft?
-
-### Verschlüsselung
-
-- Transportverschlüsselung TLS aktuell (mindestens TLS einskommadrei)
-- Verschlüsselung im Ruhezustand (AES 256)
-- Schlüsselverwaltung: Anbieter oder Kanzlei (Bring-your-own-key)?
-
-### Zugriffskontrolle
-
-- Rollenbasierte Zugriffskontrolle beim Anbieter
-- Audit-Logs aller Zugriffe auf Mandatsdaten
-- Vier-Augen-Prinzip bei Administratorenzugriffen
-- Mitarbeiter-Verpflichtungen (Verschwiegenheit, Background Check)
-
-### Löschkonzept
-
-- Auf Anforderung der Kanzlei
-- Automatisch nach Vertragsende
-- Bestätigung der Löschung durch Anbieter (Löschprotokoll)
-- Auch in Backups und Logs
-
-### Audit-Recht
-
-- Recht der Kanzlei zur Auditierung
-- Vorhandene Testate als Surrogat (typisch)
-- Mindestens jährliche Aktualisierung der Testate
-
-### Meldepflichten
-
-- Information bei Sicherheitsvorfällen (24 bis 48 Stunden)
-- Information bei Behördenanfragen
-- Information bei Subunternehmerwechsel
+Ausdrücklicher Verweis auf §§ 203, 204 StGB. Idealerweise als Anlage der Normtext (siehe `strafrechtliche-belehrung-pruefen`).
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-| Punkt | Status | Ampel | Bemerkung |
+| Anforderung | Im Vertrag (Fundstelle) | Ampel | Bemerkung |
 |---|---|---|---|
-| "no training"-Klausel | | | |
-| Zero Retention oder kurze Frist | | | |
-| ISO 27001 (akt. Testat) | | | |
-| BSI C5 (Typ 2 bevorzugt) | | | |
-| SOC 2 Typ 2 | | | |
-| EU-Hosting vertraglich | | | |
-| Verschlüsselung TLS plus Rest | | | |
-| Audit-Logs | | | |
-| Löschkonzept | | | |
-| Meldepflicht Sicherheitsvorfall | | | |
-| Audit-Recht | | | |
+| Textform | | | |
+| Gegenüber jedermann | | | |
+| Zeitlich unbegrenzt | | | |
+| Alle Berufsgeheimnisse | | | |
+| Belehrung §§ 203, 204 StGB | | | |
+| Erforderlichkeitsschwelle Kenntnis (Nr. 2) | | | |
 
 ## Typische Lücken
 
-- "Wir nehmen Sicherheit ernst" ohne Zertifikat
-- ISO-Zertifikat nur für Hauptsitz, nicht für Verarbeitungsstandort
-- Trust Center mit Versprechen, die nicht im Vertrag stehen
-- Löschung nur "auf Anforderung", keine automatische
-- Keine "no training"-Klausel für das verwendete Modell
+- "Vertraulichkeit gemäß üblichem Geschäftsverkehr" — viel zu vage
+- "Verschwiegenheit, soweit gesetzlich erforderlich" — keine Selbstverpflichtung
+- Nur DSGVO-Anlehnung, kein eigenständiger Berufsgeheimnis-Bezug
+- US-AGB mit "trade secret"-Sprache statt deutscher Berufsgeheimnis-Anlehnung
+- Klausel im FAQ oder Trust Center statt im Vertragstext
 
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
-- Art. 32 DSGVO — Technische und organisatorische Maßnahmen; Stand der Technik
-- Art. 28 Abs. 3 lit. c DSGVO — TOM-Anlage als Pflichtbestandteil der AVV
-- Art. 83 Abs. 4 DSGVO — Bußgeld bei Verstoß gegen Art. 32: bis 10 Mio. EUR oder 2 %
+- §§ 43e Abs. 3 Nr. 1, 43e Abs. 3 Nr. 2 BRAO — Verschwiegenheits- und Belehrungspflicht in Textform
+- § 62a Abs. 3 Nr. 1 StBerG / § 50a Abs. 3 Nr. 1 WPO / § 39c Abs. 3 Nr. 1 PAO / § 26a Abs. 3 Nr. 1 BNotO
+- § 126b BGB — Textformerfordernis
+- § 203 Abs. 4 StGB — Strafrechtliche Sekundärpflicht
 
 ## Triage zu Beginn
 
-1. Liegt eine aktuelle TOM-Anlage (mit Datum) zum Vertrag vor?
-2. Ist eine ISO-27001-Zertifizierung vorhanden und aktuell (nicht älter als 12 Monate)?
-3. Bei Cloud-Anbieter: BSI C5 Typ 2 Testat vorhanden?
-4. Sind "no training" und Zero-Retention-Regelungen in den TOMs enthalten?
-5. Gibt es ein Audit-Recht der Kanzlei?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Enthält der Vertrag eine explizite Verschwiegenheitsklausel — nicht nur eine allgemeine Vertraulichkeitsklausel?
+2. Ist die Klausel in Textform (§ 126b BGB) festgehalten?
+3. Gilt sie "gegenüber jedermann" und "zeitlich unbegrenzt auch nach Vertragsende"?
+4. Erfasst sie alle Berufsgeheimnisse (nicht nur personenbezogene Daten)?
 
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — TOM-Abschnitt im Vertrag bewerten | Checkliste Art. 32 DSGVO; Template unten |
-| Variante A — Zertifizierung ISO 27001 vorhanden | Zertifikat pruefen ob aktuell; Scope-Abdeckung beachten |
-| Variante B — keine TOM-Anlage vorhanden | Ergaenzung fordern; Muster-TOM-Anlage als Verhandlungsgrundlage |
-| Variante C — Hochrisiko-Verarbeitung | Erweiterte TOM-Anforderungen; ggf. Pen-Test-Pflicht vereinbaren |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Output-Template — TOM-Prüfvermerk
+## Output-Template — Verschwiegenheitsprüfvermerk
 
 **Adressat:** Kanzlei intern — Tonfall: sachlich-juristisch
 
 ```
-TOM-Prüfvermerk [DATUM]
+Verschwiegenheitsprüfvermerk [DATUM]
 Anbieter: [NAME] | Vertrag: [DOKUMENT, VERSION]
 
-Prüfpunkt 1: TOM-Anlage
-Vorhanden: ja / nein | Datum: [DATUM]
-Verschlüsselung (Transport/Ruhezustand): [TLS 1.3 / AES-256 / unklar]
-Zugangskontrolle / RBAC: [beschrieben / nicht beschrieben]
-Löschkonzept: [beschrieben / nicht beschrieben]
+Prüfpunkt 1: Verschwiegenheitsklausel
+Vorhanden: ja / nein
+Fundstelle: [KLAUSEL, ABSCHNITT]
+Textform (§ 126b BGB): ja / nein
+Geltung gegenüber jedermann: ja / eingeschraenkt / nein
+Zeitlich unbegrenzt (auch nach Vertragsende): ja / nein
+Erfasst alle Berufsgeheimnisse (nicht nur PBD): ja / nein
 
-Prüfpunkt 2: Zertifizierungen
-ISO 27001: [vorhanden / nicht vorhanden] | Gültigkeit: [DATUM]
-BSI C5 Typ 2: [vorhanden / nicht vorhanden]
-SOC 2 Typ 2: [vorhanden / nicht vorhanden]
-
-Prüfpunkt 3: Berufsrechtliche TOM-Besonderheiten
-No-training-Klausel: [vorhanden / Lücke]
-Zero-Retention: [vorhanden / Lücke]
-EU-Hosting-Zusicherung: [vorhanden / Lücke]
-Audit-Recht Kanzlei: [vorhanden / Lücke]
+Prüfpunkt 2: Weiterleitung an Mitarbeiter des Dienstleisters
+Klausel verpflichtet Mitarbeiter: ja / nein
+Belehrung §§ 203/204 StGB: ja / nein
 
 Ergebnis
-Ampel TOM/Zertifizierungen: GRUEN / GELB / ROT
+Ampel Verschwiegenheitsklausel: GRUEN / GELB / ROT
 Luecken: [BESCHREIBUNG]
+Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE]
 ```
 
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+<!-- AUDIT 27.05.2026
+Task: Bundle 016 – Halluzinations-Reparatur
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Beanspruchtes Thema: Haftung Notar Geheimnisverrat § 18 BNotO; NJW-RR 2021, 145.
+Maßnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Frankfurt&Datum=17.11.2020&Aktenzeichen=8+U+25/20
+-->
+
+---
+
+## Skill: `rueckfragebrief-an-anbieter`
+
+_Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klärung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. K..._
+
+# Rückfragebrief an Anbieter
+
+## Fachkern: Rückfragebrief an Anbieter
+
+- **KI-/Berufsrechtsproblem (Rückfragebrief an Anbieter):** Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klärung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. Klare praezise Fragen die der Anbieter beantworten kann.
+- **Normenanker:** BRAO, BORA, § 203 StGB, § 204 StGB, DSGVO/BDSG, Auftragsverarbeitung, Dienstleisterregelungen der freien Berufe und prozessuale Akten-/Mandatsgeheimnisse fallbezogen prüfen.
+- **Entscheidende Weiche:** Anbieterbehauptung, Vertragswortlaut, technische Realität, Berufsgeheimnis, Datenschutzrolle und Strafbarkeitsrisiko auseinanderziehen.
+- **Arbeitsprodukt:** Anbieter-Fragenliste, Risikomatrix, Vertragsredline und Entscheidung, ob Pilot, Stop oder Nachverhandlung.
+- **Hinweis:** Ergebnis bleibt Vorprüfung für Kanzlei- oder Spezialberatung; keine Scheinsicherheit gegenüber Berufsrecht oder Strafrecht.
+
+## Aufbau
+
+### Briefkopf
+
+- Absender: Kanzlei mit Berufsbezeichnung
+- Empfänger: Anbieter, vertretungsberechtigte Person
+- Datum
+- Betreff: "Berufsrechtliche und strafrechtliche Anforderungen — Vertrag [Produktname]"
+
+### Anschreiben
+
+Kurze Einleitung — die Kanzlei prüft den Einsatz des KI-Produkts und benötigt vor Vertragsschluss bzw. zur Fortsetzung des Vertragsverhältnisses Klarstellungen zu den berufsrechtlichen Anforderungen aus §§ [Norm-Adapter] und § 203 StGB.
+
+### Inhaltliche Blöcke
+
+#### Block 1 — Verschwiegenheit und Belehrung
+
+- Wo und wie ist die Verschwiegenheit Ihres Hauses gegenüber der Kanzlei vertraglich geregelt? Bitte konkrete Fundstelle.
+- Gilt die Verschwiegenheit gegenüber jedermann und zeitlich unbegrenzt?
+- Wie haben Sie Ihre Mitarbeiter zur Verschwiegenheit verpflichtet (Textform nach § 126b BGB)?
+- Wie werden Mitarbeiter und Subunternehmer über die strafrechtlichen Folgen einer Pflichtverletzung nach §§ 203, 204 StGB belehrt? Liegt der Normtext als Anlage zu den Mitarbeiterverträgen vor?
+
+#### Block 2 — Subunternehmer
+
+- Bitte legen Sie die aktuelle, abschließende Liste aller Subunternehmer (insbesondere Modellanbieter und Hoster) mit Sitz, Funktion und Verarbeitungsstandort vor.
+- Wie werden Subunternehmer vertraglich auf die Verschwiegenheit verpflichtet und über §§ 203, 204 StGB belehrt?
+- Welche Vorabinformations- und Zustimmungsrechte hat die Kanzlei bei Hinzunahme oder Wechsel von Subunternehmern?
+- Falls Microsoft Azure oder AWS oder Google Cloud zum Einsatz kommt: Welche Region wird genutzt? Wo liegen Backups?
+
+#### Block 3 — Erforderlichkeit, no training, Speicherdauer
+
+- Welche konkreten Datenkategorien werden bei der Nutzung Ihres Dienstes verarbeitet?
+- Werden eingegebene Daten zum Training Ihres Modells oder eines Drittmodells verwendet? Bitte vertragliche "no training"-Zusicherung mit Fundstelle.
+- Wie lange werden Eingaben gespeichert? Liegt eine Zero-Retention-Klausel vor?
+- Wie erfolgt die Löschung am Vertragsende? Erhalten wir ein Löschprotokoll?
+
+#### Block 4 — Strafprozessuale Absicherung
+
+- Wie verhält sich Ihr Haus bei behördlichen Auskunftsverlangen, Durchsuchungs- oder Beschlagnahmeanordnungen?
+- Werden Sie die Kanzlei unverzüglich vorab informieren (soweit gesetzlich zulässig)?
+- Werden Sie sich gegen unzulässige Beschlagnahmen mit Hinweis auf §§ 53a, 97 StPO zur Wehr setzen?
+- Gilt deutsches Recht? Ist der Gerichtsstand Deutschland?
+
+#### Block 5 — TOM und Zertifizierungen
+
+- Welche aktuellen Zertifikate liegen vor (ISO 27001, BSI C5 Typ 2, SOC 2 Typ 2)? Bitte Geltungsbereich, Zertifizierungsstelle und Ausstellungsdatum.
+- Wo werden Daten gespeichert (Verarbeitungsstandort und Backupstandort)?
+- Welche Verschlüsselung wird im Transport und im Ruhezustand eingesetzt?
+- Welche Audit-Logs werden geführt? Wie lange?
+- Welche Meldefrist gilt für Sicherheitsvorfälle?
+
+#### Block 6 — Drittstaaten und CLOUD Act
+
+- Sind Sie ein US-Konzern oder eine US-Tochter? Findet US-Recht (CLOUD Act, FISA) auf Ihre Daten Anwendung?
+- Liegen Daten oder Backups in Drittstaaten?
+- Sind Sie bereit, ein Professional Secrecy Addendum zu unterzeichnen, das US-Auskunftsverlangen anficht und uns informiert?
+
+### Fristsetzung und Hinweise
+
+- Konkrete Frist (typisch zwei bis vier Wochen)
+- Hinweis, dass ohne Klarstellung ein Vertragsschluss bzw. eine Fortsetzung berufsrechtlich nicht möglich ist
+- Hinweis auf Vertraulichkeit der Anfrage
+
+### Unterschrift
+
+- Name, Funktion (Partner, Compliance-Officer)
+- Berufsbezeichnung
+
+## Ton
+
+Sachlich, präzise, keine Anschuldigungen. Der Anbieter soll motiviert sein zu antworten. Die Kanzlei dokumentiert dadurch zugleich die Sorgfalt nach Abs. 2 der Dienstleisterregelung.
+
+## Disclaimer im Brief
+
+Der Brief ist eine berufsrechtliche und strafrechtliche Anfrage, keine zivilrechtliche Geltendmachung. Eine zivilrechtliche oder gar strafrechtliche Geltendmachung ist im Streitfall einem spezialisierten Rechtsanwalt vorbehalten.
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+
+- §§ 241 Abs. 2, 311 Abs. 2 BGB — Vorvertragliche Aufklärungspflichten
+- § 305b BGB — Vorrang der Individualabrede
+- § 126b BGB — Textform
+- § 43e Abs. 3 BRAO, § 62a Abs. 3 StBerG etc. — Vertragsinhalt der Dienstleisterregelung
+
+## Triage zu Beginn
+
+1. Welche Lücken hat die bisherige Vertragsprüfung ergeben (Ampel: gelb/rot)?
+2. Welche Fragen sind klärungsbedürftig (Subunternehmer, Training, Drittstaat)?
+3. Ist ein Fristdruck vorhanden (laufende Pilotprojekte, Vertragsbeginn)?
+4. Soll die Antwort des Anbieters als vertragliche Zusicherung eingestuft werden?
+
+## Output-Template — Rückfragebrief
+
+**Adressat:** KI-Anbieter — Tonfall: sachlich-präzise, fristsetzend
+
+```
+[KANZLEINAME]
+[ANSCHRIFT]
+[DATUM]
+
+An: [ANBIETER, RECHTSABTEILUNG / DATENSCHUTZTEAM]
+Betr.: Rückfrageverfahren berufsrechtliche Compliance — [PRODUKTNAME]
+Unser Aktenzeichen: [AZ]
+
+Sehr geehrte Damen und Herren,
+
+wir pruefen den Einsatz von [PRODUKT] in unserer Kanzlei im Hinblick auf die
+berufsrechtlichen Anforderungen nach § [NORM] [GESETZ] sowie §§ 203, 204 StGB.
+Dazu bitten wir um Beantwortung der folgenden Fragen bis zum [FRIST + 14 TAGE]:
+
+Frageblock 1 — Verschwiegenheit
+F1: Sind Ihre Mitarbeiter und alle Subunternehmer in Textform zur Verschwiegenheit
+ ueber alle von uns eingegebenen Daten verpflichtet?
+F2: Gilt diese Verpflichtung auch nach Vertragsende zeitlich unbegrenzt?
+
+Frageblock 2 — Subunternehmer
+F3: Welche Subunternehmer (Modellanbieter, Hoster, Support-Dienstleister) haben
+ Zugriff auf von uns eingegebene Daten?
+ Bitte vollstaendige Liste: Name, Sitz, Funktion, Verarbeitungsstandort.
+F4: Werden wir vor Wechsel oder Hinzunahme von Subunternehmern vorab in Textform
+ informiert?
+
+Frageblock 3 — Training und Drittstaat
+F5: Werden von uns eingegebene Daten zu Trainingszwecken genutzt?
+ (Auch aggregiert oder anonymisiert?)
+F6: Wo werden unsere Daten verarbeitet und gespeichert?
+ Werden US-Server oder US-Subunternehmer eingesetzt (CLOUD-Act-Risiko)?
+
+Wir bitten um Beantwortung in Textform.
+
+Mit freundlichen Gruessen
+[UNTERSCHRIFT]
+```
 
 ---
 
