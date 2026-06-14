@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 68 Skills des Plugins `verbraucherinsolvenz-schuldenbereinigung`.
+Dieser Megaprompt enthaelt top-10 von 69 Skills des Plugins `verbraucherinsolvenz-schuldenbereinigung`.
 
 ## Inhaltsverzeichnis
 

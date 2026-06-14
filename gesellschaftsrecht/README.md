@@ -150,7 +150,7 @@ Dein Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -243,6 +243,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `rechtsabteilung-gesellschafterliste` | Rechtsabteilungs-Fachmodul für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsop... |
 | `rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss` | Rechtsabteilungs-Fachmodul für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsop... |
 | `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9` | Rechtsabteilungs-Fachmodul für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schnel... |
+| `rechtsprechungsradar-gmbh-geschaeftsfuehrerabberufung` | Gesellschaftsrechtlicher Rechtsprechungsradar zur GmbH-Geschäftsführerabberufung, Weisungsbindung, Satzung, Stimmbindung und Registervollzug nach BGH II ZR 71/23. |
 | `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Beweislast, Darlegungslast und Substantiierung im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse un... |
 | `schriftliche-beschlussfassung` | Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und not... |
 | `tabellenpruefung-cap-table` | 'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt,... |

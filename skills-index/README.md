@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v320.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v321.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -40,10 +40,10 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [bundeswehrrecht-wehrrecht](./bundeswehrrecht-wehrrecht.md) (82 Skills)
 - [commercial-courts-deutschland](./commercial-courts-deutschland.md) (57 Skills)
 - [common-law-kompass](./common-law-kompass.md) (54 Skills)
-- [corporate-kanzlei](./corporate-kanzlei.md) (84 Skills)
+- [corporate-kanzlei](./corporate-kanzlei.md) (85 Skills)
 - [datenbankrecht](./datenbankrecht.md) (65 Skills)
 - [datenschutz-sanktionsverfahren-verteidigung](./datenschutz-sanktionsverfahren-verteidigung.md) (100 Skills)
-- [datenschutzrecht](./datenschutzrecht.md) (359 Skills)
+- [datenschutzrecht](./datenschutzrecht.md) (360 Skills)
 - [designrecht-geschmacksmusterrecht](./designrecht-geschmacksmusterrecht.md) (50 Skills)
 - [deutsche-rechtsgeschichte](./deutsche-rechtsgeschichte.md) (132 Skills)
 - [dfg-foerderantrag](./dfg-foerderantrag.md) (80 Skills)
@@ -90,7 +90,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [gebrauchsmusterrecht](./gebrauchsmusterrecht.md) (50 Skills)
 - [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (53 Skills)
 - [gesellschaftsgruender](./gesellschaftsgruender.md) (99 Skills)
-- [gesellschaftsrecht](./gesellschaftsrecht.md) (100 Skills)
+- [gesellschaftsrecht](./gesellschaftsrecht.md) (101 Skills)
 - [gesellschaftsrecht-legal-english](./gesellschaftsrecht-legal-english.md) (50 Skills)
 - [gesellschaftsrechtliche-treuepflicht](./gesellschaftsrechtliche-treuepflicht.md) (99 Skills)
 - [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (62 Skills)
@@ -160,7 +160,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (199 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (108 Skills)
 - [produktrecht](./produktrecht.md) (65 Skills)
-- [prozessrecht](./prozessrecht.md) (56 Skills)
+- [prozessrecht](./prozessrecht.md) (57 Skills)
 - [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (100 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (54 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (64 Skills)
@@ -199,7 +199,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [us-copyright-registrierung-verlag](./us-copyright-registrierung-verlag.md) (100 Skills)
 - [venture-capital-geber](./venture-capital-geber.md) (105 Skills)
 - [verbraucher-rechtsstaat-alltag](./verbraucher-rechtsstaat-alltag.md) (66 Skills)
-- [verbraucherinsolvenz-schuldenbereinigung](./verbraucherinsolvenz-schuldenbereinigung.md) (68 Skills)
+- [verbraucherinsolvenz-schuldenbereinigung](./verbraucherinsolvenz-schuldenbereinigung.md) (69 Skills)
 - [verbraucherschutzrecht-pruefer](./verbraucherschutzrecht-pruefer.md) (112 Skills)
 - [verbraucherschutzverband-durchsetzung](./verbraucherschutzverband-durchsetzung.md) (106 Skills)
 - [vereinsrecht-vereinsmanager](./vereinsrecht-vereinsmanager.md) (58 Skills)

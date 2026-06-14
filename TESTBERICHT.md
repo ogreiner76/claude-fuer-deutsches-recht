@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-14
-**Arbeitsstand:** v320.0.0 / Megaprompt- und Testakten-Sanity über v318 — Megaprompt-Generator repo-relativ gehärtet, 213 Megaprompts neu erzeugt, Testakten-Gesamt-PDFs und Testakten-Release-ZIPs erneut validiert. 213 Plugins, 20.835 Skills, 204 Testakten.
+**Arbeitsstand:** v321.0.0 / Megaprompt- und Testakten-Sanity über v318 — Megaprompt-Generator repo-relativ gehärtet, 213 Megaprompts neu erzeugt, Testakten-Gesamt-PDFs und Testakten-Release-ZIPs erneut validiert. 213 Plugins, 20.835 Skills, 204 Testakten.
 **Plugins gesamt:** 213
 **Skills gesamt:** 20835
 **Testakten gesamt:** 204 (zzgl. 2 Hilfsmaterial-Verzeichnisse: `formatvorlagen-paradebeispiele`, `megaprompts`)

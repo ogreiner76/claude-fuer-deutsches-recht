@@ -109,7 +109,7 @@ Wichtig: Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Ro
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -122,6 +122,7 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `billing-narratives` | Corporate Billing Narratives: Erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, Cap/Success-Fee-Hinweise und Matter-Controlling. Normen: RVG (wenn anwendbar), Stundenhonorar-Vereinbarung, BRAO § 49b. |
 | `board-paper-business` | Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage für Vorstand/Geschäftsführung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Prüfraster: Informationsgrundlage, Entscheidungsalter... |
 | `board-paper-closing-bible` | Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage für Vorstand/Geschäftsführung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Prüfraster: Informationsgrundlage, Entscheidungsalter... |
+| `board-paper-rechtsprechungsradar-gmbh-governance` | Corporate-Board-Paper-Skill für aktuelle GmbH-Governance-Rechtsprechung: Abberufung, Weisungen, Binnenpflichtverletzung, Registervollzug und Deal-Risiko nach BGH II ZR 71/23. |
 | `closing-bible-archiv` | Closing Bible und Deal-Archiv nach M&A-Closing erstellen: Mandant oder Partner benoetigt vollständige Vertragsdokumentation mit Signaturketten, Registerbelegen, Notarbestätigungen und Anlagen. Normen: SPA Deliverables-Checkliste, § 15 Gm... |
 | `conflict-gwg-datenqualitaet-xai` | Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Länderrisiken im Corporat... |
 | `conflict-gwg-sanctions` | Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Länderrisiken. |

@@ -224,7 +224,7 @@ datenschutzrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 359 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 360 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -556,6 +556,7 @@ Automatisch generierte Komplett-Liste aller 359 Skills in diesem Plugin. Beschre
 | `sanktion-zwischenverfahren-69-owig` | Datenschutzrecht-Brückenskill: Zwischenverfahren § 69 OWiG: Nach Einspruch Rücknahme, weitere Ermittlungen oder Vorlage über Staatsanwaltschaft an das Gericht taktisch nutzen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidi... |
 | `schadensersatz-art-82` | Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österre... |
 | `schnelltriage-risiko` | Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung. Behandelt: Vertraulichkeits-, Integritäts- und Verfügbarkeitsverletzung; Datenkategorien;... |
+| `schufa-zahlungsstoerungen-speicherfrist-bgh-2025` | Datenschutzrechtlicher Spezialskill zu SCHUFA-/Auskunftei-Speicherung erledigter Zahlungsstörungen nach BGH I ZR 97/25, EuGH C-26/22/C-64/22 sowie Art. 6 und 17 DSGVO. |
 | `sofortmassnahmen-checkliste` | Generiert eine priorisierte Sofortmaßnahmen-Checkliste innerhalb der ersten Stunden nach Bekanntwerden eines Datenschutzvorfalls. Behandelt: Eindämmung; Beweissicherung; Zugriffsbeschränkung; Passwort-Reset; Account-Sperrung; Netzwerkseg... |
 | `sozialdaten-sgb` | Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher. Behandelt: Sozialdatenbegriff § 67 SGB X; Sozialgeheimnis § 35 SGB I; Verhältnis... |
 | `spezialfaelle-uebersicht` | Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills. Behandelt: Ransomware; Insider-Threat; Fehlversand E-Mail/Brief; Endgeräteverlust; verlorener Datenträger; Cloud-Fehlk... |

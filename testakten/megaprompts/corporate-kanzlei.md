@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 84 Skills des Plugins `corporate-kanzlei`.
+Dieser Megaprompt enthaelt top-10 von 85 Skills des Plugins `corporate-kanzlei`.
 
 ## Inhaltsverzeichnis
 

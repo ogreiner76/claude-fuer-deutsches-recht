@@ -101,7 +101,7 @@ InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -142,6 +142,7 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `p-konto-sofortschutz` | P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung: Normanker: ZPO §§ 850k ff.; Pfändungssc... |
 | `planablehnung-und-naechster-schritt` | Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen: Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Do... |
 | `privatdarlehen-familie` | Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote: Normanker: InsO Forderungsanmeldung; BGB Darleh... |
+| `rechtsprechungsradar-nachtragsverteilung-schufa-neustart` | Verbraucherinsolvenz-Rechtsprechungsradar zu Restschuldbefreiung, Nachtragsverteilung, Steuererstattung und Auskunftei-Neustart: verbindet InsO, InsBekV, ZPO und DSGVO mit verifizierten BGH-/EuGH-Ankern. |
 | `red-team-antrag` | Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.; Normanker: InsO §§ 305 und 287 und 290 und 302; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbaustein... |
 | `red-team-obliegenheiten` | Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.; Normanker: InsO §§ 295 und 296 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Ve... |
 | `red-team-plan` | Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verb... |

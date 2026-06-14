@@ -112,7 +112,7 @@ Alle Ausgaben des Plugins sind **Entwürfe zur anwaltlichen Prüfung**. Das Plug
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -122,6 +122,7 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `anspruchstabelle-gegenseite-interessen` | Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk im Prozessrecht. |
 | `anwaltsgeheimnis-pruefung` | Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfer... |
 | `argumentationsverbesserung-red-team` | Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prüft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton im Prozessrecht. |
+| `bea-wiedereinsetzung-ersatzeinreichung-2026` | Prozessrechtlicher Spezialskill zu beA-Störung, Ersatzeinreichung, Wiedereinsetzung und Glaubhaftmachung nach aktueller BGH-Rechtsprechung 2025/2026. |
 | `beweissicherung-einstweilige-verfuegung` | Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf.... |
 | `chronologie` | Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253 138 ZPO. Prüfraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige Tatsachen. Output: Tabe... |
 | `dokumente-intake` | Dokumentenintake für Prozessrecht (ZPO/VwGO/StPO/SGG): sortiert Klageschrift, Klageerwiderung, Schriftsätze, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |

@@ -1,6 +1,6 @@
 # beamtenrecht
 
-**157 Skills** · Stand `v320.0.0`
+**157 Skills** · Stand `v321.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/beamtenrecht/README.md)

@@ -1,3 +1,21 @@
+# v321.0.0 — Rechtsprechungsanker-Sanity in Kernplugins
+
+Quick-Win-Release nach Sanity-Check wesentlicher Plugins: einzelne fachlich dünnere Kernbereiche wurden mit verifizierten, frei prüfbaren Rechtsprechungsankern nachgeschärft.
+
+## Rechtsprechungsanker
+
+- Verbraucherinsolvenz: Nachtragsverteilung/Neustart und SCHUFA-Löschungslogik mit aktueller BGH-/EuGH-Linie.
+- Datenschutzrecht: SCHUFA-Zahlungsstörungen, Speicherfristen und Löschungsstrategie nach EuGH/BGH präzisiert.
+- Gesellschaftsrecht und Corporate-Kanzlei: GmbH-Governance und Geschäftsführerabberufung mit BGH-Rechtsprechung als Board-/Mandatsradar ergänzt.
+- Prozessrecht: beA-Wiedereinsetzung und Ersatzeinreichung mit aktueller BGH-Linie zu technischer Störung und geschlossener Glaubhaftmachung geschärft.
+
+## Sanity
+
+- Skill- und Plugin-Übersichten sowie Megaprompts neu generiert.
+- Release-Validatoren und ZIP-Prüfungen erneut durchlaufen.
+
+---
+
 # v320.0.0 — Release-Sync nach aktuellem Main
 
 - Remote-Stand integriert, Versionen auf 320.0.0 gezogen.
