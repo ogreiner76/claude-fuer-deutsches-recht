@@ -1,3 +1,8 @@
+# v320.0.0 — Release-Sync nach aktuellem Main
+
+- Remote-Stand integriert, Versionen auf 320.0.0 gezogen.
+- Plugin-/Skill-Uebersichten, Megaprompts und Testakten-Release-Pruefungen erneut validiert.
+
 # v319.0.0 — Megaprompt-/Testakten-Sanity: Generator repo-relativ, Testakten erneut validiert
 
 Kleines Hardening-Release über v318 nach Sanity-Check der Megaprompts und Testakten. Keine fachlichen Skill-Inhalte umgebaut; Ziel ist robustere Reproduzierbarkeit.
