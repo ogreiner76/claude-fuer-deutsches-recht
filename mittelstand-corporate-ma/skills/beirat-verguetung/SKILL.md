@@ -1,56 +1,59 @@
 ---
 name: beirat-verguetung
-description: "GmbH-Beirat: Beirat Verguetung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma."
+description: "GmbH-Beirat im Mittelstand: Vergütung, Auslagen, D&O, Haftungsfreistellung, Interessenkonflikte, Drittvergleich, Beschlusszuständigkeit und steuer-/sozialversicherungsnahe Plausibilitätsprüfung."
 ---
 
-# Beirat Vergütung
+# Beirat: Vergütung, Auslagen, D&O Und Interessenkonflikte
 
-## Arbeitsweg
+## Wofür Dieser Skill Da Ist
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill prüft, ob ein GmbH-Beirat im Mittelstand Geld, Auslagenersatz, Sitzungsgelder, variable Vergütung, D&O-Schutz oder Haftungsfreistellung rechtssicher erhalten kann. Er trennt gesellschaftsrechtliche Beschlusszuständigkeit, Organähnlichkeit, Interessenkonflikt und praktische Dokumentation.
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Verguetung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Normenanker
 
-## Fachkern: Beirat Vergütung
-- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
-- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+- GmbHG § 45 Abs. 1: Satzungsautonomie als Grundlage für Beiratsordnung und Vergütungsregime.
+- GmbHG § 46 Nr. 5 und Nr. 6: Gesellschafterzuständigkeit für Organ-/Überwachungsfragen und Kontrollmaßnahmen.
+- GmbHG § 52 Abs. 1: Verweisungslogik bei fakultativem Aufsichtsrat; AktG-Vorschriften nicht schematisch, sondern nur bei entsprechender Ausgestaltung.
+- GmbHG § 43 Abs. 1 und 2: Geschäftsführerhaftung, wenn Zahlungen ohne Grundlage oder außerhalb des Gesellschaftsinteresses veranlasst werden.
+- GmbHG §§ 30, 31: Kapitalerhaltung bei Gesellschafter-/Nahestehenden-Zahlungen im Grenzbereich.
+- BGB §§ 611, 612, 675: dienstvertragliche Einordnung von Beiratsleistungen und Vergütungserwartung.
+- BGB §§ 134, 138, 181, 242: Gesetzesverstoß, Sittenwidrigkeit, Insichgeschäft, Treuepflicht und Missbrauchskontrolle.
+- AktG §§ 113, 114 nur als Vergleichs- und Vorsichtsanker, wenn der Beirat aufsichtsratsähnlich arbeitet.
 
-## Kaltstart-Fragen
+## Prüfung
 
-Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+1. **Grundlage prüfen:** Satzung, Beiratsordnung, Gesellschafterbeschluss, Dienstvertrag oder nur faktische Übung? Ohne tragfähige Grundlage keine automatische Vergütung.
+2. **Rolle einordnen:** Berater, Familienbeirat, Investorenbeirat, Sanierungsbeirat oder aufsichtsratsähnliches Kontrollorgan? Die Vergütung muss zur Funktion passen.
+3. **Beschlusszuständigkeit sichern:** Wer entscheidet über Höhe, Auslagen, D&O und Freistellung? Befangene Gesellschafter/Beiräte und § 181 BGB mitdenken.
+4. **Drittvergleich machen:** Sitzungsgeld, Pauschale, Stundensatz, Erfolgsbonus und Sonderberatung getrennt bewerten; bei Gesellschaftern und Angehörigen besonders sauber dokumentieren.
+5. **Variable Vergütung begrenzen:** Boni für Exit, Finanzierung, Sanierung oder EBITDA können Interessenkonflikte auslösen; Erfolgsvergütung nur mit klarer Bemessung, Cap und Compliance-Gate.
+6. **Auslagen und Sondermandate trennen:** Reisekosten, Spesen, externe Beratung, Projektarbeit und Beiratstätigkeit nicht in einer Pauschale vermischen.
+7. **D&O/Freistellung formulieren:** Deckungssumme, Selbstbehalt, Ausschlüsse, grobe Fahrlässigkeit/Vorsatz, Innenregress und Nachhaftung offen regeln.
+8. **Steuer-/SV-Plausibilität markieren:** Umsatzsteuer, Lohnsteuer, verdeckte Gewinnausschüttung und Sozialversicherung nicht final beraten, aber als Prüfauftrag sichtbar machen.
 
-1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
-2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
-3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
-4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
-5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+## Red Flags
 
-## Spezifische Prüfachse
+- Beiratsmitglied ist zugleich Gesellschafter, Berater, Bankvertreter, Investor oder Angehöriger und stimmt über eigene Vergütung mit.
+- Erfolgsbonus belohnt riskante Transaktion, obwohl der Beirat neutral kontrollieren soll.
+- D&O-Freistellung deckt vorsätzliches oder evident pflichtwidriges Verhalten.
+- Vergütung wird ohne Gesellschafterbeschluss aus Geschäftsführerkompetenz bezahlt.
+- Sonderberatung wird als Beiratspauschale versteckt.
+- In der Krise werden Beiratszahlungen fortgeführt, während Liquiditätsstatus, Zahlungsunfähigkeit oder Überschuldung ungeklärt sind.
 
-- Beiratshaftung nach Funktion, Organähnlichkeit, übernommenen Aufgaben und faktischer Einflussnahme prüfen.
-- Interessenkonflikte offenlegen, Stimmverbote/Enthaltungen regeln und Protokollspur schaffen.
-- Vergütung und D&O/Haftungsfreistellung nur mit transparenter Grundlage und Gesellschafterbeschluss.
+## Arbeitsprodukt
 
-## Arbeitsmodus
+Gib eine Vergütungsmatrix aus:
 
-1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
-2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
-3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
-4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
-5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+- Beiratsrolle
+- Rechtsgrundlage
+- Vergütungsart
+- Beschlusszuständigkeit
+- Konflikt-/Befangenheitsrisiko
+- Drittvergleich
+- Steuer-/SV-Hinweis
+- Formulierungsvorschlag
+- Protokollnotiz
 
 ## Quellenhygiene
 
-Arbeite primär mit: GmbHG §§ 37, 43, 46, 47, 48, 52, 53; BGB §§ 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG/DSGVO bei Vertraulichkeit und Datenzugriff.
-
-Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+Rechtsprechung nur verwenden, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.

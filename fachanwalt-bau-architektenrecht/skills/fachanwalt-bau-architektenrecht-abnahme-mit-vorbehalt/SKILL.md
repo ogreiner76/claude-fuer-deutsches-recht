@@ -327,6 +327,5 @@ wesentlichen Mängel möglich.
 - VOB/B § 12, § 13 Nr. 4–5
 - BGH VII ZR 49/15 (25.02.2016), BGH VII ZR 25/13 (30.04.2014), BGH VII ZR 46/17 (22.02.2018) — verifiziert dejure.org
 - Vor Verwendung weiterer Rechtsprechung: dejure.org / bundesgerichtshof.de Verifikation
-- Werner/Pastor, Der Bauprozess, 16. Aufl.
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
+- Keine Kommentar- oder Handbuchfundstellen aus Modellwissen als Beleg verwenden; tragende Aussage nur mit frei prüfbarer Norm, Behördenquelle oder Gerichtsentscheidung ausgeben.
 - Stand: 05/2026

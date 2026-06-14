@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v323.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v324.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -116,7 +116,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [internal-investigations-praxis](./internal-investigations-praxis.md) (109 Skills)
 - [internationales-handelsrecht-lex-mercatoria](./internationales-handelsrecht-lex-mercatoria.md) (192 Skills)
 - [jurastudium](./jurastudium.md) (58 Skills)
-- [juristische-sprache-deutsch-als-zweitsprache](./juristische-sprache-deutsch-als-zweitsprache.md) (54 Skills)
+- [juristische-sprache-deutsch-als-zweitsprache](./juristische-sprache-deutsch-als-zweitsprache.md) (55 Skills)
 - [jveg-kostenpruefer](./jveg-kostenpruefer.md) (60 Skills)
 - [kanzlei-allgemein](./kanzlei-allgemein.md) (51 Skills)
 - [kanzlei-builder-hub](./kanzlei-builder-hub.md) (58 Skills)

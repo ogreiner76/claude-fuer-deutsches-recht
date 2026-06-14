@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **25638 Skills** in **213 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **25639 Skills** in **213 Plugins**.
 
-Stand: `v323.0.0`.
+Stand: `v324.0.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25638 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25639 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -150,7 +150,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **internal-investigations-praxis** | 109 | [Skills ansehen](skills-index/internal-investigations-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internal-investigations-praxis.zip) |
 | **internationales-handelsrecht-lex-mercatoria** | 192 | [Skills ansehen](skills-index/internationales-handelsrecht-lex-mercatoria.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria.zip) |
 | **jurastudium** | 58 | [Skills ansehen](skills-index/jurastudium.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jurastudium.zip) |
-| **juristische-sprache-deutsch-als-zweitsprache** | 54 | [Skills ansehen](skills-index/juristische-sprache-deutsch-als-zweitsprache.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache.zip) |
+| **juristische-sprache-deutsch-als-zweitsprache** | 55 | [Skills ansehen](skills-index/juristische-sprache-deutsch-als-zweitsprache.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache.zip) |
 | **jveg-kostenpruefer** | 60 | [Skills ansehen](skills-index/jveg-kostenpruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer.zip) |
 | **kanzlei-allgemein** | 51 | [Skills ansehen](skills-index/kanzlei-allgemein.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-allgemein.zip) |
 | **kanzlei-builder-hub** | 58 | [Skills ansehen](skills-index/kanzlei-builder-hub.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-builder-hub.zip) |

@@ -45,7 +45,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle. 
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -68,6 +68,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `dolmetscher-und-uebersetzung` | Hilft bei Dolmetscher Und Übersetzung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache D... |
 | `eigene-worte-email-an` | Hilft bei Eigene Worte Zu Formalem Deutsch für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Spra... |
 | `email-an-anwalt` | Hilft bei Email An Anwalt für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Z... |
+| `email-an-behoerde-verstehen-und-schreiben` | E-Mail an Behörde in verständlichem Deutsch: Bescheid, Anhörung, Antrag, Nachfrage, Widerspruchsankündigung oder Fristbitte erkennen, keine ungewollten Zugeständnisse machen und eine höfliche, klare Behördenmail formulieren. |
 | `email-an-familienrecht-warnwoerter` | Hilft bei Email An Behörde für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als... |
 | `familienrecht-warnwoerter` | Hilft bei Familienrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deu... |
 | `formales-einfach-ausfuellen-hilfe` | Hilft bei Formales Deutsch Zu Einfach für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache D... |

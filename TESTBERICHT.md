@@ -1,12 +1,14 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-14
-**Arbeitsstand:** v323.0.0 / Zweite Salvage-Schleife aus dem alten Haupt-Worktree — 203 zusaetzliche Referenz-, Werkzeug- und Aktenstueck-Dateien uebernommen, 26 Gesamt-PDFs neu gebaut; v322-Skill-Salvage bleibt enthalten. 213 Plugins, 25638 Skills, 204 Testakten.
+**Arbeitsstand:** v324.0.0 / Dritte Salvage-Pruefschleife aus dem alten Haupt-Worktree-Inventar — Skill- und Non-Skill-Salvage aus v322/v323 verifiziert, vier fachliche Konfliktkandidaten redaktionell geprüft, 213 Plugins, 25639 Skills, 204 Testakten.
 **Plugins gesamt:** 213
-**Skills gesamt:** 25641
+**Skills gesamt:** 25639
 **Testakten gesamt:** 204 (zzgl. 2 Hilfsmaterial-Verzeichnisse: `formatvorlagen-paradebeispiele`, `megaprompts`)
 
 ## Kurzbefund
+
+Dritte Salvage-Schleife: Die Inventare des alten Haupt-Worktrees wurden gegen den frischen main abgeglichen. 4.946 Skill-Salvage-Aktionen sind nachvollzogen; 203 zusätzlich gerettete Non-Skill-Dateien sind vorhanden. Nicht erneut eingeführt wurden nur geschützte Arbeitszeugnis-Zusätze und alte generische `allgemein`-Kollisionen. Vier fachliche Konfliktkandidaten wurden geprüft; der Mittelstands-Beirat und die Behördenmail für Deutsch als Zweitsprache wurden gezielt nachgeschärft.
 
 Das Repository ist nach dem v311-Pflege-Release stabil und uploadfähig. Der seit v306 schwelende Workflow-Failure (Hilfsmaterial-Ordner in `testakten/` ohne `gesamt-pdf`) ist behoben. Der `verhaeltnismaessigkeitspruefer` ist auf 85 Skills gewachsen; in zwei thematischen Wellen kamen je 5 Skills hinzu (Art. 3 GG / AGG und Drittwirkung der Grundrechte). Welle 2 und Welle 3 haben gemeinsam die Umlaut- und Komposita-Stamm-Hygiene über das gesamte Repo gezogen.
 
@@ -17,7 +19,7 @@ Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: P
 | Kennzahl | Wert |
 |---|---:|
 | Plugin-Manifests | 213 |
-| Skill-Dateien `SKILL.md` | 25641 |
+| Skill-Dateien `SKILL.md` | 25639 |
 | Testakten-Verzeichnisse | 204 |
 | Testakten mit Gesamt-PDF nach Validator | 204 |
 | Skills im `verhaeltnismaessigkeitspruefer` | 85 |

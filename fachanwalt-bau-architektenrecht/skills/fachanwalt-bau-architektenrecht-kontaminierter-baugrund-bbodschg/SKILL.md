@@ -333,8 +333,7 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 - NachwV (Nachweisverordnung Gefahrenabfall)
 - KrWG §§ 3, 28
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Werner/Pastor, Der Bauprozess, 16. Aufl.
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
+- Keine Kommentar- oder Handbuchfundstellen aus Modellwissen als Beleg verwenden; tragende Aussage nur mit frei prüfbarer Norm, Behördenquelle oder Gerichtsentscheidung ausgeben.
 - Stand: 05/2026; PFAS-Regulierung im Wandel (TFA, GenX), bei Neuregelung EU-Trinkwasserrichtlinie aktualisieren
 
 <!-- AUDIT 27.05.2026: BGH VII ZR 184/97 (14.11.2002) WRONG_TOPIC – tatsächlich Luftschallschutz-Urteil vom 14.05.1998. Ersetzt durch BGH VII ZR 205/07 (20.08.2009), BGHZ 182, 158, verifiziert auf dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.08.2009&Aktenzeichen=VII+ZR+205%2F07). Ebenso Quellen-Verweis auf VII ZR 235/04 durch VII ZR 205/07 ersetzt (VII ZR 235/04 nicht auf dejure auffindbar). -->
