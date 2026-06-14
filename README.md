@@ -34,9 +34,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 |---|---|
 | **Plugins** | 213 |
 | **Skills (SKILL.md)** | 25639 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 204 |
+| **Testakten** | 206 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v324.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v325.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -48,6 +48,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Testakten-ZIPs, Marketplace-Manifest und Übersichtsdateien in einem Archiv. |
 | **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
 | **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite aller praxistauglichen Skills als Mega-Prompts — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
+| **Alphabetischer Mega-Prompt-Index** | [testakten/megaprompts/README.md](./testakten/megaprompts/README.md) | Alle 213 Mega-Prompt-Markdowns alphabetisch nach Plugin-Slug, direkt anklickbar und separat im Release-ZIP `testakte-megaprompts.zip` enthalten. |
 
 ### Inhaltliche Cluster
 
@@ -249,7 +250,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fachanwalt-bank-kapitalmarktrecht`](./fachanwalt-bank-kapitalmarktrecht) | Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit, Bürgschaft, Aval, Bankgarantie, Vermögensanlage und Beratungshaftung. |
 | [`fachanwalt-bau-architektenrecht`](./fachanwalt-bau-architektenrecht) | Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein. |
 | [`fachanwalt-erbrecht`](./fachanwalt-erbrecht) | Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein. |
-| [`kindeswohlgefaehrdung-eilantrag`](./fachanwalt-familienrecht) | Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein. |
+| [`fachanwalt-familienrecht`](./fachanwalt-familienrecht) | Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein. |
 | [`fachanwalt-gewerblicher-rechtsschutz`](./fachanwalt-gewerblicher-rechtsschutz) | Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz. |
 | [`fachanwalt-handels-gesellschaftsrecht`](./fachanwalt-handels-gesellschaftsrecht) | Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein. |
 | [`fachanwalt-insolvenz-sanierungsrecht`](./fachanwalt-insolvenz-sanierungsrecht) | Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater. |
@@ -322,8 +323,8 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`krisenfrueherkennung-starug`](./krisenfrueherkennung-starug) | Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung. |
 | [`leasingrecht-praxis`](./leasingrecht-praxis) | Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten, IT-Leasing, Insolvenz, Restwert, Sicherheiten und Vertragsgestaltung. |
 | [`legistik-werkstatt`](./legistik-werkstatt) | Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden. |
-| [`lizenzvertragsersteller`](./lizenzvertragsersteller) | Baukastensystem für IP-Lizenzverträge nach deutschem, europäischem und internationalem Recht: Urheberrecht, Software, Patent, Marke, Design, Gebrauchsmuster, Geschäftsgeheimnis, Know-how, Escrow, TT-GVO, DSGVO, Exportkontrolle, Quellensteuer und fertige DE/EN-Vertragsentwürfe. |
 | [`liquiditaetsplanung`](./liquiditaetsplanung) | Liquiditaetsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Luecken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation. |
+| [`lizenzvertragsersteller`](./lizenzvertragsersteller) | Baukastensystem für IP-Lizenzverträge nach deutschem, europäischem und internationalem Recht: Urheberrecht, Software, Patent, Marke, Design, Gebrauchsmuster, Geschäftsgeheimnis, Know-how, Escrow, TT-GVO, DSGVO, Exportkontrolle, Quellensteuer und fertige DE/EN-Vertragsentwürfe. |
 | [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG. |
 | [`luftrecht-flughafenrecht`](./luftrecht-flughafenrecht) | Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance. |
 | [`mandantenanfragen-assistent`](./mandantenanfragen-assistent) | Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt foermlich übernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an. |
@@ -484,7 +485,7 @@ Wenn Nutzerinnen und Nutzer auf dem Mac scheitern, liegt es häufig an der herun
 - `alle-plugins-megazip.zip` ist nur ein Sammelarchiv. Es muss zuerst entpackt werden; anschließend die darin enthaltenen Plugin-ZIPs einzeln hochladen.
 - Nicht das GitHub-Repository-ZIP aus **Code → Download ZIP** verwenden. Das ist Quellcode, kein direkt installierbares Plugin-ZIP.
 - Bei iCloud-Desktop/Downloads die ZIP erst lokal vollständig laden. Im Zweifel nach `~/Downloads/claude-plugins/` verschieben und dann aus diesem lokalen Ordner auswählen.
-- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 212 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
+- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 213 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
 - Technischer Check im Terminal:
 
 ```bash
@@ -524,7 +525,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Steuerrecht und Förderung** – `steuerrecht-anwalt-und-berater` (Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix, Signing/Closing, Steuerberater-Werkzeuge), `berichtspflichten-erlediger`, `forschungszulage-antragstellung`, `dfg-foerderantrag`
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafanzeige-vorbereiter`, `strafbefehl-verteidiger`, `strafzumessung`, `verkehrsowi-verteidiger`
 - **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `verhaeltnismaessigkeitspruefer`, `versammlungsrecht`, `wahlkampfrecht-praxis`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `normenkontrollrat-nkr`, `fachanwalt-vergaberecht`
-- **Familien-, Erb-, Sozial- & Betreuungsrecht** – `kindeswohlgefaehrdung-eilantrag` (Düsseldorfer Tabelle), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `rentenpruefer`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
+- **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle, Sorge, Umgang, Unterhalt), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `rentenpruefer`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
 - **Miet- & Immobilienrecht** – `mietrecht`, `weg-hausverwaltung`, `nachbarschaftsstreit-pruefer`, `fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`
 - **Gewerblicher Rechtsschutz & Medien** – `gewerblicher-rechtsschutz` (Markenanmeldung DPMA, UWG-Abmahnung), `fachanwalt-gewerblicher-rechtsschutz`, `fachanwalt-urheber-medienrecht` (Gegendarstellung), `patentrecht`, `patentrecherche`, `gebrauchsmusterrecht`, `designrecht-geschmacksmusterrecht`, `markenrecht-fashion-luxus` (DPMA/EUIPO/WIPO/USPTO, Markenarten, Klassen, Benutzung, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen, Luxus-Fashion und US-Trade-Dress), `fashion-law-moderecht` (Mode-Lifecycle, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen und Retail)
 - **Insolvenz, Sanierung und Krisenmanagement (erweitert)** – `krisenfrueherkennung-starug` (§ 1 StaRUG mit Vier-und-zwanzig-Monats-Horizont, § 102 StaRUG-Warnpflicht, Restrukturierungsplan, Stabilisierungsanordnung, Cross-Class-Cram-Down), ergänzt durch `insolvenzplan-starug-planwerkstatt` und `fachanwalt-insolvenz-sanierungsrecht`
@@ -687,3 +688,11 @@ Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-
 ## Mitwirken
 
 Beiträge willkommen – siehe [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+## English Summary
+
+This repository provides a large German-law plugin and skill collection for Claude, Codex and similar AI workflows. The plugins are structured as practical legal workbenches: they help read messy files, build checklists, draft letters and pleadings, review contracts, prepare tables, track deadlines and keep legal reasoning tied to statutes and verifiable case law.
+
+The focus is German legal practice: civil law, labour law, tax, insolvency, corporate, tenancy and WEG, family, inheritance, social law, public law, criminal defence, data protection, AI governance and many specialist business-law areas. Test case files are available separately as realistic document bundles and searchable Gesamt-PDFs.
+
+The material is experimental and does not replace legal advice. Every output must be checked by a qualified human against current statutes, official materials and independently verifiable court decisions. Do not upload confidential client data unless your provider setup, professional duties and data-protection framework allow it.

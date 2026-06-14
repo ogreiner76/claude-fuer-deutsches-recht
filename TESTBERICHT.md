@@ -1,10 +1,10 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-14
-**Arbeitsstand:** v324.0.0 / Dritte Salvage-Pruefschleife aus dem alten Haupt-Worktree-Inventar — Skill- und Non-Skill-Salvage aus v322/v323 verifiziert, vier fachliche Konfliktkandidaten redaktionell geprüft, 213 Plugins, 25639 Skills, 204 Testakten.
+**Arbeitsstand:** v325.0.0 / README-, Listen- und Release-Sanity: 213 Plugins, 25639 Skills, 206 Testakten, alphabetische Hauptuebersichten und synchronisierte Download-Indizes.
 **Plugins gesamt:** 213
 **Skills gesamt:** 25639
-**Testakten gesamt:** 204 (zzgl. 2 Hilfsmaterial-Verzeichnisse: `formatvorlagen-paradebeispiele`, `megaprompts`)
+**Testakten gesamt:** 206 (inkl. Hilfsmaterial-Verzeichnisse `formatvorlagen-paradebeispiele` und `megaprompts`)
 
 ## Kurzbefund
 

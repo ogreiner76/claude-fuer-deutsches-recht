@@ -61,7 +61,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 | [Migrationsrecht](#migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
 | [Sozialrecht](#sozialrecht) | 3 |  |  |
 
-**208 kuratierte Praxis-Plugins** in 33 Kategorien (von **212** Repo-Plugins insgesamt). Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md). Bewusst nicht aufgenommen sind rein historische oder exotische Spezial-Plugins, die zwar im Repo liegen, aber nicht als allgemeine Praxis-Promptliste gedacht sind.
+**209 kuratierte Praxis-Plugins** in 33 Kategorien (von **213** Repo-Plugins insgesamt). Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md). Bewusst nicht aufgenommen sind rein historische oder exotische Spezial-Plugins, die zwar im Repo liegen, aber nicht als allgemeine Praxis-Promptliste gedacht sind.
 
 ---
 
