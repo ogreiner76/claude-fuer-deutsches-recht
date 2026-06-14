@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-vergaberecht",
-  "version": "325.0.0",
-  "description": "Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge, Nachpruefung, TED/eForms, Wettbewerbsregister und Foerdermittel.",
+  "version": "326.0.0",
+  "description": "Plugin Fachanwalt für Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge, Nachpruefung, TED/eForms, Wettbewerbsregister und Foerdermittel.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
