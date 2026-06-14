@@ -1,6 +1,6 @@
 # Eval-Results
 
-Stand: 2026-06-14T09:08:54Z
+Stand: 2026-06-14T20:33:09Z
 
 - Testakten gesamt: **206**
 - mit Rubric: **204**
@@ -214,3 +214,4 @@ Stand: 2026-06-14T09:08:54Z
 | `zwangsverwaltung-zvg-mietshaus-parkstrasse` | PASS | 3 | 0 | 1 |
 | `zwangsverwaltung-zvg-versteigerung-eppendorf-altbau` | PASS | 3 | 0 | 1 |
 | `zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde` | PASS | 3 | 0 | 1 |
+

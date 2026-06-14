@@ -1,3 +1,52 @@
+# v326.0.0 — Schlussgang: ASCII-Umlaute in plugin.json- und marketplace.json-Descriptions
+
+Im Anschluss an die Codex-Releases v320 bis v325 (Worktree-Salvage, Skill-Qualitätssanierung, Megaprompt-Sanity, Listings-Härtung) hat dieser Schlussgang einen verbleibenden Umlaut-Hygienemangel adressiert.
+
+## Was
+
+In 17 Plugins enthielt das `description`-Feld der `plugin.json` und damit gespiegelt die `.claude-plugin/marketplace.json` noch ASCII-Ersatzschreibungen wie `fuer`, `ueber`, `moeglich`, `Vertraege` etc. — vor allem in der ersten Zeile, die im Marketplace und in Plugin-Listen unmittelbar sichtbar ist.
+
+Betroffene Plugins (alphabetisch):
+
+1. `anlagen-zu-schriftsaetzen`
+2. `arbeitsrecht`
+3. `fachanwalt-strafrecht`
+4. `fachanwalt-vergaberecht`
+5. `fluggastrechte`
+6. `gesellschaftsrecht-legal-english`
+7. `immobilienrechtspraxis`
+8. `internal-investigations-praxis`
+9. `juristische-sprache-deutsch-als-zweitsprache`
+10. `lizenzvertragsersteller`
+11. `normenkontrollrat-nkr`
+12. `rechtstheorie-rechtsphilosophie`
+13. `urheberrecht-de-eu`
+14. `us-copyright-registrierung-verlag`
+15. `verlagsredaktion`
+16. `wahlkampfrecht-praxis`
+17. `weg-hausverwaltung`
+
+Skriptbasierte Ersetzung mit konservativer Wortliste (`fuer → für`, `ueber → über`, `moeglich → möglich`, `Vertraege → Verträge`, `Verhaeltnismaessigkeit → Verhältnismäßigkeit`, …), wortgrenzenstrikt. `marketplace.json` synchron mitgezogen; kein Drift mehr zwischen Plugin-eigener `plugin.json` und Marketplace-Aggregat.
+
+## Sanity-Bilanz nach Schlussgang
+
+| Bereich | Stand |
+|---|---|
+| Plugins | 213 |
+| Skills | 25.639 (Stand nach Codex-Salvage v322/v323) |
+| Megaprompts | 213 (alle Plugins) |
+| Plugin-READMEs mit Megaprompt-Block | 213/213 |
+| Plugin-READMEs mit Sofort-Downloads-Block | 213/213 |
+| Testakten | 206 gelistet, 204 mit Rubric, 204 mit Gesamt-PDF (1:1) |
+| Formatvorlagen | 22 |
+| Eval-Harness | 204/204 All-Pass, 0 Fail |
+| `validate-plugin-structure.mjs` | OK |
+| `validate-yaml-frontmatter.py` | 0 Fehler, 0 Warnungen |
+| ASCII-Ersatz in `plugin.json` `description` | 0 (von vorher 17) |
+| Versions-Stand durchgängig | v326.0.0 |
+
+---
+
 # v323.0.0 — Zweite Haupt-Worktree-Salvage: Referenzen, Werkzeuge und Testakten nachgezogen
 
 - 203 echte Nicht-Skill-Dateien aus dem alten lokalen Haupt-Worktree übernommen: Referenzmaterial, kleine Werkzeuge, Setup-Hinweise und zusätzliche Aktenstücke.
