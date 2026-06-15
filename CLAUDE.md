@@ -89,11 +89,11 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jede Vorlage, jeden V
 - Merges erfolgen per Merge-Commit (kein Squash, kein Rebase), damit die Entwicklungs-History pro Branch erhalten bleibt.
 - Force-Push auf `main` oder gemeinsame Branches ist verboten.
 - **Codex-Review verbindlich anstoßen — nicht blockierend.** Der Workflow je PR ist exakt:
-  1. PR erzeugen (`mcp__github__create_pull_request`). Standard ist `draft: false`; wenn der Nutzer ausdrücklich einen Draft oder eine Review-Pause gefordert hat (siehe Ausnahme im ersten Punkt dieses Abschnitts), wird `draft: true` gesetzt und der PR bleibt offen.
-  2. Direkt im Anschluss einen Kommentar mit dem Inhalt `@codex review` posten (`mcp__github__add_issue_comment`). Dieser Schritt erfolgt **auch bei Draft-/Review-Pause-PRs**, damit Codex parallel im Hintergrund prüft.
-  3. **Sofort** mergen (`mcp__github__merge_pull_request`, `merge_method: merge`) — **nicht** auf Codex' Antwort warten. **Ausnahme:** Bei einem vom Nutzer ausdrücklich gewünschten Draft oder einer Review-Pause wird hier nicht gemerged, sondern auf die Freigabe des Nutzers gewartet.
+  1. PR erzeugen (`mcp__github__create_pull_request`). Standard ist `draft: false`. **`draft: true` nur dann**, wenn der Nutzer ausdrücklich einen Draft gefordert hat. Eine reine Review-Pause-Anweisung des Nutzers ändert den Draft-Status **nicht** — der PR bleibt `ready`.
+  2. Direkt im Anschluss einen Kommentar mit dem Inhalt `@codex review` posten (`mcp__github__add_issue_comment`). Dieser Schritt erfolgt sofort bei jedem `ready`-PR (also auch bei Review-Pause-PRs). Bei einem echten Draft-PR wird der Kommentar erst gepostet, sobald der PR auf `ready` gesetzt wird.
+  3. **Sofort** mergen (`mcp__github__merge_pull_request`, `merge_method: merge`) — **nicht** auf Codex' Antwort warten. **Ausnahme:** Bei einem vom Nutzer ausdrücklich gewünschten Draft **oder** einer Review-Pause wird hier nicht gemerged, sondern auf die Freigabe des Nutzers gewartet.
 
-  Codex läuft im Hintergrund weiter und kommentiert später. Etwaige Findings werden — falls überhaupt nötig — in einem Folge-PR adressiert. Ziel ist eine durchgehende Audit-Spur ohne dass der Workflow blockiert wird. Diese Regel gilt für jeden PR unabhängig vom erzeugenden Werkzeug (Claude, Perplexity, Codex oder andere); die Draft-/Review-Pause-Ausnahme aus dem ersten Punkt dieses Abschnitts bleibt unberührt.
+  Codex läuft im Hintergrund weiter und kommentiert später. Etwaige Findings werden — falls überhaupt nötig — in einem Folge-PR adressiert. Ziel ist eine durchgehende Audit-Spur ohne dass der Workflow blockiert wird. Diese Regel gilt für jeden PR unabhängig vom erzeugenden Werkzeug (Claude, Perplexity, Codex oder andere); die Draft- und Review-Pause-Ausnahmen aus dem ersten Punkt dieses Abschnitts bleiben unberührt.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
